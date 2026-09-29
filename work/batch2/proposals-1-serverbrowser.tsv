@@ -1,0 +1,125 @@
+ALERT	ATENCIÓN
+CONNECTING	CONECTANDO
+CONNECTING_TO	Conectando a
+CONNECTION_DISALLOWED	El servidor rechazó tu conexión. Puede ser porque está lleno o porque estás baneado.	FIX	Missing accents (esta/estas) and final period.
+FAVORITES	Favoritos
+FILTER_UNLIMTED	Ilimitado
+HISTORY	Historial	FIX	Was "Historia" (story/history); the list of recently joined servers is "historial", as in SERVERBROWSER_HISTORY.
+JOIN	CONECTAR
+NEVER_SHOW_AGAIN	No volver a mostrar
+PASSWORD	CONTRASEÑA
+QUICK_PLAY_STATUS_REFRESHING	Actualizando la lista de servidores
+QUICK_PLAY_STATUS_CHECKING	Se encontraron %{count}d servidores disponibles
+QUICK_PLAY_STATUS_FAILED_RETRYING	Falló. Reintentando... (intento %{attempts}s)
+QUICK_PLAY_STATUS_JOINING	Conectando al servidor %{serverName}s
+ROOKIEONLYNAG_MSG	¡Este es un servidor de entrenamiento básico (solo para novatos)!\nPuedes ser espectador, pero no podrás unirte a un equipo.		Glossary: Bootcamp = entrenamiento básico, rookie = novato.
+SB_ASSISTS	A		Scoreboard column: K/D/A kept as in most shooters.
+SB_CLICK_FOR_MOUSE	Haz click para usar el mouse	FIX	Was "Click para cursor"; style guide: "haz click", "mouse".
+SB_CONNECTING	Conectando
+SB_DEATHS	D
+SB_KILLS	K
+SB_MENU_HIVE_PROFILE	Perfil de Hive		"Hive" here is NS2's player-stats site, not the alien structure.
+SB_MENU_MUTE_TEXT	Silenciar texto
+SB_MENU_MUTE_VOICE	Silenciar voz
+SB_MENU_STEAM_PROFILE	Perfil de Steam
+SB_MENU_UNMUTE_TEXT	Reactivar texto
+SB_MENU_UNMUTE_VOICE	Reactivar voz
+SB_PING	Ping
+SB_PLAYER	Jugador
+SB_PLAYERS	Jugadores
+SB_SCORE	Puntos
+SB_SERVERCOUNT	Servidores seleccionados / Servidores disponibles
+SB_TEAM_RES	%d recursos de equipo
+SERVERBROWSER_BLOCKED_SERVERS	SERVIDORES BLOQUEADOS
+SERVERBROWSER_BLOCKED_SERVERS_HIDE	OCULTAR
+SERVERBROWSER_BLOCKED_SERVERS_SHOW	MOSTRAR
+SERVERBROWSER_BLOCKED_SERVERS_LIST_ALL	SOLO BLOQUEADOS		"Exclusive" = show only the blocked servers.
+SERVERBROWSER_BLOCKED_SERVERS_TOOLTIP	Los servidores bloqueados no se tienen en cuenta en Partida rápida. Elige aquí si quieres mostrar, ocultar o mostrar solo los servidores que bloqueaste.
+SERVERBROWSER_BLOCKED_SERVERS_SORT_TOOLTIP	Ordena los servidores según estén bloqueados o no. Los servidores bloqueados no se tienen en cuenta en Partida rápida.
+SERVERBROWSER_BLOCKED_TOOLTIP_1	Desbloquear este servidor
+SERVERBROWSER_BLOCKED_TOOLTIP_2	Bloquear este servidor. Los servidores bloqueados no se tienen en cuenta en Partida rápida y se pueden ocultar del buscador de servidores.
+SERVERBROWSER_CREATE_GAME_MODE	MODO DE JUEGO
+SERVERBROWSER_DETAILS_TOOLTIP	Mostrar u ocultar los detalles de este servidor.
+SERVERBROWSER_FAVORITE	FAVORITO
+SERVERBROWSER_FAVORITES	FAVORITOS
+SERVERBROWSER_FAVORITES_SORT_TOOLTIP	Ordena los servidores según los hayas marcado como favoritos o no.
+SERVERBROWSER_FAVORITE_TOOLTIP_1	Quitar este servidor de tus favoritos.
+SERVERBROWSER_FAVORITE_TOOLTIP_2	Agregar este servidor a tus favoritos.
+SERVERBROWSER_FILTER_BOOTCAMP_TOOLTIP	Muestra servidores en los que solo pueden jugar novatos (los demás pueden ser espectadores si hay lugar).
+SERVERBROWSER_FILTER_EMPTY	OCULTAR VACÍOS	FIX	Missing accent (VACIOS).
+SERVERBROWSER_FILTER_FULL	OCULTAR LLENOS
+SERVERBROWSER_FILTER_GAMEMODE_ALL	TODOS
+SERVERBROWSER_FILTER_FRIENDS_ON_SERVER	JUGAR CON AMIGOS
+SERVERBROWSER_FILTER_FRIENDS_ON_SERVER_TOOLTIP	Muestra solo servidores en los que están jugando tus amigos.
+SERVERBROWSER_FILTER_UNRANKED_TOOLTIP	Muestra los servidores no clasificatorios	FIX	The current line is an old English text, never translated. CHECK the ranked/unranked terms (see SERVERBROWSER_RANKED).
+SERVERBROWSER_FILTERS	FILTROS
+SERVERBROWSER_FRIEND_TOOLTIP	Uno o más de tus amigos de Steam están jugando en este servidor.
+SERVERBROWSER_GAME	JUEGO
+SERVERBROWSER_GAME_MODE_SORT_TOOLTIP	Ordena los servidores por el nombre del modo de juego.
+SERVERBROWSER_GAMEMODE_ALL_HIDDEN_TT	¡No hay ningún modo de juego seleccionado!
+SERVERBROWSER_GAMEMODE_TOOLTIP	Elige un modo de juego	FIX	Was "Selecciona un gamemode" (English word).
+SERVERBROWSER_HISTORY	HISTORIAL
+SERVERBROWSER_MAPNAME	NOMBRE DEL MAPA
+SERVERBROWSER_MAXPING	PING MÁXIMO
+SERVERBROWSER_NAME	NOMBRE
+SERVERBROWSER_PASSWORD	CONTRASEÑA
+SERVERBROWSER_PASSWORDED	CON CONTRASEÑA
+SERVERBROWSER_PASSWORDED_FILTER_TOOLTIP	Muestra los servidores que piden contraseña para unirse.
+SERVERBROWSER_PASSWORD_INCORRECT_TOOLTIP	La contraseña es incorrecta.
+SERVERBROWSER_PASSWORD_MISSING_TOOLTIP	Este servidor requiere contraseña.
+SERVERBROWSER_PASSWORD_TOOLTIP	Este servidor requiere contraseña para unirse.
+SERVERBROWSER_PASSWORD_SORT_TOOLTIP	Ordena los servidores según requieran contraseña o no.
+SERVERBROWSER_PERF	REND.
+SERVERBROWSER_PERF_MIN	REND. MÍNIMO
+SERVERBROWSER_PERF_MIN_TOOLTIP	Muestra solo servidores con una calificación de rendimiento igual o mejor que esta.
+SERVERBROWSER_PING	PING
+SERVERBROWSER_PING_TOOLTIP	Muestra solo servidores con un ping menor o igual a este valor. El ping (latencia, lag) es el tiempo que tarda la información en llegar al servidor y volver a ti. Cuanto menor, mejor.
+SERVERBROWSER_PLAYERCOUNT	¡Personas jugando NS2 en este momento!
+SERVERBROWSER_PLAYER_SLOTS_TOOLTIP	Lugares de jugador ocupados del total disponible.
+SERVERBROWSER_PLAYERS	JUGADORES
+SERVERBROWSER_PLAYERS_SEARCHING	Personas viendo el buscador de servidores en este momento.
+SERVERBROWSER_PRIVATE	PRIVADO
+SERVERBROWSER_QUICK_PLAY_RANK_SORT_TOOLTIP	Ordena los servidores según la puntuación calculada por Partida rápida.
+SERVERBROWSER_RANKEDONLY	OCULTAR NO CLASIFICATORIOS	FIX	Was "OCULTAR UNRANKED". CHECK: new term, ranked = clasificatorio (Riot's Spanish). Alternative: keep RANKED / UNRANKED.
+SERVERBROWSER_RANK	PUNTUACIÓN		Column: Quick Play's ranking of the server, not a player rank.
+SERVERBROWSER_RANKED	CLASIFICATORIO	CHECK	New term (see SERVERBROWSER_RANKEDONLY).
+SERVERBROWSER_RANKED_TOOLTIP	¡Este servidor es clasificatorio! Juega aquí para desbloquear recompensas.	FIX	Was "Este servidor poseé sistema Ranked!" (typo, missing ¡, and it dropped the rewards part).
+SERVERBROWSER_RANKED_SORT_TOOLTIP	Ordena los servidores según sean clasificatorios o no.	FIX	The current line is an old English text, never translated.
+SERVERBROWSER_REFRESH	ACTUALIZAR
+SERVERBROWSER_ROOKIEONLY	ENTRENAMIENTO BÁSICO		Glossary: Bootcamp.
+SERVERBROWSER_ROOKIEONLY_TOOLTIP	En este servidor solo pueden jugar novatos.
+SERVERBROWSER_SCORE	PUNTOS
+SERVERBROWSER_SEARCH	BUSCAR...	FIX	Was "BUSCANDO ..." (searching); this is the search box label.
+SERVERBROWSER_SEARCHING	BUSCANDO...
+SERVERBROWSER_SERVER_DETAILS	DETALLES DEL SERVIDOR	FIX	Was "DETALLES"; restores "del servidor".
+SERVERBROWSER_SERVER_DETAILS_ADDRESS	Dirección del servidor
+SERVERBROWSER_SERVER_DETAILS_GAME	Modo de juego:
+SERVERBROWSER_SERVER_DETAILS_MAP	Mapa:
+SERVERBROWSER_SERVER_DETAILS_MODS	Mods instalados:
+SERVERBROWSER_SERVER_DETAILS_PERF	Calificación de rendimiento
+SERVERBROWSER_SERVER_DETAILS_PING	Ping:
+SERVERBROWSER_SERVER_DETAILS_PLAYERS	Jugadores:
+SERVERBROWSER_SERVER_DETAILS_SPECTATORS	Espectadores:
+SERVERBROWSER_SKILL_SORT_TOOLTIP	Ordena los servidores por el nivel de habilidad promedio de sus jugadores.		Glossary: skill = nivel de habilidad.
+SERVERBROWSER_SPECTATORS	ESPECTADORES
+SERVERBROWSER_SPECTATOR_SLOTS_TOOLTIP	Lugares de espectador ocupados del total disponible.
+SERVERBROWSER_SHOW_EMPTY	VACÍOS	FIX	Missing accent; plural to match the other filters (servers).
+SERVERBROWSER_SHOW_EMPTY_TOOLTIP	Muestra servidores sin jugadores.
+SERVERBROWSER_SHOW_FULL	LLENOS	FIX	Plural, matching VACÍOS.
+SERVERBROWSER_SHOW_FULL_TOOLTIP	Muestra servidores llenos (no cuenta los lugares reservados).
+SERVERBROWSER_SHOW_UNRANKED	NO CLASIFICATORIOS	CHECK	Ranked term.
+SERVERBROWSER_SKILL	HABILIDAD	CHECK	Column header; "NIVEL DE HABILIDAD" is the glossary term but long for a column.
+SERVERBROWSER_TIME_PLAYED	TIEMPO JUGADO
+SERVERBROWSER_UPDATE	ACTUALIZANDO...
+SERVERBROWSER_UNRANKED_TOOLTIP	¡Este servidor no es clasificatorio! Aquí no ganarás recompensas.	FIX	The current line is an old English text, never translated.
+SERVER_FOUND_SKIPPED	(Se encontraron %s servidores, se omitieron %s)
+SERVER_FOUND	(Se encontró %s servidor)
+SERVER_FULL	El servidor está lleno
+SERVER_MODDED_WARNING	El servidor al que te estás uniendo funciona fuera de nuestra configuración de red o cantidad de jugadores recomendadas. Esto puede afectar tu experiencia, ya que no podemos garantizar un rendimiento aceptable ni una partida equilibrada.
+SERVER_PERF_BAD	Malo
+SERVER_PERF_GOOD	Bueno
+SERVER_PERF_LOADED	Exigido	CHECK	"Stressed" server; alternative: "Sobrecargado".
+SERVER_PERF_OK	Aceptable	FIX	Was "Ok"; Spanish word.
+SERVER_PERF_UNKNOWN	Desconocido
+THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_MSG	No puedes unirte a través de Amigos de Steam mientras estás en una sala de Partida competitiva.
+THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_TITLE	No se puede unir al servidor

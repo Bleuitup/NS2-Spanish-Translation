@@ -1,0 +1,257 @@
+Server browser	ALERT	ALERT	ATENCIÓN	translated
+Server browser	CONNECTING	CONNECTING	CONECTANDO	translated
+Server browser	CONNECTING_TO	Connecting to	Connecting to	english
+Server browser	CONNECTION_DISALLOWED	The server rejected your connection. This might be because it's full or you are banned.	El servidor rechazó tu conexión. Puede ser porque esta lleno o estas baneado	translated
+Server browser	FAVORITES	Favorites	Favoritos	translated
+Server browser	FILTER_UNLIMTED	Unlimited	Unlimited	english
+Server browser	HISTORY	History	Historia	translated
+Server browser	JOIN	JOIN	CONECTAR	translated
+Server browser	NEVER_SHOW_AGAIN	Never show this again	No volver a mostrar	translated
+Server browser	PASSWORD	PASSWORD	PASSWORD	english
+Server browser	QUICK_PLAY_STATUS_REFRESHING	Refreshing server list	Refreshing server list	english
+Server browser	QUICK_PLAY_STATUS_CHECKING	Found %{count}d eligible servers	Found %{count}d eligible servers	english
+Server browser	QUICK_PLAY_STATUS_FAILED_RETRYING	Failed.  Retrying... (Attempt %{attempts}s)	Failed.  Retrying... (Attempt %{attempts}s)	english
+Server browser	QUICK_PLAY_STATUS_JOINING	Connecting to server %{serverName}s	Connecting to server %{serverName}s	english
+Server browser	ROOKIEONLYNAG_MSG	This is a Bootcamp (rookie-only) server!\nYou are free to spectate, but will be unable to join a team.	This is a Bootcamp (rookie-only) server!\nYou are free to spectate, but will be unable to join a team.	english
+Server browser	SB_ASSISTS	A	A	translated
+Server browser	SB_CLICK_FOR_MOUSE	Click for mouse	Click para cursor	translated
+Server browser	SB_CONNECTING	Connecting	Conectando	translated
+Server browser	SB_DEATHS	D	D	translated
+Server browser	SB_KILLS	K	K	translated
+Server browser	SB_MENU_HIVE_PROFILE	Hive profile	Perfil de Hive	translated
+Server browser	SB_MENU_MUTE_TEXT	Mute text	Silenciar texto	translated
+Server browser	SB_MENU_MUTE_VOICE	Mute voice	Silenciar voz	translated
+Server browser	SB_MENU_STEAM_PROFILE	Steam profile	Perfil de Steam	translated
+Server browser	SB_MENU_UNMUTE_TEXT	Unmute text	Reactivar texto	translated
+Server browser	SB_MENU_UNMUTE_VOICE	Unmute voice	Reactivar voz	translated
+Server browser	SB_PING	Ping	Ping	english
+Server browser	SB_PLAYER	Player	Jugador	translated
+Server browser	SB_PLAYERS	Players	Jugadores	translated
+Server browser	SB_SCORE	Score	Puntos	translated
+Server browser	SB_SERVERCOUNT	Servers selected / Servers available	Servidores seleccionados / Servidores disponibles	translated
+Server browser	SB_TEAM_RES	%d team resources	%d recursos de equipo	translated
+Server browser	SERVERBROWSER_BLOCKED_SERVERS	BLOCKED SERVERS	BLOCKED SERVERS	english
+Server browser	SERVERBROWSER_BLOCKED_SERVERS_HIDE	HIDE	HIDE	english
+Server browser	SERVERBROWSER_BLOCKED_SERVERS_SHOW	SHOW	SHOW	english
+Server browser	SERVERBROWSER_BLOCKED_SERVERS_LIST_ALL	EXCLUSIVE	EXCLUSIVE	english
+Server browser	SERVERBROWSER_BLOCKED_SERVERS_TOOLTIP	Blocked servers are not considered for Quick Play.  Choose here whether to show, hide, or show exclusively servers that you have blocked.	Blocked servers are not considered for Quick Play.  Choose here whether to show, hide, or show exclusively servers that you have blocked.	english
+Server browser	SERVERBROWSER_BLOCKED_SERVERS_SORT_TOOLTIP	Sort servers by whether or not they are blocked.  Blocked servers are not considered for Quick Play.	Sort servers by whether or not they are blocked.  Blocked servers are not considered for Quick Play.	english
+Server browser	SERVERBROWSER_BLOCKED_TOOLTIP_1	Unblock this server	Unblock this server	english
+Server browser	SERVERBROWSER_BLOCKED_TOOLTIP_2	Block this server.  Blocked servers are not considered for Quick Play, and may be hidden from the server browser.	Block this server.  Blocked servers are not considered for Quick Play, and may be hidden from the server browser.	english
+Server browser	SERVERBROWSER_CREATE_GAME_MODE	GAME MODE	MODO DE JUEGO	translated
+Server browser	SERVERBROWSER_DETAILS_TOOLTIP	Show/hide details of this server.	Show/hide details of this server.	english
+Server browser	SERVERBROWSER_FAVORITE	FAVORITE	FAVORITO	translated
+Server browser	SERVERBROWSER_FAVORITES	FAVORITES	FAVORITOS	translated
+Server browser	SERVERBROWSER_FAVORITES_SORT_TOOLTIP	Sort servers by whether or not they are marked as your favorite.	Sort servers by whether or not they are marked as your favorite.	english
+Server browser	SERVERBROWSER_FAVORITE_TOOLTIP_1	Remove this server from your favorites.	Remove this server from your favorites.	english
+Server browser	SERVERBROWSER_FAVORITE_TOOLTIP_2	Add this server to your favorites.	Add this server to your favorites.	english
+Server browser	SERVERBROWSER_FILTER_BOOTCAMP_TOOLTIP	Display servers that only rookies can play on (non-rookies can still spectate if there is room).	Display servers that only rookies can play on (non-rookies can still spectate if there is room).	english
+Server browser	SERVERBROWSER_FILTER_EMPTY	HIDE EMPTY	OCULTAR VACIOS	translated
+Server browser	SERVERBROWSER_FILTER_FULL	HIDE FULL	OCULTAR LLENOS	translated
+Server browser	SERVERBROWSER_FILTER_GAMEMODE_ALL	ALL	ALL	english
+Server browser	SERVERBROWSER_FILTER_FRIENDS_ON_SERVER	PLAY WITH FRIENDS	PLAY WITH FRIENDS	english
+Server browser	SERVERBROWSER_FILTER_FRIENDS_ON_SERVER_TOOLTIP	Only show servers that have friends playing on them.	Only show servers that have friends playing on them.	english
+Server browser	SERVERBROWSER_FILTER_UNRANKED_TOOLTIP	Show servers that are unranked	Show servers that are unranked.  Skill rating and XP are not impacted while playing on unranked servers.	translated
+Server browser	SERVERBROWSER_FILTERS	FILTERS	FILTERS	english
+Server browser	SERVERBROWSER_FRIEND_TOOLTIP	One or more of your Steam friends are playing on this server.	One or more of your Steam friends are playing on this server.	english
+Server browser	SERVERBROWSER_GAME	GAME	JUEGO	translated
+Server browser	SERVERBROWSER_GAME_MODE_SORT_TOOLTIP	Sort servers based on the name of the gamemode being played.	Sort servers based on the name of the gamemode being played.	english
+Server browser	SERVERBROWSER_GAMEMODE_ALL_HIDDEN_TT	No gamemodes selected!	No gamemodes selected!	english
+Server browser	SERVERBROWSER_GAMEMODE_TOOLTIP	Pick a gamemode	Selecciona un gamemode	translated
+Server browser	SERVERBROWSER_HISTORY	HISTORY	HISTORIAL	translated
+Server browser	SERVERBROWSER_MAPNAME	MAP NAME	NOMBRE DEL MAPA	translated
+Server browser	SERVERBROWSER_MAXPING	MAX PING	MAX PING	english
+Server browser	SERVERBROWSER_NAME	NAME	NOMBRE	translated
+Server browser	SERVERBROWSER_PASSWORD	PASSWORD	PASSWORD	english
+Server browser	SERVERBROWSER_PASSWORDED	PASSWORDED	CON CONTRASEÑA	translated
+Server browser	SERVERBROWSER_PASSWORDED_FILTER_TOOLTIP	Show servers that require passwords to join.	Show servers that require passwords to join.	english
+Server browser	SERVERBROWSER_PASSWORD_INCORRECT_TOOLTIP	Password was incorrect.	Password was incorrect.	english
+Server browser	SERVERBROWSER_PASSWORD_MISSING_TOOLTIP	Password is required for this server.	Password is required for this server.	english
+Server browser	SERVERBROWSER_PASSWORD_TOOLTIP	This server requires a password to join.	This server requires a password to join.	english
+Server browser	SERVERBROWSER_PASSWORD_SORT_TOOLTIP	Sort servers based on whether or not they require a password to join.	Sort servers based on whether or not they require a password to join.	english
+Server browser	SERVERBROWSER_PERF	PERF.	REND.	translated
+Server browser	SERVERBROWSER_PERF_MIN	MIN. PERFORMANCE	REND. MÍNIMO	translated
+Server browser	SERVERBROWSER_PERF_MIN_TOOLTIP	Only show servers with performance ratings better-than or equal-to this rating.	Only show servers with performance ratings better-than or equal-to this rating.	english
+Server browser	SERVERBROWSER_PING	PING	PING	english
+Server browser	SERVERBROWSER_PING_TOOLTIP	Only show servers with ping lower than or equal to this value.  Ping (aka latency, lag) is how much time information takes to arrive at the server and then return to you.  Lower is better.	Only show servers with ping lower than or equal to this value.  Ping (aka latency, lag) is how much time information takes to arrive at the server and then return to you.  Lower is better.	english
+Server browser	SERVERBROWSER_PLAYERCOUNT	People playing NS2 right now!	People playing NS2 right now!	english
+Server browser	SERVERBROWSER_PLAYER_SLOTS_TOOLTIP	The number of player-slots in-use out of the total available player-slots.	The number of player-slots in-use out of the total available player-slots.	english
+Server browser	SERVERBROWSER_PLAYERS	PLAYERS	JUGADORES	translated
+Server browser	SERVERBROWSER_PLAYERS_SEARCHING	People viewing the server browser right now.	People viewing the server browser right now.	english
+Server browser	SERVERBROWSER_PRIVATE	PRIVATE	PRIVADO	translated
+Server browser	SERVERBROWSER_QUICK_PLAY_RANK_SORT_TOOLTIP	Sort servers based on the ranking calculated by Quick Play.	Sort servers based on the ranking calculated by Quick Play.	english
+Server browser	SERVERBROWSER_RANKEDONLY	HIDE UNRANKED	OCULTAR UNRANKED	translated
+Server browser	SERVERBROWSER_RANK	RANK	RANK	english
+Server browser	SERVERBROWSER_RANKED	RANKED	RANKED	english
+Server browser	SERVERBROWSER_RANKED_TOOLTIP	This server is ranked! You unlock rewards by playing on these servers	Este servidor poseé sistema Ranked!	translated
+Server browser	SERVERBROWSER_RANKED_SORT_TOOLTIP	Sort servers based on whether or not they are ranked.	Sort servers based on whether or not they are whitelisted.	translated
+Server browser	SERVERBROWSER_REFRESH	REFRESH	REFRESH	english
+Server browser	SERVERBROWSER_ROOKIEONLY	BOOTCAMP	BOOTCAMP	english
+Server browser	SERVERBROWSER_ROOKIEONLY_TOOLTIP	Only rookies are allowed to play on this server.	Only rookies are allowed to play on this server.	english
+Server browser	SERVERBROWSER_SCORE	SCORE	SCORE	english
+Server browser	SERVERBROWSER_SEARCH	SEARCH ...	BUSCANDO ...	translated
+Server browser	SERVERBROWSER_SEARCHING	SEARCHING...	BUSCANDO...	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS	SERVER DETAILS	DETALLES	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS_ADDRESS	Server Address	Server Address	english
+Server browser	SERVERBROWSER_SERVER_DETAILS_GAME	Game Mode:	Modo de juego:	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS_MAP	Map:	Mapa:	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS_MODS	Installed Mods:	Mods instalados:	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS_PERF	Performance Rating	Performance Rating	english
+Server browser	SERVERBROWSER_SERVER_DETAILS_PING	Ping:	Ping:	english
+Server browser	SERVERBROWSER_SERVER_DETAILS_PLAYERS	Players:	Jugadores:	translated
+Server browser	SERVERBROWSER_SERVER_DETAILS_SPECTATORS	Spectators:	Spectators:	english
+Server browser	SERVERBROWSER_SKILL_SORT_TOOLTIP	Sort servers by the average player skill of those playing.	Sort servers by the average player skill of those playing.	english
+Server browser	SERVERBROWSER_SPECTATORS	SPECTATORS	SPECTATORS	english
+Server browser	SERVERBROWSER_SPECTATOR_SLOTS_TOOLTIP	The number of spectator-only player-slots used out of the total amount.	The number of spectator-only player-slots used out of the total amount.	english
+Server browser	SERVERBROWSER_SHOW_EMPTY	EMPTY	VACIO	translated
+Server browser	SERVERBROWSER_SHOW_EMPTY_TOOLTIP	Show servers that do not have any players on them.	Show servers that do not have any players on them.	english
+Server browser	SERVERBROWSER_SHOW_FULL	FULL	LLENO	translated
+Server browser	SERVERBROWSER_SHOW_FULL_TOOLTIP	Show servers that are full (does not take into account reserved slots).	Show servers that are full (does not take into account reserved slots).	english
+Server browser	SERVERBROWSER_SHOW_UNRANKED	UNRANKED	UNRANKED	english
+Server browser	SERVERBROWSER_SKILL	SKILL	SKILL	english
+Server browser	SERVERBROWSER_TIME_PLAYED	TIME PLAYED	TIME PLAYED	english
+Server browser	SERVERBROWSER_UPDATE	UPDATING...	ACTUALIZANDO...	translated
+Server browser	SERVERBROWSER_UNRANKED_TOOLTIP	This server is unranked!  This means you will not earn rewards here.	This server is unranked!  This means you will not earn XP here.	translated
+Server browser	SERVER_FOUND_SKIPPED	(Found %s servers, skipped %s)	(Found %s servers, skipped %s)	english
+Server browser	SERVER_FOUND	(Found %s Server)	(Found %s Server)	english
+Server browser	SERVER_FULL	Server is full	El servidor está lleno	translated
+Server browser	SERVER_MODDED_WARNING	The server you are joining operates outside our recommended network settings or player count. This may negatively impact your experience, as we cannot guarantee acceptable performance or balanced gameplay.	The server you are joining operates outside our recommended network settings or player count. This may negatively impact your experience, as we cannot guarantee acceptable performance or balanced gameplay.	english
+Server browser	SERVER_PERF_BAD	Bad	Malo	translated
+Server browser	SERVER_PERF_GOOD	Good	Bueno	translated
+Server browser	SERVER_PERF_LOADED	Stressed	Stressed	english
+Server browser	SERVER_PERF_OK	Ok	Ok	translated
+Server browser	SERVER_PERF_UNKNOWN	Unknown	Desconocido	translated
+Server browser	THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_MSG	You cannot join through Steam Friends while in a Competitive Play lobby.		missing
+Server browser	THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_TITLE	Unable to join Server		missing
+Friends and Steam	AUTOJOIN_SPEC	SPECTATE	SPECTATE	english
+Friends and Steam	AUTOJOIN_SPEC_AND_RS	JOIN	JOIN	english
+Friends and Steam	AUTOJOIN_CANCEL	CANCEL	CANCELAR	translated
+Friends and Steam	AUTOJOIN_TITLE	SERVER FULL	SERVER FULL	english
+Friends and Steam	AUTOJOIN_JOIN_STATUS	Waiting for player slot	Waiting for player slot	english
+Friends and Steam	AUTOJOIN_JOIN_TOOLTIP	The server is full, but you can still join if you have a reserved slot with this server.  Otherwise, you can wait for a slot to open up, or try to join a different server.	The server is full, but you can still join if you have a reserved slot with this server.  Otherwise, you can wait for a slot to open up, or try to join a different server.	english
+Friends and Steam	AUTOJOIN_JOIN_TOOLTIP_FULL	The server is completely full.  You can wait for a slot to open up, or try a different server.	The server is completely full.  You can wait for a slot to open up, or try a different server.	english
+Friends and Steam	AUTOJOIN_JOIN_TOOLTIP_SPEC	There are no player slots remaining on this server.  You can wait for a slot to open up, join spectate, or try a different server.	There are no player slots remaining on this server.  You can wait for a slot to open up, join spectate, or try a different server.	english
+Friends and Steam	AUTOJOIN_JOIN_TOOLTIP_SPEC_AND_RS	The server is full, but you can still join if you have a reserved slot with this server, or if you would like to spectate.	The server is full, but you can still join if you have a reserved slot with this server, or if you would like to spectate.	english
+Friends and Steam	FRIENDS	Friends	Amigos	translated
+Friends and Steam	FRIEND_STATE_OFFLINE	Offline	Offline	english
+Friends and Steam	FRIEND_STATE_ONLINE	Online	Online	english
+Friends and Steam	FRIEND_STATE_BUSY	Busy	Busy	english
+Friends and Steam	FRIEND_STATE_AWAY	Away	Away	english
+Friends and Steam	FRIEND_STATE_SNOOZE	Snooze	Snooze	english
+Friends and Steam	FRIEND_STATE_LOOKING_TRADE	Looking to trade	Looking to trade	english
+Friends and Steam	FRIEND_STATE_LOOKING_PLAY	Looking to play	Looking to play	english
+Friends and Steam	FRIEND_STATE_IN_GAME	In game	In game	english
+Friends and Steam	FRIEND_INVITE_TT	Invite this friend to join the server you are currently on.	Invite this friend to join the server you are currently on.	english
+Friends and Steam	FRIEND_JOIN_TT	Attempt to join the server this friend is playing on.	Attempt to join the server this friend is playing on.	english
+Friends and Steam	FRIEND_JOINING_TITLE	Joining Friend...	Joining Friend...	english
+Friends and Steam	FRIEND_JOINING_DESC	Loading server details...	Loading server details...	english
+Friends and Steam	FRIEND_LEFT_SERVER	Friend is no longer on any server.	Friend is no longer on any server.	english
+Friends and Steam	FRIEND_PLAYING_ON	Playing on \"%s\"	Playing on \"%s\"	english
+Friends and Steam	STEAM_CLOUD_ACCT_DISABLED_DESC	If you would like to save and share replays, you will need to enable Steam cloud for your account via Steam -> Settings -> Cloud -> 'Enable Steam Cloud synchronization for applications which support it'.	If you would like to save and share replays, you will need to enable Steam cloud for your account via Steam -> Settings -> Cloud -> 'Enable Steam Cloud synchronization for applications which support it'.	english
+Friends and Steam	STEAM_CLOUD_ACCT_DISABLED_PROMPT	Cloud is still disabled.  Try again?	Cloud is still disabled.  Try again?	english
+Friends and Steam	STEAM_CLOUD_ACCT_DISABLED_TRY_NOW	Try now	Try now	english
+Friends and Steam	STEAM_CLOUD_ACCT_DISABLED_NO_THANKS	No thanks	No thanks	english
+Friends and Steam	STEAM_CLOUD_APP_DISABLED_DESC	Steam Cloud is disabled for Natural Selection 2.  If you would like to save your replay and attach it to your score, it must be enabled.	Steam Cloud is disabled for Natural Selection 2.  If you would like to save your replay and attach it to your score, it must be enabled.	english
+Friends and Steam	STEAM_CLOUD_APP_DISABLED_PROMPT	Would you like to enable Steam Cloud for Natural Selection 2 now?	Would you like to enable Steam Cloud for Natural Selection 2 now?	english
+Friends and Steam	STEAM_CLOUD_APP_DISABLED_JUST_FOR_REPLAYS	Only for replays	Only for replays	english
+Friends and Steam	STEAM_CLOUD_GAME_DOWN_DESC	Something went wrong when attempting to connect to Steam.  You will be unable to upload your scores or replays.	Something went wrong when attempting to connect to Steam.  You will be unable to upload your scores or replays.	english
+Friends and Steam	STEAM_CLOUD_GAME_DOWN_PROMPT	Please restart Natural Selection 2 to fix this.	Please restart Natural Selection 2 to fix this.	english
+Friends and Steam	STEAM_CLOUD_NO	No	No	translated
+Friends and Steam	STEAM_CLOUD_ODD_ERROR	An error occurred while attempting to upload the replay.	An error occurred while attempting to upload the replay.	english
+Friends and Steam	STEAM_CLOUD_STEAM_DOWN_DESC	Unable to connect to Steam.  Without a connection to Steam, you will be unable to upload scores or replays to the leaderboard!	Unable to connect to Steam.  Without a connection to Steam, you will be unable to upload scores or replays to the leaderboard!	english
+Friends and Steam	STEAM_CLOUD_STEAM_DOWN_PROMPT	Would you like to retry?	Would you like to retry?	english
+Friends and Steam	STEAM_CLOUD_YES	Yes	Yes	english
+Friends and Steam	STEAMLOBBYJOIN_SUCCESS	Successfully joined lobby		missing
+Friends and Steam	STEAMLOBBYJOIN_DOESNOTEXIST	Lobby does not exist.		missing
+Friends and Steam	STEAMLOBBYJOIN_NOTALLOWED	You do not have permission to join the lobby.		missing
+Friends and Steam	STEAMLOBBYJOIN_FULL	Lobby is full.		missing
+Friends and Steam	STEAMLOBBYJOIN_UNEXPECTEDERROR	Enexpected Error.		missing
+Friends and Steam	STEAMLOBBYJOIN_BANNED	You are banned from this lobby.		missing
+Friends and Steam	STEAMLOBBYJOIN_LIMITEDUSER	You cannot join this lobby since your account is limited. (no value)		missing
+Friends and Steam	STEAMLOBBYJOIN_CLANDISABLED	Cannot join clan lobby while the clan is locked or disabled.		missing
+Friends and Steam	STEAMLOBBYJOIN_COMMUNITYBAN	Cannot join lobby when you have a community lock on your account.		missing
+Friends and Steam	STEAMLOBBYJOIN_MEMBERBLOCKED	A user in the lobby has blocked you from joining.		missing
+Friends and Steam	STEAMLOBBYJOIN_USERBLOCKEDMEMBER	Cannot join a lobby that has a member that you have blocked.		missing
+Disconnect	DISCONNECTED	DISCONNECTED	DISCONNECTED	english
+Disconnect	DISCONNECT_REASON_1	Incorrect network protocol	Incorrect network protocol	english
+Disconnect	DISCONNECT_REASON_2	Incorrect password	Contraseña incorrecta	translated
+Disconnect	DISCONNECT_REASON_3	Authentication failed. If other multiplayer Steam games do not work either, then Steam could be down, or your firewall is blocking it.	Fallo en la Autenticacion. Si otro juego Multijugador de Steam no funciona, entonces Steam puede estar caido, o tu firewall puede estar bloqueandolo	translated
+Disconnect	DISCONNECT_REASON_4	Timeout	Timeout	english
+Disconnect	DISCONNECT_REASON_5	Server shutdown	Servidor apagado	translated
+Disconnect	DISCONNECT_REASON_6	Server full	Servidor lleno	translated
+Disconnect	DISCONNECT_REASON_7	Couldn't establish a connection with the server	No se ha podido establecer una conexión con el servidor	translated
+Disconnect	DISCONNECT_REASON_8	Invalid data	Data invalida	translated
+Disconnect	DISCONNECT_REASON_9	Your game files do not match the server's. Try verifying your game cache in Steam.	Los archivos de tu juego no coinciden con los del servidor. Intenta verificar tu Game Cache en Steam	translated
+Disconnect	DISCONNECT_REASON_10	File not found	Archivo no encontrado	translated
+Disconnect	DISCONNECT_REASON_11	Quit	Quit	english
+Disconnect	DISCONNECT_REASON_12	Kicked.	Kickeado	translated
+Disconnect	DISCONNECT_REASON_13	Wrong game	Wrong game	english
+Disconnect	DISCONNECT_REASON_14	Authentication Timed out	Fallo en la autenticacion	translated
+Disconnect	DISCONNECT_REASON_15	Missing required mod	Falta un mod requerido	translated
+Disconnect	DISCONNECT_REASON_16	Required mod is out of date	Mod requerido esta desactualizado	translated
+Disconnect	DISCONNECT_REASON_17	Server mod is out of date	el mod del servidor está desactualizado	translated
+Disconnect	DISCONNECT_REASON_18	Unable to mount required mod	Imposible montar el mod requerido	translated
+Disconnect	DISCONNECT_REASON_19	Canceled	Cancelado	translated
+Disconnect	DISCONNECT_REASON_20	Mod error	Error del mod	translated
+Disconnect	DISCONNECT_REASON_21	Client error	Error del cliente	translated
+Disconnect	DISCONNECT_REASON_22	Connection refused by server	Conexión rechazada por el servidor	translated
+Disconnect	DISCONNECT_REASON_23	The server is running a newer version of the game than you. Maybe an update just came out.	El servidor está funcionando en una version mas actualizada que la tuya. Tal ves salio una nueva actualización.	translated
+Disconnect	DISCONNECT_REASON_24	The server is running an outdated version of the game.	El servidor está corriendo una version desactualizada.	translated
+Disconnect	DISCONNECT_REASON_MSG_12	Kicked. Reason provided by server:	Kickeado. Razon enviada por el servidor:	translated
+Disconnect	DISCONNECT_REASON_MSG_22	Connection refused. Reason provided by server:	Conexión rechazada. Razón enviada por el servidor:	translated
+Disconnect	DISCONNECT_REASON_MSG_26	Kicked for being idle too long		missing
+Votes	VOTE_ADD_COMMANDER_BOTS	Add Commander Bots	Add Commander Bots	english
+Votes	VOTE_START_COMMANDER_BOTS_QUERY	Start game with Commander Bots?	Start game with Commander Bots?	english
+Votes	VOTE_ADD_COMMANDER_BOTS_QUERY	Add Commander Bots?	Add Commander Bots?	english
+Votes	VOTE_CALL_VOTE	START VOTE	START VOTE	english
+Votes	VOTE_CHANGE_MAP	Change Map...	Cambiar mapa...	translated
+Votes	VOTE_CHANGE_MAP_QUERY	Change Map to %{name}s?	¿Cambiar mapa a %{name}s?	translated
+Votes	VOTE_CONCEDE	Vote Concede	Votar rendición	translated
+Votes	VOTE_CONCEDE_BROADCAST	%s has voted to concede. Need %d more vote(s).	%s ha votado rendirse. Se requiere al menos %d voto(s) más.	translated
+Votes	VOTE_DISABLED_BY_ADMIN	Cannot start vote. This type of vote was disabled by the admin.	No se puede comenzar la votación. El administrador ha deshabilitado este tipo de votación.	translated
+Votes	VOTE_EJECT_BROADCAST	%s has voted to eject the Commander. Need %d more vote(s).	%s ha votado echar al Commander. Se necesitan %d votos más.	translated
+Votes	VOTE_ESCAPE	Escape	Escape	english
+Votes	VOTE_FAILED	Vote Failed	Votación fallida	translated
+Votes	VOTE_FORCE_EVEN_TEAMS	Balance Teams	Balance Teams	english
+Votes	VOTE_FORCE_EVEN_TEAMS_QUERY	Balance Teams? (this may reassign some players)	Balance Teams? (this may reassign some players)	english
+Votes	VOTE_GAME_IN_PROGRESS	Cannot start vote. Game in progress.	No se puede comenzar la votación. La partida ha comenzado.	translated
+Votes	VOTE_GAMEMODE_NOT_SUPPORTED	The current game mode does not support this vote.	The current game mode does not support this vote.	english
+Votes	VOTE_IN_PROGRESS	Cannot start vote. Vote already in progress.	No se puede comenzar la votación. Ya hay una en curso.	translated
+Votes	VOTE_KICK_PLAYER	Kick Player...	Echar a jugador...	translated
+Votes	VOTE_KICK_PLAYER_QUERY	Kick %{name}s?	¿Echar a %{name}s?	translated
+Votes	VOTE_NO	No [%{key}s]	No [%{key}s]	english
+Votes	VOTE_PASSED	Vote Passed	Votación aprobada	translated
+Votes	VOTE_PLAYER_STARTED_VOTE	%{name}s started vote.	%{name}s ha comenzado una votación.	translated
+Votes	VOTE_TD_REMATCH	Rematch		missing
+Votes	VOTE_TD_REMATCH_QUERY	Rematch with same teams?		missing
+Votes	VOTE_TD_SKIP_INTERMISSION_QUERY	Skip Intermission?		missing
+Votes	VOTE_RANDOMIZE_RR	Randomize Ready Room	Aleatorizar Ready Room	translated
+Votes	VOTE_RANDOMIZE_RR_QUERY	Randomize Ready Room?	¿Aleatorizar Ready Room?	translated
+Votes	VOTE_RESET_GAME	Reset Game	Reiniciar partida	translated
+Votes	VOTE_RESET_GAME_QUERY	Reset game?	¿Reiniciar partida?	translated
+Votes	VOTE_SPAM	Cannot start vote. You started a failed vote of this type recently.	No se puede comenzar la votación. Tu votación anterior de este tipo fracasó recientemente.	translated
+Votes	VOTE_TOO_EARLY	Cannot start vote. Game has not started yet.	Cannot start vote. Game has not started yet.	english
+Votes	VOTE_TOO_LATE	Cannot start vote. Too far into a game.	No se puede comenzar la votación. Demasiado tarde para esta partida.	translated
+Votes	VOTE_WAITING	Cannot start another vote yet.	No se puede comenzar una votación todavía.	translated
+Votes	VOTE_YES	Yes [%{key}s]	Sí [%{key}s]	translated
+Votes	VOTE_THUNDERDOME_DISALLOWED	Cannot start this vote in matchmaking.		missing
+Skill and leaderboard	LEADERBOARD	Leaderboard	Leaderboard	english
+Skill and leaderboard	LEADERBOARD_PLAYER	Player	Player	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_ARROW	Show more scores	Show more scores	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_FRIENDS	Only show friends' scores	Only show friends' scores	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_GHOST	Race against this player's ghost	Race against this player's ghost	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_GLOBAL	Show all scores	Show all scores	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_PROFILE	Open this player's profile	Open this player's profile	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_REPLAY	View the first-person replay of this score	View the first-person replay of this score	english
+Skill and leaderboard	LEADERBOARD_TOOLTIP_REPLAY_MISSING	This user did not attach a replay.	This user did not attach a replay.	english
+Skill and leaderboard	SKILLTIER_BOT	Bot	Bot	english
+Skill and leaderboard	SKILLTIER_COMMANDANT	Commandant	Commandant	english
+Skill and leaderboard	SKILLTIER_FRONTIERSMAN	Frontiersman	Frontiersman	english
+Skill and leaderboard	SKILLTIER_RECRUIT	Recruit	Recruit	english
+Skill and leaderboard	SKILLTIER_ROOKIE	Rookie	Rookie	english
+Skill and leaderboard	SKILLTIER_SANJISURVIVOR	Sanji Survivor	Sanji Survivor	english
+Skill and leaderboard	SKILLTIER_SPECIALOPS	Special Ops	Special Ops	english
+Skill and leaderboard	SKILLTIER_SQUADLEADER	Squad Leader	Squad Leader	english
+Skill and leaderboard	SKILLTIER_TOOLTIP	Skill Tier: %s (%s)	Skill Tier: %s (%s)	english
+Skill and leaderboard	SKILLTIER_VETERAN	Veteran	Veteran	english
+Skill and leaderboard	SKILLTIER_UNKNOWN	Unknown	Unknown	english

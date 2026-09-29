@@ -1,0 +1,132 @@
+AUTOJOIN_SPEC	SER ESPECTADOR		Glossary: Spectate.
+AUTOJOIN_SPEC_AND_RS	UNIRSE
+AUTOJOIN_CANCEL	CANCELAR
+AUTOJOIN_TITLE	SERVIDOR LLENO
+AUTOJOIN_JOIN_STATUS	Esperando un lugar libre
+AUTOJOIN_JOIN_TOOLTIP	El servidor está lleno, pero puedes unirte si tienes un lugar reservado en él. Si no, puedes esperar a que se libere un lugar o probar otro servidor.
+AUTOJOIN_JOIN_TOOLTIP_FULL	El servidor está completamente lleno. Puedes esperar a que se libere un lugar o probar otro servidor.
+AUTOJOIN_JOIN_TOOLTIP_SPEC	No quedan lugares de jugador en este servidor. Puedes esperar a que se libere uno, entrar como espectador o probar otro servidor.
+AUTOJOIN_JOIN_TOOLTIP_SPEC_AND_RS	El servidor está lleno, pero puedes unirte si tienes un lugar reservado en él, o entrar como espectador.
+FRIENDS	Amigos
+FRIEND_STATE_OFFLINE	Desconectado		Steam's own Spanish statuses.
+FRIEND_STATE_ONLINE	Conectado
+FRIEND_STATE_BUSY	Ocupado
+FRIEND_STATE_AWAY	Ausente
+FRIEND_STATE_SNOOZE	Inactivo
+FRIEND_STATE_LOOKING_TRADE	Buscando intercambiar
+FRIEND_STATE_LOOKING_PLAY	Buscando partida
+FRIEND_STATE_IN_GAME	En partida
+FRIEND_INVITE_TT	Invita a este amigo a unirse al servidor en el que estás.
+FRIEND_JOIN_TT	Intenta unirte al servidor en el que está jugando este amigo.
+FRIEND_JOINING_TITLE	Uniéndose a un amigo...
+FRIEND_JOINING_DESC	Cargando los detalles del servidor...
+FRIEND_LEFT_SERVER	Tu amigo ya no está en ningún servidor.
+FRIEND_PLAYING_ON	Jugando en \"%s\"
+STEAM_CLOUD_ACCT_DISABLED_DESC	Si quieres guardar y compartir repeticiones, tienes que activar Steam Cloud en tu cuenta desde Steam -> Parámetros -> Cloud -> 'Habilitar la sincronización de Steam Cloud para las aplicaciones que la admitan'.	CHECK	Menu path follows Steam's Spanish client; worth checking against your Steam client's current wording.
+STEAM_CLOUD_ACCT_DISABLED_PROMPT	Cloud sigue desactivado. ¿Intentar de nuevo?
+STEAM_CLOUD_ACCT_DISABLED_TRY_NOW	Intentar ahora
+STEAM_CLOUD_ACCT_DISABLED_NO_THANKS	No, gracias
+STEAM_CLOUD_APP_DISABLED_DESC	Steam Cloud está desactivado para Natural Selection 2. Tienes que activarlo si quieres guardar tu repetición y adjuntarla a tu puntuación.
+STEAM_CLOUD_APP_DISABLED_PROMPT	¿Quieres activar Steam Cloud para Natural Selection 2 ahora?
+STEAM_CLOUD_APP_DISABLED_JUST_FOR_REPLAYS	Solo para repeticiones
+STEAM_CLOUD_GAME_DOWN_DESC	Algo salió mal al intentar conectarse a Steam. No podrás subir tus puntuaciones ni repeticiones.
+STEAM_CLOUD_GAME_DOWN_PROMPT	Reinicia Natural Selection 2 para solucionarlo.
+STEAM_CLOUD_NO	No
+STEAM_CLOUD_ODD_ERROR	Ocurrió un error al intentar subir la repetición.
+STEAM_CLOUD_STEAM_DOWN_DESC	No se puede conectar con Steam. ¡Sin conexión a Steam no podrás subir puntuaciones ni repeticiones a la tabla de clasificación!
+STEAM_CLOUD_STEAM_DOWN_PROMPT	¿Quieres reintentar?
+STEAM_CLOUD_YES	Sí
+STEAMLOBBYJOIN_SUCCESS	Te uniste a la sala
+STEAMLOBBYJOIN_DOESNOTEXIST	La sala no existe.
+STEAMLOBBYJOIN_NOTALLOWED	No tienes permiso para unirte a la sala.
+STEAMLOBBYJOIN_FULL	La sala está llena.
+STEAMLOBBYJOIN_UNEXPECTEDERROR	Error inesperado.		English has a typo ("Enexpected").
+STEAMLOBBYJOIN_BANNED	Estás baneado de esta sala.
+STEAMLOBBYJOIN_LIMITEDUSER	No puedes unirte a esta sala porque tu cuenta es limitada.		English ends with a stray "(no value)", left out.
+STEAMLOBBYJOIN_CLANDISABLED	No puedes unirte a la sala de un clan bloqueado o desactivado.
+STEAMLOBBYJOIN_COMMUNITYBAN	No puedes unirte a salas mientras tu cuenta tenga un bloqueo de comunidad.
+STEAMLOBBYJOIN_MEMBERBLOCKED	Un usuario de la sala te bloqueó y no puedes unirte.
+STEAMLOBBYJOIN_USERBLOCKEDMEMBER	No puedes unirte a una sala con un miembro que bloqueaste.
+DISCONNECTED	DESCONECTADO
+DISCONNECT_REASON_1	Protocolo de red incorrecto
+DISCONNECT_REASON_2	Contraseña incorrecta
+DISCONNECT_REASON_3	Falló la autenticación. Si otros juegos multijugador de Steam tampoco funcionan, puede que Steam esté caído o que tu firewall lo esté bloqueando.	FIX	Missing accents (autenticacion, caido, bloqueandolo), odd capitals, and final period.
+DISCONNECT_REASON_4	Tiempo de espera agotado
+DISCONNECT_REASON_5	Servidor apagado
+DISCONNECT_REASON_6	Servidor lleno
+DISCONNECT_REASON_7	No se pudo establecer una conexión con el servidor	FIX	"No se ha podido" → "No se pudo" (Latin American preterite).
+DISCONNECT_REASON_8	Datos no válidos	FIX	Was "Data invalida" (English word, missing accent).
+DISCONNECT_REASON_9	Los archivos de tu juego no coinciden con los del servidor. Intenta verificar la integridad de los archivos del juego en Steam.	FIX	"Game Cache" is Steam's old term; its Spanish client now says "verificar la integridad de los archivos del juego".
+DISCONNECT_REASON_10	Archivo no encontrado
+DISCONNECT_REASON_11	Salió		"Quit": the player left.
+DISCONNECT_REASON_12	Expulsado.	FIX	Was "Kickeado" (anglicism).
+DISCONNECT_REASON_13	Juego incorrecto
+DISCONNECT_REASON_14	Se agotó el tiempo de autenticación	FIX	Was "Fallo en la autenticacion" (says failed, not timed out; missing accent).
+DISCONNECT_REASON_15	Falta un mod requerido
+DISCONNECT_REASON_16	Un mod requerido está desactualizado	FIX	Missing accent and article.
+DISCONNECT_REASON_17	El mod del servidor está desactualizado	FIX	Missing capital.
+DISCONNECT_REASON_18	No se pudo montar el mod requerido	FIX	"Imposible montar" reads oddly; plainer wording.
+DISCONNECT_REASON_19	Cancelado
+DISCONNECT_REASON_20	Error del mod
+DISCONNECT_REASON_21	Error del cliente
+DISCONNECT_REASON_22	Conexión rechazada por el servidor
+DISCONNECT_REASON_23	El servidor usa una versión del juego más nueva que la tuya. Quizás acaba de salir una actualización.	FIX	Missing accents (version, mas, salio) and "Tal ves" typo.
+DISCONNECT_REASON_24	El servidor usa una versión desactualizada del juego.	FIX	Missing accent (version).
+DISCONNECT_REASON_MSG_12	Expulsado. Motivo indicado por el servidor:	FIX	"Kickeado", missing accent (Razon).
+DISCONNECT_REASON_MSG_22	Conexión rechazada. Motivo indicado por el servidor:		"Razón enviada" → "Motivo indicado", matching MSG_12.
+DISCONNECT_REASON_MSG_26	Expulsado por estar inactivo demasiado tiempo
+VOTE_ADD_COMMANDER_BOTS	Agregar bots de Commander
+VOTE_START_COMMANDER_BOTS_QUERY	¿Empezar la partida con bots de Commander?
+VOTE_ADD_COMMANDER_BOTS_QUERY	¿Agregar bots de Commander?
+VOTE_CALL_VOTE	INICIAR VOTACIÓN
+VOTE_CHANGE_MAP	Cambiar mapa...
+VOTE_CHANGE_MAP_QUERY	¿Cambiar el mapa a %{name}s?
+VOTE_CONCEDE	Votar rendición
+VOTE_CONCEDE_BROADCAST	%s votó por rendirse. Faltan %d voto(s).	FIX	Shorter and Latin American ("ha votado" → "votó"); "se requiere al menos" was wordy.
+VOTE_DISABLED_BY_ADMIN	No se puede iniciar la votación. El administrador desactivó este tipo de votación.
+VOTE_EJECT_BROADCAST	%s votó por echar al Commander. Faltan %d voto(s).	FIX	Matches VOTE_CONCEDE_BROADCAST.
+VOTE_ESCAPE	Salir
+VOTE_FAILED	Votación fallida
+VOTE_FORCE_EVEN_TEAMS	Equilibrar equipos
+VOTE_FORCE_EVEN_TEAMS_QUERY	¿Equilibrar equipos? (puede cambiar de equipo a algunos jugadores)
+VOTE_GAME_IN_PROGRESS	No se puede iniciar la votación. La partida ya empezó.
+VOTE_GAMEMODE_NOT_SUPPORTED	El modo de juego actual no admite esta votación.
+VOTE_IN_PROGRESS	No se puede iniciar la votación. Ya hay una en curso.
+VOTE_KICK_PLAYER	Expulsar jugador...	FIX	Was "Echar a jugador"; matches "Expulsado" in the disconnect messages.
+VOTE_KICK_PLAYER_QUERY	¿Expulsar a %{name}s?	FIX	Same.
+VOTE_NO	No [%{key}s]
+VOTE_PASSED	Votación aprobada
+VOTE_PLAYER_STARTED_VOTE	%{name}s inició una votación.
+VOTE_TD_REMATCH	Revancha
+VOTE_TD_REMATCH_QUERY	¿Revancha con los mismos equipos?
+VOTE_TD_SKIP_INTERMISSION_QUERY	¿Saltar el intermedio?
+VOTE_RANDOMIZE_RR	Mezclar Ready Room
+VOTE_RANDOMIZE_RR_QUERY	¿Mezclar el Ready Room?		Glossary: el Ready Room.
+VOTE_RESET_GAME	Reiniciar partida
+VOTE_RESET_GAME_QUERY	¿Reiniciar la partida?
+VOTE_SPAM	No se puede iniciar la votación. Hace poco iniciaste una votación de este tipo que fracasó.	FIX	The old line misread the English (said "your previous vote failed recently").
+VOTE_TOO_EARLY	No se puede iniciar la votación. La partida todavía no empezó.
+VOTE_TOO_LATE	No se puede iniciar la votación. La partida está demasiado avanzada.
+VOTE_WAITING	Todavía no se puede iniciar otra votación.
+VOTE_YES	Sí [%{key}s]
+VOTE_THUNDERDOME_DISALLOWED	No se puede iniciar esta votación en matchmaking.	CHECK	"Matchmaking" kept; alternative: "en Partida competitiva".
+LEADERBOARD	Tabla de clasificación
+LEADERBOARD_PLAYER	Jugador
+LEADERBOARD_TOOLTIP_ARROW	Mostrar más puntuaciones
+LEADERBOARD_TOOLTIP_FRIENDS	Mostrar solo las puntuaciones de amigos
+LEADERBOARD_TOOLTIP_GHOST	Competir contra el fantasma de este jugador
+LEADERBOARD_TOOLTIP_GLOBAL	Mostrar todas las puntuaciones
+LEADERBOARD_TOOLTIP_PROFILE	Abrir el perfil de este jugador
+LEADERBOARD_TOOLTIP_REPLAY	Ver la repetición en primera persona de esta puntuación
+LEADERBOARD_TOOLTIP_REPLAY_MISSING	Este usuario no adjuntó una repetición.
+SKILLTIER_BOT	Bot
+SKILLTIER_COMMANDANT	Comandante	CHECK	Skill tier names: translated as military ranks. "Comandante" here is a rank, not the Commander role (which stays English).
+SKILLTIER_FRONTIERSMAN	Frontiersman	CHECK	Kept: the name of the marine faction (glossary: Frontiersmen).
+SKILLTIER_RECRUIT	Recluta	CHECK	Tier name.
+SKILLTIER_ROOKIE	Novato	CHECK	Tier name (glossary: rookie).
+SKILLTIER_SANJISURVIVOR	Superviviente de Sanji	CHECK	Tier name; Sanji is a place in NS2's lore.
+SKILLTIER_SPECIALOPS	Operaciones Especiales	CHECK	Tier name.
+SKILLTIER_SQUADLEADER	Líder de escuadrón	CHECK	Tier name.
+SKILLTIER_TOOLTIP	Rango de habilidad: %s (%s)		Glossary: Skill Tier = rango de habilidad.
+SKILLTIER_VETERAN	Veterano	CHECK	Tier name.
+SKILLTIER_UNKNOWN	Desconocido
