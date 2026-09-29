@@ -47,6 +47,8 @@ local overrides = {
     ["Nano Shield Field"] = { spanish = "campo de nano-escudo" },
     ["Ejection Seat"] = { spanish = "asiento eyectable" },
     ["chamber"] = { drop = true }, -- never appears alone in the game text
+    -- From the batch 1 review, 2026-09-30
+    ["Ready Room"] = { article = "el", notes = "Bleu: 'IR AL READY ROOM'." },
 }
 
 -- Proposed articles for English names (gender of the Spanish word the name stands for).
@@ -67,6 +69,25 @@ local proposedArticles = {
     Xenocide = "el", ["Heal Spray"] = "el", ["Bile Bomb"] = "la", Umbra = "la", Blink = "el",
     Metabolize = "el", Stab = "la", ["Bone Shield"] = "el", Aura = "el",
     ["Quick Play"] = "la", ["Competitive Play"] = "la",
+}
+
+-- Terms first met during batch reviews (not in the phase 1 workbook).
+-- { category, english, handling, spanish, article, notes }
+local additions = {
+    { "General", "killfeed", "keep", "killfeed", "el", "Batch 1: kept in English." },
+    { "General", "nameplate", "translate", "etiqueta", "la", "Batch 1: the info shown over a unit you look at." },
+    { "General", "crosshair", "translate", "mira", "la", "Batch 1." },
+    { "General", "waypoint", "translate", "punto de ruta", "el", "Batch 1." },
+    { "General", "viewmodel", "translate", "modelo en primera persona", "el", "Batch 1." },
+    { "General", "Bootcamp", "translate", "entrenamiento básico", "el", "Batch 1: the rookie server mode." },
+    { "General", "Spectate", "translate", "ser espectador", "", "Batch 1: the join button reads 'Ser espectador'." },
+    { "General", "location", "translate", "cuarto", "el", "Batch 1: room names on the map ('nombres de los cuartos')." },
+    { "General", "Steam Workshop", "mixed", "Workshop de Steam", "el", "Batch 1." },
+    { "General", "Community Servers", "translate", "servidores comunitarios", "los", "Batch 1: menu button." },
+    { "General", "nickname", "translate", "apodo", "el", "Batch 1." },
+    { "General", "mouse", "keep", "mouse", "el", "Batch 1: never 'ratón' (Spain)." },
+    { "General", "hit sound", "translate", "sonido de impacto", "el", "Batch 1." },
+    { "General", "tooltip", "keep", "tooltip", "el", "Batch 1: in option names." },
 }
 
 local handlingOf = {
@@ -99,6 +120,10 @@ for _, r in ipairs(readTsv("work/decisions-terms.tsv")) do
         out:write(table.concat({ categories[term] or "", term, handling, spanish, article, notes }, "\t"), "\n")
         n = n + 1
     end
+end
+for _, a in ipairs(additions) do
+    out:write(table.concat(a, "\t"), "\n")
+    n = n + 1
 end
 out:close()
 print(string.format("wrote glossary/glossary.tsv: %d terms, %d proposed articles", n, proposed))

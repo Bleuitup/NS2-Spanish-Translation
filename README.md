@@ -22,7 +22,7 @@ flagged for re-check) and removed keys, and those become a small follow-up batch
 | | Strings |
 |---|---|
 | English | 3,834 |
-| Spanish, translated | 1,338 (35%) |
+| Spanish, translated | 1,338 (35%) at the snapshot; 1,740 (45%) in `out/esES.txt` after batch 1 |
 | Spanish, identical to English | 1,636 |
 | Missing from Spanish | 860 |
 
@@ -35,7 +35,7 @@ Run `lua tools/status.lua` for current numbers and technical problems.
 2. **Style guide and glossary** (done, articles to confirm): [`docs/style-guide.md`](docs/style-guide.md) and
    [`glossary/glossary.md`](glossary/glossary.md) (source: `glossary/glossary.tsv`). Proposed articles are
    reviewed in `work/glossary-review.xlsx`.
-3. **AI first pass, in batches** (batch 1, menus and options, in review: `work/batch1/batch1-review.xlsx`), most-seen text first: menus and options; server browser; buy
+3. **AI first pass, in batches** (batch 1, menus and options: reviewed and applied), most-seen text first: menus and options; server browser; buy
    menus, HUD and tooltips; help screen and exos; items and badges; Competitive Play; tutorial.
    Uncertain lines are flagged.
 4. **Review** of each batch in Excel. Edits feed back into the glossary.
@@ -60,6 +60,9 @@ Run from the repository root. Lua 5.4 for the scripts, Excel for the workbooks.
 | `lua tools/make-batch1.lua` | Extracts batch 1 (menus and options) to `work/batch1/source.tsv` |
 | `lua tools/assemble-batch.lua N` | Joins a batch with its `proposals-*.tsv`, checks placeholders, style words, glossary and length, writes `review.tsv` |
 | `powershell -ExecutionPolicy Bypass -File tools/build-review.ps1 N` | Builds `work/batchN/batchN-review.xlsx` for review in Excel |
+| `powershell -ExecutionPolicy Bypass -File tools/export-review.ps1 N` | Exports the reviewer's columns to `work/batchN/decisions.tsv` |
+| `lua tools/finalize-batch.lua N` | Applies the decisions (and `corrections.tsv`) to `work/batchN/final.tsv` |
+| `lua tools/build-output.lua` | Writes `out/esES.txt`: the snapshot with every finished batch applied, same format as the game file |
 
 `tools/gamestrings.lua` holds the shared parser and the checks: every translation must keep the
 English line's `%s` / `%d` / `%%` placeholders, `\n` line breaks, `BIND_…` key bindings and

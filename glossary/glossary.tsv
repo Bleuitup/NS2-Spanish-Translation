@@ -14,7 +14,7 @@ General	game	translate	partida	la	can't think for now of a context where juego w
 General	team	translate	equipo		
 General	player	translate	jugador		
 General	server	translate	servidor		
-General	Ready Room	keep	Ready Room	la (proposed)	
+General	Ready Room	keep	Ready Room	el	Bleu: 'IR AL READY ROOM'.
 General	spectator	translate	espectador		
 General	rookie	translate	novato		
 General	bot	keep	bot	el (proposed)	
@@ -150,3 +150,17 @@ Alien upgrades	Focus	translate	foco
 Alien upgrades	Celerity	translate	celeridad		
 Alien upgrades	Adrenaline	translate	adrenalina		
 Alien upgrades	Crush	translate	Aplastamiento	el	
+General	killfeed	keep	killfeed	el	Batch 1: kept in English.
+General	nameplate	translate	etiqueta	la	Batch 1: the info shown over a unit you look at.
+General	crosshair	translate	mira	la	Batch 1.
+General	waypoint	translate	punto de ruta	el	Batch 1.
+General	viewmodel	translate	modelo en primera persona	el	Batch 1.
+General	Bootcamp	translate	entrenamiento básico	el	Batch 1: the rookie server mode.
+General	Spectate	translate	ser espectador		Batch 1: the join button reads 'Ser espectador'.
+General	location	translate	cuarto	el	Batch 1: room names on the map ('nombres de los cuartos').
+General	Steam Workshop	mixed	Workshop de Steam	el	Batch 1.
+General	Community Servers	translate	servidores comunitarios	los	Batch 1: menu button.
+General	nickname	translate	apodo	el	Batch 1.
+General	mouse	keep	mouse	el	Batch 1: never 'ratón' (Spain).
+General	hit sound	translate	sonido de impacto	el	Batch 1.
+General	tooltip	keep	tooltip	el	Batch 1: in option names.

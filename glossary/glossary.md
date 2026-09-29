@@ -24,7 +24,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | team | translate | equipo |  |  |
 | player | translate | jugador |  |  |
 | server | translate | servidor |  |  |
-| Ready Room | keep | Ready Room | la *(proposed)* |  |
+| Ready Room | keep | Ready Room | el | Bleu: 'IR AL READY ROOM'. |
 | spectator | translate | espectador |  |  |
 | rookie | translate | novato |  |  |
 | bot | keep | bot | el *(proposed)* |  |
@@ -42,6 +42,20 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | tutorial | translate | tutorial |  |  |
 | Sandbox | keep | Sandbox | el *(proposed)* |  |
 | mod | keep | mod | el *(proposed)* |  |
+| killfeed | keep | killfeed | el | Batch 1: kept in English. |
+| nameplate | translate | etiqueta | la | Batch 1: the info shown over a unit you look at. |
+| crosshair | translate | mira | la | Batch 1. |
+| waypoint | translate | punto de ruta | el | Batch 1. |
+| viewmodel | translate | modelo en primera persona | el | Batch 1. |
+| Bootcamp | translate | entrenamiento básico | el | Batch 1: the rookie server mode. |
+| Spectate | translate | ser espectador |  | Batch 1: the join button reads 'Ser espectador'. |
+| location | translate | cuarto | el | Batch 1: room names on the map ('nombres de los cuartos'). |
+| Steam Workshop | mixed | Workshop de Steam | el | Batch 1. |
+| Community Servers | translate | servidores comunitarios | los | Batch 1: menu button. |
+| nickname | translate | apodo | el | Batch 1. |
+| mouse | keep | mouse | el | Batch 1: never 'ratón' (Spain). |
+| hit sound | translate | sonido de impacto | el | Batch 1. |
+| tooltip | keep | tooltip | el | Batch 1: in option names. |
 
 ## Marine structures
 
