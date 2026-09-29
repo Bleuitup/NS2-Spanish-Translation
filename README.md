@@ -30,9 +30,11 @@ Run `lua tools/status.lua` for current numbers and technical problems.
 
 ## Plan
 
-1. **Terminology and style** (current phase): decide how each game term is handled (keep English,
-   translate, or both) and the general style rules, in `work/terminology-decisions.xlsx`.
-2. **Style guide**: the decisions written up as one document, also used as the AI instructions.
+1. **Terminology and style** (done): decisions in `work/terminology-decisions.xlsx`, exported to
+   `work/decisions-*.tsv`.
+2. **Style guide and glossary** (done, articles to confirm): [`docs/style-guide.md`](docs/style-guide.md) and
+   [`glossary/glossary.md`](glossary/glossary.md) (source: `glossary/glossary.tsv`). Proposed articles are
+   reviewed in `work/glossary-review.xlsx`.
 3. **AI first pass, in batches**, most-seen text first: menus and options; server browser; buy
    menus, HUD and tooltips; help screen and exos; items and badges; Competitive Play; tutorial.
    Uncertain lines are flagged.
@@ -52,6 +54,9 @@ Run from the repository root. Lua 5.4 for the scripts, Excel for the workbooks.
 | `lua tools/status.lua` | Coverage numbers and technical problems (placeholders, key bindings, escapes, spacing) |
 | `lua tools/terms.lua` | Term audit: usage counts and example pairs, to `work/terminology.tsv` |
 | `powershell -ExecutionPolicy Bypass -File tools/build-terminology.ps1` | Builds `work/terminology-decisions.xlsx` from the audit and `work/style-questions.tsv` |
+| `powershell -ExecutionPolicy Bypass -File tools/export-decisions.ps1` | Exports the filled-in terminology workbook to `work/decisions-terms.tsv` and `work/decisions-style.tsv` |
+| `lua tools/build-glossary.lua` | Builds `glossary/glossary.tsv` and `glossary.md` from the decisions and later follow-ups |
+| `powershell -ExecutionPolicy Bypass -File tools/build-glossary-review.ps1` | Builds `work/glossary-review.xlsx` for confirming articles and terms |
 
 `tools/gamestrings.lua` holds the shared parser and the checks: every translation must keep the
 English line's `%s` / `%d` / `%%` placeholders, `\n` line breaks, `BIND_…` key bindings and

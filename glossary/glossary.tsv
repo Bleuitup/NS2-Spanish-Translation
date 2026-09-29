@@ -1,0 +1,152 @@
+category	english	handling	spanish	article	notes
+General	Commander	keep	Commander	el (proposed)	
+General	Marine	keep	Marine	el (proposed)	
+General	Alien	keep	Alien	el (proposed)	
+General	Kharaa	keep	Kharaa	los (proposed)	
+General	Frontiersmen	keep	Frontiersmen	los (proposed)	
+General	team resources	translate	recursos de equipo		
+General	personal resources	translate	recursos personales		
+General	resources	translate	recursos		
+General	supply	translate	suministro		
+General	round	translate	ronda		
+General	match	translate	partida		
+General	game	translate	partida	la	can't think for now of a context where juego would be distinctively preferable.
+General	team	translate	equipo		
+General	player	translate	jugador		
+General	server	translate	servidor		
+General	Ready Room	keep	Ready Room	la (proposed)	
+General	spectator	translate	espectador		
+General	rookie	translate	novato		
+General	bot	keep	bot	el (proposed)	
+General	lifeform	translate	forma de vida		
+General	structure	translate	estructura		
+General	upgrade	translate	mejora		
+General	research	translate	investigar / investigación		I don't like Desarrollar in this context. RTS games in spanish tend to use 'investigar'
+General	tech point	keep	tech point	el (proposed)	The existing tutorial already writes 'tech point'.
+General	resource node	translate	nodo de res	el	I saw "Res" used also in the translation so this could work too since res is such a common ns2 term
+General	Tech Tree	translate	árbol de tecnologías	el	
+General	badge	translate	insignia		
+General	skill	translate	nivel de habilidad	el	Player rating and bot difficulty. 'Skill Tier' = rango de habilidad; 'relative skill' = habilidad relativa. Not ELO.
+General	Quick Play	translate	partida rápida	la	
+General	Competitive Play	translate	partida competitiva	la	
+General	tutorial	translate	tutorial		
+General	Sandbox	keep	Sandbox	el (proposed)	
+General	mod	keep	mod	el (proposed)	
+Marine structures	Command Station	keep	Command Station	la (proposed)	
+Marine structures	Command Chair	keep	Command Station	la	Always 'Command Station', also where English says Command Chair (the seat).
+Marine structures	Infantry Portal	keep	Infantry Portal	el (proposed)	
+Marine structures	Armory	keep	Armory	el (proposed)	
+Marine structures	Advanced Armory	keep	Advanced Armory	el (proposed)	
+Marine structures	Arms Lab	keep	Arms Lab	el (proposed)	
+Marine structures	Observatory	keep	Observatory	el (proposed)	
+Marine structures	Phase Gate	translate	portal de fase	el	
+Marine structures	Robotics Factory	keep	Robotics Factory	la (proposed)	
+Marine structures	ARC Factory	keep	ARC Factory	la (proposed)	
+Marine structures	Prototype Lab	keep	Prototype Lab	el (proposed)	
+Marine structures	Extractor	keep	Extractor	el (proposed)	
+Marine structures	Sentry	keep	Sentry	la (proposed)	
+Marine structures	Sentry Battery	keep	Sentry Battery	la (proposed)	
+Marine structures	Power Node	keep	Power Node	el (proposed)	
+Marine units	MAC	keep	MAC	el (proposed)	
+Marine units	ARC	keep	ARC	el (proposed)	
+Marine units	Exosuit	keep	Exosuit	el (proposed)	
+Marine units	Exo	keep	Exo	el (proposed)	
+Marine units	Jetpack	keep	Jetpack	el (proposed)	
+Marine weapons	Rifle	keep	Rifle	el (proposed)	
+Marine weapons	Pistol	translate	pistola		
+Marine weapons	Axe	translate	hacha		
+Marine weapons	Welder	keep	Welder	el (proposed)	
+Marine weapons	Shotgun	translate	escopeta		
+Marine weapons	Grenade Launcher	translate	lanzagranadas		
+Marine weapons	Flamethrower	translate	lanzallamas		
+Marine weapons	Heavy Machine Gun	mixed	ametralladora pesada (HMG)		
+Marine weapons	Minigun	keep	Minigun	la (proposed)	
+Marine weapons	Railgun	keep	Railgun	la (proposed)	
+Marine weapons	Claw	translate	garra		
+Marine weapons	Plasma Launcher	translate	lanzaplasma		
+Marine weapons	Mine	translate	mina		
+Marine weapons	Cluster Grenade	translate	granada de racimo	la	
+Marine weapons	Pulse Grenade	translate	granada de pulso	la	
+Marine weapons	Nerve Gas Grenade	translate	granada de gas nervioso	la	
+Marine equipment	Med pack	keep	Med pack	el (proposed)	
+Marine equipment	Ammo pack	keep	Ammo pack	el (proposed)	
+Marine equipment	Catalyst pack	keep	Catalyst pack	el (proposed)	
+Marine equipment	Nano-shield	translate	nano-escudo		
+Marine equipment	Scan	translate	escaneo		
+Marine equipment	Distress Beacon	mixed	Beacon de emergencia	el (proposed)	
+Marine equipment	Power Surge	keep	Power Surge	la (proposed)	
+Marine research	Advanced Weaponry	translate	armamento avanzado		
+Marine research	Advanced Support	translate	soporte avanzado		
+Marine research	Phase Tech	translate	tecnología de fase		
+Marine research	Armor	translate	armadura		
+Marine research	Weapons	translate	armas		
+Exo modules	Thrusters	translate	propulsores	los	
+Exo modules	Ejection Seat	translate	asiento eyectable	el	
+Exo modules	Armor Plating	translate	placas de armadura	las	
+Exo modules	Nano Shield Field	translate	campo de nano-escudo	el	
+Exo modules	Catalyst Field	mixed	campo de catalyst	el	
+Exo modules	Regen Field	mixed	campo de regen	el	
+Alien lifeforms	Skulk	keep	Skulk	el (proposed)	
+Alien lifeforms	Gorge	keep	Gorge	el (proposed)	
+Alien lifeforms	Lerk	keep	Lerk	el (proposed)	
+Alien lifeforms	Fade	keep	Fade	el (proposed)	
+Alien lifeforms	Onos	keep	Onos	el (proposed)	
+Alien lifeforms	Embryo	translate	embrión		
+Alien lifeforms	Egg	translate	huevo		
+Alien units	Drifter	keep	Drifter	el (proposed)	
+Alien units	Hydra	keep	Hydra	la (proposed)	
+Alien units	Babbler	keep	Babbler	el (proposed)	
+Alien units	Clog	keep	Clog	el (proposed)	
+Alien units	Web	translate	telaraña		
+Alien units	Bone Wall	keep	Bone Wall	la (proposed)	
+Alien structures	Hive	keep	Hive	la (proposed)	
+Alien structures	Cyst	keep	Cyst	el (proposed)	
+Alien structures	Harvester	keep	Harvester	el (proposed)	
+Alien structures	Crag	keep	Crag	el (proposed)	
+Alien structures	Shift	keep	Shift	el (proposed)	
+Alien structures	Shade	keep	Shade	la (proposed)	
+Alien structures	Whip	keep	Whip	el (proposed)	
+Alien structures	Shell	keep	Shell	la (proposed)	
+Alien structures	Spur	keep	Spur	el (proposed)	
+Alien structures	Veil	keep	Veil	el (proposed)	
+Alien structures	Tunnel	translate	túnel		
+Alien structures	Evolution Chamber	translate	cámara de evolución	la	
+Alien structures	Contamination	translate	contaminación	la	
+Alien concepts	Infestation	translate	infestación		
+Alien concepts	Biomass	translate	biomasa	la	
+Alien concepts	evolve	translate	evolucionar		
+Alien abilities	Bite	translate	Mordida	la	Ability name 'Mordida'; the verb is morder.
+Alien abilities	Leap	translate	Salto	el	
+Alien abilities	Parasite	translate	parásito	el	
+Alien abilities	Xenocide	keep	Xenocide	el (proposed)	
+Alien abilities	Spit	translate	Escupitajo	el	Ability name 'Escupitajo'; the verb is escupir.
+Alien abilities	Heal Spray	mixed	spray de curación	el	
+Alien abilities	Bile Bomb	keep	Bile Bomb	la (proposed)	
+Alien abilities	Spikes	translate	espinas	las	
+Alien abilities	Spores	translate	esporas	las	
+Alien abilities	Umbra	keep	Umbra	la (proposed)	
+Alien abilities	Swipe	translate	Zarpazo	el	
+Alien abilities	Blink	keep	Blink	el (proposed)	
+Alien abilities	Metabolize	keep	Metabolize	el (proposed)	
+Alien abilities	Stab	keep	Stab	la (proposed)	
+Alien abilities	Gore	translate	Cornada	la	
+Alien abilities	Stomp	translate	Pisotón	el	
+Alien abilities	Charge	keep	Charge	la	Ability name stays 'Charge'; the verb is translated: cargar / embestir.
+Alien abilities	Bone Shield	keep	Bone Shield	el (proposed)	
+Alien abilities	Enzyme	translate	enzima		
+Alien abilities	Mucous Membrane	translate	membrana mucosa		
+Alien abilities	Hallucination	translate	alucinación		
+Alien abilities	Cloaking Haze	translate	bruma de ocultamiento		
+Alien abilities	Nutrient Mist	translate	neblina de nutrientes		
+Alien abilities	Rupture	translate	ruptura		
+Alien abilities	Echo	translate	eco		
+Alien abilities	Ink	translate	tinta		
+Alien upgrades	Carapace	translate	caparazón		
+Alien upgrades	Regeneration	translate	regeneración		
+Alien upgrades	Vampirism	translate	vampirismo		
+Alien upgrades	Camouflage	translate	camuflaje		
+Alien upgrades	Aura	keep	Aura	el (proposed)	
+Alien upgrades	Focus	translate	foco		
+Alien upgrades	Celerity	translate	celeridad		
+Alien upgrades	Adrenaline	translate	adrenalina		
+Alien upgrades	Crush	translate	Aplastamiento	el	
