@@ -1,0 +1,116 @@
+MENU_ADVANCED	AVANZADO
+MENU_APPLY	APLICAR
+MENU_BACKGROUND	FONDO DE MENÚ
+MENU_BACKGROUND_DEFAULT	Fondo predeterminado
+MENU_BACKGROUND_RANDOM	Fondo aleatorio
+MENU_BACKGROUND_DERELICT	Derelict		Map name, kept in English.
+MENU_BACKGROUND_ECLIPSE	Eclipse		Map name.
+MENU_BACKGROUND_KODIAK	Kodiak		Map name.
+MENU_BACKGROUND_BIODOME	Biodome		Map name.
+MENU_BACKGROUND_DESCENT	Descent		Map name.
+MENU_BACKGROUND_DOCKING	Docking		Map name.
+MENU_BACKGROUND_METRO	Metro		Map name.
+MENU_BACKGROUND_MINESHAFT	Mineshaft		Map name.
+MENU_BACKGROUND_ORIGIN	Origin		Map name.
+MENU_BACKGROUND_REFINERY	Refinery		Map name.
+MENU_BACKGROUND_SUMMIT	Summit		Map name.
+MENU_BACKGROUND_TANITH	Tanith		Map name.
+MENU_BACKGROUND_TRAM	Tram		Map name.
+MENU_BACKGROUND_VEIL	Veil		Map name.
+MENU_BACKGROUND_CAGED	Caged		Map name.
+MENU_BACKGROUND_UNEARTHED	Unearthed		Map name.
+MENU_CHALLENGES	DESAFÍOS
+MENU_CREATE	CREAR
+MENU_CREATE_GAME	CREAR PARTIDA
+MENU_CREDITS	CRÉDITOS
+MENU_CUSTOMIZE_PLAYER	PERSONALIZAR JUGADOR
+MENU_DISCONNECT	DESCONECTAR
+MENU_END_RUN	TERMINAR INTENTO	CHECK	"Run" = one attempt at a challenge (Skulk/Hive challenge).
+MENU_EXIT	SALIR
+MENU_FPS	FPS: %.0f		Same as English.
+MENU_GO_TO_READY_ROOM	IR A LA READY ROOM
+MENU_INFESTATION	INFESTACIÓN
+MENU_INFESTATION_TOOLTIP	Calidad de la infestación cerca de las estructuras alien.
+MENU_JOIN_GAME	BUSCAR PARTIDA		Existing kept: it opens the server list.
+MENU_LEVEL	Nivel: %s
+MENU_NEXT_LEVEL	Hasta nivel %s
+MENU_MANAGE_MODS	ADMINISTRAR MODS
+MENU_MODS	MODS
+MENU_MODS_MANAGEMENT_DISABLED_TOOLTIP	Los mods no se pueden administrar durante una partida.
+MENU_MUSIC	MÚSICA DE MENÚ
+MENU_MUSIC_DEFAULT	MÚSICA PREDETERMINADA
+MENU_MUSIC_RANDOM	MÚSICA ALEATORIA
+MENU_MUSIC_ECLIPSE_REMIX	ECLIPSE REMIX		Track name.
+MENU_MUSIC_EXO	EXO		Track name.
+MENU_MUSIC_BETA	BETA		Track name.
+MENU_MUSIC_NS1	NATURAL SELECTION 1		Track name.
+MENU_MUSIC_FRONTIERSMEN	FRONTIERSMEN		Track name.
+MENU_OPTIONS	OPCIONES
+MENU_ORGANIZED_PLAY	JUEGO ORGANIZADO	CHECK	Existing kept. Alternative: PARTIDAS ORGANIZADAS.
+MENU_PLAY	JUGAR
+MENU_PLAY_NOW	JUGAR AHORA
+MENU_QUICK_JOIN	UNIRSE RÁPIDO	FIX	Was PARTIDA RÁPIDA, which is now the name for Quick Play (glossary).
+MENU_RESTART_CHALLENGE	REINICIAR DESAFÍO
+MENU_RESTART_RUN	REINICIAR INTENTO	CHECK	See MENU_END_RUN.
+MENU_RESUME_GAME	CONTINUAR PARTIDA
+MENU_RETURN	VOLVER
+MENU_MATCHED_PLAY	PARTIDA COMPETITIVA		Glossary: Competitive Play.
+MENU_SERVER_BROWSER	SERVIDORES DE LA COMUNIDAD	FIX	English changed from SERVER BROWSER to COMMUNITY SERVERS; the old Spanish still said BUSCADOR DE SERVIDORES.
+MENU_START_LISTEN_SERVER	INICIAR SERVIDOR LOCAL	FIX	Was left in English (START LISTEN SERVER).
+MENU_TOOLTIP_ALTERNATE_NICKNAME	Usa un apodo alternativo en lugar de tu nombre de Steam.
+MENU_TRAINING	ENTRENAMIENTO
+MENU_UPDATED	¡ACTUALIZADO!	FIX	Missing ¡.
+MENU_VOTE	VOTAR
+MENU_WORKSHOP	WORKSHOP		Steam Workshop is a brand name.
+MENU_WORKSHOP_TOOLTIP	Explorar el Steam Workshop
+MENU_WORKSHOP_DISABLED_TOOLTIP	Ver mods en el Steam Workshop (no se puede abrir durante la partida: la interfaz de Steam en el juego está desactivada)		"Steam overlay" is called "interfaz de Steam en el juego" in Steam's own Spanish.
+MENU_LABEL_BETA	BETA
+MENU_LABEL_BETA2	BETA v2
+MENU_LABEL_BETA3	BETA v3
+JOIN_ERROR_ROOKIE	¡Necesitas completar el tutorial antes de jugar!	FIX	Missing ¡; "pasar" → "completar".
+JOIN_ERROR_NO_PLAYER_SLOT_LEFT	No hay lugares libres para jugadores en este momento. Puedes seguir como espectador.
+JOIN_ERROR_TOO_MANY	Hay demasiados jugadores en este equipo. Puedes esperar o unirte al otro equipo.
+JOIN_ERROR_VETERAN	Este es un servidor de bootcamp. Tienes demasiada experiencia para jugar aquí.		"Too skilled" → "demasiada experiencia" reads more naturally than "demasiada habilidad".
+JOIN_ALIENS	Unirse a los Aliens
+JOIN_MARINES	Unirse a los Marines
+JOIN_SPECTATE	Observar	CHECK	Alternatives: "Ser espectador", "Modo espectador".
+PLAY_BOOTCAMP	BOOTCAMP	CHECK	Name of the rookie server mode; kept in English. Alternative: ENTRENAMIENTO BÁSICO.
+PLAY_HIVE_CHALLENGE	DESAFÍO DE LA HIVE
+PLAY_SKULK_CHALLENGE	DESAFÍO DEL SKULK
+PLAY_MENU_ARCADE	ARCADE
+PLAY_MENU_ARCADE_DESCRIPTION	¡Juega otros modos de juego!
+PLAY_MENU_BACK_DESCRIPTION	Volver al menú principal
+PLAY_MENU_QUICK_PLAY	PARTIDA RÁPIDA		Glossary: Quick Play.
+PLAY_MENU_QUICK_PLAY_DESCRIPTION	¡Encuentra un servidor automáticamente y únete a la acción!
+PLAY_MENU_SERVER_BROWSER_LINE_1	BUSCADOR	CHECK	The button is split over two lines: BUSCADOR / DE SERVIDORES.
+PLAY_MENU_SERVER_BROWSER_LINE_2	DE SERVIDORES	CHECK	Second line of the button; longer than BROWSER.
+PLAY_MENU_SERVER_BROWSER_DESCRIPTION	Elige de una lista de servidores
+PLAY_MENU_TRAINING	ENTRENAMIENTO
+PLAY_MENU_TRAINING_DESCRIPTION	Repasa lo básico
+PLAY_NOW	Jugar ahora
+PLAY_SANDBOX	JUGAR SANDBOX
+PLAY_SANDBOX_DESCRIPTION	Pon a prueba tus habilidades y aprende los detalles de NS2 junto a otros jugadores nuevos.
+PLAY_TUT	JUGAR TUTORIAL
+PLAY_TUT_ANYWAYS	JUGAR DE TODOS MODOS
+PLAY_TUT_OUT_OF_ORDER_MESSAGE	Aún no completaste el %s. ¿Seguro que quieres jugar los tutoriales en otro orden?	CHECK	%s is one of the PLAY_TUTx_LOWER names ("tutorial de Marine"), so they are written without an article. "Aún no completaste" is the Latin American preterite; neutral alternative: "Aún no has completado".
+PLAY_TUT_PLAY_FIRST	JUGAR PRIMERO
+PLAY_TUT1	TUTORIAL DE MARINE
+PLAY_TUT1_LOWER	tutorial de Marine		Used inside PLAY_TUT_OUT_OF_ORDER_MESSAGE.
+PLAY_TUT1_DESCRIPTION	Toma un arma y aprende lo básico para ser un Marine eficaz.
+PLAY_TUT2	TUTORIAL DE ALIEN
+PLAY_TUT2_LOWER	tutorial de Alien
+PLAY_TUT2_DESCRIPTION	Hinca el diente a lo básico del juego como Alien.	CHECK	English pun ("sink your teeth into"). Plainer alternative: "Aprende lo básico del juego como Alien."
+PLAY_TUT3	TUTORIAL DE COMMANDER MARINE
+PLAY_TUT3_LOWER	tutorial de Commander Marine
+PLAY_TUT3_DESCRIPTION	Aprende a usar la interfaz del Commander y da tus primeros pasos para llevar a un equipo de Marines a la victoria.
+PLAY_TUT4	TUTORIAL DE COMMANDER ALIEN
+PLAY_TUT4_LOWER	tutorial de Commander Alien
+PLAY_TUT4_DESCRIPTION	Aprende lo básico del rol de Commander Alien. Recomendamos completar primero el tutorial de Commander Marine.
+SERVERBROWSER_CREATE_ADD_BOTS	AGREGAR BOTS
+SERVERBROWSER_CREATE_PASSWORD	CONTRASEÑA [OPCIONAL]
+SERVERBROWSER_CREATE_PLAYER_LIMIT	LÍMITE DE JUGADORES
+SERVERBROWSER_CREATE_PORT	PUERTO [OPCIONAL]
+SERVERBROWSER_CREATE_LOAD_HOTFIXM_MODS	CARGAR MODS DE HOTFIX
+SERVERBROWSER_FILTER_GAMEMODE_OTHERS	%{amount}d OTRO(S)...
+SERVERBROWSER_MAP	MAPA
+SERVERBROWSER_SERVERNAME	NOMBRE DEL SERVIDOR	FIX	"DE SERVIDOR" → "DEL SERVIDOR".

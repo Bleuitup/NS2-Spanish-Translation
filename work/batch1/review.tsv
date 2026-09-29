@@ -1,0 +1,567 @@
+Menus	MENU_ADVANCED	ADVANCED		AVANZADO	New			
+Menus	MENU_APPLY	APPLY	APLICAR	APLICAR	Kept			
+Menus	MENU_BACKGROUND	MENU BACKGROUND	FONDO DE MENÚ	FONDO DE MENÚ	Kept			
+Menus	MENU_BACKGROUND_DEFAULT	Default Background		Fondo predeterminado	New			
+Menus	MENU_BACKGROUND_RANDOM	Random Background		Fondo aleatorio	New			
+Menus	MENU_BACKGROUND_DERELICT	Derelict		Derelict	New		Map name, kept in English.	
+Menus	MENU_BACKGROUND_ECLIPSE	Eclipse		Eclipse	New		Map name.	
+Menus	MENU_BACKGROUND_KODIAK	Kodiak		Kodiak	New		Map name.	
+Menus	MENU_BACKGROUND_BIODOME	Biodome		Biodome	New		Map name.	
+Menus	MENU_BACKGROUND_DESCENT	Descent		Descent	New		Map name.	
+Menus	MENU_BACKGROUND_DOCKING	Docking		Docking	New		Map name.	
+Menus	MENU_BACKGROUND_METRO	Metro		Metro	New		Map name.	
+Menus	MENU_BACKGROUND_MINESHAFT	Mineshaft		Mineshaft	New		Map name.	
+Menus	MENU_BACKGROUND_ORIGIN	Origin		Origin	New		Map name.	
+Menus	MENU_BACKGROUND_REFINERY	Refinery		Refinery	New		Map name.	
+Menus	MENU_BACKGROUND_SUMMIT	Summit		Summit	New		Map name.	
+Menus	MENU_BACKGROUND_TANITH	Tanith		Tanith	New		Map name.	
+Menus	MENU_BACKGROUND_TRAM	Tram		Tram	New		Map name.	
+Menus	MENU_BACKGROUND_VEIL	Veil		Veil	New		Map name.	
+Menus	MENU_BACKGROUND_CAGED	Caged		Caged	New		Map name.	
+Menus	MENU_BACKGROUND_UNEARTHED	Unearthed		Unearthed	New		Map name.	
+Menus	MENU_CHALLENGES	CHALLENGES		DESAFÍOS	New			
+Menus	MENU_CREATE	CREATE	CREAR	CREAR	Kept			
+Menus	MENU_CREATE_GAME	CREATE GAME	CREAR PARTIDA	CREAR PARTIDA	Kept			
+Menus	MENU_CREDITS	CREDITS	CRÉDITOS	CRÉDITOS	Kept			
+Menus	MENU_CUSTOMIZE_PLAYER	CUSTOMIZE PLAYER	PERSONALIZAR JUGADOR	PERSONALIZAR JUGADOR	Kept			
+Menus	MENU_DISCONNECT	DISCONNECT	DESCONECTAR	DESCONECTAR	Kept			
+Menus	MENU_END_RUN	END RUN		TERMINAR INTENTO	New	CHECK	"Run" = one attempt at a challenge (Skulk/Hive challenge).	length: 16 chars vs 7 in English
+Menus	MENU_EXIT	EXIT	SALIR	SALIR	Kept			
+Menus	MENU_FPS	FPS: %.0f		FPS: %.0f	New		Same as English.	
+Menus	MENU_GO_TO_READY_ROOM	GO TO READY ROOM	IR A LA READY ROOM	IR A LA READY ROOM	Kept			
+Menus	MENU_INFESTATION	INFESTATION		INFESTACIÓN	New			
+Menus	MENU_INFESTATION_TOOLTIP	Quality of infestation near alien structures.		Calidad de la infestación cerca de las estructuras alien.	New			
+Menus	MENU_JOIN_GAME	JOIN GAME	BUSCAR PARTIDA	BUSCAR PARTIDA	Kept		Existing kept: it opens the server list.	
+Menus	MENU_LEVEL	Level: %s	Nivel: %s	Nivel: %s	Kept			
+Menus	MENU_NEXT_LEVEL	Until Level %s	Hasta nivel %s	Hasta nivel %s	Kept			
+Menus	MENU_MANAGE_MODS	MANAGE MODS		ADMINISTRAR MODS	New			
+Menus	MENU_MODS	MODS		MODS	New			
+Menus	MENU_MODS_MANAGEMENT_DISABLED_TOOLTIP	Mods cannot be managed while in-game.		Los mods no se pueden administrar durante una partida.	New			
+Menus	MENU_MUSIC	MENU MUSIC	MÚSICA DE MENÚ	MÚSICA DE MENÚ	Kept			
+Menus	MENU_MUSIC_DEFAULT	DEFAULT MUSIC		MÚSICA PREDETERMINADA	New			
+Menus	MENU_MUSIC_RANDOM	RANDOM MUSIC		MÚSICA ALEATORIA	New			
+Menus	MENU_MUSIC_ECLIPSE_REMIX	ECLIPSE REMIX		ECLIPSE REMIX	New		Track name.	
+Menus	MENU_MUSIC_EXO	EXO		EXO	New		Track name.	
+Menus	MENU_MUSIC_BETA	BETA		BETA	New		Track name.	
+Menus	MENU_MUSIC_NS1	NATURAL SELECTION 1		NATURAL SELECTION 1	New		Track name.	
+Menus	MENU_MUSIC_FRONTIERSMEN	FRONTIERSMEN		FRONTIERSMEN	New		Track name.	
+Menus	MENU_OPTIONS	OPTIONS	OPCIONES	OPCIONES	Kept			
+Menus	MENU_ORGANIZED_PLAY	ORGANIZED PLAY	JUEGO ORGANIZADO	JUEGO ORGANIZADO	Kept	CHECK	Existing kept. Alternative: PARTIDAS ORGANIZADAS.	
+Menus	MENU_PLAY	PLAY		JUGAR	New			
+Menus	MENU_PLAY_NOW	PLAY NOW	JUGAR AHORA	JUGAR AHORA	Kept			
+Menus	MENU_QUICK_JOIN	QUICK JOIN	PARTIDA RÁPIDA	UNIRSE RÁPIDO	Fixed	FIX	Was PARTIDA RÁPIDA, which is now the name for Quick Play (glossary).	
+Menus	MENU_RESTART_CHALLENGE	RESTART CHALLENGE		REINICIAR DESAFÍO	New			
+Menus	MENU_RESTART_RUN	RESTART RUN		REINICIAR INTENTO	New	CHECK	See MENU_END_RUN.	
+Menus	MENU_RESUME_GAME	RESUME GAME	CONTINUAR PARTIDA	CONTINUAR PARTIDA	Kept			
+Menus	MENU_RETURN	RETURN	VOLVER	VOLVER	Kept			
+Menus	MENU_MATCHED_PLAY	COMPETITIVE PLAY		PARTIDA COMPETITIVA	New		Glossary: Competitive Play.	
+Menus	MENU_SERVER_BROWSER	COMMUNITY SERVERS	BUSCADOR DE SERVIDORES	SERVIDORES DE LA COMUNIDAD	Fixed	FIX	English changed from SERVER BROWSER to COMMUNITY SERVERS; the old Spanish still said BUSCADOR DE SERVIDORES.	
+Menus	MENU_START_LISTEN_SERVER	START LOCAL SERVER	START LISTEN SERVER	INICIAR SERVIDOR LOCAL	Fixed	FIX	Was left in English (START LISTEN SERVER).	
+Menus	MENU_TOOLTIP_ALTERNATE_NICKNAME	Use an alternate nickname, rather than your Steam name.		Usa un apodo alternativo en lugar de tu nombre de Steam.	New			
+Menus	MENU_TRAINING	TRAINING	ENTRENAMIENTO	ENTRENAMIENTO	Kept			
+Menus	MENU_UPDATED	UPDATED!	ACTUALIZADO!	¡ACTUALIZADO!	Fixed	FIX	Missing ¡.	
+Menus	MENU_VOTE	VOTE	VOTAR	VOTAR	Kept			
+Menus	MENU_WORKSHOP	WORKSHOP		WORKSHOP	New		Steam Workshop is a brand name.	
+Menus	MENU_WORKSHOP_TOOLTIP	Browse the Steam Workshop		Explorar el Steam Workshop	New			
+Menus	MENU_WORKSHOP_DISABLED_TOOLTIP	View the steam workshop for mods (cannot open in-game, Steam overlay is disabled)		Ver mods en el Steam Workshop (no se puede abrir durante la partida: la interfaz de Steam en el juego está desactivada)	New		"Steam overlay" is called "interfaz de Steam en el juego" in Steam's own Spanish.	
+Menus	MENU_LABEL_BETA	BETA		BETA	New			
+Menus	MENU_LABEL_BETA2	BETA v2		BETA v2	New			
+Menus	MENU_LABEL_BETA3	BETA v3		BETA v3	New			
+Play menu	JOIN_ERROR_ROOKIE	You have to play the tutorial before being able to play!	Necesitas pasar el tutorial antes de jugar!	¡Necesitas completar el tutorial antes de jugar!	Fixed	FIX	Missing ¡; "pasar" → "completar".	
+Play menu	JOIN_ERROR_NO_PLAYER_SLOT_LEFT	There are currently no player slots available. You can continue to spectate.		No hay lugares libres para jugadores en este momento. Puedes seguir como espectador.	New			
+Play menu	JOIN_ERROR_TOO_MANY	There are too many players on this team. You can wait or join another team.	Hay demasiados jugadores en este equipo. Puedes esperar o unirte al otro equipo.	Hay demasiados jugadores en este equipo. Puedes esperar o unirte al otro equipo.	Kept			
+Play menu	JOIN_ERROR_VETERAN	This is a bootcamp server. You are too skilled to play here.		Este es un servidor de bootcamp. Tienes demasiada experiencia para jugar aquí.	New		"Too skilled" → "demasiada experiencia" reads more naturally than "demasiada habilidad".	
+Play menu	JOIN_ALIENS	Join Aliens		Unirse a los Aliens	New			
+Play menu	JOIN_MARINES	Join Marines		Unirse a los Marines	New			
+Play menu	JOIN_SPECTATE	Spectate		Observar	New	CHECK	Alternatives: "Ser espectador", "Modo espectador".	
+Play menu	PLAY_BOOTCAMP	BOOTCAMP		BOOTCAMP	New	CHECK	Name of the rookie server mode; kept in English. Alternative: ENTRENAMIENTO BÁSICO.	
+Play menu	PLAY_HIVE_CHALLENGE	HIVE CHALLENGE		DESAFÍO DE LA HIVE	New			
+Play menu	PLAY_SKULK_CHALLENGE	SKULK CHALLENGE		DESAFÍO DEL SKULK	New			
+Play menu	PLAY_MENU_ARCADE	ARCADE		ARCADE	New			
+Play menu	PLAY_MENU_ARCADE_DESCRIPTION	Play some alternate gamemodes!		¡Juega otros modos de juego!	New			
+Play menu	PLAY_MENU_BACK_DESCRIPTION	Go back to the main menu		Volver al menú principal	New			
+Play menu	PLAY_MENU_QUICK_PLAY	QUICK PLAY		PARTIDA RÁPIDA	New		Glossary: Quick Play.	
+Play menu	PLAY_MENU_QUICK_PLAY_DESCRIPTION	Automatically find a server and join the action!		¡Encuentra un servidor automáticamente y únete a la acción!	New			
+Play menu	PLAY_MENU_SERVER_BROWSER_LINE_1	SERVER		BUSCADOR	New	CHECK	The button is split over two lines: BUSCADOR / DE SERVIDORES.	
+Play menu	PLAY_MENU_SERVER_BROWSER_LINE_2	BROWSER		DE SERVIDORES	New	CHECK	Second line of the button; longer than BROWSER.	
+Play menu	PLAY_MENU_SERVER_BROWSER_DESCRIPTION	Choose from a list of servers		Elige de una lista de servidores	New			
+Play menu	PLAY_MENU_TRAINING	TRAINING		ENTRENAMIENTO	New			
+Play menu	PLAY_MENU_TRAINING_DESCRIPTION	Brush up on the basics		Repasa lo básico	New			
+Play menu	PLAY_NOW	Play Now	Jugar ahora	Jugar ahora	Kept			
+Play menu	PLAY_SANDBOX	PLAY SANDBOX	JUGAR SANDBOX	JUGAR SANDBOX	Kept			
+Play menu	PLAY_SANDBOX_DESCRIPTION	Test your skills and learn the intricacies of NS2 along with other new players.		Pon a prueba tus habilidades y aprende los detalles de NS2 junto a otros jugadores nuevos.	New			
+Play menu	PLAY_TUT	PLAY TUTORIAL	JUGAR TUTORIAL	JUGAR TUTORIAL	Kept			
+Play menu	PLAY_TUT_ANYWAYS	PLAY ANYWAY		JUGAR DE TODOS MODOS	New			length: 20 chars vs 11 in English
+Play menu	PLAY_TUT_OUT_OF_ORDER_MESSAGE	The %s hasn't been completed yet.  Are you sure you want to play the tutorials out of order?		Aún no completaste el %s. ¿Seguro que quieres jugar los tutoriales en otro orden?	New	CHECK	%s is one of the PLAY_TUTx_LOWER names ("tutorial de Marine"), so they are written without an article. "Aún no completaste" is the Latin American preterite; neutral alternative: "Aún no has completado".	
+Play menu	PLAY_TUT_PLAY_FIRST	PLAY FIRST		JUGAR PRIMERO	New			
+Play menu	PLAY_TUT1	MARINE TUTORIAL		TUTORIAL DE MARINE	New			
+Play menu	PLAY_TUT1_LOWER	Marine tutorial		tutorial de Marine	New		Used inside PLAY_TUT_OUT_OF_ORDER_MESSAGE.	
+Play menu	PLAY_TUT1_DESCRIPTION	Grab a gun and learn the basics of how to be an effective Marine.		Toma un arma y aprende lo básico para ser un Marine eficaz.	New			
+Play menu	PLAY_TUT2	ALIEN TUTORIAL		TUTORIAL DE ALIEN	New			
+Play menu	PLAY_TUT2_LOWER	Alien tutorial		tutorial de Alien	New			
+Play menu	PLAY_TUT2_DESCRIPTION	Sink your teeth into the basics of Alien gameplay.		Hinca el diente a lo básico del juego como Alien.	New	CHECK	English pun ("sink your teeth into"). Plainer alternative: "Aprende lo básico del juego como Alien."	
+Play menu	PLAY_TUT3	MARINE COMMANDER TUTORIAL		TUTORIAL DE COMMANDER MARINE	New			
+Play menu	PLAY_TUT3_LOWER	Marine commander tutorial		tutorial de Commander Marine	New			
+Play menu	PLAY_TUT3_DESCRIPTION	Learn how to use the commander interface and take your first steps towards leading a marine team to victory.		Aprende a usar la interfaz del Commander y da tus primeros pasos para llevar a un equipo de Marines a la victoria.	New			
+Play menu	PLAY_TUT4	ALIEN COMMANDER TUTORIAL		TUTORIAL DE COMMANDER ALIEN	New			
+Play menu	PLAY_TUT4_LOWER	Alien commander tutorial		tutorial de Commander Alien	New			
+Play menu	PLAY_TUT4_DESCRIPTION	Learn the basics of the alien commander role.  We recommend completing the marine commander tutorial first.		Aprende lo básico del rol de Commander Alien. Recomendamos completar primero el tutorial de Commander Marine.	New			
+Play menu	SERVERBROWSER_CREATE_ADD_BOTS	ADD BOTS		AGREGAR BOTS	New			
+Play menu	SERVERBROWSER_CREATE_PASSWORD	PASSWORD [OPTIONAL]	CONTRASEÑA [OPCIONAL]	CONTRASEÑA [OPCIONAL]	Kept			
+Play menu	SERVERBROWSER_CREATE_PLAYER_LIMIT	PLAYER LIMIT	LÍMITE DE JUGADORES	LÍMITE DE JUGADORES	Kept			
+Play menu	SERVERBROWSER_CREATE_PORT	PORT [OPTIONAL]	PUERTO [OPCIONAL]	PUERTO [OPCIONAL]	Kept			
+Play menu	SERVERBROWSER_CREATE_LOAD_HOTFIXM_MODS	LOAD HOTFIX MODS		CARGAR MODS DE HOTFIX	New			
+Play menu	SERVERBROWSER_FILTER_GAMEMODE_OTHERS	%{amount}d OTHER(S)...		%{amount}d OTRO(S)...	New			
+Play menu	SERVERBROWSER_MAP	MAP	MAPA	MAPA	Kept			
+Play menu	SERVERBROWSER_SERVERNAME	SERVER NAME	NOMBRE DE SERVIDOR	NOMBRE DEL SERVIDOR	Fixed	FIX	"DE SERVIDOR" → "DEL SERVIDOR".	
+Options	ACCELERATION_AMOUNT	ACCELERATION AMOUNT	CANTIDAD DE ACELERACIÓN	CANTIDAD DE ACELERACIÓN	Kept			
+Options	ACCELERATION_AMOUNT_TOOLTIP	How strong the effect of mouse acceleration should be.  A value of 1.0 has the same effect as being turned off.		Qué tan fuerte es el efecto de la aceleración del mouse. Un valor de 1.0 equivale a tenerla desactivada.	New		"Qué tan" is the Latin American form (Spain: "cuánto").	
+Options	ALIEN_STRUCTURE_PLACEMENT	SEARCH ALIEN STRUCTURE POSITIONS		BUSCAR POSICIONES PARA ESTRUCTURAS ALIEN	New			
+Options	AMBIENT_OCCLUSION	AMBIENT OCCLUSION	OCLUSIÓN AMBIENTAL	OCLUSIÓN AMBIENTAL	Kept			
+Options	AMBIENT_OCCLUSION_TOOLTIP	Dark corners receive less light than open spaces.		Los rincones oscuros reciben menos luz que los espacios abiertos.	New			
+Options	AMBIENT_VOLUME	AMBIENT VOLUME		VOLUMEN AMBIENTAL	New			
+Options	AMBIENT_VOLUME_TOOLTIP	Adjusts a map's ambient sound volume. This acts as a percentage multiplier for your regular sound volume.		Ajusta el volumen del sonido ambiental del mapa. Funciona como un porcentaje de tu volumen de sonido normal.	New			
+Options	ANTI_ALIASING	ANTI-ALIASING	ANTIALIASING	ANTIALIASING	Kept			
+Options	ATMOSPHERICS	ATMOSPHERICS	LUCES ATMOSFÉRICAS	LUCES ATMOSFÉRICAS	Kept			
+Options	ATMOSPHERICS_TOOLTIP	Some lights emit a subtle \"Godrays\" effect.		Algunas luces emiten un sutil efecto de \"rayos de luz\" (godrays).	New			
+Options	ATMO_DENSITY	ATMOSPHERICS DENSITY	DENSIDAD ATMOSFERICA	DENSIDAD ATMOSFÉRICA	Fixed	FIX	Missing accent (ATMOSFERICA).	
+Options	ATMO_DENSITY_TOOLTIP	Strength of the atmospheric effects (changes only visible in-game).		Intensidad de los efectos atmosféricos (los cambios solo se ven durante la partida).	New			
+Options	ATMO_QUALITY	ATMOSPHERICS QUALITY		CALIDAD ATMOSFÉRICA	New			
+Options	ATMO_QUALITY_TT	The resolution that atmospheric effects are rendered at.  Not for the faint-of-heart, the \"extreme\" setting earns every inch of that name.		La resolución a la que se generan los efectos atmosféricos. No es para los débiles de corazón: la opción \"extremo\" se gana cada centímetro de su nombre.	New	CHECK	Joke kept; "extremo" matches the translation of EXTREME.	
+Options	BACK	BACK	ATRÁS	ATRÁS	Kept			
+Options	BLOOM	BLOOM		BLOOM	New		Standard graphics term, left in English as most Spanish games do.	
+Options	BLOOM_TOOLTIP	Bright objects will glow slightly.		Los objetos brillantes resplandecen levemente.	New			
+Options	BLUEPRINT_ROTATION_SHIFT_KEY	SHIFT KEY ROTATES BLUEPRINTS		SHIFT ROTA LOS PLANOS	New		"Blueprint" = the ghost of a structure being placed; "plano" is the usual term.	
+Options	COLORBLIND_MODE	COLORBLIND MODE	Colorblind Mode	MODO DALTÓNICO	Fixed	FIX	Was left in English ("Colorblind Mode") and not in capitals.	
+Options	COLORBLIND_PROTANOPIA	PROTANOPIA	Protanopia	PROTANOPÍA	Fixed	FIX	Capitals, accent.	
+Options	COLORBLIND_DEUTERANOPIA	DEUTERANOPIA	Deuteranopia	DEUTERANOPÍA	Fixed	FIX	Capitals, accent.	
+Options	COLORBLIND_TRITANOPIA	TRITANOPIA	Tritanopia	TRITANOPÍA	Fixed	FIX	Capitals, accent.	
+Options	COMBAT_AND_INTERACTION	COMBAT & INTERACTION		COMBATE E INTERACCIÓN	New			
+Options	COMMUNICATION_AND_INFORMATION	COMMUNICATION & INFORMATION		COMUNICACIÓN E INFORMACIÓN	New			
+Options	CONTROLS	CONTROLS		CONTROLES	New			
+Options	DAMAGE_NUMBERS	SHOW DAMAGE NUMBERS		MOSTRAR NÚMEROS DE DAÑO	New			
+Options	DECAL	DECAL LIFE TIME	DURACIÓN DE TEXTURAS DE IMPACTOS	DURACIÓN DE LAS MARCAS	Fixed	CHECK	Existing: DURACIÓN DE TEXTURAS DE IMPACTOS (long). Decals include bullet holes and alien spit, not only impacts.	
+Options	DECAL_LIFETIME_TOOLTIP	How much time (in minutes) before decal effects like bullet holes or alien spit fade away.		Cuánto tiempo (en minutos) tardan en desaparecer marcas como agujeros de bala o el escupitajo alien.	New			
+Options	DEFAULT	DEFAULT		PREDETERMINADO	New			
+Options	DISABLED	DISABLED	DESACTIVADO	DESACTIVADO	Kept			
+Options	DISPLAY	DISPLAY	MONITOR	MONITOR	Kept			
+Options	DOUBLE_BUFFERED	DOUBLE BUFFERED	DOBLE BÚFER	DOBLE BÚFER	Kept			
+Options	ENEMY_HEALTH_BARS	SHOW ENEMY HEALTH	Mostrar vida del enemigo	MOSTRAR VIDA DEL ENEMIGO	Fixed	FIX	Was not in capitals like the other labels.	
+Options	DUAL_FLAMETHROWER_FIRING_SYNC	DUAL FLAMETHROWER FIRING SYNC		DISPARO SINCRONIZADO DE DOBLE LANZALLAMAS	New			
+Options	DUAL_MINIGUN_FIRING_SYNC	DUAL MINIGUN FIRING SYNC		DISPARO SINCRONIZADO DE DOBLE MINIGUN	New			
+Options	DUAL_PLASMA_LAUNCHER_FIRING_SYNC	DUAL PLASMA LAUNCHER FIRING SYNC		DISPARO SINCRONIZADO DE DOBLE LANZAPLASMA	New			
+Options	EXTREME	EXTREME		EXTREMO	New			
+Options	FOG	FOG		NIEBLA	New			
+Options	FOV_ADJUSTMENT	FOV ADJUSTMENT	AJUSTE DE CAMPO VISUAL (FOV)	AJUSTE DE CAMPO VISUAL (FOV)	Kept			length: 28 chars vs 14 in English
+Options	FOV_ADJUSTMENT_TOOLTIP	Increase for a wider-angle view of the battlefield!		¡Aumenta para ver el campo de batalla con un ángulo más amplio!	New			
+Options	GAME_RESTART_REQUIRED	Game restart required	Reinicio del juego requerido	Es necesario reiniciar el juego	Fixed	FIX	Existing "Reinicio del juego requerido" is a literal calque.	
+Options	GENERAL	GENERAL		GENERAL	New			
+Options	GPU_MEMORY	GPU MEMORY		MEMORIA DE GPU	New			
+Options	GRAPHICS	GRAPHICS	GRÁFICOS	GRÁFICOS	Kept			
+Options	HELP_SCREEN	HELP SCREEN		PANTALLA DE AYUDA	New			
+Options	HIGH	HIGH	ALTO	ALTO	Kept			
+Options	HIT_SOUND_VOLUME	HIT SOUND VOLUME	VOLUMEN DE HITSOUNDS	VOLUMEN DEL SONIDO DE IMPACTO	Fixed	FIX	Was VOLUMEN DE HITSOUNDS (English word).	length: 29 chars vs 16 in English
+Options	HIT_SOUND_PITCH	HIT SOUND PITCH		TONO DEL SONIDO DE IMPACTO	New			length: 26 chars vs 15 in English
+Options	HIT_SOUND_PITCH_TOOLTIP	Adjusts the baseline pitch for hitsounds.		Ajusta el tono base del sonido de impacto.	New			
+Options	HUD_DETAIL	HUD DETAIL	DETALLE DE INTERFAZ	DETALLE DE INTERFAZ	Kept			length: 19 chars vs 10 in English
+Options	HUD_DETAIL_TOOLTIP	Adjust the amount of elements present in the Heads Up Display.		Ajusta la cantidad de elementos que se muestran en la interfaz (HUD).	New			
+Options	IMPROVED_ROTATION_PLACEMENT	IMPROVED ROTATION PLACEMENT		COLOCACIÓN CON ROTACIÓN MEJORADA	New			
+Options	INPUT_DEVICE	INPUT DEVICE	DISPOSITIVO DE ENTRADA	DISPOSITIVO DE ENTRADA	Kept			length: 22 chars vs 12 in English
+Options	INVERT_MOUSE	INVERT MOUSE		INVERTIR MOUSE	New			
+Options	INVERT_MOUSE_TOOLTIP	Reverse the vertical movement of the mouse.  Some people are weird like that...  Looking at you, Chris!		Invierte el movimiento vertical del mouse. Hay gente rara así... ¡Te estamos mirando, Chris!	New		Joke kept.	
+Options	LANGUAGE	LANGUAGE	IDIOMA	IDIOMA	Kept			
+Options	LIGHT_QUALITY	LIGHT QUALITY	CALIDAD DE LAS LUCES	CALIDAD DE LAS LUCES	Kept			
+Options	LOW	LOW	BAJO	BAJO	Kept			
+Options	MARINE_STRUCTURE_PLACEMENT	SEARCH MARINE STRUCTURE POSITIONS		BUSCAR POSICIONES PARA ESTRUCTURAS MARINE	New			
+Options	MAX_FPS	MAX FPS		FPS MÁXIMOS	New			
+Options	MAXFPS_TOOLTIP	Sets your maximum frames per second while playing.		Establece la cantidad máxima de cuadros por segundo mientras juegas.	New			
+Options	MEDIUM	MEDIUM	MEDIO	MEDIO	Kept			
+Options	MICROPHONE_GAIN	MICROPHONE GAIN	GANANCIA DE MICRÓFONO	GANANCIA DE MICRÓFONO	Kept			
+Options	MICROPHONE_LEVEL	MICROPHONE LEVEL	NIVEL DE MICRÓFONO	NIVEL DE MICRÓFONO	Kept			
+Options	MICROPHONE_RELEASE_DELAY	MICROPHONE RELEASE DELAY	RETRASO GRABACIÓN MICRÓFONO	RETRASO AL SOLTAR EL MICRÓFONO	Fixed	FIX	Existing "RETRASO GRABACIÓN MICRÓFONO" is missing words and suggests recording.	
+Options	MICROPHONE_RELEASE_DELAY_TTIP	Number of seconds to continue transmitting after the microphone button has been released		Segundos que se sigue transmitiendo después de soltar el botón del micrófono	New			
+Options	MINIMAL	MINIMAL	2D	MÍNIMO	Fixed	FIX	Was "2D". The option is the minimal HUD detail level.	
+Options	MINIMAP_ZOOM	MINIMAP ZOOM	ZOOM DEL MINIMAPA	ZOOM DEL MINIMAPA	Kept			
+Options	MINIMAP_ZOOM_TOOLTIP	Adjust the zoom of the top-left corner minimap (marine only).		Ajusta el zoom del minimapa de la esquina superior izquierda (solo Marines).	New			
+Options	MISCELLANEOUS	MISCELLANEOUS		VARIOS	New			
+Options	MOUSE_ACCELERATION	MOUSE ACCELERATION	ACELERACIÓN DEL RATÓN	ACELERACIÓN DEL MOUSE	Fixed	FIX	"Ratón" is Spain-only; Latin America says "mouse".	
+Options	MOUSE_ACCELERATION_TOOLTIP	Take into account how fast the mouse is moved when calculating how far to move the mouse.  This means that slow, precise movements will move the mouse less than fast, large movements.		Tiene en cuenta qué tan rápido mueves el mouse al calcular cuánto se desplaza. Así, los movimientos lentos y precisos lo desplazan menos que los rápidos y amplios.	New			
+Options	MOUSE_SENSITIVITY	MOUSE SENSITIVITY	SENSIBILIDAD DEL RATÓN	SENSIBILIDAD DEL MOUSE	Fixed	FIX	"Ratón" → "mouse".	
+Options	MOUSE_SENSITIVITY_TOOLTIP	Sets the mouse sensitivity. If specific sensitivities for team or lifeform are enabled, this will be overridden.		Establece la sensibilidad del mouse. Si están activadas las sensibilidades por equipo o por forma de vida, esas tienen prioridad.	New			
+Options	MOVEMENT	MOVEMENT		MOVIMIENTO	New			
+Options	MUSIC_VOLUME	MUSIC VOLUME	VOLUMEN DE MÚSICA	VOLUMEN DE MÚSICA	Kept			
+Options	NICKNAME	NICKNAME	NOMBRE	APODO	Fixed	FIX	Was NOMBRE; "apodo" matches USE ALTERNATE NICKNAME and Steam's Spanish.	
+Options	NS2NICKNAME	USE ALTERNATE NICKNAME		USAR APODO ALTERNATIVO	New			
+Options	OFF	OFF	DESACTIVADO	DESACTIVADO	Kept			
+Options	OPTION_ALIEN_STRUCTURE_PLACEMENT	Searches for a valid position when placing alien structures. Disable for slightly better performance.		Busca una posición válida al colocar estructuras alien. Desactívalo para un rendimiento un poco mejor.	New			
+Options	OPTION_ALIEN_WEAPONSLOTS	ALIEN ABILITY SELECT METHOD		MÉTODO PARA SELECCIONAR HABILIDADES ALIEN	New			
+Options	OPTION_ALIEN_WEAPONSLOTS_CHOICE_DEFAULT	Default		Predeterminado	New			
+Options	OPTION_ALIEN_WEAPONSLOTS_CHOICE_USEWEAPONSLOTS	USE WEAPON SLOTS		USAR RANURAS DE ARMA	New			
+Options	OPTION_ALIEN_WEAPONSLOTS_TOOLTIP	Lets you choose the way you select/activate alien abilities		Elige cómo seleccionar y activar las habilidades alien	New			
+Options	OPTION_BLUEPRINT_ROTATION_SHIFT_KEY	Hold shift to rotate a blueprint, and to check the exit of a robotics factory while moving it.		Mantén presionado Shift para rotar un plano y para revisar la salida de una Robotics Factory mientras la mueves.	New			
+Options	OPTION_DUAL_FLAMETHROWER_FIRING_SYNC	Firing the left arm also fires the right arm. Applied when entering an exosuit.		Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.	New			
+Options	OPTION_DUAL_MINIGUN_FIRING_SYNC	Firing the left arm also fires the right arm. Applied when entering an exosuit.		Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.	New			
+Options	OPTION_DUAL_PLASMA_LAUNCHER_FIRING_SYNC	Firing the left arm also fires the right arm. Applied when entering an exosuit.		Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.	New			
+Options	OPTION_PERTEAM_SENSITIVITY	TEAM SPECIFIC SENSITIVITIES		SENSIBILIDAD POR EQUIPO	New			
+Options	OPTION_PERTEAM_SENSITIVITY_TOOLTIP	Lets you have different sensitivities for aliens and marines.		Permite tener sensibilidades distintas para Aliens y Marines.	New			
+Options	OPTION_PERTEAM_FOV	TEAM SPECIFIC FOV		FOV POR EQUIPO	New			
+Options	OPTION_PERTEAM_FOV_TOOLTIP	Lets you have different FOVs for aliens and marines.		Permite tener un FOV distinto para Aliens y Marines.	New			
+Options	OPTION_FOV_MARINE	MARINE FOV		FOV DE MARINE	New			
+Options	OPTION_FOV_MARINE_TOOLTIP	Set FOV for the Marine team.		Establece el FOV del equipo Marine.	New			
+Options	OPTION_FOV_ALIEN_TOOLTIP	Set FOV for the Alien team.		Establece el FOV del equipo Alien.	New			
+Options	OPTION_FOV_ALIEN	ALIEN FOV		FOV DE ALIEN	New			
+Options	OPTION_PERLIFEFORM_SENSITIVITY	LIFEFORM SPECIFIC SENSITIVITIES		SENSIBILIDAD POR FORMA DE VIDA	New			
+Options	OPTION_PERLIFEFORM_SENSITIVITY_TOOLTIP	Lets you have different sensitivities for each alien lifeform. Overrides the Alien team sensitivity option.		Permite tener sensibilidades distintas para cada forma de vida alien. Tiene prioridad sobre la sensibilidad del equipo Alien.	New			
+Options	OPTION_MARINETEAM_SENSITIVITY	MARINE SENSITIVITY		SENSIBILIDAD DE MARINE	New			
+Options	OPTION_MARINETEAM_SENSITIVITY_TOOLTIP	Sensitivity for marine team.		Sensibilidad para el equipo Marine.	New			
+Options	OPTION_ALEINTEAM_SENSITIVITY	ALIEN SENSITIVITY		SENSIBILIDAD DE ALIEN	New			
+Options	OPTION_ALEINTEAM_SENSITIVITY_TOOLTIP	Sensitivity for alien team.		Sensibilidad para el equipo Alien.	New			
+Options	OPTION_SKULK_SENSITIVITY	SKULK SENSITIVITY		SENSIBILIDAD DE SKULK	New			
+Options	OPTION_SKULK_SENSITIVITY_TOOLTIP	Sensitivity for Skulk.		Sensibilidad para el Skulk.	New			
+Options	OPTION_GORGE_SENSITIVITY	GORGE SENSITIVITY		SENSIBILIDAD DE GORGE	New			
+Options	OPTION_GORGE_SENSITIVITY_TOOLTIP	Sensitivity for Gorge.		Sensibilidad para el Gorge.	New			
+Options	OPTION_LERK_SENSITIVITY	LERK SENSITIVITY		SENSIBILIDAD DE LERK	New			
+Options	OPTION_LERK_SENSITIVITY_TOOLTIP	Sensitivity for Lerk.		Sensibilidad para el Lerk.	New			
+Options	OPTION_FADE_SENSITIVITY	FADE SENSITIVITY		SENSIBILIDAD DE FADE	New			
+Options	OPTION_FADE_SENSITIVITY_TOOLTIP	Sensitivity for Fade.		Sensibilidad para el Fade.	New			
+Options	OPTION_ONOS_SENSITIVITY	ONOS SENSITIVITY		SENSIBILIDAD DE ONOS	New			
+Options	OPTION_ONOS_SENSITIVITY_TOOLTIP	Sensitivity for Onos.		Sensibilidad para el Onos.	New			
+Options	OPTION_AF	Improves clarity and crispness	Mejora la claridad y la definición	Mejora la claridad y la definición	Kept			
+Options	OPTION_ANTI_ALIASING	Reduces the amount of jagged edges around objects.  TAA (DirectX 11 only) provides the best appearance, but at a higher performance cost.  FXAA is faster, but the image quality isn't as good, especially for small movements on detailed surfaces.		Reduce los bordes dentados de los objetos. TAA (solo DirectX 11) da el mejor resultado, pero cuesta más rendimiento. FXAA es más rápido, pero la imagen no es tan buena, sobre todo en movimientos pequeños sobre superficies detalladas.	New			
+Options	OPTION_CAMERA_ANIMATION	Toggles effects such as view tilting	Activa o desactiva efectos como la inclinación de la cámara de skulk, etc.	Activa o desactiva efectos como la inclinación de la cámara	Fixed	FIX	The old line added "de skulk, etc.", which the English does not say.	
+Options	OPTION_CLEAR_BIND	Clear the keybind		Borrar la asignación de tecla	New			length: 29 chars vs 17 in English
+Options	OPTION_COMMANDER	COMMANDER		COMMANDER	New			
+Options	OPTION_DEVICE	Choose what rendering device to use. D3D9 is the most stable.	Elige que dispositivo de renderizado utilizar. D3D9 es el más estable.	Elige qué dispositivo de renderizado usar. D3D9 es el más estable.	Fixed	FIX	Missing accent (qué).	
+Options	OPTION_DISPLAY	Choose which device to display the game on	Elige en que dispositivo mostrar el juego	Elige en qué monitor mostrar el juego	Fixed	FIX	Missing accent (qué); "dispositivo" → "monitor" to match DISPLAY.	
+Options	OPTION_ENEMY_HEALTH	Displays enemy total health when attacking		Muestra la vida total del enemigo al atacarlo	New			
+Options	OPTION_DRAW_DAMAGE	Displays damage done when attacking	Muestra la cantidad de daño que has realizado a tus enemigos	Muestra el daño que haces al atacar	Fixed	FIX	Old line said "a tus enemigos"; the numbers also show on structures. Shorter and closer to the English.	
+Options	OPTION_FOG_TOOLTIP	Quality of the environmental fog effects.  Low means fog will not be blended into transparent objects (eg particles, glass, water, etc.) and can increase performance.		Calidad de los efectos de niebla del entorno. En bajo, la niebla no se mezcla con objetos transparentes (partículas, vidrio, agua, etc.) y puede mejorar el rendimiento.	New			
+Options	OPTION_GAMMA	GAMMA (BRIGHTNESS)		GAMMA (BRILLO)	New			
+Options	OPTION_HIT_SOUNDS	Adjusts volume of hit sounds. Default is 0 (off)	Ajusta el volumen de los hitsounds (confirmación de daño a enemigos). Por defecto es 0 (desactivado).	Ajusta el volumen del sonido de impacto (confirma el daño a los enemigos). El valor predeterminado es 0 (desactivado).	Fixed	FIX	"hitsounds" → "sonido de impacto", matching HIT_SOUND_VOLUME.	
+Options	OPTION_HUDQUALITY	Toggles how much is displayed on the HUD	Cambia lo que se muestra en el HUD	Cambia cuánto se muestra en el HUD	Fixed			
+Options	OPTION_IMPROVED_ROTATION_PLACEMENT	Snaps a blueprint to the closest valid rotation, up to 29 degrees.		Ajusta el plano a la rotación válida más cercana, hasta 29 grados.	New			
+Options	OPTION_INFESTATION	INFESTATION	CALIDAD DE INFESTACIÓN	CALIDAD DE INFESTACIÓN	Kept			length: 22 chars vs 11 in English
+Options	OPTION_INHERIT_BIND	Copy the setting from the matching option on the left.		Copia la opción equivalente de la izquierda.	New			
+Options	OPTION_LIGHT_QUALITY	Lighting quality of the level.  More lights = better visuals.  Fewer lights = better performance.		Calidad de la iluminación del mapa. Más luces = mejor imagen. Menos luces = mejor rendimiento.	New			
+Options	OPTION_MENU_BACKGROUND	Changes the background of the menu.		Cambia el fondo del menú.	New			
+Options	OPTION_MENU_MUSIC	Changes the music for the main menu.		Cambia la música del menú principal.	New			
+Options	OPTION_ITEM_PURCHASING	IN-GAME ITEM PURCHASING		COMPRAS DENTRO DEL JUEGO	New			
+Options	OPTION_TEM_PURCHASING_TOOLTIP	Enables direct purchasing of cosmetic items while in the main menu.		Permite comprar objetos cosméticos directamente desde el menú principal.	New			
+Options	OPTION_MARINE_STRUCTURE_PLACEMENT	Searches for a valid position when placing marine structures. Disable for slightly better performance.		Busca una posición válida al colocar estructuras marine. Desactívalo para un rendimiento un poco mejor.	New			
+Options	OPTION_PHYSICS_MULTITHREADING	PHYSICS MULTITHREADING	MULTITHREADING DE FÍSICA	MULTITHREADING DE FÍSICA	Kept			
+Options	OPTION_PHYSICS_MULTITHREADING_TOOLTIP	Use more CPU to increase FPS in heavy combat. Experimental - turn off in case of trouble.	Utiliza más CPU para rendir mejor en escenas más pesadas. Experimental - Desactívalo en caso de problemas.	Usa más CPU para aumentar los FPS en combates intensos. Experimental: desactívalo si tienes problemas.	Fixed	FIX	Closer to the English (FPS in heavy combat); dash replaced.	
+Options	OPTION_REFRACTION_QUALITY_TOOLTIP	Quality of distortion/refraction effects.  High uses more samples and is slower, but results in a cleaner image.		Calidad de los efectos de distorsión y refracción. En alto usa más muestras y es más lento, pero la imagen queda más limpia.	New			
+Options	OPTION_RESET	Reset to default value.		Restablecer el valor predeterminado.	New			
+Options	OPTION_RESET_BIND	Reset keybind to default value		Restablecer la tecla predeterminada	New			
+Options	OPTION_RESOURCE_LOADING	RESOURCE LOADING	CARGA DE RECURSOS	CARGA DE RECURSOS	Kept			
+Options	OPTION_RESOURCE_LOADING_TOOLTIP	Adjusts how many resources can be loaded simultaneously.  Higher values are beneficial to SSD users, while lower values are better for HDD users.		Ajusta cuántos recursos se pueden cargar a la vez. Los valores altos benefician a quienes usan SSD; los bajos son mejores para discos HDD.	New			
+Options	OPTION_SHOW_COMMANDER_HELP	Displays tips, and guides you through commanding	Muestra consejos, y te guía en el modo commander	Muestra consejos y te guía en el modo Commander	Fixed	FIX	Stray comma; "commander" capitalized per glossary.	
+Options	OPTION_SHOW_HINTS	Displays useful tips and videos	Muestra consejos útiles y vídeos	Muestra consejos y videos útiles	Fixed	FIX	"vídeos" is the Spain spelling; Latin America writes "videos".	
+Options	OPTION_TEXTUREQUALITY	Medium is recommended for video cards with 1GB-1.5GB of VRAM.	Se recomienda medio para tarjetas gráficas con 1GB-1.5GBs de RAM.	Se recomienda medio para tarjetas gráficas con 1 GB a 1.5 GB de VRAM.	Fixed	FIX	Old line said RAM; the English says VRAM.	
+Options	OPTION_TEXTURE_MANAGEMENT	TEXTURE HANDLING	MANEJO DE TEXTURAS	MANEJO DE TEXTURAS	Kept			
+Options	OPTION_TEXTURE_MANAGEMENT_TOOLTIP	Pick the approx amount of VRAM your GFX card has, for better texture handling.	Elige la cantidad aproximada de memoria de tu tarjeta gráfica, para un mejor rendimiento en el manejo de texturas.	Elige la cantidad aproximada de VRAM de tu tarjeta gráfica, para manejar mejor las texturas.	Fixed		Existing reworded slightly (VRAM, shorter).	
+Options	OPTION_PARTICLE_QUALITY_TOOLTIP	Quality of particle effects like fire and smoke.		Calidad de efectos de partículas como el fuego y el humo.	New			
+Options	OPTION_VYSNC	Locks game framerate to the refresh rate of the monitor	Asocia tus FPS con la tasa de refresco del monitor	Sincroniza los FPS del juego con la frecuencia de actualización del monitor	Fixed		Existing "Asocia tus FPS con la tasa de refresco" reworded.	
+Options	OPTIONS_UNSAVED_CHANGES	UNSAVED CHANGES		CAMBIOS SIN GUARDAR	New			
+Options	OPTIONS_UNSAVED_CHANGES_MESSAGE	There are some unsaved option changes.  Would you like to save now?		Hay cambios en las opciones sin guardar. ¿Quieres guardarlos ahora?	New			
+Options	OPTIONS_SAVE	SAVE		GUARDAR	New			
+Options	OPTIONS_REVERT	REVERT		DESHACER	New			
+Options	OUTPUT_DEVICE	OUTPUT DEVICE	DISPOSITIVO DE SALIDA	DISPOSITIVO DE SALIDA	Kept			
+Options	PARTICLE_QUALITY	PARTICLE QUALITY	CALIDAD DE PARTÍCULAS	CALIDAD DE PARTÍCULAS	Kept			
+Options	PLAY	PLAY	JUGAR	JUGAR	Kept			
+Options	PROFILE_PAUSE	Toggle Profiler Pause		Pausar/reanudar el profiler	New		Developer option.	
+Options	PROFILE_PAUSE_TOOLTIP	Pauses/unpauses the collection of profile frames while the \"profile\" command is active.		Pausa o reanuda la captura de frames del profiler mientras el comando \"profile\" está activo.	New		Developer option; "profile" is a console command and stays.	
+Options	REFLECTIONS	REFLECTIONS	REFLEJOS	REFLEJOS	Kept			
+Options	REFRACTION_QUALITY	REFRACTION QUALITY		CALIDAD DE REFRACCIÓN	New			
+Options	REPLAY_INTRO_VIDEO	REWATCH INTRODUCTION		VOLVER A VER LA INTRODUCCIÓN	New			
+Options	REPLAY_INTRO_VIDEO_ACTION	WATCH		VER	New			
+Options	REPLAY_INTRO_VIDEO_DESCRIPTION	Watch NS2's introductory video to see a quick overview of how to play.		Mira el video de introducción de NS2 para ver un resumen rápido de cómo se juega.	New			
+Options	RESOLUTION	RESOLUTION	RESOLUCIÓN	RESOLUCIÓN	Kept			
+Options	RESTART	RESTART	REINICIAR	REINICIAR	Kept			
+Options	RICH	RICH	3D	DETALLADO	Fixed	FIX	Was "3D". The option is the richest HUD detail level (MINIMAL / DEFAULT / RICH).	
+Options	SHADOWS	SHADOWS	SOMBRAS	SOMBRAS	Kept			
+Options	SHOW_HINTS	SHOW HINTS	MOSTRAR AYUDA	MOSTRAR AYUDA	Kept			
+Options	SOUND	SOUND	SONIDO	SONIDO	Kept			
+Options	SOUND_MUTE_MINIZED	MUTE ON MINIMIZE	SILENCIAR AL MINIMIZAR	SILENCIAR AL MINIMIZAR	Kept			
+Options	SOUND_MUTE_MINIZED_TTIP	Prevents sounds from playing while the game has lost focus.	Previene que los sonidos del juego se reproduzcan cuando la aplicación no tiene foco.	Evita que se reproduzcan sonidos mientras el juego no está en primer plano.	Fixed	FIX	"Previene que…" and "no tiene foco" are calques.	
+Options	SOUND_VOLUME	SOUND VOLUME	VOLUMEN DE SONIDO	VOLUMEN DE SONIDO	Kept			
+Options	TEXTURE_QUALITY	TEXTURE QUALITY	CALIDAD DE TEXTURAS	CALIDAD DE TEXTURAS	Kept			
+Options	TRIPLE_BUFFERED	TRIPLE BUFFERED	TRIPLE BÚFER	TRIPLE BÚFER	Kept			
+Options	TUT_HIVE_CHALLENGE_TOOLTIP	Improve your skill as Lerk or Fade by trying to hold a single hive against waves of Marines for as long as you can.		Mejora tu habilidad como Lerk o Fade intentando defender una sola Hive contra oleadas de Marines el mayor tiempo posible.	New			
+Options	TUT_SKULK_CHALLENGE_TOOLTIP	Master the art of skulk wall-jumping as you race against the clock -- or against the ghosts of your competitors!		¡Domina el arte de saltar entre paredes con el Skulk en una carrera contra el reloj, o contra los fantasmas de tus rivales!	New			
+Options	UNLIMITED	UNLIMITED		ILIMITADO	New			
+Options	VOICE_VOLUME	VOICE VOLUME	VOLUMEN DE VOZ	VOLUMEN DE VOZ	Kept			
+Options	VOICE_VOLUME_TOOLTIP	Adjusts the volume of other players' voices.		Ajusta el volumen de las voces de los demás jugadores.	New			
+Options	VSYNC	WAIT FOR VERTICAL SYNC		SINCRONIZACIÓN VERTICAL	New			
+Options	WINDOW_MODE	WINDOW MODE	MODO DE VENTANA	MODO DE VENTANA	Kept			
+Options	WINDOW_MODE_FULLSCREEN	FULLSCREEN		PANTALLA COMPLETA	New			
+Options	WINDOW_MODE_FULLSCREEN_WINDOWED	FULLSCREEN WINDOWED		PANTALLA COMPLETA EN VENTANA	New			
+Options	WINDOW_MODE_WINDOWED	WINDOWED		VENTANA	New			
+Advanced options	ADVANCED_CATEGORY_UI	UI	UI	INTERFAZ	Fixed	FIX	Was "UI". Spanish players rarely say UI; "INTERFAZ" fits the tab.	
+Advanced options	ADVANCED_CATEGORY_HUD	HUD		HUD	New			
+Advanced options	ADVANCED_CATEGORY_DAMAGE	DAMAGE		DAÑO	New			
+Advanced options	ADVANCED_CATEGORY_MAP	MAP		MAPA	New			
+Advanced options	ADVANCED_CATEGORY_STATS	STATS		ESTADÍSTICAS	New			
+Advanced options	ADVANCED_CATEGORY_GRAPHICS	GRAPHICS		GRÁFICOS	New			
+Advanced options	ADVANCED_CATEGORY_CROSSHAIR	CROSSHAIR		MIRA	New	CHECK	New term: crosshair = mira.	
+Advanced options	ADVANCED_CATEGORY_MISC	MISC		VARIOS	New			
+Advanced options	ADVANCED_OPTION_AV_INITIALSTATE	INITIAL ALIENVISION STATE		ESTADO INICIAL DE LA VISIÓN ALIEN	New			
+Advanced options	ADVANCED_OPTION_AV_INITIALSTATE_TOOLTIP	Sets the initial state the alien vision will be in when you respawn.		Define si la visión alien está activada o no al reaparecer.	New			
+Advanced options	ADVANCED_OPTION_BANNERS	OBJECTIVE BANNERS		AVISOS DE OBJETIVO	New			
+Advanced options	ADVANCED_OPTION_BANNERS_TOOLTIP	Toggles the banners in the center of the screen (\"Commander needed\", \"Power node under attack\", \"Evolution lost\", etc.).		Activa o desactiva los avisos en el centro de la pantalla (\"Se necesita Commander\", \"Power Node bajo ataque\", \"Evolución perdida\", etc.).	New	CHECK	The quoted examples should match the Spanish of those banners once they are translated (later batch).	
+Advanced options	ADVANCED_OPTION_CLASSICAMMO	CLASSIC AMMO COUNTER		CONTADOR DE MUNICIÓN CLÁSICO	New			
+Advanced options	ADVANCED_OPTION_CLASSICAMMO_TOOLTIP	Toggles a classic ammo counter on the bottom right of the marine HUD, above the personal resources text.		Muestra un contador de munición clásico abajo a la derecha del HUD de Marine, encima de los recursos personales.	New			
+Advanced options	ADVANCED_OPTION_HIVESTATUS	ALIEN HIVE STATUS		ESTADO DE LAS HIVES	New			
+Advanced options	ADVANCED_OPTION_HIVESTATUS_TOOLTIP	Toggles the hive status display in the top left of the alien HUD.		Muestra el estado de las Hives arriba a la izquierda del HUD de Alien.	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_MARINE	HUD BARS (MARINE)		BARRAS DEL HUD (MARINE)	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_MARINE_TOOLTIP	Centralized Style displays health/armor and ammo next to the crosshair. NS1 Style puts big bars at the bottom on each side.		El estilo centralizado muestra vida/armadura y munición junto a la mira. El estilo NS1 pone barras grandes abajo, a cada lado.	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_MARINE_CHOICE_DEFAULT	DEFAULT		PREDETERMINADO	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_MARINE_CHOICE_CENTRALIZED	CENTRALIZED		CENTRALIZADO	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_MARINE_CHOICE_NS1	NS1 STYLE		ESTILO NS1	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_ALIENS	HUD BARS (ALIEN)		BARRAS DEL HUD (ALIEN)	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_ALIENS_TOOLTIP	Centralized Style displays health/armor and ammo next to the crosshair. NS1 Style puts big bars at the bottom on each side.		El estilo centralizado muestra vida/armadura y munición junto a la mira. El estilo NS1 pone barras grandes abajo, a cada lado.	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_ALIENS_CHOICE_DEFAULT	DEFAULT		PREDETERMINADO	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_ALIENS_CHOICE_CENTRALIZED	CENTRALIZED		CENTRALIZADO	New			
+Advanced options	ADVANCED_OPTION_HUDBARS_ALIENS_CHOICE_NS1	NS1 STYLE		ESTILO NS1	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS	ALIEN TOP-BAR VISIBILITY		VISIBILIDAD DE LA BARRA SUPERIOR (ALIEN)	New			length: 40 chars vs 24 in English
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS_TOOLTIP	Choose when to show the top-bar when on the Alien team.		Elige cuándo mostrar la barra superior en el equipo Alien.	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS_CHOICE_SHOWALWAYS	SHOW ALWAYS		MOSTRAR SIEMPRE	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS_CHOICE_PLAYERONLY	PLAYER ONLY		SOLO JUGADOR	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS_CHOICE_COMMANDERONLY	COMMANDER ONLY		SOLO COMMANDER	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_ALIENS_CHOICE_HIDDEN	HIDDEN		OCULTA	New		Feminine: agrees with "barra".	
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES	MARINE TOP-BAR VISIBILITY		VISIBILIDAD DE LA BARRA SUPERIOR (MARINE)	New			length: 41 chars vs 25 in English
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES_TOOLTIP	Choose when to show the top-bar when on the Marine team.		Elige cuándo mostrar la barra superior en el equipo Marine.	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES_CHOICE_SHOWALWAYS	SHOW ALWAYS		MOSTRAR SIEMPRE	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES_CHOICE_PLAYERONLY	PLAYER ONLY		SOLO JUGADOR	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES_CHOICE_COMMANDERONLY	COMMANDER ONLY		SOLO COMMANDER	New			
+Advanced options	ADVANCED_OPTION_TOPBAR_MARINES_CHOICE_HIDDEN	HIDDEN		OCULTA	New			
+Advanced options	ADVANCED_OPTION_INSTANT_ALIENHEALTH	INSTANT ALIEN HEALTH BAR		BARRA DE VIDA ALIEN INSTANTÁNEA	New			
+Advanced options	ADVANCED_OPTION_INSTANT_ALIENHEALTH_TOOLTIP	The alien health circle instantly updates to the current value instead of using animations when health changes.		El círculo de vida alien se actualiza al instante, sin animaciones, cuando cambia la vida.	New			
+Advanced options	ADVANCED_OPTION_INVENTORY	INVENTORY		INVENTARIO	New			
+Advanced options	ADVANCED_OPTION_INVENTORY_CHOICE_DEFAULT	DEFAULT		PREDETERMINADO	New			
+Advanced options	ADVANCED_OPTION_INVENTORY_CHOICE_HIDE	HIDE		OCULTAR	New			
+Advanced options	ADVANCED_OPTION_INVENTORY_CHOICE_SHOWAMMO	SHOW AMMO		MOSTRAR MUNICIÓN	New			
+Advanced options	ADVANCED_OPTION_INVENTORY_CHOICE_ALWAYSON	ALWAYS ON		SIEMPRE VISIBLE	New			
+Advanced options	ADVANCED_OPTION_INVENTORY_CHOICE_ALWAYSONAMMO	ALWAYS ON + AMMO		SIEMPRE VISIBLE + MUNICIÓN	New			length: 26 chars vs 16 in English
+Advanced options	ADVANCED_OPTION_INVENTORY_TOOLTIP	Lets you customize the functionality of the inventory.		Permite personalizar cómo funciona el inventario.	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_CUSTOMCOLOR	KILLFEED HIGHLIGHT COLOR		COLOR DE RESALTADO DEL KILLFEED	New	CHECK	New term: killfeed kept in English (common in Spanish gaming). Alternative: "registro de bajas".	
+Advanced options	ADVANCED_OPTION_KILLFEED_CUSTOMCOLOR_TOOLTIP	Chooses the color of the highlight border for your kills in the killfeed.		Elige el color del borde que resalta tus bajas en el killfeed.	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_SCALE	KILLFEED SCALE		TAMAÑO DEL KILLFEED	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_SCALE_TOOLTIP	Lets you scale the killfeed.		Permite cambiar el tamaño del killfeed.	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_USECOLOR	CUSTOM KILLFEED HIGHLIGHT COLOR		COLOR DE RESALTADO PERSONALIZADO DEL KILLFEED	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_USECOLOR_TOOLTIP	Custom color of the highlight border for your kills in the killfeed is only used if this is enabled.		El color personalizado del borde que resalta tus bajas en el killfeed solo se usa si esta opción está activada.	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_HIGHLIGHT	KILLFEED HIGHLIGHT		RESALTADO DEL KILLFEED	New			
+Advanced options	ADVANCED_OPTION_KILLFEED_HIGHLIGHT_TOOLTIP	Toggles the border for your player kills in the killfeed.		Activa o desactiva el borde en tus bajas de jugadores en el killfeed.	New			
+Advanced options	ADVANCED_OPTION_LOWAMMOWARNING	LOW AMMO WARNING		AVISO DE MUNICIÓN BAJA	New			
+Advanced options	ADVANCED_OPTION_LOWAMMOWARNING_TOOLTIP	Toggles the low ammo warning in the weapon displays.		Activa o desactiva el aviso de munición baja en las pantallas de las armas.	New			
+Advanced options	ADVANCED_OPTION_MARINE_HEALTHBARS	MARINE HEALTH BARS		BARRAS DE VIDA DE MARINE	New			
+Advanced options	ADVANCED_OPTION_MARINE_HEALTHBARS_TOOLTIP	Toggles the health bars from the bottom left of the marine HUD and only leaves the numbers.		Muestra u oculta las barras de vida abajo a la izquierda del HUD de Marine; ocultas, solo quedan los números.	New			
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE	NAMEPLATE STYLE		ESTILO DE LAS ETIQUETAS	New	CHECK	New term: nameplate = etiqueta (the info shown over a unit you look at).	
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE_TOOLTIP	Changes style of unit information that appears when you look at them.		Cambia el estilo de la información que aparece al mirar a una unidad.	New			
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE_CHOICE_DEFAULT	DEFAULT		PREDETERMINADO	New			
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE_CHOICE_NUMBERS	NUMBERS		NÚMEROS	New			
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE_CHOICE_BARSONLY	BARS ONLY		SOLO BARRAS	New			
+Advanced options	ADVANCED_OPTION_NAMEPLATE_STYLE_CHOICE_NUMBERSANDBARS	NUMBERS + BARS		NÚMEROS + BARRAS	New			
+Advanced options	ADVANCED_OPTION_RESEARCH_NOTIFICATIONS	RESEARCH NOTIFICATIONS		NOTIFICACIONES DE INVESTIGACIÓN	New			
+Advanced options	ADVANCED_OPTION_RESEARCH_NOTIFICATIONS_TOOLTIP	Toggles the research notifications on the left side of the screen.		Activa o desactiva las notificaciones de investigación a la izquierda de la pantalla.	New			
+Advanced options	ADVANCED_OPTION_SMALLNAMEPLATES	SMALL NAMEPLATES		ETIQUETAS PEQUEÑAS	New			
+Advanced options	ADVANCED_OPTION_SMALLNAMEPLATES_TOOLTIP	Makes the text in the nameplates smaller.		Hace más pequeño el texto de las etiquetas.	New			
+Advanced options	ADVANCED_OPTION_SCORE_POPUP	SCORE POPUP		AVISO DE PUNTOS	New		The "+5" that pops up when you score.	
+Advanced options	ADVANCED_OPTION_SCORE_POPUP_TOOLTIP	Toggles the score popup. (+5)		Activa o desactiva el aviso de puntos. (+5)	New			
+Advanced options	ADVANCED_OPTION_SCORE_COLOR	SCORE POPUP COLOR		COLOR DEL AVISO DE PUNTOS	New			
+Advanced options	ADVANCED_OPTION_SCORE_COLOR_TOOLTIP	Changes the color of the score popup.		Cambia el color del aviso de puntos.	New			
+Advanced options	ADVANCED_OPTION_ASSISTS_POPUP	ASSIST SCORE POPUP		AVISO DE PUNTOS POR ASISTENCIA	New			length: 30 chars vs 18 in English
+Advanced options	ADVANCED_OPTION_ASSISTS_POPUP_TOOLTIP	Toggles the assists score popup.		Activa o desactiva el aviso de puntos por asistencia.	New			
+Advanced options	ADVANCED_OPTION_ASSISTS_COLOR	ASSISTS POPUP COLOR		COLOR DEL AVISO DE ASISTENCIAS	New			
+Advanced options	ADVANCED_OPTION_ASSISTS_COLOR_TOOLTIP	Changes the color of the assists popup.		Cambia el color del aviso de asistencias.	New			
+Advanced options	ADVANCED_OPTION_WAYPOINTS	WAYPOINTS		PUNTOS DE RUTA	New	CHECK	New term: waypoint = punto de ruta.	
+Advanced options	ADVANCED_OPTION_WAYPOINTS_TOOLTIP	Toggles all waypoints except Attack orders. Waypoints can still be seen on the map.		Activa o desactiva todos los puntos de ruta excepto las órdenes de ataque. Los puntos de ruta se siguen viendo en el mapa.	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR	PICKUP EXPIRATION BAR		BARRA DE DESAPARICIÓN DE OBJETOS	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR_TOOLTIP	Adds a bar indicating the time left for the pickupable to disappear.		Agrega una barra que indica cuánto falta para que desaparezca un objeto que se puede recoger.	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR_CHOICE_EQUIPMENTONLY	EQUIPMENT ONLY		SOLO EQUIPAMIENTO	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR_CHOICE_ALLPICKUPABLES	ALL PICKUPABLES		TODOS LOS OBJETOS	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR_DYNAMIC	DYNAMICALLY COLORED EXPIRATION BAR		BARRA DE DESAPARICIÓN CON COLOR DINÁMICO	New			
+Advanced options	ADVANCED_OPTION_PICKUP_EXPIREBAR_DYNAMIC_TOOLTIP	Changes color of expire bar as it runs out of time.		Cambia el color de la barra a medida que se acaba el tiempo.	New			
+Advanced options	ADVANCED_OPTION_DYNAMIC_REPAIR_ICON	DYNAMICALLY COLORED REPAIR ICON		ÍCONO DE REPARACIÓN CON COLOR DINÁMICO	New		"Ícono" is the Latin American form (Spain: "icono").	
+Advanced options	ADVANCED_OPTION_DYNAMIC_REPAIR_ICON_TOOLTIP	Makes the wrench on the marine HUD be color coded with the amount of damage received.		La llave inglesa del HUD de Marine cambia de color según el daño recibido.	New			
+Advanced options	ADVANCED_OPTION_SERVER_BLOOD_HITS	SERVER-SIDE BLOOD HITS		SANGRE CONFIRMADA POR EL SERVIDOR	New			
+Advanced options	ADVANCED_OPTION_SERVER_BLOOD_HITS_TOOLTIP	Disables predicted blood on the client and turns it into server-confirmed blood.		Desactiva la sangre predicha en el cliente y muestra solo la sangre confirmada por el servidor.	New			
+Advanced options	ADVANCED_OPTION_SERVER_BLOOD_HITS_CHOICE_PREDICTED	PREDICTED		PREDICHA	New			
+Advanced options	ADVANCED_OPTION_SERVER_BLOOD_HITS_CHOICE_SERVERCONFIRMED	SERVER CONFIRMED		CONFIRMADA POR EL SERVIDOR	New			length: 26 chars vs 16 in English
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_FADETIME	DAMAGE NUMBER FADE TIME		DURACIÓN DE LOS NÚMEROS DE DAÑO	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_FADETIME_TOOLTIP	Controls how long damage numbers are on screen.		Controla cuánto tiempo se ven los números de daño en pantalla.	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_SCALE	DAMAGE NUMBERS SCALE		TAMAÑO DE LOS NÚMEROS DE DAÑO	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_SCALE_TOOLTIP	Lets you scale the damage numbers.		Permite cambiar el tamaño de los números de daño.	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_MARINE	MARINE DAMAGE NUMBERS COLOR		COLOR DE LOS NÚMEROS DE DAÑO (MARINE)	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_MARINE_TOOLTIP	Changes the color of the damage numbers while on the marine team.		Cambia el color de los números de daño cuando estás en el equipo Marine.	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_ALIEN	ALIEN DAMAGE NUMBERS COLOR		COLOR DE LOS NÚMEROS DE DAÑO (ALIEN)	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_ALIEN_TOOLTIP	Changes the color of the damage numbers while on the alien team.		Cambia el color de los números de daño cuando estás en el equipo Alien.	New			
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_BONESHIELD	BONESHIELD DAMAGE NUMBERS COLOR		COLOR DE LOS NÚMEROS DE DAÑO AL BONESHIELD	New		Glossary keeps Bone Shield in English.	
+Advanced options	ADVANCED_OPTION_DAMAGE_NUMBER_COLOR_BONESHIELD_TOOLTIP	Changes the color of the damage numbers when hitting an active Boneshield.		Cambia el color de los números de daño al golpear un Boneshield activo.	New			
+Advanced options	ADVANCED_OPTION_MARINE_MINIMAP	MARINE MINIMAP		MINIMAPA DE MARINE	New			
+Advanced options	ADVANCED_OPTION_MARINE_MINIMAP_TOOLTIP	Enables or disables the marine minimap in the top-left corner.		Activa o desactiva el minimapa de Marine en la esquina superior izquierda.	New			
+Advanced options	ADVANCED_OPTION_MAP_BACKGROUND_OPACITY	MAP BACKGROUND OPACITY		OPACIDAD DEL FONDO DEL MAPA	New			
+Advanced options	ADVANCED_OPTION_MAP_BACKGROUND_OPACITY_TOOLTIP	Sets the opacity of the map background.		Define la opacidad del fondo del mapa.	New			
+Advanced options	ADVANCED_OPTION_MAP_LOCATION_TEXT_OPACITY	LOCATION TEXT OPACITY		OPACIDAD DE LOS NOMBRES DE ZONA	New		"Location text" = the room names on the map.	
+Advanced options	ADVANCED_OPTION_MAP_LOCATION_TEXT_OPACITY_TOOLTIP	Sets the trasparency of the location text on the map.		Define la transparencia de los nombres de zona en el mapa.	New		English has a typo ("trasparency"); the Spanish is fine.	
+Advanced options	ADVANCED_OPTION_MAP_FRIENDS_HIGHLIGHT	FRIENDS HIGHLIGHTING		RESALTAR AMIGOS	New			
+Advanced options	ADVANCED_OPTION_MAP_FRIENDS_HIGHLIGHT_TOOLTIP	Toggles friend highlighting on the map.		Activa o desactiva el resaltado de amigos en el mapa.	New			
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES	PHASE GATE LINES		LÍNEAS DE LOS PORTALES DE FASE	New		Glossary: Phase Gate = portal de fase.	length: 30 chars vs 16 in English
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES_TOOLTIP	Customizes the look of the PG lines on the map.		Personaliza el aspecto de las líneas de los portales de fase en el mapa.	New			
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES_CHOICE_SOLID	SOLID LINE		LÍNEA CONTINUA	New			
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES_CHOICE_STATICARROWS	STATIC ARROWS		FLECHAS ESTÁTICAS	New			
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES_CHOICE_ANIMATEDLINES	ANIMATED LINES		LÍNEAS ANIMADAS	New			
+Advanced options	ADVANCED_OPTION_PHASEGATE_LINES_CHOICE_ANIMATEDARROWS	ANIMATED ARROWS		FLECHAS ANIMADAS	New			
+Advanced options	ADVANCED_OPTION_MAP_TOGGLE	MAP KEY BEHAVIOR		FUNCIONAMIENTO DE LA TECLA DEL MAPA	New			length: 35 chars vs 16 in English
+Advanced options	ADVANCED_OPTION_MAP_TOGGLE_TOOLTIP	Lets you choose between a toggle and a hold control scheme for the map.		Elige si el mapa se abre al mantener presionada la tecla o se alterna con cada pulsación.	New	CHECK	"cada pulsación": the noun is neutral, but check it does not read as Spain-ish "pulsar".	
+Advanced options	ADVANCED_OPTION_MAP_TOGGLE_CHOICE_HOLD	HOLD		MANTENER	New			
+Advanced options	ADVANCED_OPTION_MAP_TOGGLE_CHOICE_TOGGLE	TOGGLE		ALTERNAR	New			
+Advanced options	ADVANCED_OPTION_PLAYER_ARROWCOLOR	PLAYER ARROW COLOR		COLOR DE LA FLECHA DEL JUGADOR	New			length: 30 chars vs 18 in English
+Advanced options	ADVANCED_OPTION_MAP_ELEMENTSCOLOR	TECH POINT/RES NODE MAP COLOR		COLOR DE TECH POINTS/NODOS DE RES EN EL MAPA	New		Glossary: tech point kept, resource node = nodo de res.	
+Advanced options	ADVANCED_OPTION_MAP_ELEMENTSCOLOR_TOOLTIP	Sets the color of empty Tech Points and Resource Nodes on the map.		Define el color de los tech points y nodos de res vacíos en el mapa.	New			
+Advanced options	ADVANCED_OPTION_PLAYER_ARROWCOLOR_TOOLTIP	Sets the color of the arrow indicating your position on the map.		Define el color de la flecha que indica tu posición en el mapa.	New			
+Advanced options	ADVANCED_OPTION_MARINE_PLAYERCOLOR	MAP MARINE PLAYER COLOR		COLOR DE LOS MARINES EN EL MAPA	New			
+Advanced options	ADVANCED_OPTION_MARINE_PLAYERCOLOR_TOOLTIP	Sets the color of other Marine player on the map.		Define el color de los demás jugadores Marine en el mapa.	New			
+Advanced options	ADVANCED_OPTION_ALIEN_PLAYERCOLOR	MAP ALIEN PLAYER COLOR		COLOR DE LOS ALIENS EN EL MAPA	New			
+Advanced options	ADVANCED_OPTION_ALIEN_PLAYERCOLOR_TOOLTIP	Sets the color of other alien players on the map.		Define el color de los demás jugadores Alien en el mapa.	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_BUILDING_HIGHLIGHT	(COMM) BUILDING HIGHLIGHT		(COMM) RESALTAR EDIFICIOS	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_BUILDING_HIGHLIGHT_TOOLTIP	Highlights buildings of the same type that you're about to drop on the map in a different color.		Resalta en otro color, en el mapa, los edificios del mismo tipo que el que vas a colocar.	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_BUILDING_HIGHLIGHT_COLOR	(COMM) BUILDING HIGHLIGHT COLOR		(COMM) COLOR DE RESALTADO DE EDIFICIOS	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_BUILDING_HIGHLIGHT_COLOR_TOOLTIP	Selects the color of the building highlight.		Elige el color del resaltado de edificios.	New			
+Advanced options	ADVANCED_OPTION_DEATHSTATS	STATS UI		PANEL DE ESTADÍSTICAS	New			length: 21 chars vs 8 in English
+Advanced options	ADVANCED_OPTION_DEATHSTATS_TOOLTIP	Toggles the stats you get after you die and at the end of the round. Also visible on voiceover menu (default: X).		Activa o desactiva las estadísticas que ves al morir y al final de la ronda. También aparecen en el menú de voz (por defecto: X).	New			
+Advanced options	ADVANCED_OPTION_DEATHSTATS_CHOICE_DISABLED	FULLY DISABLED		DESACTIVADO POR COMPLETO	New			length: 24 chars vs 14 in English
+Advanced options	ADVANCED_OPTION_DEATHSTATS_CHOICE_VOICEOVERONLY	ONLY VOICEOVER MENU		SOLO EN EL MENÚ DE VOZ	New			
+Advanced options	ADVANCED_OPTION_PARTICLES	MINIMAL PARTICLES		PARTÍCULAS MÍNIMAS	New			
+Advanced options	ADVANCED_OPTION_PARTICLES_TOOLTIP	Toggles between default and less vision obscuring particles.		Alterna entre las partículas predeterminadas y unas que tapan menos la vista.	New			
+Advanced options	ADVANCED_OPTION_MAP_PARTICLES	MAP PARTICLES		PARTÍCULAS DEL MAPA	New			
+Advanced options	ADVANCED_OPTION_MAP_PARTICLES_TOOLTIP	Toggles map particles, holograms and other map specific effects.		Activa o desactiva las partículas, hologramas y otros efectos propios del mapa.	New			
+Advanced options	ADVANCED_OPTION_WEAPON_TRACERS	WEAPON TRACERS		TRAZADORAS	New		The visible streaks of bullets.	
+Advanced options	ADVANCED_OPTION_WEAPON_TRACERS_TOOLTIP	Toggles weapon tracers.		Activa o desactiva las trazadoras de las armas.	New			length: 47 chars vs 23 in English
+Advanced options	ADVANCED_OPTION_CROSSHAIR_HIT_FADETIME	HIT INDICATOR FADE TIME		DURACIÓN DEL INDICADOR DE IMPACTO	New			
+Advanced options	ADVANCED_OPTION_CROSSHAIR_HIT_FADETIME_TOOLTIP	Controls how long the crosshair hit indicator will last after hitting a target.		Controla cuánto dura el indicador de impacto de la mira después de golpear un objetivo.	New			
+Advanced options	ADVANCED_OPTION_CROSSHAIR_SCALE	CROSSHAIR SCALE		TAMAÑO DE LA MIRA	New			
+Advanced options	ADVANCED_OPTION_CROSSHAIR_SCALE_TOOLTIP	Lets you increase or decrease the size of your crosshair.		Permite agrandar o achicar la mira.	New		"Achicar" is common in Latin America; neutral alternative: "reducir".	
+Advanced options	ADVANCED_OPTION_RELOAD_INDICATOR	RELOAD AND COOLDOWN INDICATOR		INDICADOR DE RECARGA Y ENFRIAMIENTO	New			
+Advanced options	ADVANCED_OPTION_RELOAD_INDICATOR_TOOLTIP	Toggles a reload indicator around your crosshair. It also displays the cooldown status of some alien movement abilities.		Muestra un indicador de recarga alrededor de la mira. También muestra el enfriamiento de algunas habilidades de movimiento alien.	New			
+Advanced options	ADVANCED_OPTION_RELOAD_INDICATOR_COLOR	RELOAD INDICATOR COLOR		COLOR DEL INDICADOR DE RECARGA	New			
+Advanced options	ADVANCED_OPTION_RELOAD_INDICATOR_COLOR_TOOLTIP	Sets the color of the reload indicator.		Define el color del indicador de recarga.	New			
+Advanced options	ADVANCED_OPTION_CASTER_MODE	STREAMER MODE		MODO STREAMER	New			
+Advanced options	ADVANCED_OPTION_CASTER_MODE_TOOLTIP	Makes NS2 use the default values for all of the advanced options without overwriting your current settings.		Hace que NS2 use los valores predeterminados de todas las opciones avanzadas sin sobrescribir tu configuración actual.	New			
+Advanced options	ADVANCED_OPTION_UI_SCALING	UI SCALING		ESCALA DE LA INTERFAZ	New			length: 21 chars vs 10 in English
+Advanced options	ADVANCED_OPTION_UI_SCALING_TOOLTIP	Change the scaling for the UI. Note that not everything will adapt to this as not everything is using the same scaling function and some elements might break. Use at your own risk.		Cambia la escala de la interfaz. No todo se adapta, porque no todo usa la misma función de escala, y algunos elementos pueden romperse. Úsalo bajo tu propio riesgo.	New			
+Advanced options	ADVANCED_OPTION_WEAPON_AUTOPICKUP	WEAPON AUTOPICKUP		RECOGER ARMAS AUTOMÁTICAMENTE	New			length: 29 chars vs 17 in English
+Advanced options	ADVANCED_OPTION_WEAPON_AUTOPICKUP_TOOLTIP	Picks up weapons automatically as long as the slot they belong to is empty.		Recoge armas automáticamente siempre que su espacio esté vacío.	New			
+Advanced options	ADVANCED_OPTION_WEAPON_AUTOPICKUP_BETTER	AUTOPICKUP BETTER WEAPON		RECOGER AUTOMÁTICAMENTE ARMAS MEJORES	New			
+Advanced options	ADVANCED_OPTION_WEAPON_AUTOPICKUP_BETTER_TOOLTIP	Picks up better weapons in the primary slot automatically.		Recoge automáticamente armas mejores para el espacio principal.	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_MARINE_CLICK_SELECTION	(COMM) MARINE CLICK SELECTION		(COMM) SELECCIONAR MARINES CON CLICK	New		Style guide: "click".	
+Advanced options	ADVANCED_OPTION_COMMANDER_MARINE_CLICK_SELECTION_TOOLTIP	Lets you disable click selecting for Marines.		Permite desactivar la selección de Marines con click.	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_PLAYERALERT_QUEUE	(COMM) ALERT SPACEBAR FILTER		(COMM) FILTRO DE ALERTAS CON ESPACIO	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_PLAYERALERT_QUEUE_TOOLTIP	Filters the spacebar alert queue shortcut to only respond to player requests.		Hace que el atajo de la barra espaciadora para la cola de alertas solo responda a pedidos de jugadores.	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_PLAYERALERT_QUEUE_CHOICE_ALLALERTS	ALL ALERTS		TODAS LAS ALERTAS	New			
+Advanced options	ADVANCED_OPTION_COMMANDER_PLAYERALERT_QUEUE_CHOICE_ONLYPLAYER	ONLY PLAYER ALERTS		SOLO ALERTAS DE JUGADORES	New			
+Advanced options	ADVANCED_OPTION_RESEARCH_TIME_TOOLTIP	RESEARCH TIME TOOLTIP		TIEMPO DE INVESTIGACIÓN EN EL TOOLTIP	New	CHECK	The option adds the time left to the research tooltip. "Tooltip" kept; alternative: "descripción emergente".	length: 37 chars vs 21 in English
+Advanced options	ADVANCED_OPTION_RESEARCH_TIME_TOOLTIP_TOOLTIP	Displays the time remaining when hovering over the research icon.		Muestra el tiempo restante al pasar el mouse sobre el ícono de investigación.	New			
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_LABEL	DRAW VIEWMODEL		MOSTRAR MODELO EN PRIMERA PERSONA	New	CHECK	New term: viewmodel = modelo en primera persona (arms and weapon on screen). Alternative: keep VIEWMODEL.	length: 33 chars vs 14 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_LABEL_TOOLTIP	Toggles the viewmodel.		Muestra u oculta el modelo en primera persona.	New			length: 46 chars vs 22 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_MARINE_LABEL	MARINE VIEWMODEL		MODELO EN PRIMERA PERSONA (MARINE)	New			length: 34 chars vs 16 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_MARINE_TOOLTIP	Toggles the marine viewmodel.		Muestra u oculta el modelo en primera persona del Marine.	New			length: 57 chars vs 29 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_EXO_LABEL	EXO VIEWMODEL		MODELO EN PRIMERA PERSONA (EXO)	New			length: 31 chars vs 13 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_EXO_TOOLTIP	Toggles the exo viewmodel.		Muestra u oculta el modelo en primera persona del Exo.	New			length: 54 chars vs 26 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_ALIEN_LABEL	ALIEN VIEWMODEL		MODELO EN PRIMERA PERSONA (ALIEN)	New			length: 33 chars vs 15 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_ALIEN_TOOLTIP	Toggles the alien viewmodel.		Muestra u oculta el modelo en primera persona de los Aliens.	New			length: 60 chars vs 28 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_SKULK_LABEL	SKULK VIEWMODEL		MODELO EN PRIMERA PERSONA (SKULK)	New			length: 33 chars vs 15 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_SKULK_TOOLTIP	Toggles the Skulk viewmodel.		Muestra u oculta el modelo en primera persona del Skulk.	New			length: 56 chars vs 28 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_GORGE_LABEL	GORGE VIEWMODEL		MODELO EN PRIMERA PERSONA (GORGE)	New			length: 33 chars vs 15 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_GORGE_TOOLTIP	Toggles the Gorge viewmodel.		Muestra u oculta el modelo en primera persona del Gorge.	New			length: 56 chars vs 28 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_LERK_LABEL	LERK VIEWMODEL		MODELO EN PRIMERA PERSONA (LERK)	New			length: 32 chars vs 14 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_LERK_TOOLTIP	Toggles the Lerk viewmodel.		Muestra u oculta el modelo en primera persona del Lerk.	New			length: 55 chars vs 27 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_FADE_LABEL	FADE VIEWMODEL		MODELO EN PRIMERA PERSONA (FADE)	New			length: 32 chars vs 14 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_FADE_TOOLTIP	Toggles the Fade viewmodel.		Muestra u oculta el modelo en primera persona del Fade.	New			length: 55 chars vs 27 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_ONOS_LABEL	ONOS VIEWMODEL		MODELO EN PRIMERA PERSONA (ONOS)	New			length: 32 chars vs 14 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_ONOS_TOOLTIP	Toggles the Onos viewmodel.		Muestra u oculta el modelo en primera persona del Onos.	New			length: 55 chars vs 27 in English
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_CHOICE_HIDE	HIDE		OCULTAR	New			
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_CHOICE_DISPLAY	DISPLAY		MOSTRAR	New			
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_CHOICE_DISPLAYALL	DISPLAY ALL		MOSTRAR TODOS	New			
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_CHOICE_HIDEALL	HIDE ALL		OCULTAR TODOS	New			
+Advanced options	ADVANCED_OPTION_DRAW_VIEWMODEL_CHOICE_CUSTOM	CUSTOM		PERSONALIZADO	New			
+Advanced options	ADVANCED_OPTION_RESET_ADVANCED_OPTIONS	RESET ADVANCED OPTIONS		RESTABLECER OPCIONES AVANZADAS	New			
+Advanced options	ADVANCED_OPTION_RESET_POPUP_TITLE	RESET ADVANCED OPTIONS		RESTABLECER OPCIONES AVANZADAS	New			
+Advanced options	ADVANCED_OPTION_RESET_POPUP_MESSAGE	Reset ALL advanced options to default?		¿Restablecer TODAS las opciones avanzadas a sus valores predeterminados?	New			
+Advanced options	ADVANCED_OPTION_RESET_POPUP_BUTTON_RESET	YES, RESET		SÍ, RESTABLECER	New			
+Key bindings	BINDINGS	BINDINGS	CONF. TECLAS	CONTROLES	Fixed	FIX	Was "CONF. TECLAS" (abbreviated). CHECK against the CONTROLS tab: if both appear side by side, use "ASIGNACIÓN DE TECLAS" here.	
+Key bindings	BINDINGS_ACTION	Action	Acción	Acción	Kept			
+Key bindings	BINDINGS_COMMANDER_GRID_TOOLTIP	These are the hotkeys that correspond to the button positions in the bottom-right corner of the commander view.		Estas son las teclas rápidas que corresponden a las posiciones de los botones en la esquina inferior derecha de la vista del Commander.	New			
+Key bindings	BINDINGS_CROUCH	CROUCH		AGACHARSE	New			
+Key bindings	BINDINGS_EVERYBODY_TEXT_CHAT	EVERYBODY TEXT CHAT		CHAT DE TEXTO GENERAL	New			
+Key bindings	BINDINGS_EVOLVE_LAST_UPGRADES	EVOLVE LAST UPGRADES		EVOLUCIONAR ÚLTIMAS MEJORAS	New			
+Key bindings	BINDINGS_FLASHLIGHT	TOGGLE FLASHLIGHT / ALIEN VISION		LINTERNA / VISIÓN ALIEN	New		"Toggle" dropped for length; the key toggles either.	
+Key bindings	BINDINGS_GO_TO_READY_ROOM	GO TO READY ROOM		IR A LA READY ROOM	New			
+Key bindings	BINDINGS_JUMP	JUMP		SALTAR	New			
+Key bindings	BINDINGS_MOVEMENT	Movement	Movimiento	Movimiento	Kept			
+Key bindings	BINDINGS_MOVEMENT_SPECIAL	MOVEMENT SPECIAL		MOVIMIENTO ESPECIAL	New			
+Key bindings	BINDINGS_MOVEMENT_SPECIAL_TOOLTIP	Trigger special movement ability for the current lifeform.  For Marines this is sprinting, for Skulks this is sneaking, etc.		Activa la habilidad de movimiento especial de la forma de vida actual. Para los Marines es correr; para los Skulks, moverse en sigilo, etc.	New			
+Key bindings	BINDINGS_MOVE_BACKWARD	MOVE BACKWARD		RETROCEDER	New			
+Key bindings	BINDINGS_MOVE_FORWARD	MOVE FORWARD		AVANZAR	New			
+Key bindings	BINDINGS_MOVE_LEFT	STRAFE LEFT		DESPLAZARSE A LA IZQUIERDA	New			length: 26 chars vs 11 in English
+Key bindings	BINDINGS_MOVE_RIGHT	STRAFE RIGHT		DESPLAZARSE A LA DERECHA	New			length: 24 chars vs 12 in English
+Key bindings	BINDINGS_NEXT_WEAPON	NEXT WEAPON		ARMA SIGUIENTE	New			
+Key bindings	BINDINGS_PING_LOCATION	PING LOCATION		MARCAR UBICACIÓN	New		"Ping" the map location for the team.	
+Key bindings	BINDINGS_PREVIOUS_WEAPON	PREVIOUS WEAPON		ARMA ANTERIOR	New			
+Key bindings	BINDINGS_PRIMARY_ATTACK	PRIMARY ATTACK		ATAQUE PRINCIPAL	New			
+Key bindings	BINDINGS_PUBLIC_CHAT	Public chat	Chat público	Chat público	Kept			
+Key bindings	BINDINGS_PUSH_TO_TALK	PUSH TO TALK		PRESIONAR PARA HABLAR	New			length: 21 chars vs 12 in English
+Key bindings	BINDINGS_QUICK_SWITCH	SWITCH TO LAST WEAPON		CAMBIAR A LA ÚLTIMA ARMA	New			
+Key bindings	BINDINGS_RELOAD	RELOAD		RECARGAR	New			
+Key bindings	BINDINGS_REQUEST_STRUCTURE	Request Structure		Pedir estructura	New			
+Key bindings	BINDINGS_REQUEST_ORDER	REQUEST ORDER		PEDIR ORDEN	New			
+Key bindings	BINDINGS_REQUEST_WELD	REQUEST WELD		PEDIR SOLDADURA	New			
+Key bindings	BINDINGS_VOICE_COVERING	(MARINE) \"COVERING YOU\"	TE CUBRO	(MARINE) \"TE CUBRO\"	Fixed	FIX	Keeps the "(MARINE)" tag and quotes of the English label.	
+Key bindings	BINDINGS_VOICE_FOLLOW	(MARINE) \"FOLLOW ME\"	SIGUEME	(MARINE) \"SÍGUEME\"	Fixed	FIX	Missing accent (SIGUEME); tag and quotes restored.	
+Key bindings	BINDINGS_VOICE_HOSTILES	(MARINE) \"HOSTILES\"	HOSTILES	(MARINE) \"HOSTILES\"	Fixed	FIX	Tag and quotes restored.	
+Key bindings	BINDINGS_VOICE_ACKOWLEDGED	\"ACKNOWLEDGED\"/CHUCKLE		\"RECIBIDO\"/RISA	New			
+Key bindings	BINDINGS_SCOREBOARD	SCOREBOARD		TABLA DE PUNTUACIONES	New			length: 21 chars vs 10 in English
+Key bindings	BINDINGS_SECONDARY_ATTACK	SECONDARY ATTACK		ATAQUE SECUNDARIO	New			
+Key bindings	BINDINGS_SHOW_MAP	SHOW MAP		MOSTRAR MAPA	New			
+Key bindings	BINDINGS_SHOW_TECH_TREE	SHOW TECH TREE		MOSTRAR ÁRBOL DE TECNOLOGÍAS	New		Glossary: Tech Tree = árbol de tecnologías.	length: 28 chars vs 14 in English
+Key bindings	BINDINGS_TAUNT	TAUNT		PROVOCAR	New			
+Key bindings	BINDINGS_TEAM_CHAT	TEAM ONLY TEXT CHAT		CHAT DE TEXTO DE EQUIPO	New			
+Key bindings	BINDINGS_TOGGLE_CONSOLE	TOGGLE CONSOLE		ABRIR/CERRAR CONSOLA	New			
+Key bindings	BINDINGS_TOGGLE_MINIMAP_NAMES	TOGGLE MINIMAP NAMES		MOSTRAR/OCULTAR NOMBRES EN EL MINIMAPA	New			length: 38 chars vs 20 in English
+Key bindings	BINDINGS_USE	USE		USAR	New			
+Key bindings	BINDINGS_USE_MICROPHONE	Use microphone for global chat	Use el microfono para hablar globalmente	Usar el micrófono para el chat global	Fixed	FIX	Was "Use el microfono…": usted form and missing accent.	
+Key bindings	BINDINGS_USE_MICROPHONE_LOCAL	Use microphone for local (in-world) chat	Use el microfono para hablar localmente	Usar el micrófono para el chat local (en el mundo)	Fixed	FIX	Same.	
+Key bindings	BINDINGS_VOICEOVER_MENU	VOICEOVER MENU		MENÚ DE VOZ	New			
+Key bindings	BINDINGS_VOTE_NO	VOTE NO		VOTAR NO	New			
+Key bindings	BINDINGS_VOTE_YES	VOTE YES		VOTAR SÍ	New			
+Key bindings	COMBINDINGS_GO_TO_PREVIOUS_LOCATION	GO TO PREVIOUS LOCATION		IR A LA UBICACIÓN ANTERIOR	New			
+Key bindings	COMBINDINGS_GO_TO_ALERT	GO TO ALERT		IR A LA ALERTA	New			
+Key bindings	COMBINDINGS_TOGGLE_HEALTHBARS	Toggle Friendly Structure Health Bars		Mostrar/ocultar barras de vida de estructuras aliadas	New			
+Key bindings	COMBINDINGS_MOVEMENT_SPECIAL	MOVEMENT OVERRIDE	MODIFICADOR MOVIMIENTO	MODIFICADOR DE MOVIMIENTO	Fixed		Existing, "DE" added.	
+Key bindings	COMBINDINGS_MOVEMENT_SPECIAL_TOOLTIP	When this key is held down, other keys pressed are interpreted as movement keys, not commander hotkeys.  For example, holding this key, you can use WASD to move around, rather than activate buttons on the command card.		Mientras mantienes presionada esta tecla, las demás teclas funcionan como teclas de movimiento y no como atajos del Commander. Por ejemplo, con esta tecla presionada puedes usar WASD para moverte en lugar de activar los botones del panel de comandos.	New			
+Key bindings	COMBINDINGS_OVERHEAD_ZOOM_DECREASE	DECREASE OVERHEAD ZOOM	INCREMENTAR ZOOM	REDUCIR ZOOM	Fixed	FIX	Swapped in the current file: DECREASE said INCREMENTAR ZOOM.	
+Key bindings	COMBINDINGS_OVERHEAD_ZOOM_INCREASE	INCREASE OVERHEAD ZOOM	REDUCIR ZOOM	AUMENTAR ZOOM	Fixed	FIX	Swapped in the current file: INCREASE said REDUCIR ZOOM.	
+Key bindings	COMBINDINGS_OVERHEAD_ZOOM_RESET	RESET OVERHEAD ZOOM	RESTABLECER ZOOM	RESTABLECER ZOOM	Kept			
+Key bindings	COMBINDINGS_PUBLIC_CHAT	Public chat	Chat público	Chat público	Kept			
+Key bindings	COMBINDINGS_SHOW_MAP	SHOW MAP		MOSTRAR MAPA	New			
+Key bindings	COMBINDINGS_TEAM_CHAT	Team chat	Chat de equipo	Chat de equipo	Kept			
+Key bindings	COMBINDINGS_USE_MICROPHONE	Use microphone	Usar micrófono	Usar micrófono	Kept			
+Key bindings	COMBINDINGS_USE_MICROPHONE_LOCAL_	Use microphone for local (in-world) chat	Use el microfono para hablar localmente	Usar el micrófono para el chat local (en el mundo)	Fixed	FIX	Usted form and missing accent.	
+Key bindings	COMMANDER_BINDINGS	COMMANDER BINDINGS		CONTROLES DEL COMMANDER	New			
+Key bindings	COMMANDER_BINDINGS_GRID_RESET	RESET GRID KEYS		RESTABLECER TECLAS DE LA CUADRÍCULA	New			length: 35 chars vs 15 in English
+Key bindings	COMMANDER_GRID	COMMANDER GRID		CUADRÍCULA DEL COMMANDER	New			length: 24 chars vs 14 in English
+Key bindings	FIELD_PLAYER_BINDINGS	FIELD PLAYER BINDINGS		CONTROLES DEL JUGADOR	New		"Field player" = anyone not commanding.	
+Key bindings	BINDINGS_TERTIARY_ATTACK	TERTIARY ATTACK		ATAQUE TERCIARIO	New			
+Key bindings	BINDINGS_TERTIARY_ATTACK_TT	Currently used to throw grenades		Actualmente se usa para lanzar granadas	New			
+Mods	MODS_ACTIVE	ACTIVE	ACTIVO	ACTIVO	Kept			
+Mods	MODS_NAME	NAME	NOMBRE	NOMBRE	Kept			
+Mods	MODS_STATE	STATE	ESTADO	ESTADO	Kept			
+Mods	MODS_STATE_1	GETTING INFO	OBTENIENDO INFORMACIÓN	OBTENIENDO INFORMACIÓN	Kept			length: 22 chars vs 12 in English
+Mods	MODS_STATE_2	QUEUED TO DOWNLOAD	EN COLA PARA DESCARGA	EN COLA PARA DESCARGA	Kept			
+Mods	MODS_STATE_3	DOWNLOADING	DESCARGANDO	DESCARGANDO	Kept			
+Mods	MODS_STATE_4	UNAVAILABLE	NO DISPONIBLE	NO DISPONIBLE	Kept			
+Mods	MODS_STATE_5	AVAILABLE	DISPONIBLE	DISPONIBLE	Kept			
+Mods	MODS_STATE_6	UNPACKING		DESCOMPRIMIENDO	New		Was missing.	
+Mods	MODS_SUBSCRIBED	SUBSCRIBED	SUSCRITO	SUSCRITO	Kept			
+Mods	MODS_WARNING_TITLE	All client mods are disabled!		¡Se desactivaron todos los mods del cliente!	New			
+Mods	MODS_WARNING_WINDOW	We performed a one time deactivation of all mods to prevent potential compatibility issues with the new patch. You can re-activate them in the mods menu at your own risk.	Hemos realizado una desactivación de todos los mods para prevenir problemas de compatibilidad con este parche. Puedes reactivarlos en el menú de mods bajo tu propia responsabilidad.	Desactivamos todos los mods por única vez para evitar posibles problemas de compatibilidad con el nuevo parche. Puedes volver a activarlos en el menú de mods bajo tu propia responsabilidad.	Fixed		Existing reworded slightly ("una desactivación única", "nuevo parche").	

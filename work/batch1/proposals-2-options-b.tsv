@@ -1,0 +1,88 @@
+OPTION_FOV_ALIEN	FOV DE ALIEN
+OPTION_PERLIFEFORM_SENSITIVITY	SENSIBILIDAD POR FORMA DE VIDA
+OPTION_PERLIFEFORM_SENSITIVITY_TOOLTIP	Permite tener sensibilidades distintas para cada forma de vida alien. Tiene prioridad sobre la sensibilidad del equipo Alien.
+OPTION_MARINETEAM_SENSITIVITY	SENSIBILIDAD DE MARINE
+OPTION_MARINETEAM_SENSITIVITY_TOOLTIP	Sensibilidad para el equipo Marine.
+OPTION_ALEINTEAM_SENSITIVITY	SENSIBILIDAD DE ALIEN
+OPTION_ALEINTEAM_SENSITIVITY_TOOLTIP	Sensibilidad para el equipo Alien.
+OPTION_SKULK_SENSITIVITY	SENSIBILIDAD DE SKULK
+OPTION_SKULK_SENSITIVITY_TOOLTIP	Sensibilidad para el Skulk.
+OPTION_GORGE_SENSITIVITY	SENSIBILIDAD DE GORGE
+OPTION_GORGE_SENSITIVITY_TOOLTIP	Sensibilidad para el Gorge.
+OPTION_LERK_SENSITIVITY	SENSIBILIDAD DE LERK
+OPTION_LERK_SENSITIVITY_TOOLTIP	Sensibilidad para el Lerk.
+OPTION_FADE_SENSITIVITY	SENSIBILIDAD DE FADE
+OPTION_FADE_SENSITIVITY_TOOLTIP	Sensibilidad para el Fade.
+OPTION_ONOS_SENSITIVITY	SENSIBILIDAD DE ONOS
+OPTION_ONOS_SENSITIVITY_TOOLTIP	Sensibilidad para el Onos.
+OPTION_AF	Mejora la claridad y la definición
+OPTION_ANTI_ALIASING	Reduce los bordes dentados de los objetos. TAA (solo DirectX 11) da el mejor resultado, pero cuesta más rendimiento. FXAA es más rápido, pero la imagen no es tan buena, sobre todo en movimientos pequeños sobre superficies detalladas.
+OPTION_CAMERA_ANIMATION	Activa o desactiva efectos como la inclinación de la cámara	FIX	The old line added "de skulk, etc.", which the English does not say.
+OPTION_CLEAR_BIND	Borrar la asignación de tecla
+OPTION_COMMANDER	COMMANDER
+OPTION_DEVICE	Elige qué dispositivo de renderizado usar. D3D9 es el más estable.	FIX	Missing accent (qué).
+OPTION_DISPLAY	Elige en qué monitor mostrar el juego	FIX	Missing accent (qué); "dispositivo" → "monitor" to match DISPLAY.
+OPTION_ENEMY_HEALTH	Muestra la vida total del enemigo al atacarlo
+OPTION_DRAW_DAMAGE	Muestra el daño que haces al atacar	FIX	Old line said "a tus enemigos"; the numbers also show on structures. Shorter and closer to the English.
+OPTION_FOG_TOOLTIP	Calidad de los efectos de niebla del entorno. En bajo, la niebla no se mezcla con objetos transparentes (partículas, vidrio, agua, etc.) y puede mejorar el rendimiento.
+OPTION_GAMMA	GAMMA (BRILLO)
+OPTION_HIT_SOUNDS	Ajusta el volumen del sonido de impacto (confirma el daño a los enemigos). El valor predeterminado es 0 (desactivado).	FIX	"hitsounds" → "sonido de impacto", matching HIT_SOUND_VOLUME.
+OPTION_HUDQUALITY	Cambia cuánto se muestra en el HUD
+OPTION_IMPROVED_ROTATION_PLACEMENT	Ajusta el plano a la rotación válida más cercana, hasta 29 grados.
+OPTION_INFESTATION	CALIDAD DE INFESTACIÓN
+OPTION_INHERIT_BIND	Copia la opción equivalente de la izquierda.
+OPTION_LIGHT_QUALITY	Calidad de la iluminación del mapa. Más luces = mejor imagen. Menos luces = mejor rendimiento.
+OPTION_MENU_BACKGROUND	Cambia el fondo del menú.
+OPTION_MENU_MUSIC	Cambia la música del menú principal.
+OPTION_ITEM_PURCHASING	COMPRAS DENTRO DEL JUEGO
+OPTION_TEM_PURCHASING_TOOLTIP	Permite comprar objetos cosméticos directamente desde el menú principal.
+OPTION_MARINE_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras marine. Desactívalo para un rendimiento un poco mejor.
+OPTION_PHYSICS_MULTITHREADING	MULTITHREADING DE FÍSICA
+OPTION_PHYSICS_MULTITHREADING_TOOLTIP	Usa más CPU para aumentar los FPS en combates intensos. Experimental: desactívalo si tienes problemas.	FIX	Closer to the English (FPS in heavy combat); dash replaced.
+OPTION_REFRACTION_QUALITY_TOOLTIP	Calidad de los efectos de distorsión y refracción. En alto usa más muestras y es más lento, pero la imagen queda más limpia.
+OPTION_RESET	Restablecer el valor predeterminado.
+OPTION_RESET_BIND	Restablecer la tecla predeterminada
+OPTION_RESOURCE_LOADING	CARGA DE RECURSOS
+OPTION_RESOURCE_LOADING_TOOLTIP	Ajusta cuántos recursos se pueden cargar a la vez. Los valores altos benefician a quienes usan SSD; los bajos son mejores para discos HDD.
+OPTION_SHOW_COMMANDER_HELP	Muestra consejos y te guía en el modo Commander	FIX	Stray comma; "commander" capitalized per glossary.
+OPTION_SHOW_HINTS	Muestra consejos y videos útiles	FIX	"vídeos" is the Spain spelling; Latin America writes "videos".
+OPTION_TEXTUREQUALITY	Se recomienda medio para tarjetas gráficas con 1 GB a 1.5 GB de VRAM.	FIX	Old line said RAM; the English says VRAM.
+OPTION_TEXTURE_MANAGEMENT	MANEJO DE TEXTURAS
+OPTION_TEXTURE_MANAGEMENT_TOOLTIP	Elige la cantidad aproximada de VRAM de tu tarjeta gráfica, para manejar mejor las texturas.		Existing reworded slightly (VRAM, shorter).
+OPTION_PARTICLE_QUALITY_TOOLTIP	Calidad de efectos de partículas como el fuego y el humo.
+OPTION_VYSNC	Sincroniza los FPS del juego con la frecuencia de actualización del monitor		Existing "Asocia tus FPS con la tasa de refresco" reworded.
+OPTIONS_UNSAVED_CHANGES	CAMBIOS SIN GUARDAR
+OPTIONS_UNSAVED_CHANGES_MESSAGE	Hay cambios en las opciones sin guardar. ¿Quieres guardarlos ahora?
+OPTIONS_SAVE	GUARDAR
+OPTIONS_REVERT	DESHACER
+OUTPUT_DEVICE	DISPOSITIVO DE SALIDA
+PARTICLE_QUALITY	CALIDAD DE PARTÍCULAS
+PLAY	JUGAR
+PROFILE_PAUSE	Pausar/reanudar el profiler		Developer option.
+PROFILE_PAUSE_TOOLTIP	Pausa o reanuda la captura de frames del profiler mientras el comando \"profile\" está activo.		Developer option; "profile" is a console command and stays.
+REFLECTIONS	REFLEJOS
+REFRACTION_QUALITY	CALIDAD DE REFRACCIÓN
+REPLAY_INTRO_VIDEO	VOLVER A VER LA INTRODUCCIÓN
+REPLAY_INTRO_VIDEO_ACTION	VER
+REPLAY_INTRO_VIDEO_DESCRIPTION	Mira el video de introducción de NS2 para ver un resumen rápido de cómo se juega.
+RESOLUTION	RESOLUCIÓN
+RESTART	REINICIAR
+RICH	DETALLADO	FIX	Was "3D". The option is the richest HUD detail level (MINIMAL / DEFAULT / RICH).
+SHADOWS	SOMBRAS
+SHOW_HINTS	MOSTRAR AYUDA
+SOUND	SONIDO
+SOUND_MUTE_MINIZED	SILENCIAR AL MINIMIZAR
+SOUND_MUTE_MINIZED_TTIP	Evita que se reproduzcan sonidos mientras el juego no está en primer plano.	FIX	"Previene que…" and "no tiene foco" are calques.
+SOUND_VOLUME	VOLUMEN DE SONIDO
+TEXTURE_QUALITY	CALIDAD DE TEXTURAS
+TRIPLE_BUFFERED	TRIPLE BÚFER
+TUT_HIVE_CHALLENGE_TOOLTIP	Mejora tu habilidad como Lerk o Fade intentando defender una sola Hive contra oleadas de Marines el mayor tiempo posible.
+TUT_SKULK_CHALLENGE_TOOLTIP	¡Domina el arte de saltar entre paredes con el Skulk en una carrera contra el reloj, o contra los fantasmas de tus rivales!
+UNLIMITED	ILIMITADO
+VOICE_VOLUME	VOLUMEN DE VOZ
+VOICE_VOLUME_TOOLTIP	Ajusta el volumen de las voces de los demás jugadores.
+VSYNC	SINCRONIZACIÓN VERTICAL
+WINDOW_MODE	MODO DE VENTANA
+WINDOW_MODE_FULLSCREEN	PANTALLA COMPLETA
+WINDOW_MODE_FULLSCREEN_WINDOWED	PANTALLA COMPLETA EN VENTANA
+WINDOW_MODE_WINDOWED	VENTANA

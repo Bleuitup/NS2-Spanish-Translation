@@ -1,0 +1,95 @@
+ACCELERATION_AMOUNT	CANTIDAD DE ACELERACIÓN
+ACCELERATION_AMOUNT_TOOLTIP	Qué tan fuerte es el efecto de la aceleración del mouse. Un valor de 1.0 equivale a tenerla desactivada.		"Qué tan" is the Latin American form (Spain: "cuánto").
+ALIEN_STRUCTURE_PLACEMENT	BUSCAR POSICIONES PARA ESTRUCTURAS ALIEN
+AMBIENT_OCCLUSION	OCLUSIÓN AMBIENTAL
+AMBIENT_OCCLUSION_TOOLTIP	Los rincones oscuros reciben menos luz que los espacios abiertos.
+AMBIENT_VOLUME	VOLUMEN AMBIENTAL
+AMBIENT_VOLUME_TOOLTIP	Ajusta el volumen del sonido ambiental del mapa. Funciona como un porcentaje de tu volumen de sonido normal.
+ANTI_ALIASING	ANTIALIASING
+ATMOSPHERICS	LUCES ATMOSFÉRICAS
+ATMOSPHERICS_TOOLTIP	Algunas luces emiten un sutil efecto de \"rayos de luz\" (godrays).
+ATMO_DENSITY	DENSIDAD ATMOSFÉRICA	FIX	Missing accent (ATMOSFERICA).
+ATMO_DENSITY_TOOLTIP	Intensidad de los efectos atmosféricos (los cambios solo se ven durante la partida).
+ATMO_QUALITY	CALIDAD ATMOSFÉRICA
+ATMO_QUALITY_TT	La resolución a la que se generan los efectos atmosféricos. No es para los débiles de corazón: la opción \"extremo\" se gana cada centímetro de su nombre.	CHECK	Joke kept; "extremo" matches the translation of EXTREME.
+BACK	ATRÁS
+BLOOM	BLOOM		Standard graphics term, left in English as most Spanish games do.
+BLOOM_TOOLTIP	Los objetos brillantes resplandecen levemente.
+BLUEPRINT_ROTATION_SHIFT_KEY	SHIFT ROTA LOS PLANOS		"Blueprint" = the ghost of a structure being placed; "plano" is the usual term.
+COLORBLIND_MODE	MODO DALTÓNICO	FIX	Was left in English ("Colorblind Mode") and not in capitals.
+COLORBLIND_PROTANOPIA	PROTANOPÍA	FIX	Capitals, accent.
+COLORBLIND_DEUTERANOPIA	DEUTERANOPÍA	FIX	Capitals, accent.
+COLORBLIND_TRITANOPIA	TRITANOPÍA	FIX	Capitals, accent.
+COMBAT_AND_INTERACTION	COMBATE E INTERACCIÓN
+COMMUNICATION_AND_INFORMATION	COMUNICACIÓN E INFORMACIÓN
+CONTROLS	CONTROLES
+DAMAGE_NUMBERS	MOSTRAR NÚMEROS DE DAÑO
+DECAL	DURACIÓN DE LAS MARCAS	CHECK	Existing: DURACIÓN DE TEXTURAS DE IMPACTOS (long). Decals include bullet holes and alien spit, not only impacts.
+DECAL_LIFETIME_TOOLTIP	Cuánto tiempo (en minutos) tardan en desaparecer marcas como agujeros de bala o el escupitajo alien.
+DEFAULT	PREDETERMINADO
+DISABLED	DESACTIVADO
+DISPLAY	MONITOR
+DOUBLE_BUFFERED	DOBLE BÚFER
+ENEMY_HEALTH_BARS	MOSTRAR VIDA DEL ENEMIGO	FIX	Was not in capitals like the other labels.
+DUAL_FLAMETHROWER_FIRING_SYNC	DISPARO SINCRONIZADO DE DOBLE LANZALLAMAS
+DUAL_MINIGUN_FIRING_SYNC	DISPARO SINCRONIZADO DE DOBLE MINIGUN
+DUAL_PLASMA_LAUNCHER_FIRING_SYNC	DISPARO SINCRONIZADO DE DOBLE LANZAPLASMA
+EXTREME	EXTREMO
+FOG	NIEBLA
+FOV_ADJUSTMENT	AJUSTE DE CAMPO VISUAL (FOV)
+FOV_ADJUSTMENT_TOOLTIP	¡Aumenta para ver el campo de batalla con un ángulo más amplio!
+GAME_RESTART_REQUIRED	Es necesario reiniciar el juego	FIX	Existing "Reinicio del juego requerido" is a literal calque.
+GENERAL	GENERAL
+GPU_MEMORY	MEMORIA DE GPU
+GRAPHICS	GRÁFICOS
+HELP_SCREEN	PANTALLA DE AYUDA
+HIGH	ALTO
+HIT_SOUND_VOLUME	VOLUMEN DEL SONIDO DE IMPACTO	FIX	Was VOLUMEN DE HITSOUNDS (English word).
+HIT_SOUND_PITCH	TONO DEL SONIDO DE IMPACTO
+HIT_SOUND_PITCH_TOOLTIP	Ajusta el tono base del sonido de impacto.
+HUD_DETAIL	DETALLE DE INTERFAZ
+HUD_DETAIL_TOOLTIP	Ajusta la cantidad de elementos que se muestran en la interfaz (HUD).
+IMPROVED_ROTATION_PLACEMENT	COLOCACIÓN CON ROTACIÓN MEJORADA
+INPUT_DEVICE	DISPOSITIVO DE ENTRADA
+INVERT_MOUSE	INVERTIR MOUSE
+INVERT_MOUSE_TOOLTIP	Invierte el movimiento vertical del mouse. Hay gente rara así... ¡Te estamos mirando, Chris!		Joke kept.
+LANGUAGE	IDIOMA
+LIGHT_QUALITY	CALIDAD DE LAS LUCES
+LOW	BAJO
+MARINE_STRUCTURE_PLACEMENT	BUSCAR POSICIONES PARA ESTRUCTURAS MARINE
+MAX_FPS	FPS MÁXIMOS
+MAXFPS_TOOLTIP	Establece la cantidad máxima de cuadros por segundo mientras juegas.
+MEDIUM	MEDIO
+MICROPHONE_GAIN	GANANCIA DE MICRÓFONO
+MICROPHONE_LEVEL	NIVEL DE MICRÓFONO
+MICROPHONE_RELEASE_DELAY	RETRASO AL SOLTAR EL MICRÓFONO	FIX	Existing "RETRASO GRABACIÓN MICRÓFONO" is missing words and suggests recording.
+MICROPHONE_RELEASE_DELAY_TTIP	Segundos que se sigue transmitiendo después de soltar el botón del micrófono
+MINIMAL	MÍNIMO	FIX	Was "2D". The option is the minimal HUD detail level.
+MINIMAP_ZOOM	ZOOM DEL MINIMAPA
+MINIMAP_ZOOM_TOOLTIP	Ajusta el zoom del minimapa de la esquina superior izquierda (solo Marines).
+MISCELLANEOUS	VARIOS
+MOUSE_ACCELERATION	ACELERACIÓN DEL MOUSE	FIX	"Ratón" is Spain-only; Latin America says "mouse".
+MOUSE_ACCELERATION_TOOLTIP	Tiene en cuenta qué tan rápido mueves el mouse al calcular cuánto se desplaza. Así, los movimientos lentos y precisos lo desplazan menos que los rápidos y amplios.
+MOUSE_SENSITIVITY	SENSIBILIDAD DEL MOUSE	FIX	"Ratón" → "mouse".
+MOUSE_SENSITIVITY_TOOLTIP	Establece la sensibilidad del mouse. Si están activadas las sensibilidades por equipo o por forma de vida, esas tienen prioridad.
+MOVEMENT	MOVIMIENTO
+MUSIC_VOLUME	VOLUMEN DE MÚSICA
+NICKNAME	APODO	FIX	Was NOMBRE; "apodo" matches USE ALTERNATE NICKNAME and Steam's Spanish.
+NS2NICKNAME	USAR APODO ALTERNATIVO
+OFF	DESACTIVADO
+OPTION_ALIEN_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras alien. Desactívalo para un rendimiento un poco mejor.
+OPTION_ALIEN_WEAPONSLOTS	MÉTODO PARA SELECCIONAR HABILIDADES ALIEN
+OPTION_ALIEN_WEAPONSLOTS_CHOICE_DEFAULT	Predeterminado
+OPTION_ALIEN_WEAPONSLOTS_CHOICE_USEWEAPONSLOTS	USAR RANURAS DE ARMA
+OPTION_ALIEN_WEAPONSLOTS_TOOLTIP	Elige cómo seleccionar y activar las habilidades alien
+OPTION_BLUEPRINT_ROTATION_SHIFT_KEY	Mantén presionado Shift para rotar un plano y para revisar la salida de una Robotics Factory mientras la mueves.
+OPTION_DUAL_FLAMETHROWER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
+OPTION_DUAL_MINIGUN_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
+OPTION_DUAL_PLASMA_LAUNCHER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
+OPTION_PERTEAM_SENSITIVITY	SENSIBILIDAD POR EQUIPO
+OPTION_PERTEAM_SENSITIVITY_TOOLTIP	Permite tener sensibilidades distintas para Aliens y Marines.
+OPTION_PERTEAM_FOV	FOV POR EQUIPO
+OPTION_PERTEAM_FOV_TOOLTIP	Permite tener un FOV distinto para Aliens y Marines.
+OPTION_FOV_MARINE	FOV DE MARINE
+OPTION_FOV_MARINE_TOOLTIP	Establece el FOV del equipo Marine.
+OPTION_FOV_ALIEN_TOOLTIP	Establece el FOV del equipo Alien.

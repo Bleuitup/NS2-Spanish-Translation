@@ -35,7 +35,7 @@ Run `lua tools/status.lua` for current numbers and technical problems.
 2. **Style guide and glossary** (done, articles to confirm): [`docs/style-guide.md`](docs/style-guide.md) and
    [`glossary/glossary.md`](glossary/glossary.md) (source: `glossary/glossary.tsv`). Proposed articles are
    reviewed in `work/glossary-review.xlsx`.
-3. **AI first pass, in batches**, most-seen text first: menus and options; server browser; buy
+3. **AI first pass, in batches** (batch 1, menus and options, in review: `work/batch1/batch1-review.xlsx`), most-seen text first: menus and options; server browser; buy
    menus, HUD and tooltips; help screen and exos; items and badges; Competitive Play; tutorial.
    Uncertain lines are flagged.
 4. **Review** of each batch in Excel. Edits feed back into the glossary.
@@ -57,6 +57,9 @@ Run from the repository root. Lua 5.4 for the scripts, Excel for the workbooks.
 | `powershell -ExecutionPolicy Bypass -File tools/export-decisions.ps1` | Exports the filled-in terminology workbook to `work/decisions-terms.tsv` and `work/decisions-style.tsv` |
 | `lua tools/build-glossary.lua` | Builds `glossary/glossary.tsv` and `glossary.md` from the decisions and later follow-ups |
 | `powershell -ExecutionPolicy Bypass -File tools/build-glossary-review.ps1` | Builds `work/glossary-review.xlsx` for confirming articles and terms |
+| `lua tools/make-batch1.lua` | Extracts batch 1 (menus and options) to `work/batch1/source.tsv` |
+| `lua tools/assemble-batch.lua N` | Joins a batch with its `proposals-*.tsv`, checks placeholders, style words, glossary and length, writes `review.tsv` |
+| `powershell -ExecutionPolicy Bypass -File tools/build-review.ps1 N` | Builds `work/batchN/batchN-review.xlsx` for review in Excel |
 
 `tools/gamestrings.lua` holds the shared parser and the checks: every translation must keep the
 English line's `%s` / `%d` / `%%` placeholders, `\n` line breaks, `BIND_…` key bindings and

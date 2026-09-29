@@ -33,6 +33,7 @@ end
 -- Tokens a translation must keep exactly: printf placeholders, line breaks, key bindings, <tags>.
 -- Quote marks are not counted: Spanish may quote differently, as long as each one is escaped.
 local kTokenPatterns = {
+    "%%{[%w_]+}[a-zA-Z]",    -- %{amount}d (named)
     "%%[%-0-9%.]*[a-zA-Z%%]", -- %s %d %.0f %%
     "\\[nt]",                 -- \n \t
     "BIND_[%w_]+",            -- replaced with the player's key binding
