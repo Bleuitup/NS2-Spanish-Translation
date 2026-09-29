@@ -1,0 +1,19 @@
+Variant	Neutral Latin American Spanish.	As suggested	
+Address	Tú («puedes», «pulsa»).	As suggested	
+Keys	Presiona («Presiona BIND_Jump para saltar»).	presiona	
+Mouse	Haz clic («Haz clic en…»).	click	
+Buttons	Infinitive: «Guardar», «Aceptar», «Volver».	infinitive. Correct for instructions in sentences which should use imperative.	
+Research verb	Investigar («Investigar Jetpacks»).	investigar	check against popular RTS in spanish
+Upgrade	Noun: mejora. Verb: mejorar a («Mejorar a Advanced Armory»).	As suggested	
+Round / match	Round = ronda. Match = partida. The game itself = juego.	As suggested	To be checked on a case by case basis
+Gender	Use the gender of the Spanish word it stands for: la Hive (colmena), el Armory (arsenal), la Command Station (estación), el Observatory (observatorio), el Cyst (quiste), la Shade (sombra)?	As suggested	
+Plurals	English plural: Skulks, Hives, Armories, ARCs, MACs.	As suggested	
+Capitals	As in English: Hive, Command Station, Bile Bomb.	As suggested	
+All caps	Keep them ALL CAPS in Spanish.	As suggested	
+Punctuation	Always ¿ and ¡.	As suggested	
+Quotes	Straight quotes, escaped: \"texto\".	As suggested	
+Spain-only words	chafar → aplastar; coger → tomar/agarrar; ordenador → computadora; vale → está bien; móvil → celular; guay → genial.	As suggested	
+Length	Keep labels and buttons about as short as the English; abbreviate if needed and flag it.	As suggested	
+Placeholders	Never translate or change %s, %d, %%, \n, BIND_… or <number>. Word order around them may change.	As suggested	
+Existing lines	Flag them for review in the batch they belong to; do not rewrite silently.	As suggested	
+Bugs found	Fix them in the first batch.	As suggested	

@@ -1,0 +1,152 @@
+Commander	Keep English		OK as suggested			
+Marine	Keep English		OK as suggested			
+Alien	Keep English		OK as suggested			
+Kharaa	Keep English		OK as suggested			
+Frontiersmen	Keep English		OK as suggested			
+team resources	Translate	recursos de equipo	OK as suggested			
+personal resources	Translate	recursos personales	OK as suggested			
+resources	Translate	recursos	OK as suggested			
+supply	Translate	suministro	OK as suggested			
+round	Translate	ronda	OK as suggested			
+match	Translate	partida	OK as suggested			
+game	Translate	partida / juego	Translate	partida	la	can't think for now of a context where juego would be distinctively preferable.
+team	Translate	equipo	OK as suggested			
+player	Translate	jugador	OK as suggested			
+server	Translate	servidor	OK as suggested			
+Ready Room	Keep English		OK as suggested			
+spectator	Translate	espectador	OK as suggested			
+rookie	Translate	novato	OK as suggested			
+bot	Keep English		OK as suggested			
+lifeform	Translate	forma de vida	OK as suggested			
+structure	Translate	estructura	OK as suggested			
+upgrade	Translate	mejora	OK as suggested			
+research	Translate	investigar / investigación	OK as suggested			I don't like Desarrollar in this context. RTS games in spanish tend to use 'investigar'
+tech point	Keep English					¿No hay usos o 'jurisprudencia' de esto por ejemplo en el tutorial?
+resource node	Translate	nodo de recursos	Translate	nodo de res	el	I saw "Res" used also in the translation so this could work too since res is such a common ns2 term
+Tech Tree	Translate	árbol tecnológico	Translate	árbol de tecnologías	el	
+badge	Translate	insignia	OK as suggested			
+skill	Translate	habilidad / nivel	Translate	ELO		Buscar referencias de que se usa en juegos como CSGO, Dota, etc
+Quick Play	Keep English		Translate	partida rápida	la	
+Competitive Play	Keep English		Translate	partida competitiva	la	
+tutorial	Translate	tutorial	OK as suggested			
+Sandbox	Keep English		OK as suggested			
+mod	Keep English		OK as suggested			
+Command Station	Keep English		OK as suggested			
+Command Chair	Keep English		OK as suggested			No debería unificarse con command station?
+Infantry Portal	Keep English		OK as suggested			
+Armory	Keep English		OK as suggested			
+Advanced Armory	Keep English		OK as suggested			
+Arms Lab	Keep English		OK as suggested			
+Observatory	Keep English		OK as suggested			
+Phase Gate	Keep English		Translate	portal de fase	el	
+Robotics Factory	Keep English		OK as suggested			
+ARC Factory	Keep English		OK as suggested			
+Prototype Lab	Keep English		OK as suggested			
+Extractor	Keep English		OK as suggested			
+Sentry	Keep English		OK as suggested			
+Sentry Battery	Keep English		OK as suggested			
+Power Node	Keep English		OK as suggested			
+MAC	Keep English		OK as suggested			
+ARC	Keep English		OK as suggested			
+Exosuit	Keep English		OK as suggested			
+Exo	Keep English		OK as suggested			
+Jetpack	Keep English		OK as suggested			
+Rifle	Keep English		OK as suggested			
+Pistol	Translate	pistola	OK as suggested			
+Axe	Translate	hacha	OK as suggested			
+Welder	Keep English		OK as suggested			
+Shotgun	Translate	escopeta	OK as suggested			
+Grenade Launcher	Translate	lanzagranadas	OK as suggested			
+Flamethrower	Translate	lanzallamas	OK as suggested			
+Heavy Machine Gun	English name + Spanish noun	ametralladora pesada (HMG)	OK as suggested			
+Minigun	Keep English		OK as suggested			
+Railgun	Keep English		OK as suggested			
+Claw	Translate	garra	OK as suggested			
+Plasma Launcher	Translate	lanzaplasma	OK as suggested			
+Mine	Translate	mina	OK as suggested			
+Cluster Grenade	English name + Spanish noun	granada Cluster	Translate	granada de racimo	la	
+Pulse Grenade	English name + Spanish noun	granada Pulse	Translate	granada de pulso	la	
+Nerve Gas Grenade	English name + Spanish noun	granada de gas nervioso	Translate	granada de gas nervioso	la	
+Med pack	Keep English		OK as suggested			
+Ammo pack	Keep English		OK as suggested			
+Catalyst pack	Keep English		OK as suggested			
+Nano-shield	Keep English		Translate	nano-escudo		
+Scan	Translate	escaneo	OK as suggested			
+Distress Beacon	Keep English		English name + Spanish noun	Beacon de emergencia		
+Power Surge	Keep English		OK as suggested			
+Advanced Weaponry	Keep English		Translate	armamento avanzado		
+Advanced Support	Keep English		Translate	soporte avanzado		
+Phase Tech	Keep English		Translate	tecnología de fase		
+Armor	Translate	armadura	OK as suggested			
+Weapons	Translate	armas	OK as suggested			
+Thrusters	Keep English		Translate	propulsores	los	
+Ejection Seat	Keep English		Translate	asiento de eyección	el	
+Armor Plating	Keep English		Translate	placas de armadura	las	
+Nano Shield Field	Keep English		Translate	campo  de nano-escudo	el	
+Catalyst Field	Keep English		English name + Spanish noun	campo de catalyst	el	
+Regen Field	Keep English		English name + Spanish noun	campo de regen	el	
+Skulk	Keep English		OK as suggested			
+Gorge	Keep English		OK as suggested			
+Lerk	Keep English		OK as suggested			
+Fade	Keep English		OK as suggested			
+Onos	Keep English		OK as suggested			
+Embryo	Translate	embrión	OK as suggested			
+Egg	Translate	huevo	OK as suggested			
+Drifter	Keep English		OK as suggested			
+Hydra	Keep English		OK as suggested			
+Babbler	Keep English		OK as suggested			
+Clog	Keep English		OK as suggested			
+Web	Translate	telaraña	OK as suggested			
+Bone Wall	Keep English		OK as suggested			
+Hive	Keep English		OK as suggested			
+Cyst	Keep English		OK as suggested			
+Harvester	Keep English		OK as suggested			
+Crag	Keep English		OK as suggested			
+Shift	Keep English		OK as suggested			
+Shade	Keep English		OK as suggested			
+Whip	Keep English		OK as suggested			
+Shell	Keep English		OK as suggested			
+Spur	Keep English		OK as suggested			
+Veil	Keep English		OK as suggested			
+chamber	Keep English					el juego base usa chamber?
+Tunnel	Translate	túnel	OK as suggested			
+Evolution Chamber	Keep English		English name + Spanish noun	chamber de evolución	la	
+Contamination	Keep English		Translate	contaminación	la	
+Infestation	Translate	infestación	OK as suggested			
+Biomass	Keep English		Translate	biomasa	la	
+evolve	Translate	evolucionar	OK as suggested			
+Bite	Keep English		Translate	morder		ver contexto?
+Leap	Keep English		OK as suggested			
+Parasite	Keep English		Translate	parásito	el	
+Xenocide	Keep English		OK as suggested			
+Spit	Keep English		Translate	escupitajo	el	depende de si es verbo o sustantivo
+Heal Spray	Keep English		English name + Spanish noun	spray de curación	el	
+Bile Bomb	Keep English		OK as suggested			
+Spikes	Keep English		Translate	espinas	las	
+Spores	Keep English		Translate	esporas	las	
+Umbra	Keep English		OK as suggested			
+Swipe	Keep English		OK as suggested			
+Blink	Keep English		OK as suggested			
+Metabolize	Keep English		OK as suggested			
+Stab	Keep English		OK as suggested			
+Gore	Keep English		OK as suggested			
+Stomp	Keep English		OK as suggested			
+Charge	Keep English					depende de si es verbo o sustantivo
+Bone Shield	Keep English		OK as suggested			
+Enzyme	Keep English		Translate	enzima		
+Mucous Membrane	Keep English		Translate	membrana mucosa		
+Hallucination	Keep English		Translate	halucinación		
+Cloaking Haze	Keep English		Translate	bruma de ocultamiento		
+Nutrient Mist	Keep English		Translate	neblina de nutrientes		
+Rupture	Keep English		Translate	ruptura		
+Echo	Keep English		Translate	eco		
+Ink	Keep English		Translate	tinta		
+Carapace	Keep English		Translate	caparazón		
+Regeneration	Keep English		Translate	regeneración		
+Vampirism	Keep English		Translate	vampirismo		
+Camouflage	Keep English		Translate	camuflage		
+Aura	Keep English		OK as suggested			
+Focus	Keep English		Translate	foco		
+Celerity	Keep English		Translate	celeridad		
+Adrenaline	Keep English		Translate	adrenalina		
+Crush	Keep English		OK as suggested			
