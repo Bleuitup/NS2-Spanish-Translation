@@ -1,0 +1,130 @@
+HALLUCINATE_HARVESTER	Alucinar Harvester
+HALLUCINATE_HARVESTER_TOOLTIP	Crea un Harvester falso
+HALLUCINATE_HIVE	Alucinar Hive
+HALLUCINATE_HIVE_TOOLTIP	Crea una Hive falsa
+HALLUCINATE_HYDRA	Alucinar Hydra
+HALLUCINATE_HYDRA_TOOLTIP	Crea una Hydra falsa
+HALLUCINATE_LERK	Alucinar Lerk
+HALLUCINATE_LERK_TOOLTIP	Crea un Lerk falso
+HALLUCINATE_ONOS	Alucinar Onos
+HALLUCINATE_ONOS_TOOLTIP	Crea un Onos falso
+HALLUCINATE_SHADE	Alucinar Shade
+HALLUCINATE_SHADE_TOOLTIP	Crea una Shade falsa	FIX	Glossary: la Shade.
+HALLUCINATE_SHIFT	Alucinar Shift
+HALLUCINATE_SHIFT_TOOLTIP	Crea un Shift falso
+HALLUCINATE_SKULK	Alucinar Skulk
+HALLUCINATE_SKULK_TOOLTIP	Crea un Skulk falso
+HALLUCINATE_WHIP	Alucinar Whip
+HALLUCINATE_WHIP_TOOLTIP	Crea un Whip falso
+HALLUCINATION	Alucinación
+HALLUCINATION_CLOUD	Bruma de ocultamiento		Glossary: Cloaking Haze.
+HALLUCINATION_CLOUD_TOOLTIP	Crea una nube que oculta a los jugadores, huevos y Drifters dentro de la zona.
+HARVESTER	Harvester
+HARVESTER_HINT	Genera recursos
+HARVESTER_TOOLTIP	Generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras y desbloquear nuevos rasgos.
+HEAVY_MACHINE_GUN	Ametralladora pesada		Glossary: Heavy Machine Gun = ametralladora pesada (HMG).
+HEAVY_MACHINE_GUN_DROP	Soltar ametralladora pesada	CHECK	See FLAMETHROWER_DROP.
+HEAVY_MACHINE_GUN_TOOLTIP	Ametralladora con un cargador grande. Imprecisa a media y larga distancia. Daño extra contra jugadores.
+HATCH	Gestar		Existing kept.
+HEAL	Curar
+HEAL_WAVE	Onda de escudo	CHECK	New ability name (CBM's Crag "Shield Wave"), translated per your rule. Alternative: keep "Shield Wave".
+HEAL_WAVE_TOOLTIP	Genera un escudo en todas las formas de vida cercanas.
+HIVE	Hive
+HIVE_HEAL_TOOLTIP	Cura a los Aliens cercanos
+HIVE_HINT	Base alien
+HIVE_TOOLTIP	En esta estructura está el Commander Alien, que elige las evoluciones del equipo (algunas requieren varias Hives). También cura a los jugadores cercanos. Los Aliens pierden si ya no les queda ninguna Hive.		Existing reworded slightly (capitals per glossary).
+HOLD_POSITION	Mantener la posición
+HYDRA	Hydra
+HYDRA_HINT	Planta con púas del Gorge
+HYDRA_TOOLTIP	Planta con púas que se puede construir en cualquier lugar y dispara a los enemigos. Mantenla viva con tu spray de curación.	FIX	Glossary: la Hydra (was "Mantenlo"); Heal Spray = spray de curación.
+INFANTRY_PORTAL	Infantry Portal
+INFANTRY_PORTAL_HINT	Reaparición de Marines	FIX	Was "Renace marines" (ungrammatical).
+INFANTRY_PORTAL_TOOLTIP	Hace reaparecer a un Marine cada 9 segundos. Solo se puede construir cerca de una Command Station. Máximo 3 por Command Station.	FIX	The limit of 3 per Command Station was missing.
+INFESTATION	Infestación
+INFESTATION_SPIKE	Bone Wall		Glossary: kept.
+INFESTATION_SPIKE_TOOLTIP	Crea un muro temporal que bloquea el movimiento y los ataques
+INFESTATION_TOOLTIP	Genera infestación
+INFESTED_TUNNEL_ENTRANCE	Entrada de túnel infestado		Glossary: Tunnel = túnel.
+INFESTED_TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar
+INFESTED_TUNNEL_TOOLTIP	Permite a los jugadores viajar rápido a otro lugar y además extiende la infestación
+INK	Tinta		Glossary.
+JETPACK	Jetpack
+JETPACK_DROP	Soltar Jetpack	CHECK	See FLAMETHROWER_DROP.
+JETPACK_ARMOR_TECH	Investigar armadura de Jetpack
+JETPACK_ARMOR_TOOLTIP	Da armadura extra a los Jetpacks
+JETPACK_FUEL_TECH	Investigar combustible de Jetpack
+JETPACK_FUEL_TOOLTIP	Mejora la maniobrabilidad y el tiempo de vuelo del Jetpack
+JETPACK_HINT	Marine con Jetpack
+JETPACK_TECH	Investigar Jetpacks	FIX	Style guide: investigar (was "Desarrollar").
+JETPACK_TOOLTIP	Permite a los Marines volar y acceder a los conductos de ventilación.	FIX	"vents" (English) → "conductos de ventilación", as in CLOG_TOOLTIP.
+LEAP	Salto		Glossary.
+LEAP_TOOLTIP	Permite a los Skulks saltar al combate	FIX	Closer to the English; "darse un potente impulso" did not name the jump.
+LERK	Lerk
+LERK_BITE	Mordida		Glossary.
+LERK_BITE_TOOLTIP	BIND_PrimaryAttack para morder: envenena a los Marines y les hace daño con el tiempo. BIND_SecondaryAttack para un ataque de espinas a larga distancia.	FIX	Glossary: Spikes = espinas (was "púas").
+LERK_EGG	Huevo de Lerk
+LERK_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Lerk
+LERK_TOOLTIP	Unidad voladora de apoyo, muy versátil. Puede hacer daño con el tiempo con su mordida venenosa y sus espinas a distancia. Puede evolucionar una nube de esporas asfixiante y la Umbra protectora.	FIX	Glossary: Bite = mordida (was "mordisco"), Spikes = espinas (was "púas").
+LOCK_DOOR	Bloquear puerta
+MAC	MAC
+MAC_EMP	EMP
+MAC_EMP_RESEARCH	Investigar EMP	FIX	Style guide: investigar.
+MAC_EMP_RESEARCH_TOOLTIP	Permite a los MACs generar un pulso electromagnético que vacía la energía de los Aliens cercanos
+MAC_EMP_TOOLTIP	Genera un pulso electromagnético que vacía la energía de los Aliens cercanos	FIX	Typo (electromanético).
+MAC_HINT	Dron de reparación del Commander	FIX	Closer to the English ("Commander repair drone").
+MAC_SPEED	Aumentar la velocidad de los MACs
+MAC_SPEED_TOOLTIP	Aumenta la velocidad de los MACs un 50%
+MAC_TOOLTIP	Robot que construye estructuras y puede reparar armadura
+MAC_UPGRADES	Mejoras del MAC
+MARINE	Marine
+MARINE_ALERT_ACKNOWLEDGE	Soldado acepta órdenes
+MARINE_ALERT_COMMANDER_EJECTED	Echaron al Commander	FIX	See ALIEN_ALERT_COMMANDER_EJECTED.
+MARINE_ALERT_COMMANDSTATION_UNDERAT	Command Station bajo ataque
+MARINE_ALERT_COMMAND_STATION_COMPLETE	Command Station completada
+MARINE_ALERT_CONSTRUCTION_COMPLETE	Construcción completada
+MARINE_ALERT_EXTRACTOR_UNDERATTACK	Extractor bajo ataque
+MARINE_ALERT_INFANTRYPORTAL_UNDERAT	Infantry Portal bajo ataque
+MARINE_ALERT_MAC_BLOCKED	MAC bloqueado
+MARINE_ALERT_MANUFACTURE_COMPLETE	Construcción completada
+MARINE_ALERT_NEED_AMMO	Soldado necesita munición
+MARINE_ALERT_NEED_MEDPACK	Soldado necesita Med pack	FIX	Glossary: Med pack.
+MARINE_ALERT_NEED_ORDER	Soldado necesita órdenes
+MARINE_ALERT_NEED_STRUCTURE	Soldado pide una estructura
+MARINE_ALERT_NOT_ENOUGH_RESOURCES	No hay suficientes recursos
+MARINE_ALERT_ORDER_COMPLETE	Objetivo completado
+MARINE_ALERT_RESEARCH_COMPLETE	Investigación completada
+MARINE_ALERT_SENTRY_FIRING	Sentry disparando	FIX	Glossary: Sentry (was "Sentry Turret").
+MARINE_ALERT_SENTRY_UNDERATTACK	Sentry recibiendo daño	FIX	Same.
+MARINE_ALERT_SOLDIER_LOST	Soldado abatido
+MARINE_ALERT_SOLDIER_UNDERATTACK	Soldado bajo ataque
+MARINE_ALERT_STRUCTURE_UNDERATTACK	Estructura bajo ataque
+MARINE_ALERT_UPGRADE_COMPLETE	Mejora completada
+MARINE_ARMOR1	Armadura #1
+MARINE_ARMOR1_TOOLTIP	Da a los Marines 20 puntos extra de armadura
+MARINE_ARMOR2	Armadura #2
+MARINE_ARMOR2_TOOLTIP	Da a los Marines 40 puntos extra de armadura
+MARINE_ARMOR3	Armadura #3
+MARINE_ARMOR3_TOOLTIP	Da a los Marines 60 puntos extra de armadura
+MARINE_COMMANDER	Commander Marine
+MARINE_WEAPONS1	Armas #1
+MARINE_WEAPONS1_TOOLTIP	Las armas marine hacen un 10% más de daño a jugadores y un 20% más a estructuras.
+MARINE_WEAPONS2	Armas #2
+MARINE_WEAPONS2_TOOLTIP	Las armas marine hacen un 20% más de daño a jugadores y un 40% más a estructuras.
+MARINE_WEAPONS3	Armas #3
+MARINE_WEAPONS3_TOOLTIP	Las armas marine hacen un 30% más de daño a jugadores y un 60% más a estructuras.
+MARKERS	Marcadores
+MARK_THREAT	Amenaza
+MED_PACK	Med pack	FIX	Glossary spelling (was "Medpack").
+MED_PACK_TOOLTIP	Restablece 50 puntos de vida del jugador
+METABOLIZE	Metabolize		Glossary: kept.
+METABOLIZE_ADV	Advanced Metabolize	FIX	Was "Metabolize avanzado"; the glossary keeps Metabolize in English, so the advanced name stays whole. CHECK if you prefer the mixed form.
+METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y salud.
+METABOLIZE_TOOLTIP	Con esta habilidad el Fade recupera energía.
+MINE_SINGULAR	Mina		Glossary.
+MINE_DROP	Soltar minas	CHECK	See FLAMETHROWER_DROP.
+MINES	Investigar minas	FIX	Style guide: investigar (was "Desarrollar Minas").
+MINE_HINT	Mina de proximidad
+MINE_TOOLTIP	Suelta 1 mina de proximidad.	FIX	The current line was an old English text ("Pack of 1 proximity mine.").
+MINIGUN	Minigun
+MINIGUN_CLAW_TOOLTIP	BIND_PrimaryAttack para golpear con la garra. Mantén presionado BIND_SecondaryAttack para disparar la Minigun (munición ilimitada, pero se puede sobrecalentar). BIND_Jump para activar los propulsores de salto.	FIX	Glossary: Claw = garra (was "puñetazo"); "pulsado" → "presionado".
+MOVE	Mover	FIX	Was "Avanzar"; the command moves a unit anywhere, not only forward.

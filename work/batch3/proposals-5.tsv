@@ -1,0 +1,141 @@
+SPIKES_TOOLTIP	Ataque de espinas de largo alcance	FIX	Glossary: Spikes = espinas (was "púas").
+SPIT	Escupitajo		Glossary.
+SPIT_TOOLTIP	Ataque débil a distancia. BIND_SecondaryAttack usa el spray de curación, que cura a jugadores y estructuras y acelera el crecimiento de las estructuras.		Glossary: Heal Spray = spray de curación.
+SPORES	Esporas		Glossary.
+SPORES_TOOLTIP	Permite a los Lerks lanzar una nube de esporas venenosas.
+SPRAY	Spray de curación	CHECK	The label is just "Spray" in English; the glossary name is used so it reads clearly. Alternative: "Spray".
+SPRAY_TOOLTIP	Cura a jugadores y estructuras. También acelera el crecimiento de las estructuras.
+SPUR	Spur
+SPUR_HINT	Mejora de movimiento
+SPUR_TOOLTIP	Da un nuevo rasgo alien de velocidad
+STAB_BLINK	Stab		Glossary: kept.
+STOMP	Pisotón		Glossary.
+STOMP_TOOLTIP	Permite al Onos golpear el suelo y desestabilizar a las unidades enemigas	FIX	"cercanas" → "enemigas", as in the English.
+STOP	Detener
+STOP_TOOLTIP	Detenerse y cancelar todas las órdenes
+STORM	Tormenta	CHECK	New ability name (Shift's storm), translated per your rule. Alternative: keep "Storm".
+STORM_TOOLTIP	Las unidades aliadas se mueven más rápido.
+SWIPE_BLINK	Zarpazo y Blink		Glossary: Swipe = zarpazo, Blink kept. It is the Fade's main weapon.
+SWIPE_TOOLTIP	Poderoso ataque cuerpo a cuerpo que hace daño extra a los jugadores. Presiona BIND_SecondaryAttack para usar Blink y teletransportarte (cuando el Commander lo evoluciona).	FIX	Style guide: presiona (was "Pulsa").
+SWITCH_AXE	Cambiar a hacha
+TEAM_UPGRADES_TOOLTIP	Evoluciona nuevos rasgos para todas las formas de vida y la infestación
+TECH_POINT	Tech point
+TECH_POINT_HINT	Lugar para bases
+TECH_POINT_TOOLTIP	Algunas habilidades y tecnologías requieren varias Hives o Command Stations. Estos tech points son los lugares especiales donde se construyen. 	FIX	Grammar ("tecnología requiere"); keeps the English trailing space.
+THREE_COMMAND_STATIONS	Tres Command Stations	FIX	Style guide: English plural.
+THREE_HIVES	Tres Hives
+THREE_SHELLS	Tres Shells
+THREE_SPURS	Tres Spurs
+THREE_VEILS	Tres Veils
+TUNNEL_COLLAPSE	Derrumbar
+TUNNEL_COLLAPSE_TOOLTIP	Derrumba el túnel. Esto también destruye esta entrada.
+TUNNEL_ENTRANCE	Entrada de túnel
+TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar
+TUNNEL_ENTRY	Entrada del túnel
+TUNNEL_EXIT	Salida del túnel
+TUNNEL_EXIT_TOOLTIP	Coloca la salida de esta entrada para abrir un túnel que permite a los jugadores viajar rápido entre dos lugares. ¡Cuidado: los Marines también pueden usar el túnel!
+TUNNEL_RELOCATE_TOOLTIP	Mueve esta entrada del túnel a otro lugar.
+TUNNEL_TOOLTIP	Haz crecer un túnel colocando una entrada y una salida para que los jugadores viajen rápido entre dos lugares. ¡Selecciona la entrada para colocar la salida!
+TWO_COMMAND_STATIONS	Dos Command Stations	FIX	Style guide: English plural.
+TWO_HIVES	Dos Hives
+TWO_SHELLS	Dos Shells
+TWO_SPURS	Dos Spurs
+TWO_VEILS	Dos Veils
+UMBRA	Umbra
+UMBRA_TOOLTIP	Crea una nube protectora que reduce el daño de las balas
+UNLOCK_DOOR	Desbloquear puerta
+UNLOCK_DOOR_TOOLTIP	Desbloquea la puerta
+UNROOT_WHIP	Desarraigar Whip
+UNROOT_WHIP_TOOLTIP	Permite al Whip moverse	FIX	Glossary: el Whip (was "a las Whip").
+UPGRADES	Evoluciones del equipo
+UPGRADE_CRAG_HIVE	Evolucionar a Hive Crag
+UPGRADE_CRAG_HIVE_TOOLTIP	Elige un camino de curación y defensa
+UPGRADE_FADE	Mejorar Fade
+UPGRADE_FADE_TOOLTIP	Desbloquea habilidades del Fade
+UPGRADE_GORGE	Mejorar Gorge
+UPGRADE_GORGE_TOOLTIP	Desbloquea habilidades del Gorge
+UPGRADE_INFESTED_TUNNEL_ENTRANCE	Mejorar a túnel infestado
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más vida y extienden la infestación
+UPGRADE_LERK	Mejorar Lerk
+UPGRADE_LERK_TOOLTIP	Desbloquea habilidades del Lerk
+UPGRADE_ONOS	Mejorar Onos
+UPGRADE_ONOS_TOOLTIP	Desbloquea habilidades del Onos
+UPGRADE_ROBOTICS_FACTORY	Mejorar a ARC Factory
+UPGRADE_ROBOTICS_FACTORY_TOOLTIP	Las Robotics Factories mejoradas pueden construir ARCs	FIX	Style guide: English plurals.
+UPGRADE_SHADE_HIVE	Evolucionar a Hive Shade
+UPGRADE_SHADE_HIVE_TOOLTIP	Elige un camino de confusión y engaño
+UPGRADE_SHIFT_HIVE	Evolucionar a Hive Shift
+UPGRADE_SHIFT_HIVE_TOOLTIP	Elige un camino de velocidad y maniobra
+UPGRADE_SKULK	Mejorar Skulk
+UPGRADE_SKULK_TOOLTIP	Desbloquea habilidades del Skulk	FIX	"de Skulk" → "del Skulk", matching the other lifeforms.
+ARC_FACTORY	ARC Factory
+VAMPIRISM	Vampirismo		Glossary.
+VAMPIRISM_TOOLTIP	Crea un escudo temporal para ti absorbiendo vida de los enemigos cuando los golpeas con tu ataque principal	FIX	The current line was an old English text, never translated.
+VEIL	Veil
+VEIL_HINT	Mejora de confusión
+VEIL_TOOLTIP	Da un nuevo rasgo alien de engaño	FIX	"desorientadoras" → "de engaño" (deception).
+WEAK_HERE	Débil aquí
+WEAPONS_MENU	Armas
+WEAPONS_MENU_TOOLTIP	Soltar armas para los Marines
+WEB	Telaraña		Glossary.
+WEB_TOOLTIP	Ralentiza durante un tiempo a los Marines que la atraviesan.	FIX	The old line said webs trap Marines and stop them moving; the English says they slow them.
+WELD	Soldar
+WELDER	Welder
+WELDER_DROP	Soltar Welder	CHECK	See FLAMETHROWER_DROP.
+WELDER_TECH_TOOLTIP	Permite comprar Welders en el Armory
+WELDER_TOOLTIP	Repara la armadura de Marines y Exos, y también estructuras. Es la forma más rápida de reparar Power Nodes y sirve contra objetivos inflamables.
+WELDING	Soldando	FIX	Was "Reparador" (repairer); it is the status "Welding".
+WELDING_TOOLTIP	Reparando armadura o estructura
+WELD_TOOLTIP	Suelda puertas para cerrarlas o repara el objetivo
+WHIP	Whip
+WHIPBOMB	Whip Bomb	CHECK	New term, kept in English like Bile Bomb.
+WHIP_BOMBARD_CANCEL	Detener bombardeo
+WHIP_BOMBARD_TOOLTIP	Bombardea objetivos con daño a la armadura
+WHIP_HINT	Atacante defensivo	FIX	"Látigo defensor" named the Whip instead of describing it ("Defensive striker").
+WHIP_SLAP	Latigazo
+WHIP_SLAP_TOOLTIP	Golpea a los enemigos cercanos.
+WHIP_TOOLTIP	Ataca a los enemigos cercanos y, cuando madura, puede bombardear estructuras enemigas.
+XENOCIDE	Xenocide
+XENOCIDE_TOOLTIP	Permite a los Skulks autodestruirse y dañar a las unidades cercanas.
+CONSUME	Consumir
+CONSUME_TOOLTIP	Destruye la estructura para recuperar suministro.		Glossary: supply = suministro.
+HALLUCINATE_CLONING	Clonar alucinación
+HALLUCINATE_CLONING_TOOLTIP	Convierte la alucinación en una copia de un objetivo válido.
+HALLUCINATE_RANDOM	Alucinación aleatoria
+HALLUCINATE_RANDOM_TOOLTIP	Convierte la alucinación en una aleatoria.
+SHELL_PASSIVE	Regeneración
+SHELL_PASSIVE_TOOLTIP	Las Shells se curan con el tiempo.
+SPUR_PASSIVE	Movimiento
+SPUR_PASSIVE_TOOLTIP	Los Spurs pueden moverse.
+VEIL_PASSIVE	Camuflaje		English has a typo ("Camoflague").
+VEIL_PASSIVE_TOOLTIP	Los Veils están ocultos.
+ADVANCED_SUPPORT	Soporte avanzado		Glossary.
+JETPACK_TECH_TOOLTIP	Permite comprar Jetpacks.
+RESEARCH_CORES_EXOSUIT_TITLE	Núcleos de Exosuit	CHECK	New exo research name ("Exosuit Cores": Thrusters, Ejection Seat, Armor Plating).
+CORES_EXOSUIT_TECH_TOOLTIP	Desbloquea los módulos de núcleo del Exosuit: propulsores, asiento eyectable y placas de armadura.		Glossary: exo modules.
+ADVANCED_EXO_ARMS_TECH	Brazos avanzados de Exosuit	CHECK	New exo research name.
+ADVANCED_EXO_ARMS_TECH_TOOLTIP	Desbloquea los brazos de lanzallamas y lanzaplasma.
+STAB_EXO_TOOLTIP	Un golpe lento y pesado. Hace más del doble de daño si golpea a un Exosuit por la espalda, salvo que tenga nano-escudo.		Glossary: Nano-shield = nano-escudo.
+SYNC_ONE	Sincronización de investigación, nivel 1	CHECK	Internal research-sync steps; rarely if ever seen by players.
+SYNC_TWO	Sincronización de investigación, nivel 2
+SYNC_THREE	Sincronización de investigación, nivel 3
+SYNC_FOUR	Sincronización de investigación, nivel 4
+SYNC_FIVE	Sincronización de investigación, nivel 5
+SYNC_SIX	Sincronización de investigación, nivel 6
+SYNC_SEVEN	Sincronización de investigación, nivel 7
+SYNC_EIGHT	Sincronización de investigación, nivel 8
+SYNC_NINE	Sincronización de investigación, nivel 9
+SYNC_TEN	Sincronización de investigación, nivel 10
+SYNC_ELEVEN	Sincronización de investigación, nivel 11
+SYNC_TWELVE	Sincronización de investigación, nivel 12
+SYNC_THIRTEEN	Sincronización de investigación, nivel 13
+SYNC_FOURTEEN	Sincronización de investigación, nivel 14
+SYNC_FIFTEEN	Sincronización de investigación, nivel 15
+SYNC_SIXTEEN	Sincronización de investigación, nivel 16
+SYNC_SEVENTEEN	Sincronización de investigación, nivel 17
+SYNC_EIGHTEEN	Sincronización de investigación, nivel 18
+SYNC_NINETEEN	Sincronización de investigación, nivel 19
+SYNC_TWENTY	Sincronización de investigación, nivel 20
+SYNC_TWENTYONE	Sincronización de investigación, nivel 21
+DUAL_ARMS_TECH	Brazos dobles de Exosuit	CHECK	New exo research name ("Dual Arms" on beta).
+DUAL_ARMS_TECH_TOOLTIP	Permite al Exosuit montar un arma en cada brazo en lugar de una garra en uno de ellos.

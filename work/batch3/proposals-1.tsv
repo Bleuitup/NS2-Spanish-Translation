@@ -1,0 +1,110 @@
+ADD_BIOMASS_TOOLTIP	Mejora la Hive para dar un nivel adicional de biomasa.	FIX	Glossary: Biomass = biomasa.
+ADRENALINE	Adrenalina		Glossary.
+ADRENALINE_TOOLTIP	Aumenta la regeneración de energía.	FIX	The old line said more than the English ("more energy available"); shorter and exact.
+ADVANCED	Avanzado
+ADVANCED_ARMORY	Advanced Armory		Glossary: kept in English.
+ADVANCED_ARMORY_HINT	Lanzallamas, granadas, Jetpacks	FIX	Jetpacks were missing.
+ADVANCED_ARMORY_TOOLTIP	Da acceso a armas avanzadas como el lanzagranadas y el lanzallamas, y a la investigación de Jetpacks.	FIX	The Jetpack research part was missing.
+ADVANCED_ARMORY_UPGRADE	Mejorar a Advanced Armory	FIX	Glossary: upgrade (verb) = mejorar a. Was "Actualización a".
+ADVANCED_MARINE_SUPPORT_TOOLTIP	Desbloquea habilidades adicionales del Commander para ayudar a tus compañeros.
+ADVANCED_TOOLTIP	Estructuras avanzadas
+ADVANCED_WEAPONRY	Armamento avanzado
+ADVANCED_WEAPONRY_TOOLTIP	Permite usar lanzagranadas y lanzallamas.
+ALIEN_ALERT_COMMANDER_EJECTED	Echaron al Commander	FIX	Was "El Commander ha sido expulsado"; batch 2 kept "expulsar" for kicks and "echar al Commander" for the eject vote.
+ALIEN_ALERT_GORGEBUILT_HARVESTER	Gorge construyendo Harvester
+ALIEN_ALERT_HARVESTER_UNDERATTACK	Harvester bajo ataque
+ALIEN_ALERT_HIVE_COMPLETE	Construcción de Hive completada
+ALIEN_ALERT_HIVE_DYING	Hive casi muerta
+ALIEN_ALERT_HIVE_UNDERATTACK	Hive bajo ataque
+ALIEN_ALERT_LIFEFORM_UNDERATTACK	Compañero bajo ataque		Existing kept: reads better than "Forma de vida bajo ataque".
+ALIEN_ALERT_MANUFACTURE_COMPLETE	Construcción completada
+ALIEN_ALERT_NEED_DRIFTER	Un jugador pide un Drifter	FIX	"solicita Drifter" → "pide un Drifter"; matches the other requests.
+ALIEN_ALERT_NEED_HARVESTER	Un jugador pide un Harvester	FIX	Same.
+ALIEN_ALERT_NEED_MIST	Un jugador pide neblina de nutrientes	FIX	Glossary: Nutrient Mist = neblina de nutrientes. Matches the other requests.
+ALIEN_ALERT_NEED_STRUCTURE	Un jugador pide una estructura
+ALIEN_ALERT_NOTENOUGH_RESOURCES	No hay suficientes recursos
+ALIEN_ALERT_ORDER_COMPLETE	Orden completada
+ALIEN_ALERT_RESEARCH_COMPLETE	Investigación completada	FIX	Style guide: investigar, never desarrollar.
+ALIEN_ALERT_STRUCTURE_UNDERATTACK	Estructura bajo ataque
+ALIEN_ALERT_UPGRADE_COMPLETE	Mejora completada
+AMMO_PACK	Ammo pack	FIX	Glossary: kept in English (was "Paq. de munición").
+AMMO_PACK_TOOLTIP	Munición para recargar cualquier arma
+ARC	ARC
+ARC_ARMOR	Aumenta la armadura del ARC
+ARC_DEPLOY	Anclar		Existing kept ("deploy" the ARC to fire).
+ARC_DEPLOY_TOOLTIP	Pone al ARC en modo de disparo
+ARC_HINT	Artillería del Commander
+ARC_ROBOTICS_FACTORY	ARC Robotics Factory		Glossary: ARC Factory kept.
+ARC_ROBOTICS_FACTORY_HINT	Construye MACs y ARCs	FIX	Style guide: English plural (MACs, ARCs).
+ARC_ROBOTICS_FACTORY_TOOLTIP	Permite fabricar tanques ARC
+ARC_SPLASH	Aumenta el radio de daño en área del ARC un 13%	FIX	"daño residual" is not splash damage; "daño en área".
+ARC_TOOLTIP	Tanques de IA controlados por el Commander que hacen mucho daño a estructuras. Pueden disparar a través de las paredes. ¡Máximo 5 en total, incluidas las variantes!
+ARC_THUNDERDOME_TOOLTIP	Tanques de IA controlados por el Commander que hacen mucho daño a estructuras. Pueden disparar a través de las paredes. ¡Máximo 4!
+ARC_UNDEPLOY	Desanclar
+ARC_UNDEPLOY_TOOLTIP	Devuelve al ARC al modo de movimiento
+ARC_UPGRADES	Mejoras del ARC
+ARMORY	Armory
+ARMORY_HINT	Armas, salud y munición
+ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con salud y munición gratis. Aquí puedes comprar armas con tus recursos personales.		Existing reworded slightly ("gratis" was missing).
+ARMSLAB_HINT	Mejoras de daño y armadura
+ARMS_LAB	Arms Lab
+ARMS_LAB_TOOLTIP	Mejoras de ataque y armadura para los jugadores
+ASSIST	Asistencia
+ASSIST_TOOLTIP	Ayudar a los jugadores
+ATTACK	Atacar
+ATTACK_TOOLTIP	Ataca a una unidad o jugador enemigo
+AURA	Aura		Glossary.
+AURA_TOOLTIP	Indica la posición de los jugadores enemigos.
+AXE_TOOLTIP	Un arma de último recurso. BIND_PrimaryAttack para atacar; buena contra estructuras.		Existing reworded slightly.
+BABBLER	Babbler
+BABBLER_ABILITY	Cebo de Babblers
+BABBLER_ABILITY_TOOLTIP	Lanza un cebo que tus Babblers seguirán. Acierta a un objetivo con el cebo para que lo ataquen, o hazlo rebotar en un Alien o en ti mismo para que se peguen a él.	FIX	Old line misread the English and had "tí" (no accent in Spanish).
+BABBLER_MINE	Bile Mine	CHECK	New term, kept in English like Bile Bomb. Alternative: "mina de bilis".
+BABBLER_MINE_TOOLTIP	Explota cuando se acercan los Marines y los cubre de bilis
+BASIC_LIFE_FORMS	Evoluciones de formas de vida	FIX	Was "Mejoras para los aliens"; closer to "Lifeform evolutions".
+BASIC_LIFE_FORMS_TOOLTIP	Evoluciona nuevos rasgos para los jugadores Alien		Existing reworded ("traits" = rasgos).
+BELLY_SLIDE	Deslizamiento	CHECK	New ability name (Gorge). Ordinary word, translated per your rule. Alternative: keep "Belly slide".
+BELLY_SLIDE_TOOLTIP	Permite al Gorge deslizarse por las rampas.
+BILEBOMB	Bile Bomb		Glossary: kept.
+BILEBOMB_TOOLTIP	Permite a los Gorges lanzar un proyectil de asedio que hace daño en área a las estructuras y a la armadura de Marines y Exosuits.	FIX	Glossary: Exosuit (was "Exoesqueletos"); the old line also garbled the sentence.
+BIOMASS	Biomasa	FIX	Glossary.
+BIOMASS_ELEVEN	Biomasa de nivel 11
+BIOMASS_EIGHT	Biomasa de nivel 8	FIX	Glossary: Biomass = biomasa (same fix for every level).
+BIOMASS_FIVE	Biomasa de nivel 5	FIX
+BIOMASS_FOUR	Biomasa de nivel 4	FIX
+BIOMASS_NINE	Biomasa de nivel 9	FIX
+BIOMASS_ONE	Biomasa de nivel 1	FIX
+BIOMASS_SEVEN	Biomasa de nivel 7	FIX
+BIOMASS_SIX	Biomasa de nivel 6	FIX
+BIOMASS_TEN	Biomasa de nivel 10
+BIOMASS_THREE	Biomasa de nivel 3	FIX
+BIOMASS_TWELVE	Biomasa de nivel 12
+BIOMASS_TWO	Biomasa de nivel 2	FIX
+BITE	Mordida		Glossary.
+BITE_TOOLTIP	BIND_PrimaryAttack para morder. Sirve contra jugadores y estructuras, pero elige bien el momento de cada mordida. BIND_SecondaryAttack para el salto (cuando el Commander lo investiga).	FIX	Glossary: Leap = salto; research = investigar (was "desarrolla").
+BLINK	Blink		Glossary: kept.
+BLINK_TOOLTIP	Permite a los Fades desaparecer y reaparecer en combate
+BOMBARD	Bombardeo	CHECK	New ability name (Whip). Translated per your rule. Alternative: keep "Bombard".
+BOMBARD_WHIP_HINT	Estructura que bombardea		Old line ("para bombardear") meant a structure to be bombarded.
+BONESHIELD	Bone Shield		Glossary: kept (English capitalizes "Bone shield").
+BONESHIELD_TOOLTIP	Usa el caparazón de la cabeza para bloquear la mayoría de los ataques frontales.
+BUILD	Construir
+BUILD_ABILITY	Construir
+BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hydras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.
+BUILD_TOOLTIP	Estructuras básicas
+BUILD_TUNNELS_MENU	Menú de túneles
+BUILD_TUNNELS_MENU_TOOLTIP	 		The English is a single space; kept as is.
+CAMOUFLAGE	Camuflaje		Glossary.
+CAMOUFLAGE_TOOLTIP	Muévete despacio para camuflarte con el entorno.	FIX	Missing accent (Muevete).
+CANCEL	Cancelar
+CARAPACE	Caparazón		Glossary.
+CARAPACE_TOOLTIP	Gana armadura adicional.
+CAT_PACK	Catalyst pack	FIX	Glossary: kept in English (was "Catalyst").
+CAT_PACK_TOOLTIP	Aumenta la velocidad de movimiento, de recarga y de soldadura de los Marines.
+CELERITY	Celeridad		Glossary.
+CELERITY_TOOLTIP	Aumenta la velocidad de movimiento y la aceleración.
+CHARGE	Charge	FIX	Your decision: the ability name stays "Charge" (was "Carga").
+CHARGE_TOOLTIP	Permite al Onos cargar en la dirección actual.
+CLAWRAILGUN_EXOSUIT	Exosuit con garra y Railgun	FIX	Glossary: Claw = garra (was "puño").
+CLAW_RAILGUN_TECH_TOOLTIP	Permite al Exo comprar la configuración de garra y Railgun	FIX	Same.
+CLOAK	Ocultamiento	CHECK	New term: the cloak ability, matching "bruma de ocultamiento" (Cloaking Haze). Alternative: "Camuflaje", but that is the upgrade.

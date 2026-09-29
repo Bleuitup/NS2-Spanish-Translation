@@ -1,0 +1,120 @@
+CLOG	Clog
+CLOG_TOOLTIP	Masa inerte para bloquear zonas, dar cobertura o llegar a los conductos de ventilación.	FIX	Missing accent (areas); slightly tightened.
+CLOSE_DOOR	Cerrar puerta
+CLOSE_DOOR_TOOLTIP	Cierra la puerta
+CLUSTER_GRENADE	Granada de racimo	FIX	Glossary: Cluster Grenade = granada de racimo (was "Granada clúster").
+COLLECT_RESOURCES	Extrae recursos
+COLLECT_RESOURCES_TOOLTIP	Extrae recursos para los jugadores y para el equipo
+COMMANDERERROR_CANT_BUILD_TOO_CLOSE	No se puede construir: demasiado cerca.
+COMMANDERERROR_NO_CYST_PARENT_FOUND	Debe construirse cerca de otro Cyst.
+COMMANDERERROR_ONLY_ONE_BATTERY_PER_ROOM	No se puede construir: hay demasiadas Power Batteries en el cuarto o en total.	CHECK	New term: CBM's "Power Battery" (the old Sentry Battery), kept in English like Sentry Battery.
+COMMANDERERROR_TOO_MANY_SENTRIES	No se puede construir: demasiadas Sentries.	FIX	Glossary: Sentry kept in English (was "torretas").
+COMMAND_STATION	Command Station
+COMMAND_STATION_HINT	Base marine
+COMMAND_STATION_TOOLTIP	En esta estructura está el Commander, que da órdenes a tus compañeros en el campo. Los Marines pierden si ya no les queda ninguna Command Station.		Existing reworded ("se mete", "en el suelo").
+CONSTRUCT	Construir
+CONTAMINATION	Contaminación	FIX	Glossary.
+CONTAMINATION_TOOLTIP	Crea una masa inflamable que extiende la infestación y rocía bilis 3 veces cada 2 segundos. Dura 20 segundos y se puede colocar en cualquier lugar.
+CRAG	Crag
+CRAG_HEAL_TOOLTIP	Cura a jugadores y estructuras (+10 cada 2 segundos, máximo 3 objetivos)
+CRAG_HINT	Cura unidades alien
+CRAG_HIVE	Hive Crag
+CRAG_HIVE_HINT	Base defensiva
+CRAG_HIVE_TOOLTIP	Las Hives Crag permiten al equipo construir Crags y evolucionar rasgos defensivos.
+CRAG_TOOLTIP	Cura y protege a las unidades aliadas cercanas.
+CRAG_UMBRA_TOOLTIP	Crea una nube protectora que bloquea las balas para las unidades que están dentro.
+CRUSH	Aplastamiento		Glossary.
+CRUSH_TOOLTIP	Hace más daño a las estructuras y quita más armadura a los jugadores enemigos.
+CYST	Cyst
+CYST_CAMOUFLAGE	Camuflaje de Cyst		Glossary: Camouflage = camuflaje.
+CYST_CAMOUFLAGE_TOOLTIP	Oculta los Cysts salvo que sean atacados, desconectados o tocados
+CYST_CARAPACE	Caparazón de Cyst
+CYST_CARAPACE_TOOLTIP	Agrega armadura adicional
+CYST_CELERITY	Celeridad de Cyst
+CYST_CELERITY_TOOLTIP	Aumenta la velocidad de crecimiento del Cyst
+CYST_HINT	Crea infestación
+CYST_TOOLTIP	El Commander coloca Cysts, que hacen crecer la infestación. Si los Cysts no están conectados en cadena con una Hive, mueren y la infestación retrocede. Las estructuras alien sin infestación también mueren.		Existing reworded slightly.
+DEATH_TRIGGER	Causas naturales
+DEFEND	Defender
+DESTROY_HALLUCINATION	Destruir alucinación	FIX	Missing accent.
+DETECTOR	Detector
+DETECTOR_TOOLTIP	Revela a tu equipo las unidades enemigas ocultas
+DISORIENT	Desorientar	CHECK	New ability name (Shade), translated per your rule.
+DISTRESS_BEACON	Beacon de emergencia		Glossary.
+DISTRESS_BEACON_TOOLTIP	Teletransporta a los Marines a la Command Station más cercana al Observatory
+DOOR	Puerta
+DOOR_TOOLTIP	En el futuro podrás soldar puertas para cerrarlas.
+DRIFTER	Drifter
+DRIFTER_CAMOUFLAGE	Camuflaje de Drifter
+DRIFTER_CAMOUFLAGE_TOOLTIP	Se vuelve invisible para los enemigos cuando está quieto
+DRIFTER_CELERITY	Celeridad de Drifter
+DRIFTER_CELERITY_TOOLTIP	Los Drifters se mueven un 18% más rápido
+DRIFTER_REGENERATION	Regeneración de Drifter
+DRIFTER_REGENERATION_TOOLTIP	Los Drifters regeneran el 3% de su vida cada 2 segundos mientras reciben daño
+DRIFTER_HINT	Detecta enemigos
+DRIFTER_TOOLTIP	Criatura voladora que puede acelerar la construcción y apoyar a los jugadores.
+DUALMINIGUN_EXOSUIT	Exosuit con dos Miniguns	FIX	"duales" → "dos", matching the dual Railgun line.
+DUALRAILGUN_EXOSUIT	Exosuit con dos Railguns	FIX	Glossary: Exosuit (was "Exoesqueleto").
+DUAL_RAILGUN_TECH_TOOLTIP	Permite al Exo comprar dos Railguns
+ECHO	Eco		Glossary.
+ECHO_CRAG	Mover Crag
+ECHO_EGG	Mover huevo		Glossary: egg = huevo (common noun, lowercase).
+ECHO_HARVESTER	Mover Harvester
+ECHO_HYDRA	Mover Hydra
+ECHO_SHADE	Mover Shade
+ECHO_SHELL	Mover Shell
+ECHO_SHIFT	Mover Shift
+ECHO_SPUR	Mover Spur
+ECHO_TOOLTIP	Mueve una estructura a otra posición válida
+ECHO_VEIL	Mover Veil
+ECHO_WHIP	Mover Whip
+EGG	Huevo
+EGG_DROP_TOOLTIP	Los Aliens salen de los huevos en oleadas. Las Hives hacen crecer huevos a su alrededor cada cierto tiempo.
+EGG_HINT	Reaparición alien	FIX	Was "Renace aliens" (ungrammatical).
+EMBRYO	Embrión
+ENERGIZE	Energizar	CHECK	New ability name (Shift), translated per your rule.
+ENZYME_CLOUD	Nube de enzimas
+ENZYME_CLOUD_TOOLTIP	Crea una nube de hormonas que aumenta la velocidad de ataque de los Aliens dentro de ella
+EVOCHAMBER	Cámara de evolución		Glossary.
+EVOLVE_BOMBARD	Bombardeo	CHECK	See BOMBARD.
+EVOLVE_BOMBARD_TOOLTIP	Proyectil de largo alcance con efecto en área que desintegra la armadura
+EXPANDING_HERE	Expandiéndose aquí	FIX	Was "Expandirse aquí" (infinitive); it is a status ("Expanding here").
+EXTRACTOR	Extractor
+EXTRACTOR_HINT	Genera recursos
+EXTRACTOR_TOOLTIP	Los Extractors generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras e investigar nuevas tecnologías.	FIX	Style guide: English plural (Extractors), not "Extractores".
+FADE	Fade
+FADE_EGG	Huevo de Fade
+FADE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Fade
+FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con Blink mientras ataca con sus garras. Puede evolucionar Metabolize para recuperar energía y Advanced Metabolize para recuperar energía y salud. Experto en ataques relámpago y en sorprender a Marines solitarios.
+FLAMETHROWER	Lanzallamas
+FLAMETHROWER_DROP	Soltar lanzallamas	CHECK	New: Commander "Drop" = soltar (drop an item for the team). Alternative: "Enviar".
+FLAMETHROWER_TECH_TOOLTIP	Permite comprar lanzallamas en los Armories
+FLAMETHROWER_TOOLTIP	Hace daño por quemaduras, reduce la regeneración de energía y desactiva algunas estructuras. Más potente contra objetivos inflamables.
+FOCUS	Foco		Glossary.
+FOCUS_TOOLTIP	Aumenta el daño del ataque principal, pero lo hace más lento.
+FOLLOWANDWELD	Seguir y soldar	FIX	"reparar" → "soldar", matching weld elsewhere ("pedir soldadura").
+FOLLOWANDWELD_TOOLTIP	Sigue a una unidad y suelda o construye todo lo que esté a su alcance.
+FOLLOW_NEAREST_ALIEN	Seguir
+FOLLOW_NEAREST_ALIEN_TOOLTIP	El Drifter sigue al jugador Alien más cercano
+GAS_GRENADE	Granada de gas nervioso
+GORE	Cornada		Glossary.
+GORE_TOOLTIP	BIND_PrimaryAttack para dar cornadas a los jugadores. También destroza estructuras con facilidad.
+GORGE	Gorge
+GORGE_EGG	Huevo de Gorge
+GORGE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Gorge
+GORGE_TOOLTIP	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar Bile Bomb, a distancia, para atacar armaduras y estructuras.	FIX	Glossary: Bile Bomb capitalized.
+GRENADES_TOOLTIP	Permite comprar granadas de mano en los Armories.
+GRENADE_LAUNCHER	Lanzagranadas
+GRENADE_LAUNCHER_DROP	Soltar lanzagranadas	CHECK	See FLAMETHROWER_DROP.
+GRENADE_LAUNCHER_TECH_TOOLTIP	Permite comprar lanzagranadas en los Armories
+GRENADE_LAUNCHER_TOOLTIP	Daño en área. Hace cuádruple daño a las estructuras.	FIX	The old line said "el doble" (double); the English says quadruple.
+GROW	Crecer
+GROW_TOOLTIP	Acelera el crecimiento de las estructuras alien.
+HALLUCINATE_CRAG	Alucinar Crag
+HALLUCINATE_CRAG_TOOLTIP	Crea un Crag falso
+HALLUCINATE_DRIFTER	Alucinar Drifter
+HALLUCINATE_DRIFTER_TOOLTIP	Crea un Drifter falso
+HALLUCINATE_FADE	Alucinar Fade
+HALLUCINATE_FADE_TOOLTIP	Crea un Fade falso
+HALLUCINATE_GORGE	Alucinar Gorge
+HALLUCINATE_GORGE_TOOLTIP	Crea un Gorge falso

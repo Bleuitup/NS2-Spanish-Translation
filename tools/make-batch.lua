@@ -18,6 +18,14 @@ local batches = {
         { "Votes", { "VOTE" } },
         { "Skill and leaderboard", { "SKILLTIER", "LEADERBOARD" } },
     },
+    [3] = { -- Tech data: every key TechData.lua uses (display names, tooltips, hints), plus the
+            -- _TOOLTIP of each. Areas that get their own batch later are left out.
+        { "Tech data", {}, true },
+        exclude = { "HELP", "EXO", "TIPVIDEO", "LOADING", "TIP_", "ITEM", "BADGE", "CALLINGCARD", "CUSTOMIZE",
+                    "STICKY", "SHOULDER", "SKIN", "BUY_", "THUNDERDOME", "TD_", "GMTD", "TUTORIAL", "TUT_", "TUT",
+                    "BOOTCAMP", "CHALLENGE", "COMMANDER_TUT", "HIVE_CHALLENGE" },
+        tooltipsOfCodeKeys = true,
+    },
 }
 local def = assert(batches[n], "no definition for batch " .. n)
 
@@ -36,7 +44,16 @@ local refs = {}
 local f = io.open("work/batch" .. n .. "/code-keys.txt", "rb")
 if f then f:close(); for k in io.lines("work/batch" .. n .. "/code-keys.txt") do refs[(k:gsub("\r", ""))] = true end end
 
+local function excluded(k)
+    for _, p in ipairs(def.exclude or {}) do if k:sub(1, #p) == p then return true end end
+    return false
+end
+
 local function sectionOf(k)
+    if excluded(k) then return nil end
+    if def.tooltipsOfCodeKeys and k:match("_TOOLTIP$") and refs[k:gsub("_TOOLTIP$", "")] then
+        for _, s in ipairs(def) do if s[3] then return s[1] end end
+    end
     for _, s in ipairs(def) do
         for _, p in ipairs(s[2]) do if k:sub(1, #p) == p then return s[1] end end
     end

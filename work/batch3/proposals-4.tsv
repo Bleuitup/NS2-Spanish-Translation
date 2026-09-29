@@ -1,0 +1,140 @@
+MOVE_TOOLTIP	Moverse a un punto de ruta	FIX	Glossary: waypoint = punto de ruta (was "Avanza hacia el objetivo").
+MUCOUS_MEMBRANE	Membrana mucosa		Glossary.
+MUCOUS_MEMBRANE_TOOLTIP	Da un escudo temporal a las unidades aliadas.	FIX	The old line said it heals armor; the English says it grants a temporary shield.
+NANO_SHIELD_DEFENSE	Nano-escudo		Glossary.
+NANO_SHIELD_DEFENSE_TOOLTIP	Reduce todo el daño al objetivo un 32% durante 5 segundos
+NEED_HEALING_HERE	Necesito curación aquí	FIX	Was "Curar aquí" (an order); it is a request ("Need healing here").
+NUTRIENT_MIST	Neblina de nutrientes	FIX	Glossary: neblina (was "Niebla").
+NUTRIENT_MIST_TOOLTIP	Acelera la maduración de las estructuras y la evolución de los jugadores, y evita el daño a los Cysts desconectados	FIX	The current line was an old English text, never translated.
+OBSERVATORY	Observatory
+OBSERVATORY_HINT	Detecta Aliens
+OBSERVATORY_TOOLTIP	Detecta enemigos cercanos
+ONOS	Onos
+ONOS_EGG	Huevo de Onos
+ONOS_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Onos
+ONOS_TOOLTIP	Un gigante que puede destrozar estructuras, cargar contra el enemigo y matar a cornadas. También puede evolucionar el pisotón para aturdir a sus enemigos.	FIX	The old line garbled the sentence ("embestirlos hasta morir"). Glossary: Charge (verb) = cargar, Gore = cornada, Stomp = pisotón.
+OPEN_DOOR	Abrir puerta
+OPEN_DOOR_TOOLTIP	Abre la puerta
+PARASITE	Parásito		Glossary.
+PARASITE_TOOLTIP	Habilidad a distancia que marca a un enemigo para que tu equipo lo vea.
+PATROL	Patrullar	FIX	Typo (Patruya); infinitive like the other commands.
+PATROL_TOOLTIP	Se mueve entre dos puntos de ruta
+PHANTOM	Fantasma	FIX	Was "Alucinaciones"; Phantom is the silent, near-invisible upgrade in the tooltip. CHECK the name.
+PHANTOM_TOOLTIP	Te vuelve silencioso al moverte y atacar, y casi invisible cuando estás quieto
+PHASE_GATE	Portal de fase		Glossary.
+PHASE_GATE_HINT	Teletransporte marine
+PHASE_GATE_TOOLTIP	Teletransporta a los Marines a otros portales de fase	FIX	Glossary: portal de fase (was "phase gates").
+PHASE_TECH	Tecnología de fase		Glossary.
+PHASE_TECH_TOOLTIP	Desbloquea la tecnología de portales de fase	FIX	Glossary.
+PHEROMONE_EXPANDING_TOOLTIP	Avisar al equipo dónde nos estamos expandiendo	FIX	Missing accent (dónde).
+PHEROMONE_HEAL_TOOLTIP	Avisar al equipo dónde curarse	FIX	Missing accent.
+PHEROMONE_THREAT_TOOLTIP	Avisar al equipo la posición de una amenaza
+PHEROMONE_TOOLTIP	Colocar marcadores de feromonas
+PISTOL	Pistola
+PISTOL_TOOLTIP	Arma precisa a distancia, ideal para disparos lejanos y para rematar objetivos heridos. BIND_PrimaryAttack para disparar.
+POWERPOINT_HINT	Da energía a las estructuras marine
+POWERPOINT_TOOLTIP	Necesario para dar energía a las estructuras marine de este cuarto. Si se destruye, esas estructuras dejan de funcionar hasta que se repare la energía.	FIX	Glossary: location = cuarto (was "sala"); "destruído" has no accent in Spanish.
+POWER_NODE	Power Node
+POWER_SURGE	Power Surge		Glossary: kept.
+POWER_SURGE_TOOLTIP	Da energía a la estructura elegida durante 10 segundos.
+PROTOTYPE_LAB	Prototype Lab
+PROTOTYPE_LAB_HINT	Exosuits	FIX	Was "Jetpacks, Exos": Jetpacks moved to the Advanced Armory in this version.
+PROTOTYPE_LAB_TOOLTIP	Aquí puedes comprar Exosuits.	FIX	Same; also "Exoesqueletos" → Exosuits (glossary).
+PULSE_GRENADE	Granada de pulso	FIX	Glossary: granada de pulso (was "de pulsos").
+RAILGUN	Railgun
+RAILGUN_CLAW_TOOLTIP	BIND_PrimaryAttack para golpear con la garra. BIND_SecondaryAttack para disparar la Railgun (munición ilimitada, pero dispara lento). BIND_Jump para activar los propulsores de salto.	FIX	Glossary: garra (was "puñetazo").
+RALLY_POINT_TOOLTIP	Las unidades de apoyo nuevas van a este punto automáticamente
+READY_ROOM_PLAYER	Jugador en el Ready Room		Glossary: el Ready Room.
+RECYCLE	Reciclar
+RECYCLE_TOOLTIP	Destruye la estructura para recuperar el 75% del costo	FIX	"coste" is Spain; Latin America says "costo".
+REGENERATION	Regeneración		Glossary.
+REGENERATION_TOOLTIP	Te cura lentamente mientras no estás bajo ataque.
+RESEARCH_GRENADES_TITLE	Granadas
+RESEARCH_SHOTGUNS_TITLE	Escopetas
+RESEARCH_MINES_TITLE	Minas
+RESEARCH_JETPACKS_TITLE	Jetpacks
+RESEARCH_EXOSUITS_TITLE	Exosuits
+RESEARCH_CLAW_RAILGUN	Investigar garra/Railgun	FIX	Investigar; glossary: garra.
+RESEARCH_DUAL_RAILGUNS	Investigar dos Railguns	FIX	Investigar.
+RESEARCH_EXOSUITS	Investigar Exosuits
+RESEARCH_FLAMETHROWERS	Investigar lanzallamas	FIX	Investigar.
+RESEARCH_HEAVY_MACHINE_GUN	Investigar ametralladoras pesadas	FIX	Lowercase (common noun).
+RESEARCH_GRENADES	Investigar granadas de mano	FIX	Investigar.
+RESEARCH_GRENADE_LAUNCHERS	Investigar lanzagranadas	FIX	Investigar.
+RESEARCH_SHOTGUNS	Investigar escopetas	FIX	Investigar.
+RESEARCH_WELDER	Investigar Welders	FIX	Investigar; glossary: Welder capitalized.
+RESOURCE_NOZZLE	Boca de recursos
+RESOURCE_NOZZLE_TOOLTIP	Los equipos construyen estructuras aquí para recolectar recursos.
+RETURN	Volver
+RETURN_DESCRIPTION	Vuelve al menú anterior.
+REVERSE_PHASE_GATE	Invertir portal de fase
+REVERSE_PG_TOOLTIP	Cambia la dirección de teletransporte del portal de fase
+RIFLE	Rifle
+RIFLE_TOOLTIP	BIND_PrimaryAttack para disparar con el rifle reglamentario. BIND_SecondaryAttack da un culatazo.	FIX	Bug: "BIND_Primary attack" is not a key binding, so the fire key never showed (docs/bugs.md).
+ROBOTICS_FACTORY	Robotics Factory
+ROBOTICS_FACTORY_HINT	Construye MACs
+ROBOTICS_FACTORY_TOOLTIP	Crea Sentries, MACs y ARCs
+ROOT_WHIP	Arraigar Whip
+ROOT_WHIP_TOOLTIP	Arraiga el Whip al suelo (solo sobre infestación)
+RUPTURE	Ruptura
+RUPTURE_TOOLTIP	Salpica infestación sobre las unidades enemigas cercanas: les nubla la vista un momento y las marca con un parásito.
+SCAN	Escanear		Button (infinitive); the noun is "escaneo" in running text.
+SCAN_TOOLTIP	Revela unidades ocultas y da visión de cualquier zona	FIX	Missing accent (area); "invisibles" → "ocultas".
+SELECT	Seleccionar	FIX	Was "Selección"; buttons use the infinitive.
+SELECT_DRIFTER	Seleccionar Drifter
+SELECT_HALLUCINATIONS	Seleccionar alucinaciones
+SELECT_HALLUCINATIONS_TOOLTIP	Seleccionar alucinaciones
+SELECT_NEAREST_DRIFTER	Selecciona el Drifter más cercano en pantalla.	FIX	"más cercano a la pantalla" → "en pantalla".
+SELECT_NEAREST_OBSERVATORY	Selecciona el Observatory más cercano en pantalla.	FIX	Glossary: Observatory (was "Observatorio").
+SELECT_NEAREST_SHIFT	Selecciona el Shift más cercano en pantalla.	FIX	Glossary: el Shift (was "la Shift").
+SELECT_OBSERVATORY	Seleccionar Observatory	FIX	Glossary: Observatory.
+SELECT_SHIFT	Seleccionar Shift
+SELECT_TUNNEL_ENTRY	Seleccionar entrada del túnel
+SELECT_TUNNEL_ENTRY_TOOLTIP	 		The English is a single space; kept as is.
+SELECT_TUNNEL_EXIT	Seleccionar salida del túnel
+SELECT_TUNNEL_EXIT_TOOLTIP	 		The English is a single space; kept as is.
+SELECT_TOOLTIP	Menú de selección
+SENTRY_BATTERY	Power Battery		CBM's name for the Sentry Battery; kept in English.
+SENTRY_BATTERY_HINT	Da energía a las estructuras marine
+SENTRY_BATTERY_TOOLTIP	Da energía a las estructuras marine cercanas (máximo 1 por cuarto). ¡Máximo 2!
+SENTRY_HINT	Torreta de IA
+SENTRY_TOOLTIP	Torreta de IA que da fuego de apoyo. ¡Máximo 1!
+SENTRY_TURRET	Sentry
+SET_RALLY_POINT	Establecer punto de reunión	FIX	Was "Punto inicial establecido" (starting point set), which is not what the button does.
+SET_TARGET	Establecer objetivo
+SET_TARGET_TOOLTIP	Establece la dirección a la que se apunta
+SHADE	Shade
+SHADE_CLOAK_TOOLTIP	Oculta a las estructuras y jugadores alien cercanos
+SHADE_DISORIENT_TOOLTIP	Los jugadores enemigos y el Commander no pueden ver ni oír bien dentro de su alcance (pasivo)	FIX	The Commander part was missing.
+SHADE_HINT	Oculta a los Aliens
+SHADE_HIVE	Hive Shade
+SHADE_HIVE_HINT	Base de engaño
+SHADE_HIVE_TOOLTIP	Las Hives Shade permiten al equipo construir Shades y evolucionar rasgos basados en el engaño
+SHADE_INK_TOOLTIP	Crea una nube de tinta alrededor de la Shade para que las unidades alien se escondan	FIX	Typo (al rededor).
+SHADE_TOOLTIP	Oculta las estructuras cercanas.
+SHADOWSTEP	Shadowstep	CHECK	New ability name (Fade), kept in English like Blink. Alternative: "Paso sombrío".
+SHADOWSTEP_TOOLTIP	Permite al Fade dar un paso rápido en una distancia corta.
+SHELL	Shell
+SHELL_HINT	Mejora defensiva
+SHELL_TOOLTIP	Da un nuevo rasgo alien defensivo
+SHIFT	Shift
+SHIFT_ECHO_TOOLTIP	Mueve la estructura a otro lugar
+SHIFT_ENERGIZE_TOOLTIP	Aumenta la regeneración de energía de las unidades cercanas
+SHIFT_HATCH_TOOLTIP	Crea huevos cerca
+SHIFT_HINT	Da energía a los Aliens
+SHIFT_HIVE	Hive Shift
+SHIFT_HIVE_HINT	Base de movimiento
+SHIFT_HIVE_TOOLTIP	Elige un camino de velocidad y maniobra
+SHIFT_TOOLTIP	Acelera la recuperación de energía de los Aliens y puede mover estructuras por el mapa con Eco.	FIX	The old line said it teleports units; it moves structures (Echo = Eco).
+SHOTGUN	Escopeta
+SHOTGUN_DROP	Soltar escopeta	CHECK	See FLAMETHROWER_DROP.
+SHOTGUN_TECH_TOOLTIP	Permite comprar escopetas en los Armories
+SHOTGUN_TOOLTIP	Su gran daño y la dispersión de los perdigones hacen que la escopeta sea más eficaz contra objetivos cercanos.
+SKULK	Skulk
+SKULK_TOOLTIP	Puede atacar con su mordida y rastrear enemigos con el parásito. Puede emboscar a los enemigos trepando por paredes y techos. Puede evolucionar el salto y Xenocide.	FIX	Glossary: Leap = salto.
+SOCKET_POWER_NODE	Colocar Power Node
+SPAWN_ALIEN	Aparición alien	FIX	Was "Spawn Alien" (English).
+SPAWN_ALIEN_TOOLTIP	Los Aliens aparecen en los huevos cuando hay disponibles
+SPAWN_MARINE	Aparición marine	FIX	Was "Spawn Marine".
+SPAWN_MARINE_TOOLTIP	Los Marines muertos reaparecen aquí cada 9 segundos
+SPIKES	Espinas		Glossary.

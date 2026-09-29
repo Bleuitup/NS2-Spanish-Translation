@@ -1,0 +1,641 @@
+Tech data	ADD_BIOMASS_TOOLTIP	Upgrades the hive to grant an additional level of biomass.	Da un nivel adicional de Biomass a la Hive	translated
+Tech data	ADRENALINE	Adrenaline	Adrenaline	english
+Tech data	ADRENALINE_TOOLTIP	Increased energy regeneration.	Incrementa la cantidad de energía disponible y hace que se recupere más deprisa.	translated
+Tech data	ADVANCED	Advanced	Avanzado	translated
+Tech data	ADVANCED_ARMORY	Advanced Armory	Advanced Armory	english
+Tech data	ADVANCED_ARMORY_HINT	Flamethrowers, grenades, Jetpacks	Lanzallamas, granadas	translated
+Tech data	ADVANCED_ARMORY_TOOLTIP	Allows access to advanced weapons like grenade launchers and flamethrowers, and to Jetpack research.	Permite acceder a armas avanzadas como el lanzagranadas y el lanzallamas	translated
+Tech data	ADVANCED_ARMORY_UPGRADE	Upgrade to Advanced Armory	Actualización a Advanced Armory	translated
+Tech data	ADVANCED_MARINE_SUPPORT_TOOLTIP	Unlocks additional commander abilities to assist your teammates.	Unlocks additional commander abilities to assist your teammates.	english
+Tech data	ADVANCED_TOOLTIP	Advanced structures	Estructuras avanzadas	translated
+Tech data	ADVANCED_WEAPONRY	Advanced weaponry	Armamento avanzado	translated
+Tech data	ADVANCED_WEAPONRY_TOOLTIP	Allows use of grenade launchers and flamethrowers.	Permite el uso de lanzagranadas y lanzallamas.	translated
+Tech data	ALIEN_ALERT_COMMANDER_EJECTED	Commander has been ejected	El Commander ha sido expulsado	translated
+Tech data	ALIEN_ALERT_GORGEBUILT_HARVESTER	Gorge building Harvester	Gorge construyendo Harvester	translated
+Tech data	ALIEN_ALERT_HARVESTER_UNDERATTACK	Harvester under attack	Harvester bajo ataque	translated
+Tech data	ALIEN_ALERT_HIVE_COMPLETE	Hive construction complete	Construcción de Hive completada	translated
+Tech data	ALIEN_ALERT_HIVE_DYING	Hive is dying	Hive casi muerta	translated
+Tech data	ALIEN_ALERT_HIVE_UNDERATTACK	Hive under attack	Hive bajo ataque	translated
+Tech data	ALIEN_ALERT_LIFEFORM_UNDERATTACK	Lifeform under attack	Compañero bajo ataque	translated
+Tech data	ALIEN_ALERT_MANUFACTURE_COMPLETE	Construction complete	Construcción completada	translated
+Tech data	ALIEN_ALERT_NEED_DRIFTER	Player requesting Drifter	Un jugador solicita Drifter	translated
+Tech data	ALIEN_ALERT_NEED_HARVESTER	Player requesting Harvester	Un jugador solicita Harvester	translated
+Tech data	ALIEN_ALERT_NEED_MIST	Player requesting Nutrient Mist	Jugador pidiendo Nutrient Mist	translated
+Tech data	ALIEN_ALERT_NEED_STRUCTURE	Player requesting Structure	Player requesting Structure	english
+Tech data	ALIEN_ALERT_NOTENOUGH_RESOURCES	Not enough resources	No hay suficientes recursos	translated
+Tech data	ALIEN_ALERT_ORDER_COMPLETE	Order complete	Orden completada	translated
+Tech data	ALIEN_ALERT_RESEARCH_COMPLETE	Research complete	Desarrollo completado	translated
+Tech data	ALIEN_ALERT_STRUCTURE_UNDERATTACK	Structure under attack	Estructura bajo ataque	translated
+Tech data	ALIEN_ALERT_UPGRADE_COMPLETE	Upgrade complete	Mejora completada	translated
+Tech data	AMMO_PACK	Ammo pack	Paq. de munición	translated
+Tech data	AMMO_PACK_TOOLTIP	Ammo to fill any weapon	Munición para recargar cualquier arma	translated
+Tech data	ARC	ARC	ARC	english
+Tech data	ARC_ARMOR	Increases ARC armor	Aumenta la armadura del ARC	translated
+Tech data	ARC_DEPLOY	Deploy	Anclar	translated
+Tech data	ARC_DEPLOY_TOOLTIP	Put ARC into firing mode	Prepara al ARC para disparar	translated
+Tech data	ARC_HINT	Commander artillery	Artillería del Commander	translated
+Tech data	ARC_ROBOTICS_FACTORY	ARC Robotics Factory	ARC Robotics Factory	english
+Tech data	ARC_ROBOTICS_FACTORY_HINT	Builds MACs and ARCs	Construye MAC y ARC	translated
+Tech data	ARC_ROBOTICS_FACTORY_TOOLTIP	Allows production of ARC tanks	Permite la producción de tanques ARC	translated
+Tech data	ARC_SPLASH	Increases ARC splash radius by 13%	Aumenta el radio de daño residual del ARC un 13%	translated
+Tech data	ARC_TOOLTIP	Commander controlled AI tanks that do high damage to structures. Can fire through walls. Limited to 5 total, including variants!		missing
+Tech data	ARC_THUNDERDOME_TOOLTIP	Commander controlled AI tanks that do high damage to structures. Can fire through walls. Limited to 4!		missing
+Tech data	ARC_UNDEPLOY	UnDeploy	Desanclar	translated
+Tech data	ARC_UNDEPLOY_TOOLTIP	Put ARC into movement mode	Devuelve al ARC a su modo de movimiento	translated
+Tech data	ARC_UPGRADES	ARC upgrades	Mejoras para ARC	translated
+Tech data	ARMORY	Armory	Armory	english
+Tech data	ARMORY_HINT	Weapons, health and ammo	Armas, salud y munición	translated
+Tech data	ARMORY_TOOLTIP	Automatically resupplies Marines with free health and ammo. You can buy weapons here with your personal resources.	Da munición y salud a los marines automáticamente. Puedes comprar armas con tus recursos personales.	translated
+Tech data	ARMSLAB_HINT	Damage and armor upgrades	Mejoras de daño y armadura	translated
+Tech data	ARMS_LAB	Arms Lab	Arms Lab	english
+Tech data	ARMS_LAB_TOOLTIP	Player attack and armor upgrades	Mejoras de daño y armadura para los jugadores	translated
+Tech data	ASSIST	Assist	Asistencia	translated
+Tech data	ASSIST_TOOLTIP	Assist players	Asistencia a jugadores	translated
+Tech data	ATTACK	Attack	Atacar	translated
+Tech data	ATTACK_TOOLTIP	Attack enemy unit or player	Ataca a unidad enemiga	translated
+Tech data	AURA	Aura	Aura	english
+Tech data	AURA_TOOLTIP	Indicates position of enemy players.		missing
+Tech data	AXE_TOOLTIP	A weapon of desperation. BIND_PrimaryAttack to attack - good against structures.	El último recurso. BIND_PrimaryAttack para atacar - buena contra estructuras.	translated
+Tech data	BABBLER	Babbler	Babbler	english
+Tech data	BABBLER_ABILITY	Babbler bait	Cebo de babbler	translated
+Tech data	BABBLER_ABILITY_TOOLTIP	Throw bait which your Babblers will follow. Hit targets with bait for them to attack, or bounce the bait onto an Alien or yourself to order them to stick to you.	Lanzar cebo que tus babblers seguirán. Dispara a los objetivos o tira el cebo a un alien o a tí mismo para que se enganchen a ti.	translated
+Tech data	BABBLER_MINE	Bile Mine	Bile Mine	english
+Tech data	BABBLER_MINE_TOOLTIP	Explodes when marines get close and covers them with bile	Explodes when marines get close and covers them with bile	english
+Tech data	BASIC_LIFE_FORMS	Lifeform evolutions	Mejoras para los aliens	translated
+Tech data	BASIC_LIFE_FORMS_TOOLTIP	Evolve new traits for Alien players	Evoluciona nuevas habilidades para los aliens	translated
+Tech data	BELLY_SLIDE	Belly slide	Belly slide	english
+Tech data	BELLY_SLIDE_TOOLTIP	Allows the Gorge to slide down ramps.	Permite al Gorge deslizarse por rampas.	translated
+Tech data	BILEBOMB	Bile Bomb	Bile Bomb	english
+Tech data	BILEBOMB_TOOLTIP	Allows Gorges to fire siege projectile that does area damage to structures, and Marine/Exosuit armor.	Permite a los Gorges disparar proyectiles que hacen daño a estructuras, y las armaduras de Marines y Exoesqueletos.	translated
+Tech data	BIOMASS	Biomass	Biomass	english
+Tech data	BIOMASS_ELEVEN	Biomass Level 11	Biomass Level 11	english
+Tech data	BIOMASS_EIGHT	Biomass Level 8	Biomass de nivel 8	translated
+Tech data	BIOMASS_FIVE	Biomass Level 5	Biomass de nivel 5	translated
+Tech data	BIOMASS_FOUR	Biomass Level 4	Biomass de nivel 4	translated
+Tech data	BIOMASS_NINE	Biomass Level 9	Biomass de nivel 9	translated
+Tech data	BIOMASS_ONE	Biomass Level 1	Biomass de nivel 1	translated
+Tech data	BIOMASS_SEVEN	Biomass Level 7	Biomass de nivel 7	translated
+Tech data	BIOMASS_SIX	Biomass Level 6	Biomass de nivel 6	translated
+Tech data	BIOMASS_TEN	Biomass Level 10	Biomass Level 10	english
+Tech data	BIOMASS_THREE	Biomass Level 3	Biomass de nivel 3	translated
+Tech data	BIOMASS_TWELVE	Biomass Level 12	Biomass Level 12	english
+Tech data	BIOMASS_TWO	Biomass Level 2	Biomass de nivel 2	translated
+Tech data	BITE	Bite	Bite	english
+Tech data	BITE_TOOLTIP	BIND_PrimaryAttack for bite. It's great against players and structures, but time your bites carefully. BIND_SecondaryAttack to Leap (when researched by Commander).	BIND_PrimaryAttack para morder. Funciona bien contra jugadores y estructuras, pero calcula bien cuando morder. BIND_SecondaryAttack para Leap (cuando lo desarrolla el Commander).	translated
+Tech data	BLINK	Blink	Blink	english
+Tech data	BLINK_TOOLTIP	Allows Fades to disappear and reappear in combat	Permite a los Fades desaparecer y reaparecer en combate	translated
+Tech data	BOMBARD	Bombard	Bombard	english
+Tech data	BOMBARD_WHIP_HINT	Bombarding structure	Estructura para bombardear	translated
+Tech data	BONESHIELD	Bone shield	Bone shield	english
+Tech data	BONESHIELD_TOOLTIP	Uses the head carapace to block most frontal attacks.	Utiliza el hueso del cráneo para bloquear la mayoría de ataques frontales.	translated
+Tech data	BUILD	Build	Construir	translated
+Tech data	BUILD_ABILITY	Build	Construir	translated
+Tech data	BUILD_ABILITY_TOOLTIP	Build plant spike turrets (Hydras) on any surface. Build Clogs for protection or to block up a hallways.	Construye plantas con púas (Hydras) en cualquier superficie. Construye Clogs para protección o para obstruir pasillo.	translated
+Tech data	BUILD_TOOLTIP	Basic structures	Estructuras básicas	translated
+Tech data	BUILD_TUNNELS_MENU	Tunnel Build Menu	Tunnel Build Menu	english
+Tech data	BUILD_TUNNELS_MENU_TOOLTIP	 	 	translated
+Tech data	CAMOUFLAGE	Camouflage	Camouflage	english
+Tech data	CAMOUFLAGE_TOOLTIP	Move slowly to blend into the environment.	Muevete despacio para camuflarte con el entorno.	translated
+Tech data	CANCEL	Cancel	Cancelar	translated
+Tech data	CARAPACE	Carapace	Carapace	english
+Tech data	CARAPACE_TOOLTIP	Gain extra armor.	Gana armadura adicional.	translated
+Tech data	CAT_PACK	Catalyst pack	Catalyst	translated
+Tech data	CAT_PACK_TOOLTIP	Increases Marine movement, reload speed and welding.		missing
+Tech data	CELERITY	Celerity	Celerity	english
+Tech data	CELERITY_TOOLTIP	Increases movement speed and acceleration.	Incrementa la velocidad de movimiento y la aceleración.	translated
+Tech data	CHARGE	Charge	Carga	translated
+Tech data	CHARGE_TOOLTIP	Lets the Onos charge in the current direction.	Permite al Onos cargar en la dirección actual.	translated
+Tech data	CLAWRAILGUN_EXOSUIT	Exosuit with a claw and railgun	Exosuit con puño y railgun	translated
+Tech data	CLAW_RAILGUN_TECH_TOOLTIP	Allows the Exo to buy the claw/railgun setup	Permite al Exo comprar la configuración de puño/railgun	translated
+Tech data	CLOAK	Cloak	Cloak	english
+Tech data	CLOG	Clog	Clog	english
+Tech data	CLOG_TOOLTIP	Inert mass used to block up areas, give cover or gain access to vents.	Masa inerte para bloquear areas, ofrecer cobertura u obtener acceso a conductos de ventilación.	translated
+Tech data	CLOSE_DOOR	Close door	Cerrar puerta	translated
+Tech data	CLOSE_DOOR_TOOLTIP	Close door	Cierra la puerta	translated
+Tech data	CLUSTER_GRENADE	Cluster Grenade	Granada clúster	translated
+Tech data	COLLECT_RESOURCES	Collects resources	Extrae recursos	translated
+Tech data	COLLECT_RESOURCES_TOOLTIP	Collects resources for players and the team	Extrae recursos para los jugadores y para el equipo	translated
+Tech data	COMMANDERERROR_CANT_BUILD_TOO_CLOSE	Can't build - too close.	No se puede construir - Demasiado cerca.	translated
+Tech data	COMMANDERERROR_NO_CYST_PARENT_FOUND	Must be built near another Cyst.	Debe ser construido cerca de otro Cyst.	translated
+Tech data	COMMANDERERROR_ONLY_ONE_BATTERY_PER_ROOM	Can't build or too many power batteries in room or total.		missing
+Tech data	COMMANDERERROR_TOO_MANY_SENTRIES	Can't build - too many sentries.	No se puede construir - demasiadas torretas.	translated
+Tech data	COMMAND_STATION	Command Station	Command Station	english
+Tech data	COMMAND_STATION_HINT	Marine base	Base marine	translated
+Tech data	COMMAND_STATION_TOOLTIP	This structure houses the Commander, who gives orders to your team mates on the ground. The Marines lose if you no longer have a Command Station.	En esta estructura se mete el Commander, que da órdenes a tus compañeros en el suelo. Los Marines pierden si se pierden todas las Command Station.	translated
+Tech data	CONSTRUCT	Construct	Construir	translated
+Tech data	CONTAMINATION	Contamination	Contamination	english
+Tech data	CONTAMINATION_TOOLTIP	Creates a flammable mass which spreads infestation and sprays bile 3 times every 2 seconds. Lasts 20 seconds and can be placed anywhere.	Creates a flammable mass which spreads infestation and sprays bile 3 times every 2 seconds. Lasts 20 seconds and can be placed anywhere.	english
+Tech data	CRAG	Crag	Crag	english
+Tech data	CRAG_HEAL_TOOLTIP	Heals players and structures (+10 every 2 seconds, max 3 targets)	Cura a jugadores y estructuras (+10 cada 2 segundos, máximo 3 unidades)	translated
+Tech data	CRAG_HINT	Heals Alien units	Cura unidades alien	translated
+Tech data	CRAG_HIVE	Crag Hive	Hive Crag	translated
+Tech data	CRAG_HIVE_HINT	Defensive base	Base defensiva	translated
+Tech data	CRAG_HIVE_TOOLTIP	Crag hives allow the team to build Crags and evolve defensive traits	Las Hives Crag permiten al equipo construir Crags y obtener evoluciones defensivas.	translated
+Tech data	CRAG_TOOLTIP	Heals and protects nearby friendly units.	Cura y protege unidades cercanas.	translated
+Tech data	CRAG_UMBRA_TOOLTIP	Creates protective cloud for units inside which blocks bullets.	Crea una nube protectora para las unidades que bloquea balas.	translated
+Tech data	CRUSH	Crush	Crush	english
+Tech data	CRUSH_TOOLTIP	Enables more damage to structures and increases amount of armor stripped from an enemy player.	Enables more damage to structures and increases amount of armor stripped from an enemy player.	english
+Tech data	CYST	Cyst	Cyst	english
+Tech data	CYST_CAMOUFLAGE	Cyst Camouflage	Cyst Camouflage	english
+Tech data	CYST_CAMOUFLAGE_TOOLTIP	Cloaks cysts unless attacked, disconnected or touched	Cloaks cysts unless attacked, disconnected or touched	english
+Tech data	CYST_CARAPACE	Cyst Carapace	Cyst Carapace	english
+Tech data	CYST_CARAPACE_TOOLTIP	Adds additional armor	Adds additional armor	english
+Tech data	CYST_CELERITY	Cyst Celerity	Cyst Celerity	english
+Tech data	CYST_CELERITY_TOOLTIP	Increases the cyst's growth rate	Increases the cyst's growth rate	english
+Tech data	CYST_HINT	Creates infestation	Crea infestación	translated
+Tech data	CYST_TOOLTIP	The Commander places Cysts, which grow infestation. If Cysts aren't connected in a chain to a Hive, they will die, causing the infestation to recede. Alien structures without infestation will also die.	El Commander coloca Cysts, que hacen crecer la infestación. Si no están conectados entre ellos hasta la Hive, morirán, haciendo que la infestación desaparezca. Las estructuras que no estén en la infestación también morirán.	translated
+Tech data	DEATH_TRIGGER	Natural Causes	Causas Naturales	translated
+Tech data	DEFEND	Defend	Defender	translated
+Tech data	DESTROY_HALLUCINATION	Destroy Hallucination	Destruir alucinacion	translated
+Tech data	DETECTOR	Detector	Detector	english
+Tech data	DETECTOR_TOOLTIP	Reveals unseen enemy units to your team	Revela enemigos a tu equipo	translated
+Tech data	DISORIENT	Disorient	Disorient	english
+Tech data	DISTRESS_BEACON	Distress Beacon	Distress Beacon	english
+Tech data	DISTRESS_BEACON_TOOLTIP	Teleports Marines to Command Station nearest to Observatory	Teletransporta a los marines a la Command Station más cercana a un Observatory	translated
+Tech data	DOOR	Door	Puerta	translated
+Tech data	DOOR_TOOLTIP	You will be able to weld doors shut in the future.	Podrás soldar puertas en el futuro.	translated
+Tech data	DRIFTER	Drifter	Drifter	english
+Tech data	DRIFTER_CAMOUFLAGE	Drifter Camouflage	Drifter Camouflage	english
+Tech data	DRIFTER_CAMOUFLAGE_TOOLTIP	Becomes invisible to enemies when still	Se vuelve invisible para los enemigos cuando permanece inmóvil	translated
+Tech data	DRIFTER_CELERITY	Drifter Celerity	Drifter Celerity	english
+Tech data	DRIFTER_CELERITY_TOOLTIP	Drifters move 18% faster	Drifters move 18% faster	english
+Tech data	DRIFTER_REGENERATION	Drifter Regeneration	Drifter Regeneration	english
+Tech data	DRIFTER_REGENERATION_TOOLTIP	Drifters regenerate 3% of their hp every 2 secs while being hurt	Drifters regenerate 3% of their hp every 2 secs while being hurt	english
+Tech data	DRIFTER_HINT	Detects enemies	Detecta enemigos	translated
+Tech data	DRIFTER_TOOLTIP	Flying creature which can speed up construction and support players.	Criatura voladora que puede acelerar construcción y dar soporte a jugadores.	translated
+Tech data	DUALMINIGUN_EXOSUIT	Exosuit with dual miniguns	Exosuit con miniguns duales	translated
+Tech data	DUALRAILGUN_EXOSUIT	Exosuit with dual railguns	Exoesqueleto con dos Railguns	translated
+Tech data	DUAL_RAILGUN_TECH_TOOLTIP	Allows the Exo to buy two Railguns	Permite al Exo comprar dos Railguns	translated
+Tech data	ECHO	Echo	Echo	english
+Tech data	ECHO_CRAG	Move Crag	Mover Crag	translated
+Tech data	ECHO_EGG	Move Egg	Mover Huevo	translated
+Tech data	ECHO_HARVESTER	Move Harvester	Mover Harvester	translated
+Tech data	ECHO_HYDRA	Move Hydra	Mover Hydra	translated
+Tech data	ECHO_SHADE	Move Shade	Mover Shade	translated
+Tech data	ECHO_SHELL	Move Shell	Mover Shell	translated
+Tech data	ECHO_SHIFT	Move Shift	Mover Shift	translated
+Tech data	ECHO_SPUR	Move Spur	Mover Spur	translated
+Tech data	ECHO_TOOLTIP	Moves structure to another legal location	Mueve una estructura a otra posición válida	translated
+Tech data	ECHO_VEIL	Move Veil	Mover Veil	translated
+Tech data	ECHO_WHIP	Move Whip	Mover Whip	translated
+Tech data	EGG	Egg	Huevo	translated
+Tech data	EGG_DROP_TOOLTIP	Aliens spawn from eggs in waves. Hives grow eggs nearby intermittently.	Los aliens salen de los huevos en oleadas. Las Hives hacen crecer huevos a su alrededor cada cierto tiempo.	translated
+Tech data	EGG_HINT	Alien spawn	Renace aliens	translated
+Tech data	EMBRYO	Embryo	Embrión	translated
+Tech data	ENERGIZE	Energize	Energize	english
+Tech data	ENZYME_CLOUD	Enzyme cloud	Nube de enzimas	translated
+Tech data	ENZYME_CLOUD_TOOLTIP	Creates cloud of hormones that increase rate of attack for Aliens inside it	Crea nube de hormonas que incrementa la velocidad de ataque de los aliens.	translated
+Tech data	EVOCHAMBER	Evolution Chamber	Evolution Chamber	english
+Tech data	EVOLVE_BOMBARD	Bombard	Bombard	english
+Tech data	EVOLVE_BOMBARD_TOOLTIP	Long-range area effect projectile which disintegrates armor	Proyectil de largo alcance que desintegra armadura	translated
+Tech data	EXPANDING_HERE	Expanding here	Expandirse aquí	translated
+Tech data	EXTRACTOR	Extractor	Extractor	english
+Tech data	EXTRACTOR_HINT	Generates resources	Genera recursos	translated
+Tech data	EXTRACTOR_TOOLTIP	Marine Extractors generate resources for the team and for every player. They allow the Commander to drop structures and research new technology.	Los Extractores marines generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras e investigar nueva tecnología.	translated
+Tech data	FADE	Fade	Fade	english
+Tech data	FADE_EGG	Fade egg	Huevo de Fade	translated
+Tech data	FADE_EGG_DROP_TOOLTIP	Creates an egg that a Fade can spawn from	Crea un huevo del que nacerá un Fade	translated
+Tech data	FADE_TOOLTIP	This deadly assassin moves quickly in and out of combat using its Blink ability while swiping with its deadly claws. Can evolve Metabolize to regain energy and Advanced Metabolize for both energy and health. Adept at hit and run tactics, or catching lone Marines off guard.	This deadly assassin moves quickly in and out of combat using its Blink ability while swiping with its deadly claws. Can evolve Metabolize to regain energy and Advanced Metabolize for both energy and health. Adept at hit and run tactics, or catching lone Marines off guard.	english
+Tech data	FLAMETHROWER	Flamethrower	Lanzallamas	translated
+Tech data	FLAMETHROWER_DROP	Drop Flamethrower	Drop Flamethrower	english
+Tech data	FLAMETHROWER_TECH_TOOLTIP	Allows flamethrowers to be purchased at Armories	Permite comprar el lanzallamas en la Armory	translated
+Tech data	FLAMETHROWER_TOOLTIP	Does burning damage, reduces energy regeneration rate, and disables some structures. More powerful against flammable targets.	Hace daño por quemaduras, reduce la regeneración de energía, y desactiva algunas estructuras. Más potente frente a objetivos inflamables.	translated
+Tech data	FOCUS	Focus	Focus	english
+Tech data	FOCUS_TOOLTIP	Increases damage of primary attack, but they are performed at a slower rate.	Increases damage of primary attack, but they are performed at a slower rate.	english
+Tech data	FOLLOWANDWELD	Follow and weld	Seguir y reparar	translated
+Tech data	FOLLOWANDWELD_TOOLTIP	Follow a unit and weld/construct everything in range.	Sigue a una unidad y la repara o construye cualquier cosa en su rango.	translated
+Tech data	FOLLOW_NEAREST_ALIEN	Follow	Seguir	translated
+Tech data	FOLLOW_NEAREST_ALIEN_TOOLTIP	Drifter follows the closest Alien player	El drifter sigue al jugador alien más cercano	translated
+Tech data	GAS_GRENADE	Nerve Gas Grenade	Granada de gas nervioso	translated
+Tech data	GORE	Gore	Gore	english
+Tech data	GORE_TOOLTIP	BIND_PrimaryAttack to gore players. Also smashes through structures with ease.	BIND_PrimaryAttack para atacar con el cuerno. También destruye estructuras fácilmente.	translated
+Tech data	GORGE	Gorge	Gorge	english
+Tech data	GORGE_EGG	Gorge egg	Huevo de Gorge	translated
+Tech data	GORGE_EGG_DROP_TOOLTIP	Creates an egg that a Gorge can spawn from	Crea un huevo del que nacerá un Gorge	translated
+Tech data	GORGE_TOOLTIP	A Gorge can build offensive Hydras and defensive Clogs. Can evolve ranged bile bomb for attacking armor and structures.	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar bile bomb para atacar armadura y estructuras.	translated
+Tech data	GRENADES_TOOLTIP	Allows hand grenades to be purchased at Armories.	Permite la compra de granadas de mano en las Armory.	translated
+Tech data	GRENADE_LAUNCHER	Grenade Launcher	Grenade Launcher	english
+Tech data	GRENADE_LAUNCHER_DROP	Drop Grenade Launcher	Drop Grenade Launcher	english
+Tech data	GRENADE_LAUNCHER_TECH_TOOLTIP	Allows grenade launchers to be purchased at Armories	Permite comprar lanzagranadas en la Armory	translated
+Tech data	GRENADE_LAUNCHER_TOOLTIP	Area effect damage. Does quadruple damage to structures.	Daño de área de efecto. Hace el doble de daño a estructuras.	translated
+Tech data	GROW	Grow	Crecer	translated
+Tech data	GROW_TOOLTIP	Increases the grow speed of Alien structures.	Acelera la velocidad de crecimiento de las estructuras alien.	translated
+Tech data	HALLUCINATE_CRAG	Hallucinate Crag	Alucinar Crag	translated
+Tech data	HALLUCINATE_CRAG_TOOLTIP	Creates a fake Crag unit	Crea un Crag falso	translated
+Tech data	HALLUCINATE_DRIFTER	Hallucinate Drifter	Alucinar Drifter	translated
+Tech data	HALLUCINATE_DRIFTER_TOOLTIP	Creates a fake Drifter unit	Crea un Drifter falso	translated
+Tech data	HALLUCINATE_FADE	Hallucinate Fade	Alucinar Fade	translated
+Tech data	HALLUCINATE_FADE_TOOLTIP	Creates a fake Fade unit	Crea un Fade falso	translated
+Tech data	HALLUCINATE_GORGE	Hallucinate Gorge	Alucinar Gorge	translated
+Tech data	HALLUCINATE_GORGE_TOOLTIP	Creates a fake Gorge unit	Crea un Gorge falso	translated
+Tech data	HALLUCINATE_HARVESTER	Hallucinate Harvester	Alucinar Harvester	translated
+Tech data	HALLUCINATE_HARVESTER_TOOLTIP	Creates a fake Harvester unit	Crea un Harvester falso	translated
+Tech data	HALLUCINATE_HIVE	Hallucinate Hive	Alucinar Hive	translated
+Tech data	HALLUCINATE_HIVE_TOOLTIP	Creates a fake Hive unit	Crea una Hive falsa	translated
+Tech data	HALLUCINATE_HYDRA	Hallucinate Hydra	Alucinar Hydra	translated
+Tech data	HALLUCINATE_HYDRA_TOOLTIP	Creates a fake Hydra unit	Crea una Hydra falsa	translated
+Tech data	HALLUCINATE_LERK	Hallucinate Lerk	Alucinar Lerk	translated
+Tech data	HALLUCINATE_LERK_TOOLTIP	Creates a fake Lerk unit	Crea un Lerk falso	translated
+Tech data	HALLUCINATE_ONOS	Hallucinate Onos	Alucinar Onos	translated
+Tech data	HALLUCINATE_ONOS_TOOLTIP	Creates a fake Onos unit	Crea un Onos falso	translated
+Tech data	HALLUCINATE_SHADE	Hallucinate Shade	Alucinar Shade	translated
+Tech data	HALLUCINATE_SHADE_TOOLTIP	Creates a fake Shade unit	Crea un Shade falso	translated
+Tech data	HALLUCINATE_SHIFT	Hallucinate Shift	Alucinar Shift	translated
+Tech data	HALLUCINATE_SHIFT_TOOLTIP	Creates a fake Shift unit	Crea un Shift falso	translated
+Tech data	HALLUCINATE_SKULK	Hallucinate Skulk	Alucinar Skulk	translated
+Tech data	HALLUCINATE_SKULK_TOOLTIP	Creates a fake Skulk unit	Crea un Skulk falso	translated
+Tech data	HALLUCINATE_WHIP	Hallucinate Whip	Alucinar Whip	translated
+Tech data	HALLUCINATE_WHIP_TOOLTIP	Creates a fake Whip unit	Crea un Whip falso	translated
+Tech data	HALLUCINATION	Hallucination	Alucinación	translated
+Tech data	HALLUCINATION_CLOUD	Cloaking Haze		missing
+Tech data	HALLUCINATION_CLOUD_TOOLTIP	Creates a cloud which cloaks players, eggs and drifters in target area.		missing
+Tech data	HARVESTER	Harvester	Harvester	english
+Tech data	HARVESTER_HINT	Generates resources	Genera recursos	translated
+Tech data	HARVESTER_TOOLTIP	Generate resources for the team and for every player. They allow the Commander to drop structures and unlock new traits.	Generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras y desbloquear nuevas habilidades.	translated
+Tech data	HEAVY_MACHINE_GUN	Heavy Machine Gun	Heavy Machine Gun	english
+Tech data	HEAVY_MACHINE_GUN_DROP	Drop Heavy Machine Gun	Drop Heavy Machine Gun	english
+Tech data	HEAVY_MACHINE_GUN_TOOLTIP	Machine Gun with a large magazine. Inaccurate at mid-long range.  Extra damage against players.	Machine Gun with a large magazine. Inaccurate at mid-long range.  Extra damage against players.	english
+Tech data	HATCH	Hatch	Gestar	translated
+Tech data	HEAL	Heal	Curar	translated
+Tech data	HEAL_WAVE	Shield Wave		missing
+Tech data	HEAL_WAVE_TOOLTIP	Generates shield on all nearby lifeforms.		missing
+Tech data	HIVE	Hive	Hive	english
+Tech data	HIVE_HEAL_TOOLTIP	Heals nearby Aliens	Cura a los Aliens cercanos	translated
+Tech data	HIVE_HINT	Alien base	Base alien	translated
+Tech data	HIVE_TOOLTIP	This structure houses the Alien Commander, who chooses evolutions for the team (multiple hives required for some evolutions). It also heals nearby players. The Aliens lose if they no longer have any Hives.	En esta estructura se encuentra el Commander alien, que elige las evoluciones para el equipo (se requieren varias hives para algunas evoluciones). También cura jugadores cercanos. Los aliens pierden si no tienen ninguna Hive.	translated
+Tech data	HOLD_POSITION	Hold position	Mantener la posición	translated
+Tech data	HYDRA	Hydra	Hydra	english
+Tech data	HYDRA_HINT	Gorge spike plant	Planta con púas del Gorge	translated
+Tech data	HYDRA_TOOLTIP	Spike plant that can be built anywhere and fires at enemies. Keep it alive with your heal spray.	Planta con púas que se puede construir en cualquier parte y dispara a los enemigos. Mantenlo vivo con tu Heal Spray.	translated
+Tech data	INFANTRY_PORTAL	Infantry Portal	Infantry Portal	english
+Tech data	INFANTRY_PORTAL_HINT	Respawns Marines	Renace marines	translated
+Tech data	INFANTRY_PORTAL_TOOLTIP	Respawns a Marine every 9 seconds. Can only be built near a Command Station. Max 3 per Command Station.	Los marines renacen aquí cada 9 segundos. Solo puede ser construido cerca de una Command Station.	translated
+Tech data	INFESTATION	Infestation	Infestación	translated
+Tech data	INFESTATION_SPIKE	Bone Wall	Bone Wall	english
+Tech data	INFESTATION_SPIKE_TOOLTIP	Creates temporary wall that blocks movement and attacks	Crea un muro temporal que bloquea movimiento y ataques	translated
+Tech data	INFESTATION_TOOLTIP	Generates infestation	Genera infestación	translated
+Tech data	INFESTED_TUNNEL_ENTRANCE	Infested Tunnel Entrance	Infested Tunnel Entrance	english
+Tech data	INFESTED_TUNNEL_ENTRANCE_HINT	Allows players to travel quickly to another location	Allows players to travel quickly to another location	english
+Tech data	INFESTED_TUNNEL_TOOLTIP	Allows players to travel quickly to another location and also spreads Infestation	Allows players to travel quickly to another location and also spreads Infestation	english
+Tech data	INK	Ink	Tinta	translated
+Tech data	JETPACK	Jetpack	Jetpack	english
+Tech data	JETPACK_DROP	Drop Jetpack	Drop Jetpack	english
+Tech data	JETPACK_ARMOR_TECH	Research Jetpack armor tech	Research Jetpack armor tech	english
+Tech data	JETPACK_ARMOR_TOOLTIP	Grants extra armor to jetpacks	Grants extra armor to jetpacks	english
+Tech data	JETPACK_FUEL_TECH	Research Jetpack fuel tech	Research Jetpack fuel tech	english
+Tech data	JETPACK_FUEL_TOOLTIP	Improves jetpack maneuverability and flight time	Improves jetpack maneuverability and flight time	english
+Tech data	JETPACK_HINT	Jetpacking Marine	Marine con Jetpack	translated
+Tech data	JETPACK_TECH	Research Jetpacks	Desarrollar Jetpacks	translated
+Tech data	JETPACK_TOOLTIP	Allows Marines to fly and access vents.	Permite a los marines volar y acceder a los vents.	translated
+Tech data	LEAP	Leap	Leap	english
+Tech data	LEAP_TOOLTIP	Allows Skulks to leap into combat	Permite a los Skulks darse un potente impulso	translated
+Tech data	LERK	Lerk	Lerk	english
+Tech data	LERK_BITE	Bite	Bite	english
+Tech data	LERK_BITE_TOOLTIP	BIND_PrimaryAttack for bite, which poisons Marines and inflicts damage over time. BIND_SecondaryAttack for a long-range spiked attack.	BIND_PrimaryAttack para morder, que envenena al marine y le sigue haciendo daño durante un tiempo. BIND_SecondaryAttack para lanzar púas desde larga distancia.	translated
+Tech data	LERK_EGG	Lerk egg	Huevo de Lerk	translated
+Tech data	LERK_EGG_DROP_TOOLTIP	Creates an egg that a Lerk can spawn from	Crea un huevo del que nacerá un Lerk	translated
+Tech data	LERK_TOOLTIP	Versatile support flyer. Can do damage over time with poisonous bite and ranged spikes. Can evolve choking spore cloud and protective umbra.	Unidad versátil voladora. Puede hacer daño progresivamente con el mordisco venenoso y las púas. Puede evolucionar una nube de esporas asfixiantes y la protectora Umbra.	translated
+Tech data	LOCK_DOOR	Lock door	Bloquear puerta	translated
+Tech data	MAC	MAC	MAC	english
+Tech data	MAC_EMP	EMP	EMP	english
+Tech data	MAC_EMP_RESEARCH	Research EMP	Desarrollar EMP	translated
+Tech data	MAC_EMP_RESEARCH_TOOLTIP	Allows MACs to generate a electro-magnetic pulse, depleting nearby Aliens of energy	Permite a los MACs generar un pulso electromagnético, que vacía la energía de los aliens cercanos	translated
+Tech data	MAC_EMP_TOOLTIP	Generate an electro-magnetic pulse, depleting nearby Aliens of energy	Genera un pulso electromanético, que quita energía a los Aliens cercanos	translated
+Tech data	MAC_HINT	Commander repair drone	Robot que repara y construye	translated
+Tech data	MAC_SPEED	Increase MAC speed	Aumentar velocidad de los MAC	translated
+Tech data	MAC_SPEED_TOOLTIP	Increases MAC speed by 50%	Aumenta la velocidad de los MAC un 50%	translated
+Tech data	MAC_TOOLTIP	Robot that builds structures and can repair armor	Robot que construye estructuras y puede reparar armadura	translated
+Tech data	MAC_UPGRADES	MAC upgrades	Mejoras para MAC	translated
+Tech data	MARINE	Marine	Marine	english
+Tech data	MARINE_ALERT_ACKNOWLEDGE	Soldier acknowledges	Soldado acepta órdenes	translated
+Tech data	MARINE_ALERT_COMMANDER_EJECTED	Commander has been ejected	El Commander ha sido expulsado	translated
+Tech data	MARINE_ALERT_COMMANDSTATION_UNDERAT	Command Station under attack	Command Station bajo ataque	translated
+Tech data	MARINE_ALERT_COMMAND_STATION_COMPLETE	Command Station complete	Command Station completada	translated
+Tech data	MARINE_ALERT_CONSTRUCTION_COMPLETE	Construction complete	Construcción completada	translated
+Tech data	MARINE_ALERT_EXTRACTOR_UNDERATTACK	Extractor under attack	Extractor bajo ataque	translated
+Tech data	MARINE_ALERT_INFANTRYPORTAL_UNDERAT	Infantry Portal under attack	Infantry Portal bajo ataque	translated
+Tech data	MARINE_ALERT_MAC_BLOCKED	MAC Blocked	MAC bloqueado	translated
+Tech data	MARINE_ALERT_MANUFACTURE_COMPLETE	Construction complete	Construcción completada	translated
+Tech data	MARINE_ALERT_NEED_AMMO	Soldier needs ammo	Soldado necesita munición	translated
+Tech data	MARINE_ALERT_NEED_MEDPACK	Soldier needs medpack	Soldado necesita medpack	translated
+Tech data	MARINE_ALERT_NEED_ORDER	Soldier needs order	Soldado necesita órdenes	translated
+Tech data	MARINE_ALERT_NEED_STRUCTURE	Soldier requesting structure	Soldier requesting structure	english
+Tech data	MARINE_ALERT_NOT_ENOUGH_RESOURCES	Not enough resources	No hay suficientes recursos	translated
+Tech data	MARINE_ALERT_ORDER_COMPLETE	Objective complete	Objetivo completado	translated
+Tech data	MARINE_ALERT_RESEARCH_COMPLETE	Research complete	Investigación completada	translated
+Tech data	MARINE_ALERT_SENTRY_FIRING	Sentry firing	Sentry Turret disparando	translated
+Tech data	MARINE_ALERT_SENTRY_UNDERATTACK	Sentry taking damage	Sentry Turret recibiendo daño	translated
+Tech data	MARINE_ALERT_SOLDIER_LOST	Soldier lost	Soldado abatido	translated
+Tech data	MARINE_ALERT_SOLDIER_UNDERATTACK	Soldier under attack	Soldado bajo ataque	translated
+Tech data	MARINE_ALERT_STRUCTURE_UNDERATTACK	Structure under attack	Estructura bajo ataque	translated
+Tech data	MARINE_ALERT_UPGRADE_COMPLETE	Upgrade complete	Mejora completada	translated
+Tech data	MARINE_ARMOR1	Armor #1	Armadura #1	translated
+Tech data	MARINE_ARMOR1_TOOLTIP	Gives Marines 20 extra armor	Da a los marines 20 puntos extra de armadura	translated
+Tech data	MARINE_ARMOR2	Armor #2	Armadura #2	translated
+Tech data	MARINE_ARMOR2_TOOLTIP	Gives Marines 40 extra armor	Da a los marines 40 puntos extra de armadura	translated
+Tech data	MARINE_ARMOR3	Armor #3	Armadura #3	translated
+Tech data	MARINE_ARMOR3_TOOLTIP	Gives Marines 60 extra armor	Da a los marines 60 puntos extra de armadura	translated
+Tech data	MARINE_COMMANDER	Marine Commander	Commander Marine	translated
+Tech data	MARINE_WEAPONS1	Weapons #1	Armas #1	translated
+Tech data	MARINE_WEAPONS1_TOOLTIP	Marine weapons do 10% extra player damage and 20% extra structure damage.		missing
+Tech data	MARINE_WEAPONS2	Weapons #2	Armas #2	translated
+Tech data	MARINE_WEAPONS2_TOOLTIP	Marine weapons do 20% extra player damage and 40% extra structure damage.		missing
+Tech data	MARINE_WEAPONS3	Weapons #3	Armas #3	translated
+Tech data	MARINE_WEAPONS3_TOOLTIP	Marine weapons do 30% extra player damage and 60% extra structure damage.		missing
+Tech data	MARKERS	Markers	Marcadores	translated
+Tech data	MARK_THREAT	Threat	Amenaza	translated
+Tech data	MED_PACK	Med pack	Medpack	translated
+Tech data	MED_PACK_TOOLTIP	Restores 50 player health	Restablece 50 puntos de vida del jugador	translated
+Tech data	METABOLIZE	Metabolize	Metabolize	english
+Tech data	METABOLIZE_ADV	Advanced Metabolize	Metabolize avanzado	translated
+Tech data	METABOLIZE_ADV_TOOLTIP	Allows the Fade to regain both energy and health.	Permite al Fade recuperar tanto energía como salud.	translated
+Tech data	METABOLIZE_TOOLTIP	The Fade can regain energy with this ability.	El Fade recupera energía utilizando esta habilidad.	translated
+Tech data	MINE_SINGULAR	Mine	Mine	english
+Tech data	MINE_DROP	Drop Mines	Drop Mines	english
+Tech data	MINES	Research Mines	Desarrollar Minas	translated
+Tech data	MINE_HINT	Proximity mine	Mina de proximidad	translated
+Tech data	MINE_TOOLTIP	Drop 1 proximity mine.	Pack of 1 proximity mine.	translated
+Tech data	MINIGUN	Minigun	Minigun	english
+Tech data	MINIGUN_CLAW_TOOLTIP	BIND_PrimaryAttack to punch with Claw. Hold BIND_SecondaryAttack to fire minigun (unlimited ammo but can overheat). BIND_Jump to activate jump jets.	BIND_PrimaryAttack para dar un puñetazo. Mantén pulsado BIND_SecondaryAttack para disparar tu minigun (munición ilimitada pero se calienta). BIND_Jump para activar los reactores de salto.	translated
+Tech data	MOVE	Move	Avanzar	translated
+Tech data	MOVE_TOOLTIP	Move to waypoint	Avanza hacia el objetivo	translated
+Tech data	MUCOUS_MEMBRANE	Mucous Membrane	Membrana mucosa	translated
+Tech data	MUCOUS_MEMBRANE_TOOLTIP	Grants a temporary shield to friendly units.	Cura la armadura de las unidades de tu equipo.	translated
+Tech data	NANO_SHIELD_DEFENSE	Nano-shield	Nano-shield	english
+Tech data	NANO_SHIELD_DEFENSE_TOOLTIP	Reduce all damage by 32% on target for 5 seconds	Reduce todo el daño un 32% al objetivo durante 5 segundos	translated
+Tech data	NEED_HEALING_HERE	Need healing here	Curar aquí	translated
+Tech data	NUTRIENT_MIST	Nutrient mist	Niebla de nutrientes	translated
+Tech data	NUTRIENT_MIST_TOOLTIP	Speeds structure maturation, speeds player evolution, and prevents damage to disconnected cysts	Speeds structure maturation, speeds player evolution, minor healing to cysts, and prevents damage to structures off infestation for 15 seconds	translated
+Tech data	OBSERVATORY	Observatory	Observatory	english
+Tech data	OBSERVATORY_HINT	Detects Aliens	Detecta aliens	translated
+Tech data	OBSERVATORY_TOOLTIP	Detects enemies nearby	Detecta enemigos cercanos	translated
+Tech data	ONOS	Onos	Onos	english
+Tech data	ONOS_EGG	Onos egg	Huevo de Onos	translated
+Tech data	ONOS_EGG_DROP_TOOLTIP	Creates an egg that an Onos can spawn from	Crea un huevo del que nacerá un Onos	translated
+Tech data	ONOS_TOOLTIP	A behemoth that can smash structures and charge into battle and gore players to death. He can also evolve stomp to stun his enemies.	Un gigante que puede destruir estructuras y embestirlos hasta morir. También puede evolucionar Stomp para aturdir a sus enemigos.	translated
+Tech data	OPEN_DOOR	Open door	Abrir puerta	translated
+Tech data	OPEN_DOOR_TOOLTIP	Open door	Abre la puerta	translated
+Tech data	PARASITE	Parasite	Parasite	english
+Tech data	PARASITE_TOOLTIP	Ranged ability that marks an enemy for your team to see.	Habilidad que marca a un enemigo para que tus compañeros lo vean.	translated
+Tech data	PATROL	Patrol	Patruya	translated
+Tech data	PATROL_TOOLTIP	Move between two way points	Se mueve entre dos puntos	translated
+Tech data	PHANTOM	Phantom	Alucinaciones	translated
+Tech data	PHANTOM_TOOLTIP	Makes you silent when moving and attacking, and nearly invisible when standing still	Te hace silencioso al moverte o atacar, y casi invisible al permanecer estático	translated
+Tech data	PHASE_GATE	Phase gate	Phase gate	english
+Tech data	PHASE_GATE_HINT	Marine teleport	Teletransporte marine	translated
+Tech data	PHASE_GATE_TOOLTIP	Teleports Marines to other phase gates	Transporta a los marines a otros phase gates	translated
+Tech data	PHASE_TECH	Phase Tech	Phase Tech	english
+Tech data	PHASE_TECH_TOOLTIP	Unlocks phase gate tech	Desbloquea la tecnología de Phase Gates	translated
+Tech data	PHEROMONE_EXPANDING_TOOLTIP	Notify team where we are expanding	Notificar al equipo donde nos estamos expandiendo	translated
+Tech data	PHEROMONE_HEAL_TOOLTIP	Notify team where to heal	Notificar al equipo donde curarse	translated
+Tech data	PHEROMONE_THREAT_TOOLTIP	Notify team position of threat	Notificar al equipo la posición de una amenaza	translated
+Tech data	PHEROMONE_TOOLTIP	Place pheromone markers	Colocar marcadores de feromonas	translated
+Tech data	PISTOL	Pistol	Pistola	translated
+Tech data	PISTOL_TOOLTIP	Accurate ranged weapon, great for sniping and for finishing off wounded targets. BIND_PrimaryAttack to fire.	Arma precisa, perfecta para disparar a objetivos a larga distancia y rematar enemigos. BIND_PrimaryAttack para disparar.	translated
+Tech data	POWERPOINT_HINT	Powers Marine structures	Da energía a estructuras marine	translated
+Tech data	POWERPOINT_TOOLTIP	Required to power Marine structures in this room. If destroyed, Marine structures in the room will stop working until the power is repaired.	Necesario para que las estructuras marines funcionen en esta sala. Si está destruído, las estructuras dejarán de funcionar hasta que se repare.	translated
+Tech data	POWER_NODE	Power node	Power node	english
+Tech data	POWER_SURGE	Power Surge	Power Surge	english
+Tech data	POWER_SURGE_TOOLTIP	Powers targeted structure for 10 seconds.	Powers targeted structure for 10 seconds.	english
+Tech data	PROTOTYPE_LAB	Prototype lab	Prototype lab	english
+Tech data	PROTOTYPE_LAB_HINT	Exosuits	Jetpacks, Exos	translated
+Tech data	PROTOTYPE_LAB_TOOLTIP	You can buy Exosuits from here.	Puedes comprar Jetpacks y Exoesqueletos aquí.	translated
+Tech data	PULSE_GRENADE	Pulse Grenade	Granada de pulsos	translated
+Tech data	RAILGUN	Railgun	Railgun	english
+Tech data	RAILGUN_CLAW_TOOLTIP	BIND_PrimaryAttack to punch with Claw. BIND_SecondaryAttack to fire railgun (unlimited ammo but slow rate of fire). BIND_Jump to activate jump jets.	BIND_PrimaryAttack para dar un puñetazo. BIND_SecondaryAttack para disparar la railgun (munición ilimitada pero con baja cadencia de tiro). BIND_Jump para activar los reactores de salto.	translated
+Tech data	RALLY_POINT_TOOLTIP	New helper units automatically move here	Las nuevas unidades van a este punto automáticamente	translated
+Tech data	READY_ROOM_PLAYER	Ready room player	Jugador en ready room	translated
+Tech data	RECYCLE	Recycle	Reciclar	translated
+Tech data	RECYCLE_TOOLTIP	Destroy structure to recover 75% of cost	Destruye la estructura para recuperar el 75% del coste	translated
+Tech data	REGENERATION	Regeneration	Regeneration	english
+Tech data	REGENERATION_TOOLTIP	Slowly heals you while not being under attack.	Slowly heals you while not being under attack.	english
+Tech data	RESEARCH_GRENADES_TITLE	Grenades	Grenades	english
+Tech data	RESEARCH_SHOTGUNS_TITLE	Shotguns	Shotguns	english
+Tech data	RESEARCH_MINES_TITLE	Mines	Mines	english
+Tech data	RESEARCH_JETPACKS_TITLE	Jetpacks	Jetpacks	english
+Tech data	RESEARCH_EXOSUITS_TITLE	Exosuits	Exosuits	english
+Tech data	RESEARCH_CLAW_RAILGUN	Research claw/railgun	Desarrollar puño/railgun	translated
+Tech data	RESEARCH_DUAL_RAILGUNS	Research dual railguns	Desarrollar railguns duales	translated
+Tech data	RESEARCH_EXOSUITS	Research Exosuits	Investigar Exosuits	translated
+Tech data	RESEARCH_FLAMETHROWERS	Research flamethrowers	Desarrollar lanzallamas	translated
+Tech data	RESEARCH_HEAVY_MACHINE_GUN	Research MG	Investigar Ametralladoras Pesadas	translated
+Tech data	RESEARCH_GRENADES	Research hand grenades	Desarrollar granadas de mano	translated
+Tech data	RESEARCH_GRENADE_LAUNCHERS	Research grenade launchers	Desarrollar lanzagranadas	translated
+Tech data	RESEARCH_SHOTGUNS	Research shotguns	Desarrollar escopetas	translated
+Tech data	RESEARCH_WELDER	Research welders	Desarrollar welders	translated
+Tech data	RESOURCE_NOZZLE	Resource nozzle	Boca de recursos	translated
+Tech data	RESOURCE_NOZZLE_TOOLTIP	Teams build structures here to gather resources.	Los equipos construyen estructuras aquí para recolectar recursos	translated
+Tech data	RETURN	Return	Volver	translated
+Tech data	RETURN_DESCRIPTION	Returns to the previous menu.	Vuelve al menú anterior.	translated
+Tech data	REVERSE_PHASE_GATE	Reverse Phase gate	Reverse Phase gate	english
+Tech data	REVERSE_PG_TOOLTIP	Toggles Phase gate teleport direction	Toggles Phase gate teleport direction	english
+Tech data	RIFLE	Rifle	Rifle	english
+Tech data	RIFLE_TOOLTIP	BIND_PrimaryAttack to attack with standard-issue rifle. BIND_SecondaryAttack will perform a rifle butt.	BIND_Primary attack para disparar con el rifle. BIND_SecondaryAttack dará un culatazo.	translated
+Tech data	ROBOTICS_FACTORY	Robotics Factory	Robotics Factory	english
+Tech data	ROBOTICS_FACTORY_HINT	Builds MACs	Construye MAC	translated
+Tech data	ROBOTICS_FACTORY_TOOLTIP	Creates Sentries, MACs and ARCs	Crea Sentries, MAC y ARC	translated
+Tech data	ROOT_WHIP	Root Whip	Arraigar Whip	translated
+Tech data	ROOT_WHIP_TOOLTIP	Root whip into ground (on Infestation)	Arraiga la estructura al suelo (solo sobre infestación)	translated
+Tech data	RUPTURE	Rupture	Ruptura	translated
+Tech data	RUPTURE_TOOLTIP	Splash infestation onto nearby enemy units temporarily clouding their vision and parasiting them.	Splash infestation onto nearby enemy units temporarily clouding their vision and parasiting them.	english
+Tech data	SCAN	Scan	Escanear	translated
+Tech data	SCAN_TOOLTIP	Reveals cloaked units and gives line of sight to any area	Muestra unidades invisibles y proporciona visión a cualquier area	translated
+Tech data	SELECT	Select	Selección	translated
+Tech data	SELECT_DRIFTER	Select Drifter	Seleccionar Drifter	translated
+Tech data	SELECT_HALLUCINATIONS	Select Hallucinations	Seleccionar alucinaciones	translated
+Tech data	SELECT_HALLUCINATIONS_TOOLTIP	Select Hallucinations	Seleccionar alucinaciones	translated
+Tech data	SELECT_NEAREST_DRIFTER	Selects the nearest Drifter on screen.	Selecciona el Drifter más cercano a la pantalla.	translated
+Tech data	SELECT_NEAREST_OBSERVATORY	Selects the nearest Observatory on screen.	Selecciona el Observatorio más cercano a la pantalla.	translated
+Tech data	SELECT_NEAREST_SHIFT	Selects the nearest Shift on screen.	Selecciona la Shift más cercana a la pantalla.	translated
+Tech data	SELECT_OBSERVATORY	Select Observatory	Seleccionar Observatorio	translated
+Tech data	SELECT_SHIFT	Select Shift	Seleccionar Shift	translated
+Tech data	SELECT_TUNNEL_ENTRY	Select Tunnel Entry	Select Tunnel Entry	english
+Tech data	SELECT_TUNNEL_ENTRY_TOOLTIP	 	 	translated
+Tech data	SELECT_TUNNEL_EXIT	Select Tunnel Exit	Select Tunnel Exit	english
+Tech data	SELECT_TUNNEL_EXIT_TOOLTIP	 	 	translated
+Tech data	SELECT_TOOLTIP	Selection menu	Menú de selección	translated
+Tech data	SENTRY_BATTERY	Power Battery		missing
+Tech data	SENTRY_BATTERY_HINT	Powers Marine Structures		missing
+Tech data	SENTRY_BATTERY_TOOLTIP	Powers nearby marine structures (max 1 per room). Limited to 2!		missing
+Tech data	SENTRY_HINT	AI sentry gun	Torreta de IA	translated
+Tech data	SENTRY_TOOLTIP	AI sentry gun that provides supporting fire. Limited to 1!		missing
+Tech data	SENTRY_TURRET	Sentry	Sentry	english
+Tech data	SET_RALLY_POINT	Set rally point	Punto inicial establecido	translated
+Tech data	SET_TARGET	Set target	Establecer objetivo	translated
+Tech data	SET_TARGET_TOOLTIP	Set target direction	Establece la dirección a la que se apunta	translated
+Tech data	SHADE	Shade	Shade	english
+Tech data	SHADE_CLOAK_TOOLTIP	Cloaks nearby Alien structures and players	Hace invisibles estructuras y jugadores alien	translated
+Tech data	SHADE_DISORIENT_TOOLTIP	Enemy players and Commander can't see or hear well in range (Passive)	Los jugadores enemigos no pueden ver u oír bien en su rango (Pasivo)	translated
+Tech data	SHADE_HINT	Cloaks Aliens	Hace invisibles a los aliens	translated
+Tech data	SHADE_HIVE	Shade Hive	Hive Shade	translated
+Tech data	SHADE_HIVE_HINT	Deception base	Base de engaño	translated
+Tech data	SHADE_HIVE_TOOLTIP	Shade hives allow the team to build Shades and evolve deception-based traits	Las Hives Shade permiten al equipo construir Shades y obtener evoluciones desorientadoras	translated
+Tech data	SHADE_INK_TOOLTIP	Creates a cloud of Ink around the Shade for Alien units to hide in	Crea una nube de tinta al rededor de la Shade para que los Aliens se escondan	translated
+Tech data	SHADE_TOOLTIP	Cloaks nearby structures.	Hace invisibles las estructuras cercanas	translated
+Tech data	SHADOWSTEP	Shadowstep	Shadowstep	english
+Tech data	SHADOWSTEP_TOOLTIP	Lets the Fade perform a quick step over a short distance.	Permite al Fade propulsarse en la dirección en la que mira una corta distancia.	translated
+Tech data	SHELL	Shell	Shell	english
+Tech data	SHELL_HINT	Defensive upgrade	Mejora defensiva	translated
+Tech data	SHELL_TOOLTIP	Grants new defensive Alien trait	Da a los aliens evoluciones defensivas	translated
+Tech data	SHIFT	Shift	Shift	english
+Tech data	SHIFT_ECHO_TOOLTIP	Move structure elsewhere	Recoloca una estructura en otra parte	translated
+Tech data	SHIFT_ENERGIZE_TOOLTIP	Increases energy regeneration rate for nearby units	Aumenta la velocidad de regeneración de energía de las unidades cercanas	translated
+Tech data	SHIFT_HATCH_TOOLTIP	Create eggs nearby	Crea huevos cerca	translated
+Tech data	SHIFT_HINT	Energizes Aliens	Da energía a los aliens	translated
+Tech data	SHIFT_HIVE	Shift Hive	Hive Shift	translated
+Tech data	SHIFT_HIVE_HINT	Movement base	Base de movimiento	translated
+Tech data	SHIFT_HIVE_TOOLTIP	Chooses a path of outmaneuvering and speed	Elige un camino de movilidad y capacidad de maniobra	translated
+Tech data	SHIFT_TOOLTIP	Speeds energy recovery for Aliens and can Echo structures around the map.	Acelera la recuperación de energía para las unidades y teletransporta unidades.	translated
+Tech data	SHOTGUN	Shotgun	Escopeta	translated
+Tech data	SHOTGUN_DROP	Drop Shotgun	Drop Shotgun	english
+Tech data	SHOTGUN_TECH_TOOLTIP	Allows shotguns to be purchased at Armories	Permite comprar escopetas en la Armory	translated
+Tech data	SHOTGUN_TOOLTIP	High damage and pellet spread makes the shotgun most effective against nearby targets.	Daño alto y su dispersión hacen de la escopeta la mejor arma contra enemigos cercanos.	translated
+Tech data	SKULK	Skulk	Skulk	english
+Tech data	SKULK_TOOLTIP	Can attack with bite and track enemies with parasite. Can ambush enemies by climbing on walls and ceilings. Can evolve leap and xenocide.	Puede morder y marcar enemigos con un parásito. Pueden hacer emboscadas a los enemigos subiendo a las paredes y techos. Puede evolucionar Leap y Xenocide.	translated
+Tech data	SOCKET_POWER_NODE	Socket Power Node	Colocar Power Node	translated
+Tech data	SPAWN_ALIEN	Alien spawn	Spawn Alien	translated
+Tech data	SPAWN_ALIEN_TOOLTIP	Aliens spawn in eggs when available	Los aliens nacen en los huevos cuando están disponibles	translated
+Tech data	SPAWN_MARINE	Marine spawn	Spawn Marine	translated
+Tech data	SPAWN_MARINE_TOOLTIP	Dead Marines respawn here every 9 seconds	Los marines muertos renacen aquí cada 9 segundos	translated
+Tech data	SPIKES	Spikes	Spikes	english
+Tech data	SPIKES_TOOLTIP	Long-range spike attack	Ataque con púas de largo alcance	translated
+Tech data	SPIT	Spit	Spit	english
+Tech data	SPIT_TOOLTIP	Weak ranged attack. BIND_SecondaryAttack is heal spray, heals players and structures. It also speeds growth of structures.	Weak ranged attack. BIND_SecondaryAttack is heal spray, heals players and structures. It also speeds growth of structures.	english
+Tech data	SPORES	Spores	Spores	english
+Tech data	SPORES_TOOLTIP	Gives Lerks the ability to project a cloud of poisonous spores.	Gives Lerks the ability to project a cloud of poisonous spores.	english
+Tech data	SPRAY	Spray	Spray	english
+Tech data	SPRAY_TOOLTIP	Heals players and structures. It also speeds growth of structures.	Cura jugadores y estructuras. También acelera el crecimiento de estructuras.	translated
+Tech data	SPUR	Spur	Spur	english
+Tech data	SPUR_HINT	Movement upgrade	Mejora de movimiento	translated
+Tech data	SPUR_TOOLTIP	Grants a new speed Alien trait	Da a los aliens evoluciones de velocidad	translated
+Tech data	STAB_BLINK	Stab	Stab	english
+Tech data	STOMP	Stomp	Stomp	english
+Tech data	STOMP_TOOLTIP	Allows an Onos to smash the ground, disrupting enemy units	Permite al Onos golpear el suelo, desorientando a unidades cercanas	translated
+Tech data	STOP	Stop	Detener	translated
+Tech data	STOP_TOOLTIP	Stop moving and cancel all orders	Detenerse y cancelar todas las órdenes	translated
+Tech data	STORM	Storm	Storm	english
+Tech data	STORM_TOOLTIP	Friendly units move faster.	Las unidades de tu equipo se mueven más deprisa.	translated
+Tech data	SWIPE_BLINK	Swipe Blink	Swipe Blink	english
+Tech data	SWIPE_TOOLTIP	Powerful melee attack that does extra damage to players. Press BIND_SecondaryAttack for Blink, which allows you to teleport (when evolved by Commander).	Ataque cuerpo a cuerpo que hace daño extra a jugadores. Pulsa BIND_SecondaryAttack para usar Blink, que permite teletransportarte (cuando lo evoluciona el Commander).	translated
+Tech data	SWITCH_AXE	Switch Axe		missing
+Tech data	TEAM_UPGRADES_TOOLTIP	Evolve new traits for all lifeforms and infestation	Evoluciones para todas las clases y la infestación	translated
+Tech data	TECH_POINT	Tech point	Tech point	english
+Tech data	TECH_POINT_HINT	Base location	Lugar para bases	translated
+Tech data	TECH_POINT_TOOLTIP	Some abilities and technology require multiple Hives or Command Stations. These tech points are special locations where these be built. 	Algunas habilidades y tecnología requiere múltiples Hives o Command Stations. Estos Tech Point son lugares especiales donde se construyen.	translated
+Tech data	THREE_COMMAND_STATIONS	Three Command Stations	Tres Command Station	translated
+Tech data	THREE_HIVES	Three Hives	Tres Hives	translated
+Tech data	THREE_SHELLS	Three Shells	Tres Shells	translated
+Tech data	THREE_SPURS	Three Spurs	Tres Spurs	translated
+Tech data	THREE_VEILS	Three Veils	Tres Veils	translated
+Tech data	TUNNEL_COLLAPSE	Collapse	Collapse	english
+Tech data	TUNNEL_COLLAPSE_TOOLTIP	Collapse the tunnel. This will also destroy this entrance.	Collapse the tunnel. This will also destroy this entrance.	english
+Tech data	TUNNEL_ENTRANCE	Tunnel Entrance	Tunnel Entrance	english
+Tech data	TUNNEL_ENTRANCE_HINT	Allows players to travel quickly to another location	Allows players to travel quickly to another location	english
+Tech data	TUNNEL_ENTRY	Tunnel Entry	Tunnel Entry	english
+Tech data	TUNNEL_EXIT	Tunnel Exit	Tunnel Exit	english
+Tech data	TUNNEL_EXIT_TOOLTIP	Place the exit to this entrance to open a tunnel that allows players to quickly travel between two locations. Be aware that marines can also use the tunnel!	Place the exit to this entrance to open a tunnel that allows players to quickly travel between two locations. Be aware that marines can also use the tunnel!	english
+Tech data	TUNNEL_RELOCATE_TOOLTIP	Relocate the this entrance of the tunnel to another location.	Relocate the this entrance of the tunnel to another location.	english
+Tech data	TUNNEL_TOOLTIP	Grow a tunnel by placing a tunnel entry and exit to allow players to travel quickly between two locations. Select the tunnel entry to place the exit!	Grow a tunnel by placing a tunnel entry and exit to allow players to travel quickly between two locations. Select the tunnel entry to place the exit!	english
+Tech data	TWO_COMMAND_STATIONS	Two Command Stations	Dos Command Station	translated
+Tech data	TWO_HIVES	Two Hives	Dos Hives	translated
+Tech data	TWO_SHELLS	Two Shells	Dos Shells	translated
+Tech data	TWO_SPURS	Two Spurs	Dos Spurs	translated
+Tech data	TWO_VEILS	Two Veils	Dos Veils	translated
+Tech data	UMBRA	Umbra	Umbra	english
+Tech data	UMBRA_TOOLTIP	Creates protective cloud which reduces damage from bullets	Crea una nube protectora que reduce el daño de las balas	translated
+Tech data	UNLOCK_DOOR	Unlock door	Desbloquear puerta	translated
+Tech data	UNLOCK_DOOR_TOOLTIP	Unlock door	Desbloquea la puerta	translated
+Tech data	UNROOT_WHIP	Unroot Whip	Desarraigar Whip	translated
+Tech data	UNROOT_WHIP_TOOLTIP	Allows whip to move	Permite a las Whip moverse	translated
+Tech data	UPGRADES	Team evolutions	Evoluciones del equipo	translated
+Tech data	UPGRADE_CRAG_HIVE	Evolve Crag Hive	Evolucionar a Hive Crag	translated
+Tech data	UPGRADE_CRAG_HIVE_TOOLTIP	Chooses a path of healing and defense	Elige un camino de curación y defensa	translated
+Tech data	UPGRADE_FADE	Upgrade Fade	Mejorar Fade	translated
+Tech data	UPGRADE_FADE_TOOLTIP	Unlocks Fade abilities	Desbloquea habilidades del Fade	translated
+Tech data	UPGRADE_GORGE	Upgrade Gorge	Mejorar Gorge	translated
+Tech data	UPGRADE_GORGE_TOOLTIP	Unlocks Gorge abilities	Desbloquea habilidades del Gorge	translated
+Tech data	UPGRADE_INFESTED_TUNNEL_ENTRANCE	Upgrade to Infested Tunnel	Upgrade to Infested Tunnel	english
+Tech data	UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Infested Tunnel's entrances have more hitpoints and spread Infestation	Infested Tunnel's entrances have more hitpoints and spread Infestation	english
+Tech data	UPGRADE_LERK	Upgrade Lerk	Mejorar Lerk	translated
+Tech data	UPGRADE_LERK_TOOLTIP	Unlocks Lerk abilities	Desbloquea habilidades del Lerk	translated
+Tech data	UPGRADE_ONOS	Upgrade Onos	Mejorar Onos	translated
+Tech data	UPGRADE_ONOS_TOOLTIP	Unlocks Onos abilities	Desbloquea habilidades del Onos	translated
+Tech data	UPGRADE_ROBOTICS_FACTORY	Upgrade to ARC Factory	Mejorar a ARC Factory	translated
+Tech data	UPGRADE_ROBOTICS_FACTORY_TOOLTIP	Upgraded Robotics Factories can build ARCs	Las Robotics Factory mejoradas pueden construir ARC	translated
+Tech data	UPGRADE_SHADE_HIVE	Evolve Shade Hive	Evolucionar a Hive Shade	translated
+Tech data	UPGRADE_SHADE_HIVE_TOOLTIP	Chooses a path of confusion and deception	Elige un camino de confusión y engaño	translated
+Tech data	UPGRADE_SHIFT_HIVE	Evolve Shift Hive	Evolucionar a Hive Shift	translated
+Tech data	UPGRADE_SHIFT_HIVE_TOOLTIP	Chooses a path of out-maneuvering and speed	Elige un camino de movilidad y capacidad de maniobra	translated
+Tech data	UPGRADE_SKULK	Upgrade Skulk	Mejorar Skulk	translated
+Tech data	UPGRADE_SKULK_TOOLTIP	Unlocks Skulk abilities	Desbloquea habilidades de Skulk	translated
+Tech data	ARC_FACTORY	ARC Factory	ARC Factory	english
+Tech data	VAMPIRISM	Vampirism	Vampirismo	translated
+Tech data	VAMPIRISM_TOOLTIP	Creates a temporary shield for yourself by leeching health from enemies when you hit them with your primary attack	Leeches health from enemies when you hit them with your primary attack.	translated
+Tech data	VEIL	Veil	Veil	english
+Tech data	VEIL_HINT	Confusion upgrade	Mejora de confusión	translated
+Tech data	VEIL_TOOLTIP	Grants new deception Alien trait	Da a los aliens nuevas evoluciones desorientadoras	translated
+Tech data	WEAK_HERE	Weak here	Débil aquí	translated
+Tech data	WEAPONS_MENU	Weapons	Armas	translated
+Tech data	WEAPONS_MENU_TOOLTIP	Drop weapons for Marines	Dar armas a los marines	translated
+Tech data	WEB	Web	Web	english
+Tech data	WEB_TOOLTIP	Slows Marines moving through them for a limited time.	Atrapa a los marines y no les permite moverse durante un tiempo limitado.	translated
+Tech data	WELD	Weld	Soldar	translated
+Tech data	WELDER	Welder	Welder	english
+Tech data	WELDER_DROP	Drop Welder	Drop Welder	english
+Tech data	WELDER_TECH_TOOLTIP	Allows welders to be purchased at the Armory	Permite comprar welders en la Armory	translated
+Tech data	WELDER_TOOLTIP	Repairs Marine and Exo armor and repairs structures. The fastest way to repair power nodes and good against flammable targets.	Repara armadura de marines y Exos y también estructuras. Es la forma más rápida de reparar Power Nodes y bueno ante objetivos inflamables.	translated
+Tech data	WELDING	Welding	Reparador	translated
+Tech data	WELDING_TOOLTIP	Repairing armor or structure	Repara estructuras o armaduras	translated
+Tech data	WELD_TOOLTIP	Weld door shut or repair target	Suelda puertas para cerrarlas o repara objetivos	translated
+Tech data	WHIP	Whip	Whip	english
+Tech data	WHIPBOMB	Whip Bomb	Whip Bomb	english
+Tech data	WHIP_BOMBARD_CANCEL	Stop bombard	Detener bombardeo	translated
+Tech data	WHIP_BOMBARD_TOOLTIP	Bombard targets with armor damage	Bombardea objetivos con daño a armadura	translated
+Tech data	WHIP_HINT	Defensive striker	Látigo defensor	translated
+Tech data	WHIP_SLAP	Slap	Latigazo	translated
+Tech data	WHIP_SLAP_TOOLTIP	Strikes nearby enemies.	Golpea a los enemigos cercanos.	translated
+Tech data	WHIP_TOOLTIP	Attacks nearby enemies and can bombard enemy structures once matured.	Ataca enemigos cercanos y puede bombardear estructuras enemigas cuando madura.	translated
+Tech data	XENOCIDE	Xenocide	Xenocide	english
+Tech data	XENOCIDE_TOOLTIP	Allows Skulks to self-destruct, damaging nearby units.	Permite a los Skulks autodestruirse, dañando a unidades cercanas.	translated
+Tech data	CONSUME	Consume	Consume	english
+Tech data	CONSUME_TOOLTIP	Destroy structure to recover supply.	Destroy structure to recover supply.	english
+Tech data	HALLUCINATE_CLONING	Hallucination Cloning		missing
+Tech data	HALLUCINATE_CLONING_TOOLTIP	Change Hallucination into a copy of a valid target.		missing
+Tech data	HALLUCINATE_RANDOM	Random Hallucination		missing
+Tech data	HALLUCINATE_RANDOM_TOOLTIP	Change Hallucination into a random one.		missing
+Tech data	SHELL_PASSIVE	Regeneration		missing
+Tech data	SHELL_PASSIVE_TOOLTIP	Shells heal over time.		missing
+Tech data	SPUR_PASSIVE	Move		missing
+Tech data	SPUR_PASSIVE_TOOLTIP	Spurs can move.		missing
+Tech data	VEIL_PASSIVE	Camoflague		missing
+Tech data	VEIL_PASSIVE_TOOLTIP	Veils are cloaked.		missing
+Tech data	ADVANCED_SUPPORT	Advanced Support		missing
+Tech data	JETPACK_TECH_TOOLTIP	Allows Jetpacks to be purchased.		missing
+Tech data	RESEARCH_CORES_EXOSUIT_TITLE	Exosuit Cores		missing
+Tech data	CORES_EXOSUIT_TECH_TOOLTIP	Unlocks the exosuit core modules: Thrusters, Ejection Seat and Armor Plating.		missing
+Tech data	ADVANCED_EXO_ARMS_TECH	Advanced Exosuit Arms		missing
+Tech data	ADVANCED_EXO_ARMS_TECH_TOOLTIP	Unlocks the flame and plasma arms.		missing
+Tech data	STAB_EXO_TOOLTIP	A slow, heavy strike. Deals more than double damage when it hits an Exosuit from behind, unless the Exosuit is nano shielded.		missing
+Tech data	SYNC_ONE	Research sync level 1		missing
+Tech data	SYNC_TWO	Research sync level 2		missing
+Tech data	SYNC_THREE	Research sync level 3		missing
+Tech data	SYNC_FOUR	Research sync level 4		missing
+Tech data	SYNC_FIVE	Research sync level 5		missing
+Tech data	SYNC_SIX	Research sync level 6		missing
+Tech data	SYNC_SEVEN	Research sync level 7		missing
+Tech data	SYNC_EIGHT	Research sync level 8		missing
+Tech data	SYNC_NINE	Research sync level 9		missing
+Tech data	SYNC_TEN	Research sync level 10		missing
+Tech data	SYNC_ELEVEN	Research sync level 11		missing
+Tech data	SYNC_TWELVE	Research sync level 12		missing
+Tech data	SYNC_THIRTEEN	Research sync level 13		missing
+Tech data	SYNC_FOURTEEN	Research sync level 14		missing
+Tech data	SYNC_FIFTEEN	Research sync level 15		missing
+Tech data	SYNC_SIXTEEN	Research sync level 16		missing
+Tech data	SYNC_SEVENTEEN	Research sync level 17		missing
+Tech data	SYNC_EIGHTEEN	Research sync level 18		missing
+Tech data	SYNC_NINETEEN	Research sync level 19		missing
+Tech data	SYNC_TWENTY	Research sync level 20		missing
+Tech data	SYNC_TWENTYONE	Research sync level 21		missing
+Tech data	DUAL_ARMS_TECH	Dual Exosuit Arms		missing
+Tech data	DUAL_ARMS_TECH_TOOLTIP	Lets an exosuit mount a weapon on both arms instead of a claw on one of them.		missing
