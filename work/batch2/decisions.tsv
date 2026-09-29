@@ -1,0 +1,257 @@
+ALERT	ATENCIÓN	OK		
+CONNECTING	CONECTANDO	OK		
+CONNECTING_TO	Conectando a	OK		
+CONNECTION_DISALLOWED	El servidor rechazó tu conexión. Puede ser porque está lleno o porque estás baneado.	OK		
+FAVORITES	Favoritos	OK		
+FILTER_UNLIMTED	Ilimitado	OK		
+HISTORY	Historial	OK		
+JOIN	CONECTAR	OK		
+NEVER_SHOW_AGAIN	No volver a mostrar	OK		
+PASSWORD	CONTRASEÑA	OK		
+QUICK_PLAY_STATUS_REFRESHING	Actualizando la lista de servidores	OK		
+QUICK_PLAY_STATUS_CHECKING	Se encontraron %{count}d servidores disponibles	OK		
+QUICK_PLAY_STATUS_FAILED_RETRYING	Falló. Reintentando... (intento %{attempts}s)	OK		
+QUICK_PLAY_STATUS_JOINING	Conectando al servidor %{serverName}s	OK		
+ROOKIEONLYNAG_MSG	¡Este es un servidor de entrenamiento básico (solo para novatos)!\nPuedes ser espectador, pero no podrás unirte a un equipo.	OK		
+SB_ASSISTS	A	OK		
+SB_CLICK_FOR_MOUSE	Haz click para usar el mouse	OK		
+SB_CONNECTING	Conectando	OK		
+SB_DEATHS	D	OK		
+SB_KILLS	K	OK		
+SB_MENU_HIVE_PROFILE	Perfil de Hive	OK		
+SB_MENU_MUTE_TEXT	Silenciar texto	OK		
+SB_MENU_MUTE_VOICE	Silenciar voz	OK		
+SB_MENU_STEAM_PROFILE	Perfil de Steam	OK		
+SB_MENU_UNMUTE_TEXT	Reactivar texto	OK		
+SB_MENU_UNMUTE_VOICE	Reactivar voz	OK		
+SB_PING	Ping	OK		
+SB_PLAYER	Jugador	OK		
+SB_PLAYERS	Jugadores	OK		
+SB_SCORE	Puntos	OK		
+SB_SERVERCOUNT	Servidores seleccionados / Servidores disponibles	OK		
+SB_TEAM_RES	%d recursos de equipo	OK		
+SERVERBROWSER_BLOCKED_SERVERS	SERVIDORES BLOQUEADOS	OK		
+SERVERBROWSER_BLOCKED_SERVERS_HIDE	OCULTAR	OK		
+SERVERBROWSER_BLOCKED_SERVERS_SHOW	MOSTRAR	OK		
+SERVERBROWSER_BLOCKED_SERVERS_LIST_ALL	SOLO BLOQUEADOS	OK		
+SERVERBROWSER_BLOCKED_SERVERS_TOOLTIP	Los servidores bloqueados no se tienen en cuenta en Partida rápida. Elige aquí si quieres mostrar, ocultar o mostrar solo los servidores que bloqueaste.	OK		
+SERVERBROWSER_BLOCKED_SERVERS_SORT_TOOLTIP	Ordena los servidores según estén bloqueados o no. Los servidores bloqueados no se tienen en cuenta en Partida rápida.	OK		
+SERVERBROWSER_BLOCKED_TOOLTIP_1	Desbloquear este servidor	OK		
+SERVERBROWSER_BLOCKED_TOOLTIP_2	Bloquear este servidor. Los servidores bloqueados no se tienen en cuenta en Partida rápida y se pueden ocultar del buscador de servidores.	OK		
+SERVERBROWSER_CREATE_GAME_MODE	MODO DE JUEGO	OK		
+SERVERBROWSER_DETAILS_TOOLTIP	Mostrar u ocultar los detalles de este servidor.	OK		
+SERVERBROWSER_FAVORITE	FAVORITO	OK		
+SERVERBROWSER_FAVORITES	FAVORITOS	OK		
+SERVERBROWSER_FAVORITES_SORT_TOOLTIP	Ordena los servidores según los hayas marcado como favoritos o no.	OK		
+SERVERBROWSER_FAVORITE_TOOLTIP_1	Quitar este servidor de tus favoritos.	OK		
+SERVERBROWSER_FAVORITE_TOOLTIP_2	Agregar este servidor a tus favoritos.	OK		
+SERVERBROWSER_FILTER_BOOTCAMP_TOOLTIP	Muestra servidores en los que solo pueden jugar novatos (los demás pueden ser espectadores si hay lugar).	OK		
+SERVERBROWSER_FILTER_EMPTY	OCULTAR VACÍOS	OK		
+SERVERBROWSER_FILTER_FULL	OCULTAR LLENOS	OK		
+SERVERBROWSER_FILTER_GAMEMODE_ALL	TODOS	OK		
+SERVERBROWSER_FILTER_FRIENDS_ON_SERVER	JUGAR CON AMIGOS	OK		
+SERVERBROWSER_FILTER_FRIENDS_ON_SERVER_TOOLTIP	Muestra solo servidores en los que están jugando tus amigos.	OK		
+SERVERBROWSER_FILTER_UNRANKED_TOOLTIP	Muestra los servidores no clasificatorios	Use my Spanish	Muestra los servidores no rankeados. El nivel de habilidad y experiencia (XP) no son impactados al jugar en servidores no rankeados.	
+SERVERBROWSER_FILTERS	FILTROS	OK		
+SERVERBROWSER_FRIEND_TOOLTIP	Uno o más de tus amigos de Steam están jugando en este servidor.	OK		
+SERVERBROWSER_GAME	JUEGO	OK		
+SERVERBROWSER_GAME_MODE_SORT_TOOLTIP	Ordena los servidores por el nombre del modo de juego.	OK		
+SERVERBROWSER_GAMEMODE_ALL_HIDDEN_TT	¡No hay ningún modo de juego seleccionado!	OK		
+SERVERBROWSER_GAMEMODE_TOOLTIP	Elige un modo de juego	OK		
+SERVERBROWSER_HISTORY	HISTORIAL	OK		
+SERVERBROWSER_MAPNAME	NOMBRE DEL MAPA	OK		
+SERVERBROWSER_MAXPING	PING MÁXIMO	OK		
+SERVERBROWSER_NAME	NOMBRE	OK		
+SERVERBROWSER_PASSWORD	CONTRASEÑA	OK		
+SERVERBROWSER_PASSWORDED	CON CONTRASEÑA	OK		
+SERVERBROWSER_PASSWORDED_FILTER_TOOLTIP	Muestra los servidores que piden contraseña para unirse.	OK		
+SERVERBROWSER_PASSWORD_INCORRECT_TOOLTIP	La contraseña es incorrecta.	OK		
+SERVERBROWSER_PASSWORD_MISSING_TOOLTIP	Este servidor requiere contraseña.	OK		
+SERVERBROWSER_PASSWORD_TOOLTIP	Este servidor requiere contraseña para unirse.	OK		
+SERVERBROWSER_PASSWORD_SORT_TOOLTIP	Ordena los servidores según requieran contraseña o no.	OK		
+SERVERBROWSER_PERF	REND.	OK		
+SERVERBROWSER_PERF_MIN	REND. MÍNIMO	OK		
+SERVERBROWSER_PERF_MIN_TOOLTIP	Muestra solo servidores con una calificación de rendimiento igual o mejor que esta.	OK		
+SERVERBROWSER_PING	PING	OK		
+SERVERBROWSER_PING_TOOLTIP	Muestra solo servidores con un ping menor o igual a este valor. El ping (latencia, lag) es el tiempo que tarda la información en llegar al servidor y volver a ti. Cuanto menor, mejor.	OK		
+SERVERBROWSER_PLAYERCOUNT	¡Personas jugando NS2 en este momento!	OK		
+SERVERBROWSER_PLAYER_SLOTS_TOOLTIP	Lugares de jugador ocupados del total disponible.	OK		
+SERVERBROWSER_PLAYERS	JUGADORES	OK		
+SERVERBROWSER_PLAYERS_SEARCHING	Personas viendo el buscador de servidores en este momento.	OK		
+SERVERBROWSER_PRIVATE	PRIVADO	OK		
+SERVERBROWSER_QUICK_PLAY_RANK_SORT_TOOLTIP	Ordena los servidores según la puntuación calculada por Partida rápida.	OK		
+SERVERBROWSER_RANKEDONLY	OCULTAR NO CLASIFICATORIOS	Use my Spanish	OCULTAR NO RANKEADOS	
+SERVERBROWSER_RANK	PUNTUACIÓN	OK		
+SERVERBROWSER_RANKED	CLASIFICATORIO	Use my Spanish	RANKEADO	
+SERVERBROWSER_RANKED_TOOLTIP	¡Este servidor es clasificatorio! Juega aquí para desbloquear recompensas.	Use my Spanish	¡Este servidor es rankeado! Juega aquí para desbloquear recompensas.	
+SERVERBROWSER_RANKED_SORT_TOOLTIP	Ordena los servidores según sean clasificatorios o no.	Use my Spanish	Ordena los servidores según sean rankeados o no.	
+SERVERBROWSER_REFRESH	ACTUALIZAR	OK		
+SERVERBROWSER_ROOKIEONLY	ENTRENAMIENTO BÁSICO	OK		
+SERVERBROWSER_ROOKIEONLY_TOOLTIP	En este servidor solo pueden jugar novatos.	OK		
+SERVERBROWSER_SCORE	PUNTOS	OK		
+SERVERBROWSER_SEARCH	BUSCAR...	OK		
+SERVERBROWSER_SEARCHING	BUSCANDO...	OK		
+SERVERBROWSER_SERVER_DETAILS	DETALLES DEL SERVIDOR	OK		
+SERVERBROWSER_SERVER_DETAILS_ADDRESS	Dirección del servidor	OK		
+SERVERBROWSER_SERVER_DETAILS_GAME	Modo de juego:	OK		
+SERVERBROWSER_SERVER_DETAILS_MAP	Mapa:	OK		
+SERVERBROWSER_SERVER_DETAILS_MODS	Mods instalados:	OK		
+SERVERBROWSER_SERVER_DETAILS_PERF	Calificación de rendimiento	OK		
+SERVERBROWSER_SERVER_DETAILS_PING	Ping:	OK		
+SERVERBROWSER_SERVER_DETAILS_PLAYERS	Jugadores:	OK		
+SERVERBROWSER_SERVER_DETAILS_SPECTATORS	Espectadores:	OK		
+SERVERBROWSER_SKILL_SORT_TOOLTIP	Ordena los servidores por el nivel de habilidad promedio de sus jugadores.	OK		
+SERVERBROWSER_SPECTATORS	ESPECTADORES	OK		
+SERVERBROWSER_SPECTATOR_SLOTS_TOOLTIP	Lugares de espectador ocupados del total disponible.	OK		
+SERVERBROWSER_SHOW_EMPTY	VACÍOS	OK		
+SERVERBROWSER_SHOW_EMPTY_TOOLTIP	Muestra servidores sin jugadores.	OK		
+SERVERBROWSER_SHOW_FULL	LLENOS	OK		
+SERVERBROWSER_SHOW_FULL_TOOLTIP	Muestra servidores llenos (no cuenta los lugares reservados).	OK		
+SERVERBROWSER_SHOW_UNRANKED	NO CLASIFICATORIOS	Use my Spanish	NO RANKEADOS	
+SERVERBROWSER_SKILL	HABILIDAD	OK		
+SERVERBROWSER_TIME_PLAYED	TIEMPO JUGADO	OK		
+SERVERBROWSER_UPDATE	ACTUALIZANDO...	OK		
+SERVERBROWSER_UNRANKED_TOOLTIP	¡Este servidor no es clasificatorio! Aquí no ganarás recompensas.	Use my Spanish	¡Este servidor no es rankeado! Aquí no ganarás recompensas.	
+SERVER_FOUND_SKIPPED	(Se encontraron %s servidores, se omitieron %s)	OK		
+SERVER_FOUND	(Se encontró %s servidor)	OK		
+SERVER_FULL	El servidor está lleno	OK		
+SERVER_MODDED_WARNING	El servidor al que te estás uniendo funciona fuera de nuestra configuración de red o cantidad de jugadores recomendadas. Esto puede afectar tu experiencia, ya que no podemos garantizar un rendimiento aceptable ni una partida equilibrada.	OK		
+SERVER_PERF_BAD	Malo	OK		
+SERVER_PERF_GOOD	Bueno	OK		
+SERVER_PERF_LOADED	Exigido	Use my Spanish		
+SERVER_PERF_OK	Aceptable	OK		
+SERVER_PERF_UNKNOWN	Desconocido	OK		
+THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_MSG	No puedes unirte a través de Amigos de Steam mientras estás en una sala de Partida competitiva.	OK		
+THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_TITLE	No se puede unir al servidor	OK		
+AUTOJOIN_SPEC	SER ESPECTADOR	OK		
+AUTOJOIN_SPEC_AND_RS	UNIRSE	OK		
+AUTOJOIN_CANCEL	CANCELAR	OK		
+AUTOJOIN_TITLE	SERVIDOR LLENO	OK		
+AUTOJOIN_JOIN_STATUS	Esperando un lugar libre	OK		
+AUTOJOIN_JOIN_TOOLTIP	El servidor está lleno, pero puedes unirte si tienes un lugar reservado en él. Si no, puedes esperar a que se libere un lugar o probar otro servidor.	OK		
+AUTOJOIN_JOIN_TOOLTIP_FULL	El servidor está completamente lleno. Puedes esperar a que se libere un lugar o probar otro servidor.	OK		
+AUTOJOIN_JOIN_TOOLTIP_SPEC	No quedan lugares de jugador en este servidor. Puedes esperar a que se libere uno, entrar como espectador o probar otro servidor.	OK		
+AUTOJOIN_JOIN_TOOLTIP_SPEC_AND_RS	El servidor está lleno, pero puedes unirte si tienes un lugar reservado en él, o entrar como espectador.	OK		
+FRIENDS	Amigos	OK		
+FRIEND_STATE_OFFLINE	Desconectado	OK		
+FRIEND_STATE_ONLINE	Conectado	OK		
+FRIEND_STATE_BUSY	Ocupado	OK		
+FRIEND_STATE_AWAY	Ausente	OK		
+FRIEND_STATE_SNOOZE	Inactivo	OK		
+FRIEND_STATE_LOOKING_TRADE	Buscando intercambiar	OK		
+FRIEND_STATE_LOOKING_PLAY	Buscando partida	OK		
+FRIEND_STATE_IN_GAME	En partida			
+FRIEND_INVITE_TT	Invita a este amigo a unirse al servidor en el que estás.	OK		
+FRIEND_JOIN_TT	Intenta unirte al servidor en el que está jugando este amigo.	OK		
+FRIEND_JOINING_TITLE	Uniéndose a un amigo...	OK		
+FRIEND_JOINING_DESC	Cargando los detalles del servidor...	OK		
+FRIEND_LEFT_SERVER	Tu amigo ya no está en ningún servidor.	OK		
+FRIEND_PLAYING_ON	Jugando en "%s"	OK		
+STEAM_CLOUD_ACCT_DISABLED_DESC	Si quieres guardar y compartir repeticiones, tienes que activar Steam Cloud en tu cuenta desde Steam -> Parámetros -> Cloud -> 'Habilitar la sincronización de Steam Cloud para las aplicaciones que la admitan'.	OK		
+STEAM_CLOUD_ACCT_DISABLED_PROMPT	Cloud sigue desactivado. ¿Intentar de nuevo?	OK		
+STEAM_CLOUD_ACCT_DISABLED_TRY_NOW	Intentar ahora	OK		
+STEAM_CLOUD_ACCT_DISABLED_NO_THANKS	No, gracias	OK		
+STEAM_CLOUD_APP_DISABLED_DESC	Steam Cloud está desactivado para Natural Selection 2. Tienes que activarlo si quieres guardar tu repetición y adjuntarla a tu puntuación.	OK		
+STEAM_CLOUD_APP_DISABLED_PROMPT	¿Quieres activar Steam Cloud para Natural Selection 2 ahora?	OK		
+STEAM_CLOUD_APP_DISABLED_JUST_FOR_REPLAYS	Solo para repeticiones	OK		
+STEAM_CLOUD_GAME_DOWN_DESC	Algo salió mal al intentar conectarse a Steam. No podrás subir tus puntuaciones ni repeticiones.	OK		
+STEAM_CLOUD_GAME_DOWN_PROMPT	Reinicia Natural Selection 2 para solucionarlo.	OK		
+STEAM_CLOUD_NO	No	OK		
+STEAM_CLOUD_ODD_ERROR	Ocurrió un error al intentar subir la repetición.	OK		
+STEAM_CLOUD_STEAM_DOWN_DESC	No se puede conectar con Steam. ¡Sin conexión a Steam no podrás subir puntuaciones ni repeticiones a la tabla de clasificación!	OK		
+STEAM_CLOUD_STEAM_DOWN_PROMPT	¿Quieres reintentar?	OK		
+STEAM_CLOUD_YES	Sí	OK		
+STEAMLOBBYJOIN_SUCCESS	Te uniste a la sala	OK		
+STEAMLOBBYJOIN_DOESNOTEXIST	La sala no existe.	OK		
+STEAMLOBBYJOIN_NOTALLOWED	No tienes permiso para unirte a la sala.	OK		
+STEAMLOBBYJOIN_FULL	La sala está llena.	OK		
+STEAMLOBBYJOIN_UNEXPECTEDERROR	Error inesperado.	OK		
+STEAMLOBBYJOIN_BANNED	Estás baneado de esta sala.	OK		
+STEAMLOBBYJOIN_LIMITEDUSER	No puedes unirte a esta sala porque tu cuenta es limitada.	OK		
+STEAMLOBBYJOIN_CLANDISABLED	No puedes unirte a la sala de un clan bloqueado o desactivado.	OK		
+STEAMLOBBYJOIN_COMMUNITYBAN	No puedes unirte a salas mientras tu cuenta tenga un bloqueo de comunidad.	OK		
+STEAMLOBBYJOIN_MEMBERBLOCKED	Un usuario de la sala te bloqueó y no puedes unirte.	OK		
+STEAMLOBBYJOIN_USERBLOCKEDMEMBER	No puedes unirte a una sala con un miembro que bloqueaste.	OK		
+DISCONNECTED	DESCONECTADO	OK		
+DISCONNECT_REASON_1	Protocolo de red incorrecto	OK		
+DISCONNECT_REASON_2	Contraseña incorrecta	OK		
+DISCONNECT_REASON_3	Falló la autenticación. Si otros juegos multijugador de Steam tampoco funcionan, puede que Steam esté caído o que tu firewall lo esté bloqueando.	OK		
+DISCONNECT_REASON_4	Tiempo de espera agotado	OK		
+DISCONNECT_REASON_5	Servidor apagado	OK		
+DISCONNECT_REASON_6	Servidor lleno	OK		
+DISCONNECT_REASON_7	No se pudo establecer una conexión con el servidor	OK		
+DISCONNECT_REASON_8	Datos no válidos	OK		
+DISCONNECT_REASON_9	Los archivos de tu juego no coinciden con los del servidor. Intenta verificar la integridad de los archivos del juego en Steam.	OK		
+DISCONNECT_REASON_10	Archivo no encontrado	OK		
+DISCONNECT_REASON_11	Salió	OK		
+DISCONNECT_REASON_12	Expulsado.	OK		
+DISCONNECT_REASON_13	Juego incorrecto	OK		
+DISCONNECT_REASON_14	Se agotó el tiempo de autenticación	OK		
+DISCONNECT_REASON_15	Falta un mod requerido	OK		
+DISCONNECT_REASON_16	Un mod requerido está desactualizado	OK		
+DISCONNECT_REASON_17	El mod del servidor está desactualizado	OK		
+DISCONNECT_REASON_18	No se pudo montar el mod requerido	OK		
+DISCONNECT_REASON_19	Cancelado	OK		
+DISCONNECT_REASON_20	Error del mod	OK		
+DISCONNECT_REASON_21	Error del cliente	OK		
+DISCONNECT_REASON_22	Conexión rechazada por el servidor	OK		
+DISCONNECT_REASON_23	El servidor usa una versión del juego más nueva que la tuya. Quizás acaba de salir una actualización.	OK		
+DISCONNECT_REASON_24	El servidor usa una versión desactualizada del juego.	OK		
+DISCONNECT_REASON_MSG_12	Expulsado. Motivo indicado por el servidor:	OK		
+DISCONNECT_REASON_MSG_22	Conexión rechazada. Motivo indicado por el servidor:	OK		
+DISCONNECT_REASON_MSG_26	Expulsado por estar inactivo demasiado tiempo	OK		
+VOTE_ADD_COMMANDER_BOTS	Agregar bots de Commander	OK		
+VOTE_START_COMMANDER_BOTS_QUERY	¿Empezar la partida con bots de Commander?	OK		
+VOTE_ADD_COMMANDER_BOTS_QUERY	¿Agregar bots de Commander?	OK		
+VOTE_CALL_VOTE	INICIAR VOTACIÓN	OK		
+VOTE_CHANGE_MAP	Cambiar mapa...	OK		
+VOTE_CHANGE_MAP_QUERY	¿Cambiar el mapa a %{name}s?	OK		
+VOTE_CONCEDE	Votar rendición	Use my Spanish	Votar rendirse	
+VOTE_CONCEDE_BROADCAST	%s votó por rendirse. Faltan %d voto(s).	OK		
+VOTE_DISABLED_BY_ADMIN	No se puede iniciar la votación. El administrador desactivó este tipo de votación.	OK		
+VOTE_EJECT_BROADCAST	%s votó por echar al Commander. Faltan %d voto(s).	OK		
+VOTE_ESCAPE	Salir	OK		
+VOTE_FAILED	Votación fallida	OK		
+VOTE_FORCE_EVEN_TEAMS	Equilibrar equipos	OK		
+VOTE_FORCE_EVEN_TEAMS_QUERY	¿Equilibrar equipos? (puede cambiar de equipo a algunos jugadores)	OK		
+VOTE_GAME_IN_PROGRESS	No se puede iniciar la votación. La partida ya empezó.	OK		
+VOTE_GAMEMODE_NOT_SUPPORTED	El modo de juego actual no admite esta votación.	OK		
+VOTE_IN_PROGRESS	No se puede iniciar la votación. Ya hay una en curso.	OK		
+VOTE_KICK_PLAYER	Expulsar jugador...	OK		
+VOTE_KICK_PLAYER_QUERY	¿Expulsar a %{name}s?	OK		
+VOTE_NO	No [%{key}s]	OK		
+VOTE_PASSED	Votación aprobada	OK		
+VOTE_PLAYER_STARTED_VOTE	%{name}s inició una votación.	OK		
+VOTE_TD_REMATCH	Revancha	OK		
+VOTE_TD_REMATCH_QUERY	¿Revancha con los mismos equipos?	OK		
+VOTE_TD_SKIP_INTERMISSION_QUERY	¿Saltar el intermedio?	OK		
+VOTE_RANDOMIZE_RR	Mezclar Ready Room	OK		
+VOTE_RANDOMIZE_RR_QUERY	¿Mezclar el Ready Room?	OK		
+VOTE_RESET_GAME	Reiniciar partida	OK		
+VOTE_RESET_GAME_QUERY	¿Reiniciar la partida?	OK		
+VOTE_SPAM	No se puede iniciar la votación. Hace poco iniciaste una votación de este tipo que fracasó.	OK		
+VOTE_TOO_EARLY	No se puede iniciar la votación. La partida todavía no empezó.	OK		
+VOTE_TOO_LATE	No se puede iniciar la votación. La partida está demasiado avanzada.	OK		
+VOTE_WAITING	Todavía no se puede iniciar otra votación.	OK		
+VOTE_YES	Sí [%{key}s]	OK		
+VOTE_THUNDERDOME_DISALLOWED	No se puede iniciar esta votación en matchmaking.	OK	No se puede iniciar esta votación en una partida competitiva.	
+LEADERBOARD	Tabla de clasificación	OK		
+LEADERBOARD_PLAYER	Jugador	OK		
+LEADERBOARD_TOOLTIP_ARROW	Mostrar más puntuaciones	OK		
+LEADERBOARD_TOOLTIP_FRIENDS	Mostrar solo las puntuaciones de amigos	OK		
+LEADERBOARD_TOOLTIP_GHOST	Competir contra el fantasma de este jugador	OK		
+LEADERBOARD_TOOLTIP_GLOBAL	Mostrar todas las puntuaciones	OK		
+LEADERBOARD_TOOLTIP_PROFILE	Abrir el perfil de este jugador	OK		
+LEADERBOARD_TOOLTIP_REPLAY	Ver la repetición en primera persona de esta puntuación	OK		
+LEADERBOARD_TOOLTIP_REPLAY_MISSING	Este usuario no adjuntó una repetición.	OK		
+SKILLTIER_BOT	Bot	OK		
+SKILLTIER_COMMANDANT	Comandante	OK		
+SKILLTIER_FRONTIERSMAN	Frontiersman	OK		
+SKILLTIER_RECRUIT	Recluta	OK		
+SKILLTIER_ROOKIE	Novato	OK		
+SKILLTIER_SANJISURVIVOR	Superviviente de Sanji	OK		
+SKILLTIER_SPECIALOPS	Operaciones Especiales	OK		
+SKILLTIER_SQUADLEADER	Líder de escuadrón	OK		
+SKILLTIER_TOOLTIP	Rango de habilidad: %s (%s)	OK		
+SKILLTIER_VETERAN	Veterano	OK		
+SKILLTIER_UNKNOWN	Desconocido	OK		

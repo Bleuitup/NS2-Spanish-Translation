@@ -88,6 +88,12 @@ local additions = {
     { "General", "mouse", "keep", "mouse", "el", "Batch 1: never 'ratón' (Spain)." },
     { "General", "hit sound", "translate", "sonido de impacto", "el", "Batch 1." },
     { "General", "tooltip", "keep", "tooltip", "el", "Batch 1: in option names." },
+    { "General", "ranked", "translate", "rankeado", "", "Batch 2: servers that count for skill and rewards; unranked = no rankeado." },
+    { "General", "kick", "translate", "expulsar", "", "Batch 2: kicked = expulsado; the commander eject vote stays 'echar al Commander'." },
+    { "General", "lobby", "translate", "sala", "la", "Batch 2." },
+    { "General", "replay", "translate", "repetición", "la", "Batch 2." },
+    { "General", "leaderboard", "translate", "tabla de clasificación", "la", "Batch 2." },
+    { "General", "Skill Tier", "translate", "rango de habilidad", "el", "Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji." },
 }
 
 local handlingOf = {

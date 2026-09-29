@@ -56,6 +56,12 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | mouse | keep | mouse | el | Batch 1: never 'ratón' (Spain). |
 | hit sound | translate | sonido de impacto | el | Batch 1. |
 | tooltip | keep | tooltip | el | Batch 1: in option names. |
+| ranked | translate | rankeado |  | Batch 2: servers that count for skill and rewards; unranked = no rankeado. |
+| kick | translate | expulsar |  | Batch 2: kicked = expulsado; the commander eject vote stays 'echar al Commander'. |
+| lobby | translate | sala | la | Batch 2. |
+| replay | translate | repetición | la | Batch 2. |
+| leaderboard | translate | tabla de clasificación | la | Batch 2. |
+| Skill Tier | translate | rango de habilidad | el | Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji. |
 
 ## Marine structures
 
