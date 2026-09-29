@@ -1,0 +1,19 @@
+Variant	Which Spanish?	Neutral Latin American Spanish.	Decided: neutral Latin American, readable in Spain too. No voseo.
+Address	How do we address the player?	Tú («puedes», «pulsa»).	The current file uses tú throughout; never usted or vosotros.
+Keys	Word for pressing a key.	Presiona («Presiona BIND_Jump para saltar»).	Current file: «pulsa» 66 times, «presiona» once. «Pulsa» reads as Spain; «presiona» is the Latin American norm.
+Mouse	Word for clicking.	Haz clic («Haz clic en…»).	Current file mixes «haz click» (9) and «haz clic» (9). RAE spelling is «clic».
+Buttons	Form for buttons and menu actions.	Infinitive: «Guardar», «Aceptar», «Volver».	Instructions in sentences use the tú imperative: «Selecciona el Armory».
+Research verb	Verb for research.	Investigar («Investigar Jetpacks»).	Current file mixes «desarrollar» (51) and «investigar» (11).
+Upgrade	Upgrade as a noun / verb.	Noun: mejora. Verb: mejorar a («Mejorar a Advanced Armory»).	Current file already uses «mejora» (47).
+Round / match	Round vs match vs game.	Round = ronda. Match = partida. The game itself = juego.	Current file uses «ronda» and «partida» 17 times each, interchangeably.
+Gender	Article for English names (la Hive, el Armory…).	Use the gender of the Spanish word it stands for: la Hive (colmena), el Armory (arsenal), la Command Station (estación), el Observatory (observatorio), el Cyst (quiste), la Shade (sombra)?	Current file: «la Hive» 9, «la Command Station» 4, «el Observatory» 1. Needs a list per name; the glossary sheet has a notes column for it.
+Plurals	Plural of English names.	English plural: Skulks, Hives, Armories, ARCs, MACs.	Current file does this («Babblers», «Hydras», «Clogs»).
+Capitals	Capitalization of English names inside Spanish text.	As in English: Hive, Command Station, Bile Bomb.
+All caps	Strings that are ALL CAPS in English.	Keep them ALL CAPS in Spanish.	Menu titles and HUD alerts rely on it.
+Punctuation	Opening marks.	Always ¿ and ¡.	Current file: ¡ 25 times, ¿ 4 times; some questions lack ¿.
+Quotes	Quotation marks.	Straight quotes, escaped: \"texto\".	«» would also work; straight quotes match the English file.
+Spain-only words	Words to avoid.	chafar → aplastar; coger → tomar/agarrar; ordenador → computadora; vale → está bien; móvil → celular; guay → genial.	Current file has «chafar» 3 and «coger» 3 (e.g. «Exosuit: Chafar huevos»).
+Length	Space in the interface.	Keep labels and buttons about as short as the English; abbreviate if needed and flag it.	Spanish runs 20-30% longer; the AI pass flags lines that grow a lot.
+Placeholders	Codes inside the text.	Never translate or change %s, %d, %%, \n, BIND_… or <number>. Word order around them may change.	Checked automatically by tools/status.lua.
+Existing lines	Current Spanish lines that break these rules.	Flag them for review in the batch they belong to; do not rewrite silently.
+Bugs found	Existing lines that are technically broken.	Fix them in the first batch.	RIFLE_TOOLTIP uses BIND_Primary (the key never shows); some lines lost a trailing space that the game needs (CONSTRUCT_UNBUILT).

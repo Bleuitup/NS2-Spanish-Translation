@@ -1,0 +1,152 @@
+﻿General	Commander	108	43	38	Keep English		Current file keeps it (41 vs 2).	Commander has been ejected	El Commander ha sido expulsado	ALIEN_ALERT_COMMANDER_EJECTED
+General	Marine	150	55	37	Keep English			MARINE COMMANDER BOT	BOT COMMANDER MARINE	TUT_MCOMMBOT
+General	Alien	109	46	30	Keep English		Same word in Spanish; 'alienígena' only as an adjective?	Heals Alien units	Cura unidades alien	CRAG_HINT
+General	Kharaa	20	1	1	Keep English		Proper name.	Some buildings, such as the TSF Observatory or the Kharaa Shift, have passive abilities that don't cost resources.	Algunos edificios, como el Observatory o la Shift Kharaa, tienen características pasivas que no cuestan recursos.	LOADING_TIP_ABILITIES
+General	Frontiersmen	2	0	0	Keep English		Proper name (TSF).			
+General	team resources	5	5	0	Translate	recursos de equipo	Abbreviation Tres stays.	Built resource nozzles give team resources for the Commander and player resources for each team member.	Los nodos de recursos construidos dan recursos de equipo para el Commander y recursos individuales para cada jugador.	LOADING_TIP_RESOURCES
+General	personal resources	6	3	0	Translate	recursos personales	Abbreviation Pres stays.	Buying equipment costs personal resources, displayed at the bottom right of the screen.	Comprar equipamiento cuesta recursos personales, mostrados en la esquina inferior derecha de tu pantalla.	TUT_MARINE_MSG_9
+General	resources	47	26	0	Translate	recursos		Collects resources for players and the team	Extrae recursos para los jugadores y para el equipo	COLLECT_RESOURCES_TOOLTIP
+General	supply	3	2	0	Translate	suministro	Supply limit for commander units.			
+General	round	37	16	0	Translate	ronda	Current file mixes 'ronda' and 'partida'; suggest round = ronda.	Round was not fun	La ronda no fue divertida	FEEDBACK_REASON_15
+General	match	16	1	0	Translate	partida	A match can be several rounds (Competitive Play).	Your game files do not match the server's. Try verifying your game cache in Steam.	Los archivos de tu juego no coinciden con los del servidor. Intenta verificar tu Game Cache en Steam	DISCONNECT_REASON_9
+General	game	52	30	1	Translate	partida / juego	Context: a game being played = partida; the game itself = juego.	Bad game balance	Juego desbalanceado	FEEDBACK_REASSON_7
+General	team	87	43	0	Translate	equipo		%d team resources	%d recursos de equipo	SB_TEAM_RES
+General	player	62	25	1	Translate	jugador		Player was cheating	Un jugador estaba usando cheats	FEEDBACK_REASSON_9
+General	server	68	23	3	Translate	servidor		STARTING LOCAL SERVER	INICIANDO SERVIDOR LOCAL	STARTING_LOCAL_SERVER
+General	Ready Room	16	13	13	Keep English		Place name in the game.	Welcome to the Ready Room	Bienvenido a la Ready Room	WELCOME_TO_READY_ROOM
+General	spectator	2	1	0	Translate	espectador				
+General	rookie	5	3	0	Translate	novato		Rookie players on your team will appear in green. They could use your help.	Los jugadores principiantes en tu equipo aparecerán en verde. Ayúdales.	LOADING_TIP_ROOKIES
+General	bot	3	2	2	Keep English			ALIEN COMMANDER BOT	BOT COMMANDER ALIEN	TUT_ACOMMBOT
+General	lifeform	19	6	0	Translate	forma de vida		Lifeform under attack	Compañero bajo ataque	ALIEN_ALERT_LIFEFORM_UNDERATTACK
+General	structure	45	18	2	Translate	estructura	Current file: 'estructura' (65).	Structure under attack	Estructura bajo ataque	ALIEN_ALERT_STRUCTURE_UNDERATTACK
+General	upgrade	41	19	0	Translate	mejora	Current file: 'mejora' (47).	Upgrade to ARC Factory	Mejorar a ARC Factory	UPGRADE_ROBOTICS_FACTORY
+General	research	124	25	1	Translate	investigar / investigación		Research claw/railgun	Desarrollar puño/railgun	RESEARCH_CLAW_RAILGUN
+General	tech point	4	2	2	Keep English		Map feature; players say 'tech point'.			
+General	resource node	12	2	0	Translate	nodo de recursos	Resource point / nozzle on the map.	You need a higher resource [CollectResources] income. Select the build menu [1:BuildMenu] and build an Extractor [2:Extractor] at the closest resource node.	Necesitas más recursos [CollectResources]. Selecciona el menú de construir [1:BuildMenu] y construye un Extractor [2:Extractor] en el nodo más cercano.	COMMANDER_TUT_BUILD_EXTRACTOR
+General	Tech Tree	3	0	0	Translate	árbol tecnológico				
+General	badge	17	0	0	Translate	insignia				
+General	skill	6	2	0	Translate	habilidad / nivel	Player skill rating = nivel de habilidad?	MARINE SKILL LEVEL	HABILIDAD MARINES	TUT_MBOTSKILL
+General	Quick Play	7	0	0	Keep English		Menu mode name; could be 'Partida rápida'.			
+General	Competitive Play	28	0	0	Keep English		Menu mode name; could be 'Juego competitivo'.			
+General	tutorial	35	5	5	Translate	tutorial		Complete the Alien tutorial.	Completa el tutorial de los Aliens	NEW_ACHIEVEMENT_2_26_DESC
+General	Sandbox	9	8	8	Keep English		Current file: 'Modo sandbox'.	Sandbox Mode (BIND_ReadyRoom for ready room)	Modo sandbox (BIND_ReadyRoom para volver a la ready room)	EXPLORE_MODE
+General	mod	8	5	5	Keep English			Missing required mod	Falta un mod requerido	DISCONNECT_REASON_15
+Marine structures	Command Station	25	10	10	Keep English		Current file keeps it (14 vs 0).	Command Station under attack	Command Station bajo ataque	MARINE_ALERT_COMMANDSTATION_UNDERAT
+Marine structures	Command Chair	4	0	0	Keep English					
+Marine structures	Infantry Portal	8	4	4	Keep English			Infantry Portal under attack	Infantry Portal bajo ataque	MARINE_ALERT_INFANTRYPORTAL_UNDERAT
+Marine structures	Armory	34	16	15	Keep English		Current file keeps it (20 vs 1 'arsenal').	Upgrade to Advanced Armory	Actualización a Advanced Armory	ADVANCED_ARMORY_UPGRADE
+Marine structures	Advanced Armory	5	2	1	Keep English			Select the advanced armory [1:AdvancedArmory] and research Jetpacks [2:JetpackTech]	Selecciona el prototype lab [1:PrototypeLab] e investiga Jetpacks [2:JetpackTech]	COMMANDER_TUT_UPGRADE_JETPACK
+Marine structures	Arms Lab	11	6	5	Keep English			Your team needs upgrades. Select the build menu [1:BuildMenu] and create an Arms Lab [2:ArmsLab] in your base.	Tu equipo necesita mejoras. Selecciona el menú de construir [1:BuildMenu] y crea un Arms Lab [2:ArmsLab] en tu base.	COMMANDER_TUT_BUILD_ARMS_LAB
+Marine structures	Observatory	23	8	4	Keep English			Teleports Marines to Command Station nearest to Observatory	Teletransporta a los marines a la Command Station más cercana a un Observatory	DISTRESS_BEACON_TOOLTIP
+Marine structures	Phase Gate	16	4	3	Keep English			Unlocks phase gate tech	Desbloquea la tecnología de Phase Gates	PHASE_TECH_TOOLTIP
+Marine structures	Robotics Factory	6	0	0	Keep English					
+Marine structures	ARC Factory	5	1	1	Keep English					
+Marine structures	Prototype Lab	8	2	2	Keep English					
+Marine structures	Extractor	22	9	8	Keep English		Same word in Spanish.	Extractor under attack	Extractor bajo ataque	MARINE_ALERT_EXTRACTOR_UNDERATTACK
+Marine structures	Sentry	12	7	4	Keep English			Sentry taking damage	Sentry Turret recibiendo daño	MARINE_ALERT_SENTRY_UNDERATTACK
+Marine structures	Sentry Battery	1	1	0	Keep English			Sentry Guns require a nearby Sentry Battery to function.	Las Sentries necesitan una Batería de Sentry para funcionar.	TIPVIDEO_1_PLAYER_SENTRY_BATTERIES
+Marine structures	Power Node	12	5	5	Keep English		Current file keeps it (13 vs 0).	Power node has been destroyed!	¡El Power Node ha sido destruído!	DESTROYED_POWER_NODE
+Marine units	MAC	12	4	4	Keep English			Increase MAC speed	Aumentar velocidad de los MAC	MAC_SPEED
+Marine units	ARC	20	7	7	Keep English			Increases ARC armor	Aumenta la armadura del ARC	ARC_ARMOR
+Marine units	Exosuit	45	18	8	Keep English		Current file keeps 'Exosuit' (9 vs 0 'exotraje'). Short form 'Exo'?	Exosuit: Crush Eggs	Exoesqueleto: Chafar huevos	TIPVIDEO_1_EXO_EXOSUIT_CRUSH_TITEL
+Marine units	Exo	9	5	4	Keep English			Allows the Exo to buy two Railguns	Permite al Exo comprar dos Railguns	DUAL_RAILGUN_TECH_TOOLTIP
+Marine units	Jetpack	12	2	0	Keep English		Current file keeps it.	Allows access to advanced weapons like grenade launchers and flamethrowers, and to Jetpack research.	Permite acceder a armas avanzadas como el lanzagranadas y el lanzallamas	ADVANCED_ARMORY_TOOLTIP
+Marine weapons	Rifle	28	4	3	Keep English		Same word in Spanish.	BIND_PrimaryAttack to attack with standard-issue rifle. BIND_SecondaryAttack will perform a rifle butt.	BIND_Primary attack para disparar con el rifle. BIND_SecondaryAttack dará un culatazo.	RIFLE_TOOLTIP
+Marine weapons	Pistol	14	2	0	Translate	pistola		Use the pistol to finish off enemies quickly instead of reloading.	Usa la pistola para rematar a los enemigos en lugar de recargar.	WEAPON_DESC_PISTOL
+Marine weapons	Axe	27	2	0	Translate	hacha		Use the Switch Axe on enemy structures to conserve ammunition.	Utiliza el hacha en estructuras enemigas para ahorrar munición.	TIPVIDEO_1_MARINE_SWITCH_AXE
+Marine weapons	Welder	19	7	7	Keep English		Current file keeps it (11 vs 0).	Damaged Exosuits can be repaired using the welder tool.	Los Exos dañados se pueden reparar con el welder.	TIPVIDEO_1_MARINE_WELD_EXOSUITS
+Marine weapons	Shotgun	17	7	1	Translate	escopeta	Current file: 'escopeta' (12 vs 2).	High damage and pellet spread makes the shotgun most effective against nearby targets.	Daño alto y su dispersión hacen de la escopeta la mejor arma contra enemigos cercanos.	SHOTGUN_TOOLTIP
+Marine weapons	Grenade Launcher	8	2	1	Translate	lanzagranadas	Current file: 'lanzagranadas' (9 vs 1).	Kill a Marine who has a Grenade Launcher	Mata a un Marine que tenga un Grenade Launcher	NEW_ACHIEVEMENT_1_27_DESC
+Marine weapons	Flamethrower	12	4	2	Translate	lanzallamas	Current file: 'lanzallamas' (11 vs 2).	Kill a Marine who has a Flamethrower	Mata a un Marine que tenga un Flamethrower	NEW_ACHIEVEMENT_1_26_DESC
+Marine weapons	Heavy Machine Gun	2	0	0	English name + Spanish noun	ametralladora pesada (HMG)	Players say HMG.			
+Marine weapons	Minigun	5	2	2	Keep English			BIND_PrimaryAttack to fire left minigun, BIND_SecondaryAttack for right (unlimited ammo but can overheat). BIND_Jump to activate jump jets.	BIND_PrimaryAttack para disparar la minigun izquierda, BIND_SecondaryAttack para la derecha (munición ilimitada pero se calienta). BIND_Jump para activar los reactores de salto.	MINIGUN_MINIGUN_TOOLTIP
+Marine weapons	Railgun	9	6	6	Keep English			Research claw/railgun	Desarrollar puño/railgun	RESEARCH_CLAW_RAILGUN
+Marine weapons	Claw	9	6	0	Translate	garra	Exo arm.	Research claw/railgun	Desarrollar puño/railgun	RESEARCH_CLAW_RAILGUN
+Marine weapons	Plasma Launcher	3	0	0	Translate	lanzaplasma	Exo arm.			
+Marine weapons	Mine	7	2	1	Translate	mina	Current file: 'mina' (16 vs 6).	Drop 1 proximity mine.	Pack of 1 proximity mine.	MINE_TOOLTIP
+Marine weapons	Cluster Grenade	3	2	0	English name + Spanish noun	granada Cluster				
+Marine weapons	Pulse Grenade	3	2	0	English name + Spanish noun	granada Pulse				
+Marine weapons	Nerve Gas Grenade	3	2	0	English name + Spanish noun	granada de gas nervioso				
+Marine equipment	Med pack	2	1	0	Keep English		Medpack; current file mostly keeps it.			
+Marine equipment	Ammo pack	3	1	0	Keep English					
+Marine equipment	Catalyst pack	1	1	0	Keep English		Catpack.			
+Marine equipment	Nano-shield	2	1	0	Keep English		Also 'Nano Shield'.			
+Marine equipment	Scan	15	2	0	Translate	escaneo				
+Marine equipment	Distress Beacon	6	3	3	Keep English			Distress Beacon: Teleporting to %s	Distress Beacon: Transportándote a %s	BEACON_TO
+Marine equipment	Power Surge	1	0	0	Keep English					
+Marine research	Advanced Weaponry	2	2	0	Keep English					
+Marine research	Advanced Support	2	1	0	Keep English					
+Marine research	Phase Tech	6	1	1	Keep English			Select your Observatory [1:Observatory] and click on Phase Tech [2:PhaseTech]	Selecciona tu Observatory [1:Observatory] y haz click en Phase Tech [2:PhaseTech]	COMMANDER_TUT_RESEARCH_PHASE_TECH
+Marine research	Armor	73	37	0	Translate	armadura	Armor #1-3: 'Armadura #1'?	Gain extra armor.	Gana armadura adicional.	CARAPACE_TOOLTIP
+Marine research	Weapons	34	18	0	Translate	armas	Weapons #1-3: 'Armas #1'?	Weapons, health and ammo	Armas, salud y munición	ARMORY_HINT
+Exo modules	Thrusters	5	1	0	Keep English		New modular exo text.	With the Thrusters core module, hold Shift to boost forward, or hold space to hover.	Cuando estés en un Exoesqueleto, pulsa el botón de sprint para propulsarte, o mantén pulsada la tecla de salto para elevarte.	TIPVIDEO_1_EXO_EXOSUIT_BOOSTERS
+Exo modules	Ejection Seat	2	0	0	Keep English					
+Exo modules	Armor Plating	3	0	0	Keep English					
+Exo modules	Nano Shield Field	3	0	0	Keep English					
+Exo modules	Catalyst Field	4	0	0	Keep English					
+Exo modules	Regen Field	3	0	0	Keep English					
+Alien lifeforms	Skulk	52	12	12	Keep English			Hallucinate Skulk	Alucinar Skulk	HALLUCINATE_SKULK
+Alien lifeforms	Gorge	92	34	28	Keep English			Hallucinate Gorge	Alucinar Gorge	HALLUCINATE_GORGE
+Alien lifeforms	Lerk	30	13	13	Keep English			Hallucinate Lerk	Alucinar Lerk	HALLUCINATE_LERK
+Alien lifeforms	Fade	41	17	17	Keep English			Hallucinate Fade	Alucinar Fade	HALLUCINATE_FADE
+Alien lifeforms	Onos	39	18	18	Keep English			Hallucinate Onos	Alucinar Onos	HALLUCINATE_ONOS
+Alien lifeforms	Embryo	3	2	0	Translate	embrión				
+Alien lifeforms	Egg	20	12	0	Translate	huevo	Current file: 'huevo' (22 vs 1).	Creates an egg that a Fade can spawn from	Crea un huevo del que nacerá un Fade	FADE_EGG_DROP_TOOLTIP
+Alien units	Drifter	36	11	11	Keep English			Hallucinate Drifter	Alucinar Drifter	HALLUCINATE_DRIFTER
+Alien units	Hydra	7	4	3	Keep English			Hallucinate Hydra	Alucinar Hydra	HALLUCINATE_HYDRA
+Alien units	Babbler	19	6	3	Keep English			Gorges can place Babbler Eggs that create up to 9 controllable minions.	Los Gorges pueden crear huevos de Babbler para crear hasta 9 de ellos.	TIPVIDEO_2_GORGE_GORGE_BABBLERS
+Alien units	Clog	6	1	0	Keep English			Structure your Clog wall to limit Marines' movement or to force repositioning. 	Estructura tu muro de Clogs para limitar el movimiento de los Marines o forzarles a reposicionarse.	TIPVIDEO_2_GORGE_GORGE_CLOGS
+Alien units	Web	2	1	0	Translate	telaraña	Gorge web.			
+Alien units	Bone Wall	1	0	0	Keep English					
+Alien structures	Hive	96	34	33	Keep English		Current file keeps it (42 vs 0 'colmena').	Hallucinate Hive	Alucinar Hive	HALLUCINATE_HIVE
+Alien structures	Cyst	21	3	3	Keep English		Current file keeps it (8 vs 0 'quiste').	Must be built near another Cyst.	Debe ser construido cerca de otro Cyst.	COMMANDERERROR_NO_CYST_PARENT_FOUND
+Alien structures	Harvester	37	12	12	Keep English		Current file keeps it (19 vs 0).	Hallucinate Harvester	Alucinar Harvester	HALLUCINATE_HARVESTER
+Alien structures	Crag	16	6	6	Keep English			Hallucinate Crag	Alucinar Crag	HALLUCINATE_CRAG
+Alien structures	Shift	29	16	11	Keep English			Hallucinate Shift	Alucinar Shift	HALLUCINATE_SHIFT
+Alien structures	Shade	17	7	7	Keep English			Hallucinate Shade	Alucinar Shade	HALLUCINATE_SHADE
+Alien structures	Whip	14	7	6	Keep English			Hallucinate Whip	Alucinar Whip	HALLUCINATE_WHIP
+Alien structures	Shell	5	4	4	Keep English			Select the advanced build menu [1:AdvancedMenu] and build a second shell [2:SecondShell] 	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una segunda Shell [2:SecondShell]	COMMANDER_TUT_BUILD_SECOND_SHELL
+Alien structures	Spur	10	3	3	Keep English			Select the advanced build menu [1:AdvancedMenu] and build a second spur [2:SecondSpur] 	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Spur [2:SecondSpur]	COMMANDER_TUT_BUILD_SECOND_SPUR
+Alien structures	Veil	6	3	3	Keep English			Select the advanced build menu [1:AdvancedMenu] and build a second veil [2:SecondVeil] 	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una segunda Veil [2:SecondVeil]	COMMANDER_TUT_BUILD_SECOND_VEIL
+Alien structures	chamber	1	0	0	Keep English		Upgrade chambers (Shell, Spur, Veil); B2TP keeps 'chamber'.			
+Alien structures	Tunnel	37	5	1	Translate	túnel	Gorge tunnels; 'Tunnel Entrance' = 'entrada de túnel'?	Gorges can build two Gorge tunnel entrances that create a two-way shortcut.	Los Gorges pueden construir dos túneles para crear un atajo.	TIPVIDEO_2_GORGE_GORGE_TUNNELS
+Alien structures	Evolution Chamber	1	0	0	Keep English					
+Alien structures	Contamination	1	0	0	Keep English					
+Alien concepts	Infestation	39	17	0	Translate	infestación	Current file: 'infestación' (17 vs 1).	Not allowed on infestation.	No se permite sobre infestación.	COMMANDERERROR_NOT_ALLOWED_ON_INFESTATION
+Alien concepts	Biomass	44	14	14	Keep English		Current file keeps it (14 vs 0 'biomasa').	Upgrades the hive to grant an additional level of biomass.	Da un nivel adicional de Biomass a la Hive	ADD_BIOMASS_TOOLTIP
+Alien concepts	evolve	28	18	0	Translate	evolucionar		Evolve new traits for Alien players	Evoluciona nuevas habilidades para los aliens	BASIC_LIFE_FORMS_TOOLTIP
+Alien abilities	Bite	13	6	0	Keep English			A marine is below you! Climb down while staying behind him, sneak up, then BIND_PrimaryAttack to bite!	¡Hay un marine debajo! Baja sigilosamente y ve por detrás, pulsa BIND_PrimaryAttack para morder.	TUT_ALIEN_MSG_5
+Alien abilities	Leap	10	5	4	Keep English			Skulks can Leap by pressing Right-Click to cover distance rapidly.	Los Skulks pueden usar Leap pulsando ataque secundario para cubrir distancias rápidamente.	TIPVIDEO_2_SKULK_SKULK_LEAP
+Alien abilities	Parasite	17	2	1	Keep English			Skulks can use the Parasite ability on Marines to track them through walls.	Los Skulks pueden usar Parasite para seguir a los marines a través de las paredes.	TIPVIDEO_2_SKULK_SKULK_PARASITE
+Alien abilities	Xenocide	6	2	2	Keep English			Can attack with bite and track enemies with parasite. Can ambush enemies by climbing on walls and ceilings. Can evolve leap and xenocide.	Puede morder y marcar enemigos con un parásito. Pueden hacer emboscadas a los enemigos subiendo a las paredes y techos. Puede evolucionar Leap y Xenocide.	SKULK_TOOLTIP
+Alien abilities	Spit	5	2	0	Keep English			Gorges can Spit a Bait Ball to command the Babblers to attack that area.	Escupe el cebo de Babblers donde quieras que ataquen	TIPVIDEO_2_GORGE_GORGE_BAIT_BALL
+Alien abilities	Heal Spray	3	1	1	Keep English			Spike plant that can be built anywhere and fires at enemies. Keep it alive with your heal spray.	Planta con púas que se puede construir en cualquier parte y dispara a los enemigos. Mantenlo vivo con tu Heal Spray.	HYDRA_TOOLTIP
+Alien abilities	Bile Bomb	8	3	2	Keep English			A Gorge can build offensive Hydras and defensive Clogs. Can evolve ranged bile bomb for attacking armor and structures.	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar bile bomb para atacar armadura y estructuras.	GORGE_TOOLTIP
+Alien abilities	Spikes	4	1	0	Keep English			Versatile support flyer. Can do damage over time with poisonous bite and ranged spikes. Can evolve choking spore cloud and protective umbra.	Unidad versátil voladora. Puede hacer daño progresivamente con el mordisco venenoso y las púas. Puede evolucionar una nube de esporas asfixiantes y la protectora Umbra.	LERK_TOOLTIP
+Alien abilities	Spores	11	1	1	Keep English					
+Alien abilities	Umbra	10	3	3	Keep English			Lerks can use the Umbra ability to protect allies from enemy fire.	Los Lerks pueden usar la habilidad Umbra para proteger a sus compañeros del fuego enemigo.	TIPVIDEO_2_LERK_LERK_UMBRA
+Alien abilities	Swipe	2	0	0	Keep English					
+Alien abilities	Blink	9	2	2	Keep English			Press or hold Right-Click to use the Blink ability to travel incredibly fast.	Pulsa o mantén pulsado ataque secundario para utilizar Blink y viajar más rápido.	TIPVIDEO_2_FADE_FADE_BLINK
+Alien abilities	Metabolize	15	4	4	Keep English			ADVANCED METABOLIZE RESEARCHED	METABOLIZE AVANZADO DESARROLLADO	EVT_METABOLIZE_ADV_RESEARCHED
+Alien abilities	Stab	7	2	2	Keep English			Shadow step after using Stab for extra reach.	Utiliza Shadowstep después de usar Stab para llegar más lejos.	TIPVIDEO_2_FADE_FADE_STAB
+Alien abilities	Gore	5	2	0	Keep English			BIND_PrimaryAttack to gore players. Also smashes through structures with ease.	BIND_PrimaryAttack para atacar con el cuerno. También destruye estructuras fácilmente.	GORE_TOOLTIP
+Alien abilities	Stomp	10	3	3	Keep English			Press Right-Click to stomp, sending a shock wave that damages and knocks down players.	Utiliza ataque secundario para hacer uso de Stomp, envíando una onda expansiva que daña e incapacita jugadores.	TIPVIDEO_2_ONOS_ONOS_STOMP
+Alien abilities	Charge	19	7	1	Keep English			Lets the Onos charge in the current direction.	Permite al Onos cargar en la dirección actual.	CHARGE_TOOLTIP
+Alien abilities	Bone Shield	6	2	2	Keep English		Also written 'Boneshield'.	The Onos' Bone Shield ability blocks all damage from in front while in use.	El Bone Shield del Onos bloquea todo el daño frontal mientras se está usando.	TIPVIDEO_2_ONOS_ONOS_BONE_SHIELD
+Alien abilities	Enzyme	3	1	0	Keep English		Drifter ability.			
+Alien abilities	Mucous Membrane	1	1	0	Keep English					
+Alien abilities	Hallucination	7	2	0	Keep English					
+Alien abilities	Cloaking Haze	1	0	0	Keep English					
+Alien abilities	Nutrient Mist	8	2	1	Keep English			Player requesting Nutrient Mist	Jugador pidiendo Nutrient Mist	ALIEN_ALERT_NEED_MIST
+Alien abilities	Rupture	1	1	0	Keep English					
+Alien abilities	Echo	6	1	0	Keep English			Speeds energy recovery for Aliens and can Echo structures around the map.	Acelera la recuperación de energía para las unidades y teletransporta unidades.	SHIFT_TOOLTIP
+Alien abilities	Ink	5	2	0	Keep English			Creates a cloud of Ink around the Shade for Alien units to hide in	Crea una nube de tinta al rededor de la Shade para que los Aliens se escondan	SHADE_INK_TOOLTIP
+Alien upgrades	Carapace	8	3	2	Keep English			The Carapace trait will increase your armor values.	La habilidad Carapace incrementa tu armadura.	TIPVIDEO_2_ALIEN__CARAPACE
+Alien upgrades	Regeneration	11	5	2	Keep English			Increased energy regeneration.	Incrementa la cantidad de energía disponible y hace que se recupere más deprisa.	ADRENALINE_TOOLTIP
+Alien upgrades	Vampirism	2	1	0	Keep English					
+Alien upgrades	Camouflage	3	0	0	Keep English					
+Alien upgrades	Aura	3	1	1	Keep English			The Aura trait shows enemy health status through walls.	La habilidad Aura muestra el estado de salud de enemigos a través de las paredes.	TIPVIDEO_2_ALIEN__AURA
+Alien upgrades	Focus	2	1	0	Keep English			Prevents sounds from playing while the game has lost focus.	Previene que los sonidos del juego se reproduzcan cuando la aplicación no tiene foco.	SOUND_MUTE_MINIZED_TTIP
+Alien upgrades	Celerity	5	1	1	Keep English			The Celerity trait will boost your movement speed and acceleration.	La habilidad Celerity aumenta tu velocidad de movimiento y aceleración.	TIPVIDEO_2_ALIEN__CELERITY
+Alien upgrades	Adrenaline	3	1	1	Keep English			The Adrenaline trait gives you more energy and regenerates it faster.	La habilidad Adrenaline te da más energía y se regenera más deprisa.	TIPVIDEO_2_ALIEN__ADRENALINE
+Alien upgrades	Crush	5	3	0	Keep English			Exosuit: Crush Eggs	Exosuit: Chafar huevos	TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS_TITEL
