@@ -41,6 +41,12 @@ local batches = {
                     "STICKY", "SHOULDER", "SKIN", "BUY_", "THUNDERDOME", "TD_", "GMTD", "TUTORIAL", "TUT_", "TUT",
                     "BOOTCAMP", "CHALLENGE", "COMMANDER_TUT", "HIVE_CHALLENGE" },
     },
+    [5] = { -- Help screens, exo text, tip videos and loading tips.
+        { "Help screens", { "HELP" } },
+        { "Exo", { "EXO" } },
+        { "Tip videos", { "TIPVIDEO" } },
+        { "Loading tips", { "LOADING", "TIP_" } },
+    },
 }
 local def = assert(batches[n], "no definition for batch " .. n)
 

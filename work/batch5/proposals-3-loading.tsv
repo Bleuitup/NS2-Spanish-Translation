@@ -1,0 +1,38 @@
+LOADING	Cargando...		
+LOADING_2	CARGANDO		
+LOADING_ASSETS	CARGANDO RECURSOS		
+LOADING_INVENTORY	Cargando tu inventario de Steam	FIX	"your" restored.
+LOADING_MAP	CARGANDO MAPA		
+LOADING_MODLIST	MODS ACTIVOS:\n		
+LOADING_SHADERS	CARGANDO SHADERS		
+LOADING_TIP	Consejo:		
+LOADING_TIP_ABILITIES	Algunas estructuras, como el Observatory de la TSF o el Shift de los Kharaa, tienen habilidades pasivas que no cuestan recursos.	FIX	"estructuras", not "edificios"; el Shift; "habilidades".
+LOADING_TIP_BEARARMS	Los Marines pueden recoger las armas de sus compañeros caídos presionando BIND_Drop. Hazlo rápido: desaparecen enseguida.	FIX	presionar; Marines capitalized.
+LOADING_TIP_COMMANDER_SPEAKING	La voz y los mensajes de chat de tu Commander aparecen en amarillo.	FIX	Commander capitalized.
+LOADING_TIP_EVOLVE	Como Alien, presiona BIND_Buy para evolucionar a una nueva forma de vida o conseguir nuevas mejoras.	FIX	presionar; forma de vida, not "clase".
+LOADING_TIP_EXPLORE	Inicia un servidor en modo Sandbox para aprender más sobre el juego y los mapas.	FIX	Sandbox capitalized.
+LOADING_TIP_F4	Presiona BIND_ReadyRoom para volver al Ready Room.	FIX	presionar; el Ready Room.
+LOADING_TIP_FF	No hay fuego amigo. Sin embargo, puedes hacerte daño con tus propias granadas y minas.	FIX	Closer to the English.
+LOADING_TIP_GOODCOMM	El Commander puede usar los recursos de equipo para darles a sus jugadores cosas útiles, como armas y formas de vida superiores.	FIX	"recursos de equipo" and "forma de vida" per the glossary.
+LOADING_TIP_GOTOALERT	Como Commander, presiona BIND_Jump para ir a una alerta.	FIX	presionar.
+LOADING_TIP_INFESTATION	La infestación crece desde una Hive a través de una cadena de Cysts. Si se corta, retrocede y las estructuras reciben daño.	FIX	Cysts capitalized; tighter.
+LOADING_TIP_MAP	Presiona BIND_ShowMap para abrir tu mapa.	FIX	presionar.
+LOADING_TIP_MODS	NS2 es sumamente modificable. Prueba alguno de los mods de la comunidad en el Workshop de Steam.	FIX	"Workshop de Steam" per the glossary.
+LOADING_TIP_MUTE	Para silenciar a un jugador, mantén presionado BIND_Scoreboard y haz click izquierdo en el ícono del altavoz.	FIX	ícono; left click.
+LOADING_TIP_NEXT	Presiona ESPACIO para el siguiente consejo	FIX	presionar.
+LOADING_TIP_NOIINTEAM	Habla con tus compañeros con el botón BIND_VoiceChat. ¡El trabajo en equipo muchas veces es la diferencia entre la vida y la muerte!	FIX	Grammar ("la sobrevivir").
+LOADING_TIP_POWER	Las estructuras de los Marines necesitan energía. Si el Nodo de energía es destruido, las estructuras se apagan.	FIX	Nodo de energía.
+LOADING_TIP_PRIORITY	Prioriza tus objetivos. Los Nodos de energía y los Cysts son estructuras cruciales, pero destruir una torre de recursos o un Shift puede hacer más daño a largo plazo.	FIX	Nodo de energía; "torre de recursos", as in batch 4.
+LOADING_TIP_RAMBO	La unión hace la fuerza: ¡no pelees solo!	FIX	Punctuation.
+LOADING_TIP_REQ_MENU	Como Marine, presiona BIND_RequestMenu para pedirle al Commander munición, salud u órdenes.	FIX	presionar; salud.
+LOADING_TIP_RESOURCES	Los nodos de recursos construidos dan recursos de equipo para el Commander y recursos personales para cada miembro del equipo.	FIX	"recursos personales" per the glossary.
+LOADING_TIP_ROOKIES	Los jugadores novatos de tu equipo aparecen en verde. Les vendría bien tu ayuda.	FIX	novato per the glossary.
+LOADING_TIP_SAYINGS_MENU	Presiona BIND_ToggleSayings para burlarte o decir algo.	FIX	presionar; "taunt" restored.
+LOADING_TIP_SCOREBOARD	Presiona BIND_Scoreboard para ver a los jugadores de la partida y sus puntuaciones.	FIX	presionar.
+LOADING_TIP_SPAWN	Los Marines renacen en el Infantry Portal. Los Aliens salen de huevos.	FIX	"hatch out of eggs".
+LOADING_TIP_SPEEDYGONZALES	Correr te lleva rápido a todas partes, pero recuerda: hace mucho más ruido que agacharse o caminar.	FIX	"caminar", not "andar".
+LOADING_TIP_SUPPORT	¡Las clases de apoyo son invaluables! Un Gorge con algunas Hidras o un Marine con un soldador pueden tener un impacto enorme.	FIX	Hidra, soldador; "apoyo".
+LOADING_TIP_VENTS	Los Aliens pueden usar los conductos de ventilación para moverse más rápido y flanquear.	FIX	"conductos de ventilación".
+LOADING_TIP_WALLRUN	Como Skulk, no corras de frente hacia los Marines: usa las paredes y los techos para emboscarlos.	FIX	"emboscarlos" (neutral Latin American).
+LOADING_VAC	NOTA: ESTE SERVIDOR ESTÁ PROTEGIDO POR VAC\nHACER TRAMPA RESULTARÁ EN UN BANEO PERMANENTE	FIX	servidor; "hacer trampa", as in batch 4. "Baneo": or "expulsión permanente"?
+TIP_CLIPS	VIDEOS DE CONSEJOS	FIX	"Tip clips".

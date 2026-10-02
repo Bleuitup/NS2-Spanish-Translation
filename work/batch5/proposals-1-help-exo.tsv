@@ -1,0 +1,192 @@
+HELP_SCREEN_AXE	HACHA		
+HELP_SCREEN_AXE_DESCRIPTION	Usa tu fiel hacha para abrirte paso entre la competencia. Buena contra estructuras.		
+HELP_SCREEN_BAIT_BALL	BOLA CEBO	CHECK	"Bait ball": not in the glossary.
+HELP_SCREEN_BAIT_BALL_DESCRIPTION	A los Babblers les encanta seguir el cebo. Lanza una bola cebo sobre tus amigos para darles armadura extra, o úsala para mandarlos a atacar al enemigo.	FIX	The file held an older English text here.
+HELP_SCREEN_BILE_BOMB	BOMBA DE BILIS		
+HELP_SCREEN_BILE_BOMB_DESCRIPTION	Lanza un pegote de flema corrosiva. Excelente contra estructuras y objetivos con armadura. Un lanzallamas puede destruirlo en el aire.		
+HELP_SCREEN_BILE_BOMB_REQUIREMENT	Requiere investigar bomba de bilis		
+HELP_SCREEN_BIOMASS_REQUIREMENT_2	Requiere biomasa 2		
+HELP_SCREEN_BIOMASS_REQUIREMENT_3	Requiere biomasa 3		
+HELP_SCREEN_BIOMASS_REQUIREMENT_4	Requiere biomasa 4		
+HELP_SCREEN_BIOMASS_REQUIREMENT_5	Requiere biomasa 5		
+HELP_SCREEN_BIOMASS_REQUIREMENT_6	Requiere biomasa 6		
+HELP_SCREEN_BIOMASS_REQUIREMENT_7	Requiere biomasa 7		
+HELP_SCREEN_BIOMASS_REQUIREMENT_8	Requiere biomasa 8		
+HELP_SCREEN_BIOMASS_REQUIREMENT_9	Requiere biomasa 9		
+HELP_SCREEN_BIOMASS_REQUIREMENT_10	Requiere biomasa 10		
+HELP_SCREEN_BITE	MORDIDA		
+HELP_SCREEN_BLINK	DESTELLO		
+HELP_SCREEN_BLINK_DESCRIPTION	Humedece los ojos del Fade. Además hace que el Fade pase parcialmente a otra dimensión y vuele por el aire a muy alta velocidad. ¡Requiere mucha energía!	CHECK	The joke is on "blink" (to blink the eyes); it does not carry over to "destello".
+HELP_SCREEN_BONE_SHIELD	ESCUDO DE HUESOS		
+HELP_SCREEN_BONE_SHIELD_DESCRIPTION	Usa tu enorme cabeza para bloquear la mayoría de los ataques frontales y absorber todo el daño. No te preocupes por tu cabeza: ¡no está cerca de ningún órgano vital! No detiene el daño de Railgun ni de fuego.		
+HELP_SCREEN_BONE_SHIELD_REQUIREMENT	Requiere investigar escudo de huesos		
+HELP_SCREEN_CHARGE	CARGA		
+HELP_SCREEN_CHARGE_DESCRIPTION	Quema llanta, o lo que sea de lo que estén hechas las patas del Onos. Mantén presionado para un impulso de velocidad. Requiere mucha energía. Los Marines salen despedidos si vas rápido.	CHECK	"Burn some rubber".
+HELP_SCREEN_CHARGE_REQUIREMENT	Requiere investigar carga		
+HELP_SCREEN_CLUSTER_GRENADE	GRANADA DE RACIMO		
+HELP_SCREEN_CLUSTER_GRENADE_DESCRIPTION	Granada de mano que explota en fragmentos más pequeños... que luego también explotan. Buena para sacar a esos molestos Gorges de los conductos de ventilación.		
+HELP_SCREEN_EXO_EGG_STOMP	PISAR HUEVOS	CHECK	Not the Onos Pisotón; an Exo stepping on eggs.
+HELP_SCREEN_EXO_EGG_STOMP_DESCRIPTION	Aplasta los huevos alien sin nacer con tus poderosas piernas robóticas. ¡Piensa que son plástico de burbujas gigante! Pop pop pop.		
+HELP_SCREEN_EXO_EJECT	EYECTAR		
+HELP_SCREEN_EXO_EJECT_DESCRIPTION	¡Cuando hay que irse, hay que irse! Mantén presionado para eyectarte. Puede salvarte la vida o simplemente dejarte hacer reparaciones. ¡Cuidado con los Marines roba-Exos! ¡El Exotraje se desbloquea después de %{unlockTime}d segundos si no vuelves a entrar!	FIX	The file held an older English text here.
+HELP_SCREEN_EXO_MINIGUN	MINIGUN		
+HELP_SCREEN_EXO_MINIGUN_DESCRIPTION	¡El milagro de la nanotecnología permitió crear un arma que nunca se queda sin munición! Eso sí, se calienta bastante rápido: no la pierdas de vista.		
+HELP_SCREEN_EXO_PLASMA_LAUNCHER	LANZAPLASMA		
+HELP_SCREEN_EXO_PLASMA_LAUNCHER_DESCRIPTION	Carga y lanza una bola de plasma sobrecalentado que detona al impactar, salpica todo lo cercano y deja ardiendo a los sobrevivientes. Cada disparo consume la celda de energía, así que mira el medidor antes de buscar pelea.		
+HELP_SCREEN_EXO_RAILGUN	RAILGUN		
+HELP_SCREEN_EXO_RAILGUN_DESCRIPTION	Después de cargar, dispara una ráfaga concentrada de energía que te convertirá en el alma de la fiesta. Aviso: en realidad no dispara rieles.		
+HELP_SCREEN_EXO_THRUSTERS	PROPULSORES		
+HELP_SCREEN_EXO_ARMOR	PLACAS DE ARMADURA		
+HELP_SCREEN_EXO_NANOSHIELD_FIELD	CAMPO DE NANO-ESCUDO		
+HELP_SCREEN_EXO_CATALYST_FIELD	CAMPO DE CATALYST		
+HELP_SCREEN_EXO_REGEN_FIELD	CAMPO DE REGEN		
+HELP_SCREEN_EXO_THRUSTERS_DESCRIPTION	¡Como si las gigantescas máquinas de muerte de metal no fueran ya bastante para los aliens! Esquiva en la dirección en la que te mueves, o elévate a nuevas alturas con estos elegantes propulsores.		
+HELP_SCREEN_GAS_GRENADE	GRANADA DE GAS NERVIOSO		
+HELP_SCREEN_GAS_GRENADE_DESCRIPTION	Granada de mano que les crispa los nervios a los aliens. Daña rápidamente la armadura de los jugadores y las estructuras alien.		
+HELP_SCREEN_GORE	CORNADA		
+HELP_SCREEN_GORE_DESCRIPTION	Cornea al enemigo con tu poderoso cuerno. El Onos también usa las pezuñas delanteras para destrozar estructuras enemigas.		
+HELP_SCREEN_HEAL_SPRAY	SPRAY DE CURACIÓN		
+HELP_SCREEN_HEAL_SPRAY_DESCRIPTION	¡Cura a tus compañeros, construye cosas y apaga incendios con tu propia saliva! También puede dañar a los enemigos, pero no mucho.	FIX	The file held an older English text here.
+HELP_SCREEN_JETPACK	JETPACK		
+HELP_SCREEN_JETPACK_DESCRIPTION	Conquista los cielos (mientras dure el combustible).		
+HELP_SCREEN_PULSE_GRENADE	GRANADA DE PULSO		
+HELP_SCREEN_PULSE_GRENADE_DESCRIPTION	Granada de mano que hace una explosión muy vistosa. Como efecto secundario, además drena la energía de los aliens y reduce su velocidad de ataque por un momento.		
+HELP_SCREEN_FLAMETHROWER	LANZALLAMAS		
+HELP_SCREEN_FLAMETHROWER_DESCRIPTION	Desactiva temporalmente estructuras enemigas, destruye esporas y bilis, y reduce la regeneración de energía del enemigo. Que te prendan fuego es agotador.		
+HELP_SCREEN_GORGE_STRUCTURES	ESTRUCTURAS DE GORGE		
+HELP_SCREEN_GORGE_STRUCTURES_DESCRIPTION	Fortifica un lugar tosiendo algunas estructuras.		
+HELP_SCREEN_GRENADE_LAUNCHER	LANZAGRANADAS		
+HELP_SCREEN_GRENADE_LAUNCHER_DESCRIPTION	Dispara granadas de alto poder explosivo que rebotan en las superficies y estallan en la cara de tu enemigo, o en la tuya, porque no tienen honor.		
+HELP_SCREEN_LEAP	IMPULSO		
+HELP_SCREEN_LEAP_DESCRIPTION	Patea con tus patitas de Skulk con todas tus fuerzas para salir volando en la dirección en la que miras.		
+HELP_SCREEN_LEAP_REQUIREMENT	Requiere investigar impulso		
+HELP_SCREEN_LERK_BITE	MORDIDA		
+HELP_SCREEN_LERK_BITE_DESCRIPTION	Da una mordida rápida y venenosa que daña a los Marines durante un corto tiempo.		
+HELP_SCREEN_MACHINE_GUN	AMETRALLADORA		
+HELP_SCREEN_MACHINE_GUN_DESCRIPTION	El rifle no tenía ni de cerca suficientes balas... así que aquí metimos algunas más. Buena contra formas de vida alien.		
+HELP_SCREEN_METABOLIZE	METABOLIZACIÓN		
+HELP_SCREEN_METABOLIZE_DESCRIPTION	Regenera parte de la energía del Fade.		
+HELP_SCREEN_METABOLIZE_REQUIREMENT	Requiere investigar metabolización		
+HELP_SCREEN_METABOLIZE_ADV	METABOLIZACIÓN AVANZADA		
+HELP_SCREEN_METABOLIZE_ADV_DESCRIPTION	Versión más avanzada de la metabolización. Regenera salud y energía.		
+HELP_SCREEN_METABOLIZE_ADV_REQUIREMENT	Requiere investigar metabolización avanzada		
+HELP_SCREEN_MINES	MINAS		
+HELP_SCREEN_MINES_DESCRIPTION	Haz volar en pedazos a los aliens desde el suelo, la pared o el techo. De verdad, ninguna superficie es segura para quien no quiera volar en pedazos.		
+HELP_SCREEN_PARASITE	PARÁSITO		
+HELP_SCREEN_PARASITE_DESCRIPTION	Ten vigilado al enemigo disparándole este dardo del tamaño de una aguja. Te permite a ti y a tus compañeros ver a los enemigos en cualquier parte del mapa y a través de las paredes.		
+HELP_SCREEN_PISTOL	PISTOLA		
+HELP_SCREEN_PISTOL_DESCRIPTION	Sorprendentemente precisa a larga distancia, pero no es totalmente automática como el rifle.	FIX	The file held an older English text here.
+HELP_SCREEN_RIFLE	RIFLE		
+HELP_SCREEN_RIFLE_BUTT	CULATAZO		
+HELP_SCREEN_RIFLE_BUTT_DESCRIPTION	Aplasta a un enemigo con la culata del rifle. (Aquí va un chiste sobre culatas.)	CHECK	The English jokes on "butt"; "culata" keeps a hint of it.
+HELP_SCREEN_RIFLE_DESCRIPTION	Dispara una lluvia de balas más o menos hacia donde miras. Buena arma para todo.		
+HELP_SCREEN_SHOTGUN	ESCOPETA		
+HELP_SCREEN_SHOTGUN_DESCRIPTION	Vuela a cualquier alien lo bastante tonto como para ponerse a distancia de caricia.		
+HELP_SCREEN_SKULK_BITE_DESCRIPTION	Arráncale un buen pedazo a un Marine sabroso.		
+HELP_SCREEN_SPIT	ESCUPITAJO		
+HELP_SCREEN_SPIT_DESCRIPTION	Hazles saber a los Marines exactamente lo que piensas de ellos. Excelente contra jugadores, no tanto contra estructuras.		
+HELP_SCREEN_SPIKES	ESPINAS		
+HELP_SCREEN_SPIKES_DESCRIPTION	Dispara rápidamente espinas afiladas como navajas al enemigo. Sirven para rematar objetivos sin armadura o para desgastar rivales desde lejos.		
+HELP_SCREEN_SPORES	ESPORAS		
+HELP_SCREEN_SPORES_DESCRIPTION	Crea una densa nube de esporas tóxicas que asfixia a cualquier Marine que se quede dentro el tiempo suficiente. Útil para controlar los movimientos de los Marines.		
+HELP_SCREEN_SPORES_REQUIREMENT	Requiere investigar esporas		
+HELP_SCREEN_STAB	PUÑALADA		
+HELP_SCREEN_STAB_DESCRIPTION	Da un golpe poderoso a cualquiera o cualquier cosa lo bastante tonta como para seguir ahí cuando caiga. ¡Ah, y es excelente contra estructuras!	FIX	The file held an older English text here.
+HELP_SCREEN_STAB_REQUIREMENT	Requiere investigar puñalada		
+HELP_SCREEN_STOMP	PISOTÓN		
+HELP_SCREEN_STOMP_DESCRIPTION	Golpea el suelo con tanta fuerza que derriba a los Marines cercanos. Así aprenderán a no burlarse de tu peso. ¡Es puro músculo, nene!		
+HELP_SCREEN_STOMP_REQUIREMENT	Requiere investigar pisotón		
+HELP_SCREEN_SWIPE	ZARPAZO		
+HELP_SCREEN_SWIPE_DESCRIPTION	Exactamente lo que esperarías de dos guadañas gigantes. No muy efectivo contra estructuras.		
+HELP_SCREEN_UMBRA	UMBRA		
+HELP_SCREEN_UMBRA_DESCRIPTION	Rocía una nube que detiene una pequeña parte de las balas que la atraviesan. La nube además se adhiere a los aliens que pasan por ella y les da también algo de protección temporal.		
+HELP_SCREEN_UMBRA_REQUIREMENT	Requiere investigar Umbra		
+HELP_SCREEN_WELDER	SOLDADOR		
+HELP_SCREEN_WELDER_DESCRIPTION	Repara estructuras dañadas y la armadura de tus compañeros. Te lo agradecerán... cuando deje de arder, claro.		
+HELP_SCREEN_XENOCIDE	XENOCIDIO		
+HELP_SCREEN_XENOCIDE_DESCRIPTION	La evolución transformó la ira reprimida de los Skulks en un arma poderosa. Hace un daño enorme a todos los enemigos cercanos.		
+HELP_SCREEN_XENOCIDE_REQUIREMENT	Requiere investigar xenocidio		
+HELP_SCREEN_STAB_EXO_DESCRIPTION	Un golpe lento y pesado. Golpea a un Exotraje por la espalda para hacer más del doble de daño, salvo que tenga nano-escudo. También es fuerte contra estructuras.		
+EXOSUIT	Exotraje		
+EXOSUIT_LOCKDOWN_TECH	Investigar tecnología de anclaje de Exotrajes	CHECK	"Lockdown": the Exo locks in place for accuracy.
+EXOSUIT_LOCKDOWN_TOOLTIP	Los Exotrajes pueden anclarse para ganar precisión y daño		
+EXOSUIT_TECH_TOOLTIP	Desbloquea los Exotrajes modulares.		
+EXOSUIT_TOOLTIP	Armadura pesada modular. Los Exotrajes no pueden construir, ser Commander ni ser traídos por el Beacon.	FIX	The old line described the non-modular exo and said the opposite about the Beacon.
+EXOSUIT_UPGRADE_TECH	Investigar tecnología de mejora de Exotrajes		
+EXO_REFIT	Reequipar Exotraje	CHECK	"Refit": change the modules of an Exo you already have.
+EXO_PROTOTYPE_LAB_HINT	Exotrajes		
+EXO_PROTOTYPE_LAB_TOOLTIP	Vende Exotrajes modulares e investiga sus brazos, núcleos y habilidades.		
+EXO_PROTOTYPE_LAB	Prototype Lab de Exotrajes	CHECK	Building name: Prototype Lab kept, Exotraje translated.
+EXO_ABILITIES_TECH	Habilidades de Exotraje		
+EXO_ABILITIES_TECH_TOOLTIP	Desbloquea las habilidades de apoyo del Exotraje: campo de nano-escudo, campo de catalyst y campo de regen.		
+EXO_MODULESLOT_ABILITY	Habilidad de apoyo		
+EXO_ABILITY_NANOSHIELD_FIELD	Campo de nano-escudo		
+EXO_ABILITY_NANOSHIELD_FIELD_TOOLTIP	Emite un nano-escudo ligero sobre cada Marine a menos de 8 metros. Solo Marines; no afecta a los Exotrajes. El escudo dura 1.5 segundos y reduce el daño en una quinta parte. Enfriamiento de 90 segundos.		
+EXO_ABILITY_ADRENALINE_FIELD	Campo de catalyst		
+EXO_ABILITY_ADRENALINE_FIELD_TOOLTIP	Emite un impulso de catalyst sobre cada Marine a menos de 8 metros que no haya sido potenciado en los últimos 4 segundos. Solo Marines; no afecta a los Exotrajes. El efecto dura 5 segundos. Enfriamiento de 90 segundos.		
+EXO_ABILITY_REGEN_FIELD	Campo de regen		
+EXO_ABILITY_REGEN_FIELD_TOOLTIP	Cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos (60 de salud, nada de armadura). Solo cuentan los Marines heridos. Solo Marines; no afecta a los Exotrajes. Enfriamiento de 90 segundos.		
+EXO_MODULE_ARMOR	Placas de armadura		
+EXO_MODULE_ARMOR_TOOLTIP	Placas atornilladas: 80 de armadura extra a cambio de velocidad.		
+EXO_MODULE_NONE_DESC	Deja esta ranura vacía. No cuesta nada y no añade peso, pero el Exotraje renuncia a lo que la ranura podría haber llevado.		
+EXO_MODULE_CLAW_DESC	Solo brazo izquierdo: un golpe cuerpo a cuerpo de 50 de daño estructural que nunca se agota, y la mayor armadura por el menor peso de todos los brazos. No puede disparar, así que el brazo derecho tiene que encargarse de matar.		
+EXO_MODULE_MINIGUN_DESC	Manguera de balas de medio alcance, sin munición que recargar: 6 de daño pesado por bala, la mejor opción contra formas de vida grandes y con armadura. Se sobrecalienta tras 3.5 segundos de fuego sostenido y es, por mucho, el brazo más pesado: con dos, el traje es un tanque lento.		
+EXO_MODULE_RAILGUN_DESC	Disparo de largo alcance: carga un segundo para llevarlo de 20 a 120 de daño estructural, y el proyectil atraviesa todos los objetivos en su línea hasta 30 metros. Poca armadura, así que conviene pelear desde atrás.		
+EXO_MODULE_PLASMALAUNCHER_DESC	Carga de plasma lanzada en arco: 40 de daño en una explosión de 4 metros más daño persistente. Un impacto directo electrifica al alien alcanzado durante 3.5 segundos: le quita la membrana mucosa y la enzima, y frena sus ataques. Control de enjambres, no un arma de asedio. Una bomba con la celda llena, y luego una cada 2 segundos.		
+EXO_MODULE_FLAMETHROWER_DESC	Tiene un cono más ancho que el lanzallamas de los Marines, 9 de daño por pulso hasta 9 metros; prende fuego a aliens y estructuras y quema esporas y Umbra; las bombas de bilis lo atraviesan. No puede soldar y se sobrecalienta tras 10 segundos.		
+EXO_MODULE_THRUSTERS_DESC	Módulo de núcleo: una embestida en el suelo que da 2.5 de velocidad extra cuando la pidas, gastando 4 de energía por segundo de la celda de combustible. Buena para alcanzar un objetivo o cortar una persecución; no da elevación.		
+EXO_MODULE_EJECTIONSEAT_DESC	Módulo de núcleo: cuando al traje se le acaba la armadura, sales despedido en lugar de morir dentro, pero el Exotraje se destruye. Eyectarse a mano tarda medio segundo en lugar de uno. Salva al Marine, no al traje.		
+EXO_MODULE_ARMOR_DESC	Módulo de núcleo: 80 de armadura extra atornillada, que se paga con velocidad.		
+EXO_MODULE_NANOSHIELD_DESC	Habilidad de apoyo en la tecla de recarga: un nano-escudo ligero sobre cada Marine a menos de 8 metros durante 1.5 segundos, que reduce el daño que reciben en una quinta parte. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si no hay ningún Marine al alcance, la activación se rechaza y la carga se conserva.		
+EXO_MODULE_CATPACK_DESC	Habilidad de apoyo en la tecla de recarga: da a cada Marine a menos de 8 metros un impulso de catalyst durante 5 segundos, para que se muevan y recarguen más rápido. Se omite a los Marines potenciados en los últimos 4 segundos. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si ningún Marine al alcance puede recibir el impulso, la activación se rechaza y la carga se conserva.		
+EXO_MODULE_NANOREPAIR_DESC	Habilidad de apoyo en la tecla de recarga: cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos, 60 de salud en total. Solo salud, nada de armadura; solo Marines, y 90 segundos de enfriamiento. Solo cuentan los Marines heridos: si no hay ninguno al alcance, la activación se rechaza y la carga se conserva.		
+EXO_EJECT_HOLD_HINT	Mantén presionado para eyectarte		
+EXO_EJECT_HOLD_PROGRESS	Eyectando %d%%		
+EXO_EJECT_BLOCKED_FORMAT	No puedes eyectarte: %s		
+EXO_EJECT_REASON_COMBAT	en combate	CHECK	Fills "No puedes eyectarte: %s".
+EXO_EJECT_REASON_AIRBORNE	en el aire	CHECK	Same.
+EXO_EJECT_REASON_DEPLOYING	desplegando	CHECK	Same.
+EXO_EJECT_REASON_BASE	en la base	CHECK	Same; I could not confirm what "base" means here.
+EXO_ABILITY_COOLDOWN_FORMAT	%s  %d s		
+EXO_ABILITY_TARGETS_FORMAT	%s  %d al alcance		
+EXO_ABILITY_TARGETS_FORMAT_CATALYST	%s  %d por potenciar		
+EXO_ABILITY_TARGETS_FORMAT_REGEN	%s  %d heridos		
+EXO_FIELD_BUFFED_BY	%s de %s	CHECK	"Field name from player name".
+EXO_ABILITY_NO_TARGETS	No hay Marines al alcance		
+EXO_ABILITY_NO_TARGETS_CATALYST	No hay Marines por potenciar		
+EXO_ABILITY_NO_TARGETS_REGEN	No hay Marines heridos al alcance		
+EXO_MODULESLOT_LEFT_ARM	Arma del brazo izquierdo		
+EXO_MODULESLOT_RIGHT_ARM	Arma del brazo derecho		
+EXO_MODULESLOT_UTILITY	Módulo de núcleo		
+EXO_MODULE_CLAW	Garra		
+EXO_MODULE_PLASMALAUNCHER	Lanzaplasma		
+EXO_MODULE_THRUSTERS	Propulsores		
+EXO_MODULE_EJECTIONSEAT	Asiento eyectable		
+EXO_MODULE_NONE	Ninguno		
+EXO_MODULE_NONE_TOOLTIP	Parece ser un montón de nada.		
+EXO_MODULE_INCOMPATIBLE	No se puede montar junto al otro brazo		
+EXO_BUY_ARMOR_SPEED_FORMAT	%d de armadura   %d%% de velocidad		
+EXO_BUY_SPEED_BASELINE	Marine caminando = 100% de velocidad		
+EXO_MODULE_CLAW_TAGS	CUERPO A CUERPO | ESTRUCTURAL | 50 DAÑO		
+EXO_MODULE_MINIGUN_TAGS	MEDIO ALCANCE | PESADO | 6 DAÑO POR BALA		
+EXO_MODULE_RAILGUN_TAGS	LARGO ALCANCE | ESTRUCTURAL | 20-120 | ATRAVIESA		
+EXO_MODULE_PLASMALAUNCHER_TAGS	MEDIO ALCANCE | NORMAL | 40 + PERSISTENTE | ÁREA | DESCARGA		
+EXO_MODULE_FLAMETHROWER_TAGS	CORTO ALCANCE | FUEGO | 9 POR PULSO | CONO | QUEMA		
+EXO_MODULE_THRUSTERS_TAGS	MOVILIDAD | EMBESTIDA | COMBUSTIBLE		
+EXO_MODULE_EJECTIONSEAT_TAGS	SUPERVIVENCIA | EYECCIÓN AUTOMÁTICA | EYECCIÓN RÁPIDA		
+EXO_MODULE_ARMOR_TAGS	DEFENSA | +80 ARMADURA		
+EXO_MODULE_NANOSHIELD_TAGS	APOYO | CAMPO DE 8 M | ESCUDO | 90 S		
+EXO_MODULE_CATPACK_TAGS	APOYO | CAMPO DE 8 M | VELOCIDAD | 90 S		
+EXO_MODULE_NANOREPAIR_TAGS	APOYO | CAMPO DE 8 M | CURACIÓN | 90 S		
+EXOSUIT_MODULAR_TOOLTIP	Armadura pesada configurable. Los brazos, el módulo de núcleo y la habilidad de apoyo se eligen en el Prototype Lab de Exotrajes, y un Exotraje ya equipado se puede reequipar en cualquier Armory.		
+EXOSUIT_MODULAR_BUYDESCRIPTION	Armadura pesada motorizada: mucha armadura a cambio de movilidad. No puede construir ni ser Commander; los soldadores y los MACs lo reparan. Se reequipa en cualquier Armory.		
+EXO_DETAILS_ARMOR_BAR	ARMADURA:		
+EXO_DETAILS_SPEED_BAR	VELOCIDAD:		
+EXO_MODULE_LOCKED_FORMAT	Requiere %s		
+EXO_DETAILS_TOTAL	Total		
+EXO_DETAILS_REFIT	Reequipar		
+EXO_DETAILS_MODULE_COST_FORMAT	Costo del módulo: %d		
+EXO_MODULE_LOCKED_BOTH_FORMAT	Requiere %s y %s		
+EXO_BUY_REFUSED_HOST	Se necesita un Prototype Lab de Exotrajes construido		
+EXO_BUY_REFUSED_UNCHANGED	Este es el traje que llevas puesto		
+EXO_BUY_REFUSED_FUNDS	No hay suficientes recursos		

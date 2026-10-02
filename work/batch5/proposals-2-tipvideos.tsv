@@ -1,0 +1,161 @@
+TIPVIDEO_1_EXO_EXOSUIT_BOOSTERS	Con el módulo de núcleo Propulsores, mantén presionado Shift para impulsarte hacia delante, o mantén presionado Espacio para flotar.	FIX	New English text (modular exo). Keys: "Shift" and "Espacio" here and below; say if you prefer "Mayús.".
+TIPVIDEO_1_EXO_EXOSUIT_BOOSTERS_TITEL	Exotraje: Propulsores	FIX	Exotraje; typo "Exoesquelto".
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS	Los Exotrajes pueden aplastar huevos alien al caminar sobre ellos.	FIX	"chafar" is Spain-only.
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS_TITEL	Exotraje: Aplastar huevos	FIX	Same.
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_TITEL	Exotraje: Aplastar huevos	FIX	Same.
+TIPVIDEO_1_EXO_EXOSUIT_EJECT	Puedes eyectarte de tu Exotraje manteniendo presionado G.	FIX	Hold, not press; presionar.
+TIPVIDEO_1_EXO_EXOSUIT_EJECT_TITEL	Exotraje: Eyectar	FIX	Exotraje.
+TIPVIDEO_1_EXO_EXOSUIT_MINI_GUN_OVERHEAT	Las Miniguns se sobrecalientan si disparas sin parar.	FIX	Minigun capitalized.
+TIPVIDEO_1_EXO_EXOSUIT_MINI_GUN_OVERHEAT_TITEL	Exotraje: Sobrecalentamiento de Miniguns	FIX	Typo "Sobrecalentiamiento".
+TIPVIDEO_1_EXO_EXOSUIT_RAIL_GUNS	Mantén presionado el click derecho para cargar la Railgun. El disparo puede atravesar objetivos.	FIX	presionar; click derecho, as in English.
+TIPVIDEO_1_EXO_EXOSUIT_RAIL_GUNS_TITEL	Exotraje: Railguns	FIX	Exotraje.
+TIPVIDEO_1_MARINE_BURN_EFFECTS	Los lanzallamas pueden quemar el gas que dejan los Lerks y las bombas de bilis que lanzan los Gorges.		
+TIPVIDEO_1_MARINE_BURN_EFFECTS_TITEL	Efectos de las llamas		
+TIPVIDEO_1_MARINE_CLUSTER	Las granadas de racimo hacen un daño de área devastador, perfectas para despejar conductos de ventilación.	FIX	Cluster Grenade is "granada de racimo" in the glossary.
+TIPVIDEO_1_MARINE_CLUSTER_GRENADE	Las granadas de racimo hacen un daño de área devastador, perfectas para despejar conductos de ventilación.	FIX	Same.
+TIPVIDEO_1_MARINE_CLUSTER_GRENADE_TITEL	Granada de racimo	FIX	Same.
+TIPVIDEO_1_MARINE_DISABLE_STRUCTURES	Los lanzallamas pueden impedir que las estructuras Alien usen sus habilidades.	FIX	"prevenir" is a false friend here.
+TIPVIDEO_1_MARINE_DISABLE_STRUCTURES_TITEL	Desactivar estructuras		
+TIPVIDEO_1_MARINE_FLAMETHROWERS	Los lanzallamas hacen daño con el tiempo, drenan la energía de los Aliens y son excelentes para limpiar la infestación.	FIX	"Damage over time" was mistranslated.
+TIPVIDEO_1_MARINE_FLAMETHROWERS_TITEL	Lanzallamas		
+TIPVIDEO_1_MARINE_FLASHLIGHT	Presiona F para usar tu linterna e iluminar cuartos oscuros.	FIX	presionar; "cuarto" is the batch 1 word for a room.
+TIPVIDEO_1_MARINE_FLASHLIGHT_TITEL	Linterna		
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHER	Los lanzagranadas acaban rápido con las posiciones Alien atrincheradas; cuidado con el daño de tus propias explosiones.	FIX	Closer to the English.
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHERS	Los lanzagranadas acaban rápido con las posiciones Alien atrincheradas. Cuidado con el daño de tus propias explosiones.	FIX	Same.
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHERS_TITEL	Lanzagranadas		
+TIPVIDEO_1_MARINE_MINES	Los Marines pueden usar minas para proteger estructuras valiosas y poner trampas en conductos de ventilación.	FIX	Marines capitalized.
+TIPVIDEO_1_MARINE_MINES_TITEL	Minas		
+TIPVIDEO_1_MARINE_NERVE_GAS	Las granadas de gas nervioso dañan la armadura de los jugadores Alien y son muy efectivas contra las defensas de los Gorges.	FIX	Full glossary name.
+TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE	Las granadas de gas nervioso dañan la armadura de los Aliens que estén a su alcance.	FIX	Full glossary name; "within range" restored.
+TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE_TITEL	Granada de gas nervioso		
+TIPVIDEO_1_MARINE_PHASE_GATES	Atraviesa los portales de fase para viajar rápido entre ellos.	FIX	Phase Gate is "portal de fase" in the glossary.
+TIPVIDEO_1_MARINE_PHASE_GATES_TITEL	Portales de fase		
+TIPVIDEO_1_MARINE_PULSE	Las granadas de pulso hacen daño moderado y drenan la energía de los jugadores Alien.	FIX	"granada de pulso" per the glossary.
+TIPVIDEO_1_MARINE_PULSE_GRENADE	Las granadas de pulso pueden explotar al impactar y reducen la velocidad de ataque de los jugadores Alien.	FIX	The old line translated a different sentence.
+TIPVIDEO_1_MARINE_PULSE_GRENADE_TITEL	Granada de pulso	FIX	Glossary.
+TIPVIDEO_1_MARINE_SHOTGUNS	Las escopetas son mortales contra los Skulks a corta distancia. Apunta con cuidado.	FIX	Small wording change.
+TIPVIDEO_1_MARINE_SHOTGUNS_TITEL	Escopetas		
+TIPVIDEO_1_MARINE_STRAFE_IS_FASTER	En combate, muévete de lado. Es más rápido que caminar hacia atrás.	FIX	Closer to the English.
+TIPVIDEO_1_MARINE_STRAFE_IS_FASTER_TITEL	De lado es más rápido	FIX	"Strafe is Faster".
+TIPVIDEO_1_MARINE_SWITCH_AXE	Usa el hacha contra estructuras enemigas para ahorrar munición.	FIX	"usar" in place of "utilizar".
+TIPVIDEO_1_MARINE_SWITCH_AXE_TITEL	Hacha		
+TIPVIDEO_1_MARINE_TEAMMATE_BUILD	Cubre a tus compañeros mientras construyen.	FIX	Shorter.
+TIPVIDEO_1_MARINE_TEAMMATE_BUILD_TITEL	Cubrir al que construye	CHECK	"Teammate Build"; the old "Construcción por compañeros" missed the point of the tip.
+TIPVIDEO_1_MARINE_WEB_REMOVAL	Las telarañas se pueden eliminar con soldadores, explosivos y fuego.	FIX	telaraña and soldador per the glossary.
+TIPVIDEO_1_MARINE_WEB_REMOVAL_TITEL	Eliminar telarañas	FIX	Same.
+TIPVIDEO_1_MARINE_WELD_EXOSUITS	Los Exotrajes dañados se pueden reparar con el soldador.	FIX	Exotraje and soldador.
+TIPVIDEO_1_MARINE_WELD_EXOSUITS_TITEL	Reparar Exotrajes	FIX	Exotraje.
+TIPVIDEO_1_MARINE_WELD_FRIENDS	Usa un soldador para reparar la armadura dañada de tus compañeros. Tu armadura también se repara en el proceso.	FIX	soldador.
+TIPVIDEO_1_MARINE_WELD_FRIENDS_TITEL	Reparar compañeros		
+TIPVIDEO_1_PLAYER_ALIEN_UPGRADE_STRUCTURES	Los Spurs, Veils y Shells son estructuras sumamente valiosas. Destrúyelas.	FIX	Structures are destroyed, not killed.
+TIPVIDEO_1_PLAYER_ALIEN_UPGRADE_STRUCTURES_TITEL	Estructuras de mejoras Alien		
+TIPVIDEO_1_PLAYER_DEFEND_ARCS	Los ARCs asedian estructuras enemigas a través de las paredes. Protégelos de la resistencia Alien.	FIX	Gender (los ARCs).
+TIPVIDEO_1_PLAYER_DEFEND_ARCS_TITEL	Defender ARCs		
+TIPVIDEO_1_PLAYER_DESTROY_HARVESTERS	Destruye los Harvesters. Recolectan recursos para el enemigo.	FIX	Two sentences, as in English.
+TIPVIDEO_1_PLAYER_DESTROY_HARVESTERS_TITEL	Destruir Harvesters		
+TIPVIDEO_1_PLAYER_EXTRACTOR_COUNT	Los puntos en la esquina inferior derecha de tu HUD cuentan los Extractors de tu equipo. Cuantos más, mejor.	FIX	Extractor stays in English, plural Extractors.
+TIPVIDEO_1_PLAYER_EXTRACTOR_COUNT_TITEL	Cantidad de Extractors	FIX	Same.
+TIPVIDEO_1_PLAYER_MOVE_TOGETHER	Moverte en grupos de dos o más aumenta tus posibilidades de sobrevivir.	FIX	Small wording change.
+TIPVIDEO_1_PLAYER_MOVE_TOGETHER_TITEL	Moverse en grupo	FIX	Singular.
+TIPVIDEO_1_PLAYER_POWER_NODES	Cuando las luces del cuarto estén apagadas, reconstruye el Nodo de energía para restaurarlas.	FIX	Nodo de energía.
+TIPVIDEO_1_PLAYER_POWER_NODES_TITEL	Nodos de energía		
+TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS	Protege los Extractors. Recolectan recursos para que tu equipo los gaste en armas y equipo.	FIX	Extractors.
+TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS_TITEL	Proteger Extractors	FIX	Extractors.
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES	Las Sentries necesitan una Batería de Energía cerca para funcionar.	FIX	Batería de Energía per batch 3.
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES_TITEL	Baterías de Energía	FIX	Same.
+TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK	Con un Jetpack, toca Espacio y una dirección para esquivar a los enemigos que te atacan.		
+TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK_TITEL	Jetpack: Hacia atrás		
+TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL	Con un Jetpack, puedes mantener presionado Espacio para llegar a lugares altos. El medidor de combustible se recarga despacio.		
+TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL_TITEL	Jetpack: Subir y combustible		
+TIPVIDEO_2_ALIEN__ADRENALINE	La mejora Adrenalina te da más energía y la regenera más rápido.	FIX	adrenalina per the glossary. "Trait" as "mejora": you kept "habilidades" over "rasgos" in batch 3, and these are the upgrades.
+TIPVIDEO_2_ALIEN__ADRENALINE_TITEL	Adrenalina		
+TIPVIDEO_2_ALIEN__AURA	La mejora Aura muestra el estado de salud de los enemigos a través de las paredes.	FIX	"mejora".
+TIPVIDEO_2_ALIEN__AURA_TITEL	Aura		
+TIPVIDEO_2_ALIEN__CARAPACE	La mejora Caparazón aumenta tu armadura.	FIX	caparazón per the glossary.
+TIPVIDEO_2_ALIEN__CARAPACE_TITEL	Caparazón		
+TIPVIDEO_2_ALIEN__CELERITY	La mejora Celeridad aumenta tu velocidad de movimiento y tu aceleración.	FIX	celeridad per the glossary.
+TIPVIDEO_2_ALIEN__CELERITY_TITEL	Celeridad		
+TIPVIDEO_2_ALIEN__REGENERATION	La mejora Regeneración te cura lentamente, incluso en combate.	FIX	regeneración per the glossary.
+TIPVIDEO_2_ALIEN__REGENERATION_TITEL	Regeneración		
+TIPVIDEO_2_FADE_FADE_ASSASSINATE	El Fade es más efectivo contra Marines solos. Evita pelear contra grupos grandes.	FIX	Marines capitalized; two sentences.
+TIPVIDEO_2_FADE_FADE_ASSASSINATE_TITEL	Fade: Asesinar		
+TIPVIDEO_2_FADE_FADE_BLINK	Presiona o mantén presionado el click derecho para usar el destello y viajar increíblemente rápido.	FIX	Destello; presionar.
+TIPVIDEO_2_FADE_FADE_BLINK_TITEL	Fade: Destello		
+TIPVIDEO_2_FADE_FADE_METABOLIZE	La metabolización restaura algo de energía y, si tu Commander la mejora, también algo de salud	FIX	Metabolización.
+TIPVIDEO_2_FADE_FADE_METABOLIZE_TITEL	Fade: Metabolización		
+TIPVIDEO_2_FADE_FADE_STAB	Usa el paso de sombra después de la puñalada para llegar más lejos.	FIX	Puñalada. "Shadow step" is not in the glossary: paso de sombra?
+TIPVIDEO_2_FADE_FADE_STAB_TITEL	Fade: Puñalada		
+TIPVIDEO_2_GORGE_GORGE_BABBLERS	Los Gorges pueden colocar huevos de Babbler que crean hasta 9 esbirros controlables.	FIX	"controllable minions" restored.
+TIPVIDEO_2_GORGE_GORGE_BABBLERS_TITEL	Gorge: Babblers		
+TIPVIDEO_2_GORGE_GORGE_BABBLER_ATTACH	Un Gorge puede escupir una bola cebo a un compañero. Eso ordena a sus Babblers proteger al aliado.	FIX	"bola cebo", as in the help screen.
+TIPVIDEO_2_GORGE_GORGE_BABBLER_ATTACH_TITEL	Gorge: Escudo de Babblers		
+TIPVIDEO_2_GORGE_GORGE_BABBLER_SELF	Los Gorges pueden hacer rebotar una bola cebo en una pared para que los Babblers se les peguen.	FIX	"bola cebo"; the wall restored.
+TIPVIDEO_2_GORGE_GORGE_BABBLER_SELF_TITEL	Gorge: Escudo propio de Babblers		
+TIPVIDEO_2_GORGE_GORGE_BAIT_BALL	Los Gorges pueden escupir una bola cebo para ordenar a los Babblers atacar esa zona.	FIX	"bola cebo"; full sentence.
+TIPVIDEO_2_GORGE_GORGE_BAIT_BALL_TITEL	Gorge: Bola cebo	FIX	Same.
+TIPVIDEO_2_GORGE_GORGE_BELLY_SLIDE	Los Gorges pueden presionar Shift para deslizarse sobre la panza y escapar del peligro.	FIX	presionar.
+TIPVIDEO_2_GORGE_GORGE_BELLY_SLIDE_TITEL	Gorge: Deslizarse de panza	CHECK	"Belly Slide".
+TIPVIDEO_2_GORGE_GORGE_BILE_BOMB	Los Gorges pueden lanzar bombas de bilis, excelentes para destruir armadura y estructuras.	FIX	Bomba de Bilis.
+TIPVIDEO_2_GORGE_GORGE_BILE_BOMB_TITEL	Gorge: Bomba de Bilis	FIX	Same.
+TIPVIDEO_2_GORGE_GORGE_CLOGS	Arma tu muro de Clogs para limitar el movimiento de los Marines o forzarlos a reposicionarse. 	FIX	"forzarlos" (neutral Latin American); trailing space kept as in English.
+TIPVIDEO_2_GORGE_GORGE_CLOGS_TITEL	Gorge: Clogs		
+TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS_	Un Gorge curando a un Onos es excelente para atacar posiciones fortificadas de los Marines.	FIX	Agreement; Marines capitalized.
+TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS__TITEL	Gorge: Curar Onos		
+TIPVIDEO_2_GORGE_GORGE_TUNNELS	Los Gorges pueden construir dos entradas de túnel de Gorge que crean un atajo de ida y vuelta.	FIX	Two entrances of one tunnel; two-way.
+TIPVIDEO_2_GORGE_GORGE_TUNNELS_TITEL	Gorge: Túneles		
+TIPVIDEO_2_GORGE_GORGE_WEBS	Los Gorges pueden crear telarañas que atrapan a los enemigos.	FIX	telaraña.
+TIPVIDEO_2_GORGE_GORGE_WEBS_TITEL	Gorge: Telarañas		
+TIPVIDEO_2_LERK_LERK_HIT_AND_RUN	Como Lerk, ataca y retírate para evitar el fuego enemigo.	FIX	Tighter.
+TIPVIDEO_2_LERK_LERK_HIT_AND_RUN_TITEL	Lerk: Atacar y retirarse	FIX	Same.
+TIPVIDEO_2_LERK_LERK_UMBRA	Los Lerks pueden usar la Umbra para proteger a sus aliados del fuego enemigo.	FIX	Small wording change.
+TIPVIDEO_2_LERK_LERK_UMBRA_TITEL	Lerk: Umbra		
+TIPVIDEO_2_ONOS_ONOS_BONE_SHIELD	El escudo de huesos del Onos bloquea todo el daño frontal mientras se usa.	FIX	Escudo de Huesos.
+TIPVIDEO_2_ONOS_ONOS_BONE_SHIELD_TITEL	Onos: Escudo de Huesos		
+TIPVIDEO_2_ONOS_ONOS_CHARGE	Como Onos, mantén presionado Shift para cargar rápido hacia delante.	FIX	presionar.
+TIPVIDEO_2_ONOS_ONOS_CHARGE_TITEL	Onos: Carga		
+TIPVIDEO_2_ONOS_ONOS_DON_T_OVER_COMMIT	Al Onos lo pueden superar fácilmente. No te comprometas de más en peleas donde te superan en número.	FIX	Clearer.
+TIPVIDEO_2_ONOS_ONOS_DON_T_OVER_COMMIT_TITEL	Onos: No te comprometas de más	FIX	Same.
+TIPVIDEO_2_ONOS_ONOS_STOMP	Presiona el click derecho para dar un pisotón que lanza una onda de choque, daña y derriba a los jugadores.	FIX	Pisotón; presionar; typo "envíando".
+TIPVIDEO_2_ONOS_ONOS_STOMP_TITEL	Onos: Pisotón		
+TIPVIDEO_2_PLAYER_ABILITIES	Usar habilidades cuesta energía. Cuando tienes poca energía, no puedes usarlas.	FIX	Two sentences.
+TIPVIDEO_2_PLAYER_ABILITIES_TITEL	Habilidades		
+TIPVIDEO_2_PLAYER_CYSTS	Los Cysts se enlazan en cadenas para hacer crecer la infestación.	FIX	Cysts capitalized.
+TIPVIDEO_2_PLAYER_CYSTS_TITEL	Cysts		
+TIPVIDEO_2_PLAYER_DESTROY_ARCS	Destruye los ARCs. Son un gran peligro para tu base. Cuidado con los Marines que los protegen.	FIX	Typo "protengiéndolos".
+TIPVIDEO_2_PLAYER_DESTROY_ARCS_TITEL	Destruir ARCs		
+TIPVIDEO_2_PLAYER_DESTROY_ARMS_LAB	Destruye los Arms Labs de los Marines para debilitar su potencia de fuego y su armadura.	FIX	Plural; "cripple".
+TIPVIDEO_2_PLAYER_DESTROY_ARMS_LAB_TITEL	Destruir Arms Lab		
+TIPVIDEO_2_PLAYER_DESTROY_EXTRACTORS	Destruye los Extractors. Recolectan recursos para el enemigo.	FIX	Extractors.
+TIPVIDEO_2_PLAYER_DESTROY_EXTRACTORS_TITEL	Destruir Extractors	FIX	Infinitive, like the other titles; Extractors.
+TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS	Destruye los Infantry Portals de los Marines. Reducirá mucho su ritmo de reaparición.	FIX	It slows respawns, it does not stop them.
+TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS_TITEL	Destruir Infantry Portals		
+TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES	Destruye los Observatories de los Marines para impedir que su Commander traiga de vuelta a su equipo.	FIX	Observatory stays in English; "prevenir" false friend.
+TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES_TITEL	Destruir Observatories	FIX	Same.
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES	Destruye los portales de fase de los Marines para impedir que lleguen refuerzos.	FIX	portal de fase.
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES_TITEL	Destruir portales de fase	FIX	Same.
+TIPVIDEO_2_PLAYER_INFESTATION	La mayoría de las estructuras Alien necesitan infestación debajo para construirse. Sin ella reciben daño y mueren.	FIX	Tighter.
+TIPVIDEO_2_PLAYER_INFESTATION_TITEL	Infestación		
+TIPVIDEO_2_PLAYER_POWER_NODES	Destruir los Nodos de energía apaga las luces y desactiva las estructuras de los Marines.	FIX	Nodo de energía.
+TIPVIDEO_2_PLAYER_POWER_NODES_TITEL	Nodos de energía		
+TIPVIDEO_2_PLAYER_PROTECT_HARVESTERS	Protege los Harvesters. Recolectan recursos para que tu equipo los gaste en formas de vida y mejoras.	FIX	forma de vida per the glossary.
+TIPVIDEO_2_PLAYER_PROTECT_HARVESTERS_TITEL	Proteger Harvesters		
+TIPVIDEO_2_PLAYER_RESOURCE_COLLECTOR_COUNT	Los puntos en la esquina inferior derecha de tu HUD cuentan los Harvesters de tu equipo. Cuantos más, mejor.	FIX	Agreement.
+TIPVIDEO_2_PLAYER_RESOURCE_COLLECTOR_COUNT_TITEL	Cantidad de Harvesters	FIX	The tip is about Harvesters.
+TIPVIDEO_2_PLAYER_SENTRY_ARCS	Las Sentries tienen ángulos de disparo limitados. Atácalas por detrás.	FIX	Gender (las Sentries).
+TIPVIDEO_2_PLAYER_SENTRY_ARCS_TITEL	Ángulos de las Sentries		
+TIPVIDEO_2_PLAYER_STRUCTURES_GROW	Las estructuras Alien crecen lentamente por sí solas, pero un Gorge o un Drifter las construye más rápido.	FIX	Tighter.
+TIPVIDEO_2_PLAYER_STRUCTURES_GROW_TITEL	Crecimiento de estructuras		
+TIPVIDEO_2_SKULK_SKULK_LEAP	Los Skulks pueden usar el impulso con el click derecho para cubrir distancias rápidamente.	FIX	Impulso; presionar.
+TIPVIDEO_2_SKULK_SKULK_LEAP_TITEL	Skulk: Impulso		
+TIPVIDEO_2_SKULK_SKULK_PARASITE	Los Skulks pueden usar el parásito sobre los Marines para seguirlos a través de las paredes.	FIX	parásito.
+TIPVIDEO_2_SKULK_SKULK_PARASITE_TITEL	Skulk: Parásito		
+TIPVIDEO_2_SKULK_SKULK_WALL_JUMP	Como Skulk, encadena saltos por las paredes para alcanzar velocidades increíbles.	FIX	Imperative, as in English.
+TIPVIDEO_2_SKULK_SKULK_WALL_JUMP_TITEL	Skulk: Salto de pared	FIX	As in the Skulk challenge tips.
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT	Las Hidras se pueden colocar en suelos, paredes y techos.	FIX	Hidra; the old line repeated "hydras".
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT_TITEL	Gorge: Colocación de Hidras	FIX	Hidra.
+TIPVIDEO_3_PLAYER_PING_MAP	Presiona el botón central del mouse para colocar un marcador y llamar la atención de tu equipo.	FIX	presionar; mouse.
+TIPVIDEO_3_PLAYER_PING_MAP_TITEL	Marcar en el mapa	FIX	Matches the request menu.
+TIPVIDEO_3_PLAYER_USING_THE_MICROPHONE	Presiona ALT para usar tu micrófono. Es un medio de comunicación efectivo	FIX	presionar.
+TIPVIDEO_3_PLAYER_USING_THE_MICROPHONE_TITEL	Usar el micrófono	FIX	"usar".
+TIPVIDEO_3_PLAYER_X_MENU	Mantén presionado X para abrir tu menú de comunicación.	FIX	Hold, not press.
+TIPVIDEO_3_PLAYER_X_MENU_TITEL	Menú X	FIX	"X Menu".
