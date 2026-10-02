@@ -1,0 +1,326 @@
+Competitive Play	THUNDERDOME_TUTORIAL_MARINE_TITLE	Marine Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_MARINE_DESC	Complete the Marine Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_ALIEN_TITLE	Alien Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_ALIEN_DESC	Complete the Alien Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_SKULKCHALLENGE_TITLE	Play Skulk Challenge		missing
+Competitive Play	THUNDERDOME_TUTORIAL_SKULKCHALLENGE_DESC	Play Skulk Challenge at least once		missing
+Competitive Play	THUNDERDOME_TUTORIAL_MARINECOM_TITLE	Marine Comm Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_MARINECOM_DESC	Complete the Marine Commander Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_ALIENCOM_TITLE	Alien Comm Tutorial		missing
+Competitive Play	THUNDERDOME_TUTORIAL_ALIENCOM_DESC	Complete the Alien Commander Tutorial		missing
+Competitive Play	THUNDERDOME_SEARCHING_FOR_LOBBY	Searching For Lobby		missing
+Competitive Play	THUNDERDOME_FETCHING_HIVE_DATA	Fetching Hive Profile		missing
+Competitive Play	THUNDERDOME_LOADING_LOCAL_DATA	Initializing Competitive Play data		missing
+Competitive Play	THUNDERDOME_MAPSELECTIONTITLE	SELECT 3 MAPS IN ORDER OF PREFERENCE		missing
+Competitive Play	THUNDERDOME_MAPSELECTIONDESC	SELECT THREE		missing
+Competitive Play	THUNDERDOME_VOTEBUTTON_VOTED	VOTED		missing
+Competitive Play	THUNDERDOME_VOTEBUTTON_FIRSTCHOICE	FIRST CHOICE		missing
+Competitive Play	THUNDERDOME_VOTEBUTTON_SECONDCHOICE	SECOND CHOICE		missing
+Competitive Play	THUNDERDOME_VOTEBUTTON_THIRDCHOICE	THIRD CHOICE		missing
+Competitive Play	THUNDERDOME_MAP_NS2_AYUMI	AYUMI		missing
+Competitive Play	THUNDERDOME_MAP_NS2_CAGED	CAGED		missing
+Competitive Play	THUNDERDOME_MAP_NS2_BIODOME	BIODOME		missing
+Competitive Play	THUNDERDOME_MAP_NS2_DERELICT	DERELICT		missing
+Competitive Play	THUNDERDOME_MAP_NS2_DESCENT	DESCENT		missing
+Competitive Play	THUNDERDOME_MAP_NS2_ECLIPSE	ECLIPSE		missing
+Competitive Play	THUNDERDOME_MAP_NS2_DOCKING	DOCKING		missing
+Competitive Play	THUNDERDOME_MAP_NS2_KODIAK	KODIAK		missing
+Competitive Play	THUNDERDOME_MAP_NS2_ORIGIN	ORIGIN		missing
+Competitive Play	THUNDERDOME_MAP_NS2_MINESHAFT	MINESHAFT		missing
+Competitive Play	THUNDERDOME_MAP_NS2_METRO	METRO		missing
+Competitive Play	THUNDERDOME_MAP_NS2_SUMMIT	SUMMIT		missing
+Competitive Play	THUNDERDOME_MAP_NS2_TANITH	TANITH		missing
+Competitive Play	THUNDERDOME_MAP_NS2_TRAM	TRAM		missing
+Competitive Play	THUNDERDOME_MAP_NS2_REFINERY	REFINERY		missing
+Competitive Play	THUNDERDOME_MAP_NS2_UNEARTHED	UNEARTHED		missing
+Competitive Play	THUNDERDOME_MAP_NS2_VEIL	VEIL		missing
+Competitive Play	THUNDERDOME_MAP_RANDOMIZE	RANDOMIZE		missing
+Competitive Play	THUNDERDOME_VOTEFORMAP	CLICK TO VOTE FOR MAP		missing
+Competitive Play	THUNDERDOME_TABBUTTON_QUIT	CANCEL		missing
+Competitive Play	THUNDERDOME_TABBUTTON_LEAVE	LEAVE		missing
+Competitive Play	THUNDERDOME_TABBUTTON_BACK	BACK		missing
+Competitive Play	THUNDERDOME_CHAT_LABEL	CHAT		missing
+Competitive Play	THUNDERDOME_CHATTEAM_LABEL	TEAM CHAT		missing
+Competitive Play	THUNDERDOME_PLANNING_PICKLIFEFORMS	Pick your preferred lifeform(s):		missing
+Competitive Play	THUNDERDOME_SEARCHING	Searching		missing
+Competitive Play	THUNDERDOME_EMPTY_PLAQUE	< EMPTY >		missing
+Competitive Play	THUNDERDOME_VOLUNTEER_TO_COMMAND	VOLUNTEER TO COMMAND		missing
+Competitive Play	THUNDERDOME_WAITING_FOR_PLAYERS	WAITING FOR PLAYERS		missing
+Competitive Play	THUNDERDOME_WAITING_FOR_COMMANDERS	WAITING FOR COMMANDERS		missing
+Competitive Play	THUNDERDOME_WAITING_FOR_MAPVOTE	WAITING FOR MAP VOTE		missing
+Competitive Play	THUNDERDOME_TEAM_ROLE_WIDGET_TITLE	YOUR TEAM		missing
+Competitive Play	THUNDERDOME_PLANNING_PHASE	PLANNING PHASE		missing
+Competitive Play	THUNDERDOME_LOBBY_TITLE	LOBBY		missing
+Competitive Play	THUNDERDOME_LOBBY_PRIVATE_TITLE	PRIVATE LOBBY		missing
+Competitive Play	THUNDERDOME_WAITING_FOR_SERVER	SPINNING UP SERVER ~%ds		missing
+Competitive Play	THUNDERDOME_MAPSELECTION_CONFIRM_BUTTON	CONFIRM AND LOCK VOTES		missing
+Competitive Play	THUNDERDOME_MAPSELECTION_CONFIRM_BUTTON_LOCKED	VOTED		missing
+Competitive Play	THUNDERDOME_TECHPOINTLEGEND_LABEL	Techpoints		missing
+Competitive Play	THUNDERDOME_RESOURCENODE_LEGEND_LABEL	Resource Nodes		missing
+Competitive Play	THUNDERDOME_COMMANDER	COMMANDER		missing
+Competitive Play	THUNDERDOME_SERVER_WAIT_FAILED	Server spinup failed		missing
+Competitive Play	THUNDERDOME_MATCH_PROCESS_FAILED	Match Process Failed		missing
+Competitive Play	THUNDERDOME_SERVER_CONNECT_FAILED	Could not connect to Competitive Play Server.		missing
+Competitive Play	THUNDERDOME_HIVEPROFILEFAILED	Hive profile could not be fetched.		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_ERROR_TITLE	Competitive Play Error		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_RECONNECT_PROMPT	Reconnect to last Competitive Play server?		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_LOBBYINVITE_PROMPT	has invited you to join their lobby. Join the lobby?		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_PROMPT	You were kicked for being idle too long. If you do not rejoin the match, you will be penalized.\n\nDo you want to rejoin?		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_NO_PEN_PROMPT	You were kicked for being idle too long. Do you want to rejoin?		missing
+Competitive Play	THUNDERDOME_LOBBY_LIFESPAN_TIMEOUT	You were idle too long in a Lobby and automatically left the lobby.		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_TIMEOUT_PENALIZED_TITLE	AFK Kicked		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_PENALZIED	You have been penalized for being AFK too long.		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_PENALIZED	You have been penalized for leaving a match before both rounds were completed. Competitive Play is unavailable at this time.		missing
+Competitive Play	THUNDERDOME_OWNER_CHANGE_FAILED	No lobby members could complete a task. (Likely System or Steam is down)		missing
+Competitive Play	THUNDERDOME_SYSTEM_DISABLED	Competitive Play is currently disabled. This may be due to regular maintenance or a system outage. Please try again later.		missing
+Competitive Play	THUNDERDOME_STEAMOFFLINE	Steam is Offline or internet connection lost. Competitive Play is unavailable without Steam.\nPlease try again later.		missing
+Competitive Play	THUNDERDOME_SEARCH_FAILED	Could not find a lobby!		missing
+Competitive Play	THUNDERDOME_BANNED	Competitive Play is not available. Your Steam account has an active ban.		missing
+Competitive Play	THUNDERDOME_ROUND_AWAITING_ALL_CLIENTS	Round begins when all Players are connected		missing
+Competitive Play	THUNDERDOME_FIRST_ROUND	First Round		missing
+Competitive Play	THUNDERDOME_SECOND_ROUND	Second Round		missing
+Competitive Play	THUNDERDOME_OVERVIEW_MAP_LABEL	MAP		missing
+Competitive Play	THUNDERDOME_LEAVE_WARNING_TITLE	Leaving Competitive Play		missing
+Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE	Are you sure you want to leave Competitive Play?		missing
+Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY	A Match is in progress, you will be penalized.\nAre you sure you want to leave?		missing
+Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY_INGAME	The Match is still in progress, you will be penalized.\nAre you sure you want to leave?		missing
+Competitive Play	THUNDERDOME_MATCHMAKE_START_WARNING_TITLE	Warning		missing
+Competitive Play	THUNDERDOME_MATCHMAKE_START_WARNING_MESSAGE	You will be matched with other players for two rounds and cannot leave without penalties until both rounds are completed!		missing
+Competitive Play	THUNDERDOME_MUTE_PLAYER_CHAT	Mute Text Chat		missing
+Competitive Play	THUNDERDOME_UNMUTE_PLAYER_CHAT	Unmute Text Chat		missing
+Competitive Play	THUNDERDOME_VIEW_PLAYER_STEAM_PROFILE	View Steam Profile		missing
+Competitive Play	THUNDERDOME_ADD_TO_FRIENDS	Add to Friends		missing
+Competitive Play	THUNDERDOME_VOTE_TO_KICK	Vote to Kick		missing
+Competitive Play	THUNDERDOME_KICK_PLAYER	Kick Player		missing
+Competitive Play	THUNDERDOME_LOBBYSCRN_INVITE_BUTTON_LABEL	Invite Friends		missing
+Competitive Play	THUNDERDOME_FRIENDENTRY_INVITE_BUTTON_LABEL	Click to Invite to your Lobby		missing
+Competitive Play	THUNDERDOME_MISSION_TITLE	REWARD PROGRESSION		missing
+Competitive Play	THUNDERDOME_MISSION_TITLE1	COMPLETE THE		missing
+Competitive Play	THUNDERDOME_MISSION_TITLE2	MISSION:		missing
+Competitive Play	THUNDERDOME_REWARDS_LOCKED_TEXT	COMPLETE THE MISSION TO UNLOCK REWARDS		missing
+Competitive Play	THUNDERDOME_REWARDS_PLAY_TITLE	RANKED PLAY REWARDS		missing
+Competitive Play	THUNDERDOME_REWARDS_PLAY_DESC	Unlock exclusive rewards by playing on ranked servers!		missing
+Competitive Play	THUNDERDOME_REWARDS_PLAY_DESC_DISABLED	Button Disabled. You are already in a match!		missing
+Competitive Play	THUNDERDOME_REWARDS_PLAY_QUEUEBUTTON_TOPTEXT	BROWSE		missing
+Competitive Play	THUNDERDOME_REWARDS_PLAY_QUEUEBUTTON_BOTTEXT	SERVERS		missing
+Competitive Play	THUNDERDOME_REWARDS_HOURSLINE_LABEL	PLAY HOURS		missing
+Competitive Play	THUNDERDOME_REWARDS_VICTORIESLINE_LABEL	PLAY VICTORIES		missing
+Competitive Play	THUNDERDOME_REWARDS_QUEUE_BTN_INVALID_MSG	You are already connected to a server.		missing
+Competitive Play	THUNDERDOME_REWARDS_QUEUE_BTN_INVALID_TITLE	Already Connected		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_1	Reticulating Splines		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_2	Overclocking The Mainframe		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_3	Retro Encabulator Vanes Warming		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_4	Readying Ready Room		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_5	Recalibrating Phase Matrix		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_6	Adjusting Flux Capacitor		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_7	Buying Aurora Tickets		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_8	Programming MAC Coffee Routine		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_9	Charging Sentry Batteries		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_10	Refueling The Jetpacks		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_11	Changing Exosuit Oil		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_12	Restocking The Thirsty Onos		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_13	Unpacking The Mines		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_14	Nanite Server Cooling Initiated		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_15	Infesting Network Cables		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_16	Computing Solution 42		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_17	Negotiating With HAL		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_19	Calibrating Dropship Flight Plan		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_20	Putting Nutrients In The Mist		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_21	Unwelding The Vents		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_22	Herding The Nanites		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_23	Fading Through Folded Space		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_24	Relocating The Dope Fish		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_25	Bulk Ordering Clogs		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_26	Finding The Lost Babblers		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_27	Generating Gorge Love		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_28	Restocking The Armory		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_29	Containerizing Alien Eggs		missing
+Competitive Play	THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_30	Refilling Shade Ink		missing
+Competitive Play	THUNDERDOME_LOBBY_JOIN_FAILED_GENERIC	Could not join lobby.		missing
+Competitive Play	THUNDERDOME_LOBBY_CREATE_FAILED_GENERIC	Could not create lobby.		missing
+Competitive Play	THUNDERDOME_TEAM_ALIENS	Aliens		missing
+Competitive Play	THUNDERDOME_TEAM_MARINES	Marines		missing
+Competitive Play	THUNDERDOME_COMMANDER_VOLUNTEER_TITLE	Confirm Commander Role		missing
+Competitive Play	THUNDERDOME_COMMANDER_VOLUNTEER_MESSAGE	Are you sure you want to volunteer to command? No turning back!		missing
+Competitive Play	THUNDERDOME_RULES_TIMER_WAITCONNECT_PLAYERS	Waiting for Connecting Players		missing
+Competitive Play	THUNDERDOME_RULES_TIMER_ASSIGN_PLAYERS	Assigning Teams		missing
+Competitive Play	THUNDERDOME_RULES_TIMER_NEXTROUND_DELAY	Next Round		missing
+Competitive Play	THUNDERDOME_RULES_TIMER_REMATCHVOTE			missing
+Competitive Play	THUNDERDOME_RULES_TIMER_SERVER_SHUTDOWN	Server Shutdown		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_MSG	Opposing team has forfeited the Match		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_MSG_2	Your team has forfeited the Match	Your team has forfeited the Match	english
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_MSG_DESC	The round will automatically concede and then server shutdown		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG_TITLE	Teams are uneven		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG	The Match will automatically end in %s seconds		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG_TITLE	Round Time Limit		missing
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG	Competitive Play rounds are limited to %s minutes. Round will end as a Draw in %s seconds		missing
+Competitive Play	THUNDERDOME_REWARDS_PULLOUT_TITLE	RANKED PLAY REWARDS		missing
+Competitive Play	THUNDERDOME_REWARDS_DETAILS_PROGRESSLABEL	Progress remaining to reach this reward:		missing
+Competitive Play	THUNDERDOME_REWARDS_DETAILS_PROGRESSPOSTFIX_HOURS	Hours		missing
+Competitive Play	THUNDERDOME_REWARDS_DETAILS_PROGRESSPOSTFIX_VICTORIES	Victories		missing
+Competitive Play	THUNDERDOME_REWARDS_DETAILS_COMMANDER	Commander		missing
+Competitive Play	THUNDERDOME_REWARDS_NODE_COMMANDERTAG_TOPLABEL	Commander		missing
+Competitive Play	THUNDERDOME_REWARDS_NODE_COMMANDERTAG_BOTTOMLABEL_HOURS	hours unlock		missing
+Competitive Play	THUNDERDOME_REWARDS_NODE_COMMANDERTAG_BOTTOMLABEL_VICTORIES	victory unlock		missing
+Competitive Play	THUNDERDOME_REWARDS_MARKER_FIELDHOURS_TOOLTIP	Field Player Hours		missing
+Competitive Play	THUNDERDOME_REWARDS_MARKER_COMMHOURS_TOOLTIP	Commander Hours		missing
+Competitive Play	THUNDERDOME_REWARDS_MARKER_FIELDVICTORIES_TOOLTIP	Field Player Victories		missing
+Competitive Play	THUNDERDOME_REWARDS_MARKER_COMMVICTORIES_TOOLTIP	Commander Victories		missing
+Competitive Play	THUNDERDOME_REWARDS_UNLOCKS_CALLING_CARDS	Unlocks Calling Cards		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_WOOD_TITLE	WOOD RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T1_TITLE	TIER 1 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_WOOD_TITLE	WOOD PISTOL		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_WOOD_TITLE	WOOD AXE		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_GREEN_TITLE	DAMASCUS GREEN PISTOL		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T2_TITLE	TIER 2 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_GREEN_TITLE	DAMASCUS GREEN AXE		missing
+Competitive Play	THUNDERDOME_REWARD_PATCH_MADAXEGORGE_TITLE	MAD AXE GORGE PATCH		missing
+Competitive Play	THUNDERDOME_REWARD_FT_CHROMA_TITLE	CHROMA FLAMETHROWER		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_TRON_TITLE	TRON RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_SKULK_AURIC_TITLE	AURIC SKULK		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T3_TITLE	TIER 3 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_CHROMA_TITLE	CHROMA AXE		missing
+Competitive Play	THUNDERDOME_REWARD_BABBLER_AURIC_TITLE	AURIC BABBLER		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_GREEN_TITLE	DAMASCUS GREEN RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_HARVESTER_AURIC_TITLE	AURIC HARVESTER		missing
+Competitive Play	THUNDERDOME_REWARD_WELDER_CHROMA_TITLE	CHROMA WELDER		missing
+Competitive Play	THUNDERDOME_REWARD_BILEMINE_AURIC_TITLE	AURIC BILE MINE		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T4_TITLE	TIER 4 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_SKULK_WIDOW_TITLE	WIDOW SKULK		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T5_TITLE	TIER 5 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_EXOSUIT_CHROMA_TITLE	CHROMA EXOSUIT		missing
+Competitive Play	THUNDERDOME_REWARD_BMAC_CHROMA_TITLE	CHROMA B.M.A.C.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T6_TITLE	TIER 6 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_BMACMIL_CHROMA_TITLE	CHROMA MILITARY B.M.A.C.		missing
+Competitive Play	THUNDERDOME_REWARD_ONOS_AURIC_TITLE	AURIC ONOS		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T7_TITLE	TIER 7 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_MARINE_ELITEASSAULT_TITLE	CHROMA ELITE ASSAULT MARINE		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T8_TITLE	TIER 8 BADGE		missing
+Competitive Play	THUNDERDOME_REWARD_EXTRACTOR_CHROMA_TITLE	CHROMA EXTRACTOR		missing
+Competitive Play	THUNDERDOME_REWARD_ARC_CHROMA_TITLE	CHROMA ARC		missing
+Competitive Play	THUNDERDOME_REWARD_CYST_AURIC_TITLE	AURIC CYST		missing
+Competitive Play	THUNDERDOME_REWARD_DRIFTER_AURIC_TITLE	AURIC DRIFTER		missing
+Competitive Play	THUNDERDOME_REWARD_MAC_CHROMA_TITLE	CHROMA MAC		missing
+Competitive Play	THUNDERDOME_REWARD_GRENADELAUNCHER_CHROMA_TITLE	CHROMA GRENADE LAUNCHER		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_PURPLE_TITLE	DAMASCUS PURPLE RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_PURPLE_TITLE	DAMASCUS PURPLE AXE		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_BLACK_TITLE	DAMASCUS BLACK AXE		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_PURPLE_TITLE	DAMASCUS PURPLE PISTOL		missing
+Competitive Play	THUNDERDOME_REWARD_HMG_CHROMA_TITLE	CHROMA HMG		missing
+Competitive Play	THUNDERDOME_REWARD_CLOG_AURIC_TITLE	AURIC CLOG		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_BLACK_TITLE	DAMASCUS BLACK PISTOL		missing
+Competitive Play	THUNDERDOME_REWARD_SHOTGUN_CHROMA_TITLE	CHROMA SHOTGUN		missing
+Competitive Play	THUNDERDOME_REWARD_GORGE_AURIC_TITLE	AURIC GORGE		missing
+Competitive Play	THUNDERDOME_REWARD_HYDRA_AURIC_TITLE	AURIC HYDRA		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_BLACK_TITLE	DAMASCUS BLACK RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_LERK_AURIC_TITLE	AURIC LERK		missing
+Competitive Play	THUNDERDOME_REWARD_FADE_AURIC_TITLE	AURIC FADE		missing
+Competitive Play	THUNDERDOME_REWARD_EGG_AURIC_TITLE	AURIC EGG		missing
+Competitive Play	THUNDERDOME_REWARD_TUNNEL_AURIC_TITLE	AURIC TUNNEL		missing
+Competitive Play	THUNDERDOME_REWARD_HIVE_AURIC_TITLE	AURIC HIVE		missing
+Competitive Play	THUNDERDOME_REWARD_COMMANDSTATION_CHROMA_TITLE	CHROMA COMMAND STATION		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_WOOD_DESC	It will look just as good mowing down Kharaa as it will hanging above your fireplace.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T1_DESC	Welcome to the jungle!		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_WOOD_DESC	Classy as it is deadly.		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_WOOD_DESC	Get at it, lumberjack!		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_GREEN_DESC	Specially anodized damascus steel with a minty twist.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T2_DESC	Congratulations, you are no longer at the bottom of the food chain!		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_GREEN_DESC	Specially anodized damascus steel with a minty twist - The choppy version.		missing
+Competitive Play	THUNDERDOME_REWARD_PATCH_MADAXEGORGE_DESC	Calling Card and Shoulder Patch. Strike fear into the hearts of your enemies with this terrifying effigy.		missing
+Competitive Play	THUNDERDOME_REWARD_FT_CHROMA_DESC	This thing only has one setting: Extra Crispy		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_TRON_DESC	TRON RIFLE		missing
+Competitive Play	THUNDERDOME_REWARD_SKULK_AURIC_DESC	Deep in the heart of Tanith facility has crept a particularly deadly new strain of Kharaa..		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T3_DESC	Getting your toes wet, are you?		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_CHROMA_DESC	This axe has seen better days.		missing
+Competitive Play	THUNDERDOME_REWARD_BABBLER_AURIC_DESC	Add some bling to your Gorge.		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_GREEN_DESC	Specially anodized damascus steel with a minty twist - The shooty version.		missing
+Competitive Play	THUNDERDOME_REWARD_HARVESTER_AURIC_DESC	Flecked with such sparkling beauty, you'd think it was mining gold! .... wait it's not, is it?		missing
+Competitive Play	THUNDERDOME_REWARD_WELDER_CHROMA_DESC	Old' trusty, this well loved welder is sure to keep your structures and teammates well repaired.		missing
+Competitive Play	THUNDERDOME_REWARD_BILEMINE_AURIC_DESC	This gleaming little treasure has a rude surprise for those who want to crack it open to find out what's inside.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T4_DESC	Moving up in the world!		missing
+Competitive Play	THUNDERDOME_REWARD_SKULK_WIDOW_DESC	This unique aberration of Kharaa genetics is particularly nasty and patient.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T5_DESC	Hey, you can probably start bossing people around.		missing
+Competitive Play	THUNDERDOME_REWARD_EXOSUIT_CHROMA_DESC	Plated in carbon fiber alloy, this thing will send the Kharaa running for the hills.		missing
+Competitive Play	THUNDERDOME_REWARD_BMAC_CHROMA_DESC	Why someone would trick out a B.M.A.C. in plated carbon fiber is unknown, but what is known is that it is quite efficient at exterminating Kharaa.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T6_DESC	A connoisseur of competitive play in every right!		missing
+Competitive Play	THUNDERDOME_REWARD_BMACMIL_CHROMA_DESC	When all else fails, send in this elite unit of B.M.A.C. and it'll get the job done.		missing
+Competitive Play	THUNDERDOME_REWARD_ONOS_AURIC_DESC	Gilded bone and gleaming spines, tears through flesh and steel just the same!		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T7_DESC	A true champion.		missing
+Competitive Play	THUNDERDOME_REWARD_MARINE_ELITEASSAULT_DESC	The most elite of the elite. If you see one of these marines walking toward you, just go ahead and run the other way.		missing
+Competitive Play	THUNDERDOME_REWARD_BADGE_T8_DESC	Go ahead and name yourself the Babbler King, because you've earned it!		missing
+Competitive Play	THUNDERDOME_REWARD_EXTRACTOR_CHROMA_DESC	As scuffed as it may be, it still pulls resources out of the ground like nobody's business! 		missing
+Competitive Play	THUNDERDOME_REWARD_ARC_CHROMA_DESC	That Hive won't stand a chance against this puppy.		missing
+Competitive Play	THUNDERDOME_REWARD_CYST_AURIC_DESC	Just follow the yellow brick road! .... wait.		missing
+Competitive Play	THUNDERDOME_REWARD_DRIFTER_AURIC_DESC	Build your structures and support your team in the upmost of style.		missing
+Competitive Play	THUNDERDOME_REWARD_MAC_CHROMA_DESC	Yes, this MAC has seen a thing or two. I'd watch your back if I were you.		missing
+Competitive Play	THUNDERDOME_REWARD_GRENADELAUNCHER_CHROMA_DESC	Sleek and shiny, this thing will explode things and look extra cool doing it.		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_PURPLE_DESC	Specially anodized damascus steel with violent flare. I mean violet...violet flare.		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_PURPLE_DESC	You can't leave the barracks without a matching axe!		missing
+Competitive Play	THUNDERDOME_REWARD_AXE_DAMASCUS_BLACK_DESC	The very rare dark edition of the damascus steel line, this thing works exactly the same as a normal axe.		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_PURPLE_DESC	Round out the set with this murderously mauve piece.		missing
+Competitive Play	THUNDERDOME_REWARD_HMG_CHROMA_DESC	This thing fires rounds packed not with gunpowder but pure spite.		missing
+Competitive Play	THUNDERDOME_REWARD_CLOG_AURIC_DESC	Dark and spectacularly spiny, this shiny is sure to dissuade marines from entering an area!		missing
+Competitive Play	THUNDERDOME_REWARD_PISTOL_DAMASCUS_BLACK_DESC	Collectors will envy any who carry this ebony edition of the damascus steel line.		missing
+Competitive Play	THUNDERDOME_REWARD_SHOTGUN_CHROMA_DESC	Shreds through Kharaa just as easily as it shredded the last few hundred.		missing
+Competitive Play	THUNDERDOME_REWARD_GORGE_AURIC_DESC	Ultimate Gorge royalty. Make way, peasants!		missing
+Competitive Play	THUNDERDOME_REWARD_HYDRA_AURIC_DESC	A gleaming sentry sure to spot any who enter its territory.		missing
+Competitive Play	THUNDERDOME_REWARD_RIFLE_DAMASCUS_BLACK_DESC	The most prized of the damascus line - this onyx rifle will make anyone envious.		missing
+Competitive Play	THUNDERDOME_REWARD_LERK_AURIC_DESC	As deadly as it is elegant.		missing
+Competitive Play	THUNDERDOME_REWARD_FADE_AURIC_DESC	This stygian terror will have marines checking behind them at every turn.		missing
+Competitive Play	THUNDERDOME_REWARD_EGG_AURIC_DESC	You may regret cracking this open to find out what's inside. hint: it's not gold..		missing
+Competitive Play	THUNDERDOME_REWARD_TUNNEL_AURIC_DESC	Shepherd your team in style though this ferociously fabulous tunnel.		missing
+Competitive Play	THUNDERDOME_REWARD_HIVE_AURIC_DESC	The ultimate status symbol - this exotic Hive will strike fear into the hearts of your enemy and inspire your team.		missing
+Competitive Play	THUNDERDOME_REWARD_COMMANDSTATION_CHROMA_DESC	Fear for the marine who dares disobey a commander in the seat of the elite Chroma unit Command Station.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_SKULK_HUG_DESC	Calling Card. Unlocking this will also unlock the Calling Cards feature!		missing
+Competitive Play	THUNDERDOME_REWARD_CC_DONT_BLINK_DESC	Calling Card. If you hear it, it's too late!		missing
+Competitive Play	THUNDERDOME_REWARD_CC_BABY_MARINE_DESC	Calling Card. Fresh out of the Infantry Printer! .... er, Portal. Infantry Portal.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_LOCKED_AND_LOADED_DESC	Calling Card. Spawned in and ready to kick some alien booty.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_NED_RAGE_DESC	Calling Card. For when there are too many words and not enough at the same time.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_URPA_BOOTY_DESC	Calling Card. Ever get the feeling you're being watched? Or... parts of you are?		missing
+Competitive Play	THUNDERDOME_REWARD_CC_SAD_BABBLER_DESC	Calling Card. All this babbler ever wanted was a hug and everyone keeps running away.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_WELD_DONE_DESC	Calling Card. Sometimes, you just gotta whip it out.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_BALANCE_GORGE_DESC	Calling Card. Perfectly calculated.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_LORK_DESC	Calling Card. Aww! She likes you! ...Wait, stop running!		missing
+Competitive Play	THUNDERDOME_REWARD_CC_LAZY_GORGE_DESC	Calling Card. Mood.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_URPA_DESC	Calling Card. Part Man. Part Legend. All danger. He is Urpa.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_SLIPPER_SKULK_DESC	Calling Card. For when your little clawsies get chilly in those cold facility maintenance corridors.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_SHADOW_FADE_DESC	Calling Card. Style on 'em like the prey they are.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_BURNOUT_FADE_DESC	Calling Card. Sometimes, your backpack just isn't big enough.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_OVER9000_DEGREES_DESC	Calling Card. Their kill count is ... is what?! You've got to be kidding me.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_LERKED_DESC	Calling Card. Seldom are any more feared nor hated than the Apex Lerk.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_TABLE_FLIP_GORGE_DESC	Calling Card. For when peaceful dialogue has been taken off the table.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_ANGRY_ONOS_DESC	Calling Card. Put em' in their place at the bottom of the food chain.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_OHNOES_DESC	Calling Card. Oh... no, you've come to the wrong neighborhood friend.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_FOR_SCIENCE_DESC	Calling Card. Some say Jetpack Gorge is still out there to this day, looking down upon you from the stars.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_TURBO_DRIFTER_DESC	Calling Card. Ain't no one ever caught the TURBO DRIFTER.		missing
+Competitive Play	THUNDERDOME_REWARD_CC_BATTLE_GORGE_DESC	Calling Card. They laughed at my clogs. I laughed at their corpses.		missing
+Competitive Play	THUNDERDOME_SELECT_SEARCH	SEARCH	SEARCH	english
+Competitive Play	THUNDERDOME_SELECT_GROUP	GROUP	GROUP	english
+Competitive Play	THUNDERDOME_SELECT_PRIVATE	PRIVATE	PRIVATE	english
+Competitive Play	THUNDERDOME_GROUP_WAITING_FOR_PLAYERS	Waiting for Players	Waiting for Players	english
+Competitive Play	THUNDERDOME_GROUP_SEARCHING_FOR_MATCH	Searching for Match	Searching for Match	english
+Competitive Play	THUNDERDOME_GROUP_MATCH_FOUND	Match Found	Match Found	english
+Competitive Play	THUNDERDOME_LOBBY_INVITATION	Lobby Invitation	Lobby Invitation	english
+Competitive Play	THUNDERDOME_LOBBY_TIMEOUT	Lobby Timeout	Lobby Timeout	english
+Competitive Play	THUNDERDOME_AFK_KICKED	AFK Kicked	AFK Kicked	english
+Competitive Play	THUNDERDOME_RECONNECT_TO_MATCH	Reconnect to Match	Reconnect to Match	english
+Competitive Play	THUNDERDOME_MATCHMAKING_AUTOPENALIZED_IN	Auto-penalized in %s seconds.	Auto-penalized in %s seconds.	english
+Competitive Play	THUNDERDOME_MATCHMAKING_AUTOLEAVE_IN	Auto-leave in %s seconds.	Auto-leave in %s seconds.	english
+Competitive Play	THUNDERDOME_STEAM_OFFLINE	Steam Offline	Steam Offline	english
+Competitive Play	THUNDERDOME_MODE_TIP_SEARCH	Find the best available match for you. Earn rewards.	Find the best available match for you. Earn rewards.	english
+Competitive Play	THUNDERDOME_MODE_TIP_GROUP	Create a new friends-group, and play on the same team. Earn rewards.	Create a new friends-group, and play on the same team. Earn rewards.	english
+Competitive Play	THUNDERDOME_MODE_TIP_PRIVATE	Create a private match for you and your friends only. No rewards.	Create a private match for you and your friends only. No rewards.	english
+Competitive Play	THUNDERDOME_GROUP_FIND_MATCH	FIND MATCH	FIND MATCH	english
+Competitive Play	THUNDERDOME_GROUP_CANCEL_SEARCH	CANCEL SEARCH	CANCEL SEARCH	english
+Competitive Play	THUNDERDOME_GROUP_TITLE	GROUP QUEUE	GROUP QUEUE	english
+Competitive Play	THUNDERDOME_LOBBY_INVITE_INVALID	Invalid Invitation	Invalid Invitation	english
+Competitive Play	THUNDERDOME_MATCHMAKING_LOBBYINVITE_INVALID	The lobby you are attempting to join is full or cannot be joined.	The lobby you are attempting to join is full or cannot be joined.	english
+Competitive Play	THUNDERDOME_LOBBY_KICKED	Kicked	Kicked	english
+Competitive Play	THUNDERDOME_MATCHMAKING_LOBBY_KICKED	You have been kicked from the Competitive Play lobby by other players.	You have been kicked from the Competitive Play lobby by other players.	english
+Competitive Play	THUNDERDOME_MODE_TIP_SEARCH_PENALTY	Public Competitive Play is unavailable while penalized.		missing
+Competitive Play	THUNDERDOME_MODE_TIP_GROUP_PENALTY	Competitive Play Group Queuing is unavailable while penalized.		missing
+Competitive Play	THUNDERDOME_MATCHMAKING_PENALTY_EXPIRES	Penalty expires in %s.		missing
+Competitive Play	THUNDERDOME_LOBBY_RESULTS	%s Waiting | %s Playing		missing
+Competitive Play	THUNDERDOME_OPPOSING_TEAM	OPPOSING TEAM		missing
+Competitive Play	THUNDERDOME_SHOW_ROSTER	Show Opposing Team		missing
+Competitive Play	THUNDERDOME_HIDE_ROSTER	Hide Opposing Team		missing

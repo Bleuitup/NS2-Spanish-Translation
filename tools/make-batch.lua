@@ -55,6 +55,9 @@ local batches = {
         { "Skins and patches", { "SKIN", "SHOULDER", "STICKY" } },
         { "Items", { "ITEM" } },
     },
+    [7] = { -- Competitive Play (Thunderdome).
+        { "Competitive Play", { "THUNDERDOME", "TD_", "GMTD" } },
+    },
 }
 local def = assert(batches[n], "no definition for batch " .. n)
 
