@@ -8,26 +8,28 @@ way its maintainer prefers.
 ## How it was made, and who decided what
 
 AI was used to speed the work up: it produced a first draft of each line and ran the mechanical
-checks. Every decision about the Spanish was made by a person: Bleu, a native Spanish speaker and
-NS2 player, who:
+checks. Every decision about the Spanish was made by a person: Bleu, a native Spanish speaker with
+C2-level English and an NS2 player. He:
 
 - **Went through every glossary term by hand** before any translation started (which game names
   stay in English, which are translated, and how), and kept revising the glossary as the work
   went on. The rule the file follows (translate as much as possible, keep lifeform names and most
-  building names) is Bleu's, as are the individual choices: Exotraje, Destello, Puñalada, Nodo de
+  building names) is his, as are the individual choices: Exotraje, Destello, Puñalada, Nodo de
   energía, "vida" rather than "salud", and the rest.
-- **Resolved every disagreement.** Where the draft and Bleu's judgment differed, or two approved
-  lines contradicted each other, Bleu chose the wording, and the earlier lines were brought in
+- **Resolved every disagreement.** Where the draft and his judgment differed, or two approved
+  lines contradicted each other, he chose the wording, and the earlier lines were brought in
   line with it.
 - **Checked how other games are translated** when a term had no obvious Spanish, so the choices
-  match what Spanish-speaking players already know.
-- **Reviewed every line of every batch personally, one by one.** All 3,854 strings passed through
-  that review in nine batches; each has a recorded decision (accepted, replaced with Bleu's own
+  match what Spanish-speaking players already know. Blink is the example: Overwatch has an
+  ability of the same name and translates it as "Destello", because the literal "Parpadeo"
+  sounds off in Spanish. The Fade's Blink is "Destello" here for the same reason.
+- **Reviewed every line of every batch himself, one by one.** All 3,854 strings passed through
+  that review in nine batches; each has a recorded decision (accepted, replaced with his own
   Spanish, or kept as it was) in `work/batchN/decisions.tsv`. Jokes that did not work in Spanish
-  were rewritten by Bleu, not left to the draft.
+  were rewritten by him, not left to the draft.
 
 Nothing is in the final file without that review. Existing Spanish lines were only changed where
-they broke the glossary or were technically broken, and each such change was shown to Bleu with
+they broke the glossary or were technically broken, and each such change was shown to him with
 the reason.
 
 ## Snapshot
