@@ -1,5 +1,5 @@
 ITEM_CHROMA_EXTRACTOR	Por más raspado que esté, ¡sigue sacando recursos del suelo como nadie! 	The review export trims the trailing space the English line has.
 ITEM_AURIC_ONOS	Hueso dorado y espinas relucientes, ¡desgarra carne y acero por igual! 	The review export trims the trailing space the English line has.
-BUY_THUNDERDOME_UNLOCK	Se desbloquea en Partida competitiva	Mode name settled 2026-10-02: Partidas competitivas (plural; capital P as the mode's name, no Title Case).
-CALLINGCARD_CUSTOMIZER_LOCKED	Desbloquea tarjetas de presentación en Partida competitiva	Mode name settled 2026-10-02: Partidas competitivas (plural; capital P as the mode's name, no Title Case).
-CALLINGCARD_TOOLTIP_EXTRA	¡Desbloquéala compitiendo en Partida competitiva!	Mode name settled 2026-10-02: Partidas competitivas (plural; capital P as the mode's name, no Title Case).
+BUY_THUNDERDOME_UNLOCK	Se desbloquea en Partida competitiva	Mode name settled 2026-10-02: Partida competitiva (singular, capital P only, no article).
+CALLINGCARD_CUSTOMIZER_LOCKED	Desbloquea tarjetas de presentación en Partida competitiva	Mode name settled 2026-10-02: Partida competitiva (singular, capital P only, no article).
+CALLINGCARD_TOOLTIP_EXTRA	¡Desbloquéala compitiendo en Partida competitiva!	Mode name settled 2026-10-02: Partida competitiva (singular, capital P only, no article).
