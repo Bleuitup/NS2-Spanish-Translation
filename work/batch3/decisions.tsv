@@ -1,0 +1,641 @@
+ADD_BIOMASS_TOOLTIP	Mejora la Hive para dar un nivel adicional de biomasa.	OK		
+ADRENALINE	Adrenalina	OK		
+ADRENALINE_TOOLTIP	Aumenta la regeneración de energía.	OK		
+ADVANCED	Avanzado	OK		
+ADVANCED_ARMORY	Advanced Armory	OK		
+ADVANCED_ARMORY_HINT	Lanzallamas, granadas, Jetpacks	OK		
+ADVANCED_ARMORY_TOOLTIP	Da acceso a armas avanzadas como el lanzagranadas y el lanzallamas, y a la investigación de Jetpacks.	OK		
+ADVANCED_ARMORY_UPGRADE	Mejorar a Advanced Armory	OK		
+ADVANCED_MARINE_SUPPORT_TOOLTIP	Desbloquea habilidades adicionales del Commander para ayudar a tus compañeros.	OK		
+ADVANCED_TOOLTIP	Estructuras avanzadas	OK		
+ADVANCED_WEAPONRY	Armamento avanzado	OK		
+ADVANCED_WEAPONRY_TOOLTIP	Permite usar lanzagranadas y lanzallamas.	OK		
+ALIEN_ALERT_COMMANDER_EJECTED	Echaron al Commander	OK		
+ALIEN_ALERT_GORGEBUILT_HARVESTER	Gorge construyendo Harvester	OK		
+ALIEN_ALERT_HARVESTER_UNDERATTACK	Harvester bajo ataque	OK		
+ALIEN_ALERT_HIVE_COMPLETE	Construcción de Hive completada	OK		
+ALIEN_ALERT_HIVE_DYING	Hive casi muerta	OK		
+ALIEN_ALERT_HIVE_UNDERATTACK	Hive bajo ataque	OK		
+ALIEN_ALERT_LIFEFORM_UNDERATTACK	Compañero bajo ataque	OK		
+ALIEN_ALERT_MANUFACTURE_COMPLETE	Construcción completada	OK		
+ALIEN_ALERT_NEED_DRIFTER	Un jugador pide un Drifter	OK		
+ALIEN_ALERT_NEED_HARVESTER	Un jugador pide un Harvester	OK		
+ALIEN_ALERT_NEED_MIST	Un jugador pide neblina de nutrientes	OK		
+ALIEN_ALERT_NEED_STRUCTURE	Un jugador pide una estructura	OK		
+ALIEN_ALERT_NOTENOUGH_RESOURCES	No hay suficientes recursos	OK		
+ALIEN_ALERT_ORDER_COMPLETE	Orden completada	OK		
+ALIEN_ALERT_RESEARCH_COMPLETE	Investigación completada	OK		
+ALIEN_ALERT_STRUCTURE_UNDERATTACK	Estructura bajo ataque	OK		
+ALIEN_ALERT_UPGRADE_COMPLETE	Mejora completada	OK		
+AMMO_PACK	Ammo pack	Keep current		
+AMMO_PACK_TOOLTIP	Munición para recargar cualquier arma	OK		
+ARC	ARC	OK		
+ARC_ARMOR	Aumenta la armadura del ARC	OK		
+ARC_DEPLOY	Anclar	OK		
+ARC_DEPLOY_TOOLTIP	Pone al ARC en modo de disparo	OK		
+ARC_HINT	Artillería del Commander	OK		
+ARC_ROBOTICS_FACTORY	ARC Robotics Factory	OK		
+ARC_ROBOTICS_FACTORY_HINT	Construye MACs y ARCs	OK		
+ARC_ROBOTICS_FACTORY_TOOLTIP	Permite fabricar tanques ARC	OK		
+ARC_SPLASH	Aumenta el radio de daño en área del ARC un 13%	OK		
+ARC_TOOLTIP	Tanques de IA controlados por el Commander que hacen mucho daño a estructuras. Pueden disparar a través de las paredes. ¡Máximo 5 en total, incluidas las variantes!	OK		
+ARC_THUNDERDOME_TOOLTIP	Tanques de IA controlados por el Commander que hacen mucho daño a estructuras. Pueden disparar a través de las paredes. ¡Máximo 4!	OK		
+ARC_UNDEPLOY	Desanclar	OK		
+ARC_UNDEPLOY_TOOLTIP	Devuelve al ARC al modo de movimiento	OK		
+ARC_UPGRADES	Mejoras del ARC	OK		
+ARMORY	Armory	OK		
+ARMORY_HINT	Armas, salud y munición	OK		
+ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con salud y munición gratis. Aquí puedes comprar armas con tus recursos personales.	OK		
+ARMSLAB_HINT	Mejoras de daño y armadura	OK		
+ARMS_LAB	Arms Lab	OK		
+ARMS_LAB_TOOLTIP	Mejoras de ataque y armadura para los jugadores	OK		
+ASSIST	Asistencia	OK		
+ASSIST_TOOLTIP	Ayudar a los jugadores	Use my Spanish	Asistir a los jugadores	
+ATTACK	Atacar	OK		
+ATTACK_TOOLTIP	Ataca a una unidad o jugador enemigo	OK		
+AURA	Aura	OK		
+AURA_TOOLTIP	Indica la posición de los jugadores enemigos.	OK		
+AXE_TOOLTIP	Un arma de último recurso. BIND_PrimaryAttack para atacar; buena contra estructuras.	OK		
+BABBLER	Babbler	OK		
+BABBLER_ABILITY	Cebo de Babblers	OK		
+BABBLER_ABILITY_TOOLTIP	Lanza un cebo que tus Babblers seguirán. Acierta a un objetivo con el cebo para que lo ataquen, o hazlo rebotar en un Alien o en ti mismo para que se peguen a él.	OK		
+BABBLER_MINE	Bile Mine	Use my Spanish	Mina de Bilis	
+BABBLER_MINE_TOOLTIP	Explota cuando se acercan los Marines y los cubre de bilis	OK		
+BASIC_LIFE_FORMS	Evoluciones de formas de vida	OK		
+BASIC_LIFE_FORMS_TOOLTIP	Evoluciona nuevos rasgos para los jugadores Alien	Keep current		
+BELLY_SLIDE	Deslizamiento	OK		
+BELLY_SLIDE_TOOLTIP	Permite al Gorge deslizarse por las rampas.	OK		
+BILEBOMB	Bile Bomb	Use my Spanish	Bomba de Bilis	
+BILEBOMB_TOOLTIP	Permite a los Gorges lanzar un proyectil de asedio que hace daño en área a las estructuras y a la armadura de Marines y Exosuits.	Use my Spanish	Permite a los Gorges lanzar un proyectil de asedio que hace daño en área a las estructuras y a la armadura de Marines y Exotrajes.	
+BIOMASS	Biomasa	OK		
+BIOMASS_ELEVEN	Biomasa de nivel 11	OK		
+BIOMASS_EIGHT	Biomasa de nivel 8	OK		
+BIOMASS_FIVE	Biomasa de nivel 5	OK		
+BIOMASS_FOUR	Biomasa de nivel 4	OK		
+BIOMASS_NINE	Biomasa de nivel 9	OK		
+BIOMASS_ONE	Biomasa de nivel 1	OK		
+BIOMASS_SEVEN	Biomasa de nivel 7	OK		
+BIOMASS_SIX	Biomasa de nivel 6	OK		
+BIOMASS_TEN	Biomasa de nivel 10	OK		
+BIOMASS_THREE	Biomasa de nivel 3	OK		
+BIOMASS_TWELVE	Biomasa de nivel 12	OK		
+BIOMASS_TWO	Biomasa de nivel 2	OK		
+BITE	Mordida	OK		
+BITE_TOOLTIP	BIND_PrimaryAttack para morder. Sirve contra jugadores y estructuras, pero elige bien el momento de cada mordida. BIND_SecondaryAttack para el salto (cuando el Commander lo investiga).	OK		
+BLINK	Blink	OK		
+BLINK_TOOLTIP	Permite a los Fades desaparecer y reaparecer en combate	OK		
+BOMBARD	Bombardeo	OK		
+BOMBARD_WHIP_HINT	Estructura que bombardea	OK		
+BONESHIELD	Bone Shield	OK		
+BONESHIELD_TOOLTIP	Usa el caparazón de la cabeza para bloquear la mayoría de los ataques frontales.	OK		
+BUILD	Construir	OK		
+BUILD_ABILITY	Construir	OK		
+BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hydras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.	OK		
+BUILD_TOOLTIP	Estructuras básicas	OK		
+BUILD_TUNNELS_MENU	Menú de túneles	OK		
+BUILD_TUNNELS_MENU_TOOLTIP		OK		
+CAMOUFLAGE	Camuflaje	OK		
+CAMOUFLAGE_TOOLTIP	Muévete despacio para camuflarte con el entorno.	OK		
+CANCEL	Cancelar	OK		
+CARAPACE	Caparazón	Use my Spanish	Caparazón	
+CARAPACE_TOOLTIP	Gana armadura adicional.	OK		
+CAT_PACK	Catalyst pack	OK		
+CAT_PACK_TOOLTIP	Aumenta la velocidad de movimiento, de recarga y de soldadura de los Marines.	OK		
+CELERITY	Celeridad	OK		
+CELERITY_TOOLTIP	Aumenta la velocidad de movimiento y la aceleración.	OK		
+CHARGE	Charge	Keep current		
+CHARGE_TOOLTIP	Permite al Onos cargar en la dirección actual.	OK		
+CLAWRAILGUN_EXOSUIT	Exosuit con garra y Railgun	Keep current		
+CLAW_RAILGUN_TECH_TOOLTIP	Permite al Exo comprar la configuración de garra y Railgun	OK		
+CLOAK	Ocultamiento	OK		
+CLOG	Clog	OK		
+CLOG_TOOLTIP	Masa inerte para bloquear zonas, dar cobertura o llegar a los conductos de ventilación.	OK		
+CLOSE_DOOR	Cerrar puerta	OK		
+CLOSE_DOOR_TOOLTIP	Cierra la puerta	OK		
+CLUSTER_GRENADE	Granada de racimo	OK		
+COLLECT_RESOURCES	Extrae recursos	OK		
+COLLECT_RESOURCES_TOOLTIP	Extrae recursos para los jugadores y para el equipo	OK		
+COMMANDERERROR_CANT_BUILD_TOO_CLOSE	No se puede construir: demasiado cerca.	OK		
+COMMANDERERROR_NO_CYST_PARENT_FOUND	Debe construirse cerca de otro Cyst.	OK		
+COMMANDERERROR_ONLY_ONE_BATTERY_PER_ROOM	No se puede construir: hay demasiadas Power Batteries en el cuarto o en total.	OK		
+COMMANDERERROR_TOO_MANY_SENTRIES	No se puede construir: demasiadas Sentries.	OK		
+COMMAND_STATION	Command Station	OK		
+COMMAND_STATION_HINT	Base marine	OK		
+COMMAND_STATION_TOOLTIP	En esta estructura está el Commander, que da órdenes a tus compañeros en el campo. Los Marines pierden si ya no les queda ninguna Command Station.	OK		
+CONSTRUCT	Construir	OK		
+CONTAMINATION	Contaminación	OK		
+CONTAMINATION_TOOLTIP	Crea una masa inflamable que extiende la infestación y rocía bilis 3 veces cada 2 segundos. Dura 20 segundos y se puede colocar en cualquier lugar.	OK		
+CRAG	Crag	OK		
+CRAG_HEAL_TOOLTIP	Cura a jugadores y estructuras (+10 cada 2 segundos, máximo 3 objetivos)	OK		
+CRAG_HINT	Cura unidades alien	OK		
+CRAG_HIVE	Hive Crag	OK		
+CRAG_HIVE_HINT	Base defensiva	OK		
+CRAG_HIVE_TOOLTIP	Las Hives Crag permiten al equipo construir Crags y evolucionar rasgos defensivos.	OK		
+CRAG_TOOLTIP	Cura y protege a las unidades aliadas cercanas.	OK		
+CRAG_UMBRA_TOOLTIP	Crea una nube protectora que bloquea las balas para las unidades que están dentro.	OK		
+CRUSH	Aplastamiento	OK		
+CRUSH_TOOLTIP	Hace más daño a las estructuras y quita más armadura a los jugadores enemigos.	OK		
+CYST	Cyst	OK		
+CYST_CAMOUFLAGE	Camuflaje de Cyst	OK		
+CYST_CAMOUFLAGE_TOOLTIP	Oculta los Cysts salvo que sean atacados, desconectados o tocados	OK		
+CYST_CARAPACE	Caparazón de Cyst	OK		
+CYST_CARAPACE_TOOLTIP	Agrega armadura adicional	OK		
+CYST_CELERITY	Celeridad de Cyst	OK		
+CYST_CELERITY_TOOLTIP	Aumenta la velocidad de crecimiento del Cyst	OK		
+CYST_HINT	Crea infestación	OK		
+CYST_TOOLTIP	El Commander coloca Cysts, que hacen crecer la infestación. Si los Cysts no están conectados en cadena con una Hive, mueren y la infestación retrocede. Las estructuras alien sin infestación también mueren.	OK		
+DEATH_TRIGGER	Causas naturales	OK		
+DEFEND	Defender	OK		
+DESTROY_HALLUCINATION	Destruir alucinación	OK		
+DETECTOR	Detector	OK		
+DETECTOR_TOOLTIP	Revela a tu equipo las unidades enemigas ocultas	OK		
+DISORIENT	Desorientar	OK		
+DISTRESS_BEACON	Beacon de emergencia	OK		
+DISTRESS_BEACON_TOOLTIP	Teletransporta a los Marines a la Command Station más cercana al Observatory	OK		
+DOOR	Puerta	OK		
+DOOR_TOOLTIP	En el futuro podrás soldar puertas para cerrarlas.	OK		
+DRIFTER	Drifter	OK		
+DRIFTER_CAMOUFLAGE	Camuflaje de Drifter	OK		
+DRIFTER_CAMOUFLAGE_TOOLTIP	Se vuelve invisible para los enemigos cuando está quieto	OK		
+DRIFTER_CELERITY	Celeridad de Drifter	OK		
+DRIFTER_CELERITY_TOOLTIP	Los Drifters se mueven un 18% más rápido	OK		
+DRIFTER_REGENERATION	Regeneración de Drifter	OK		
+DRIFTER_REGENERATION_TOOLTIP	Los Drifters regeneran el 3% de su vida cada 2 segundos mientras reciben daño	OK		
+DRIFTER_HINT	Detecta enemigos	OK		
+DRIFTER_TOOLTIP	Criatura voladora que puede acelerar la construcción y apoyar a los jugadores.	OK		
+DUALMINIGUN_EXOSUIT	Exosuit con dos Miniguns	OK		
+DUALRAILGUN_EXOSUIT	Exosuit con dos Railguns	OK		
+DUAL_RAILGUN_TECH_TOOLTIP	Permite al Exo comprar dos Railguns	OK		
+ECHO	Eco	OK		
+ECHO_CRAG	Mover Crag	OK		
+ECHO_EGG	Mover huevo	OK		
+ECHO_HARVESTER	Mover Harvester	OK		
+ECHO_HYDRA	Mover Hydra	OK		
+ECHO_SHADE	Mover Shade	OK		
+ECHO_SHELL	Mover Shell	OK		
+ECHO_SHIFT	Mover Shift	OK		
+ECHO_SPUR	Mover Spur	OK		
+ECHO_TOOLTIP	Mueve una estructura a otra posición válida	OK		
+ECHO_VEIL	Mover Veil	OK		
+ECHO_WHIP	Mover Whip	OK		
+EGG	Huevo	OK		
+EGG_DROP_TOOLTIP	Los Aliens salen de los huevos en oleadas. Las Hives hacen crecer huevos a su alrededor cada cierto tiempo.	OK		
+EGG_HINT	Reaparición alien	Keep current		
+EMBRYO	Embrión	OK		
+ENERGIZE	Energizar	OK		
+ENZYME_CLOUD	Nube de enzimas	OK		
+ENZYME_CLOUD_TOOLTIP	Crea una nube de hormonas que aumenta la velocidad de ataque de los Aliens dentro de ella	OK		
+EVOCHAMBER	Cámara de evolución	OK		
+EVOLVE_BOMBARD	Bombardeo	OK		
+EVOLVE_BOMBARD_TOOLTIP	Proyectil de largo alcance con efecto en área que desintegra la armadura	OK		
+EXPANDING_HERE	Expandiéndose aquí	OK		
+EXTRACTOR	Extractor	OK		
+EXTRACTOR_HINT	Genera recursos	OK		
+EXTRACTOR_TOOLTIP	Los Extractors generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras e investigar nuevas tecnologías.	OK		
+FADE	Fade	OK		
+FADE_EGG	Huevo de Fade	OK		
+FADE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Fade	OK		
+FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con Blink mientras ataca con sus garras. Puede evolucionar Metabolize para recuperar energía y Advanced Metabolize para recuperar energía y salud. Experto en ataques relámpago y en sorprender a Marines solitarios.	OK		
+FLAMETHROWER	Lanzallamas	OK		
+FLAMETHROWER_DROP	Soltar lanzallamas	OK		
+FLAMETHROWER_TECH_TOOLTIP	Permite comprar lanzallamas en los Armories	OK		
+FLAMETHROWER_TOOLTIP	Hace daño por quemaduras, reduce la regeneración de energía y desactiva algunas estructuras. Más potente contra objetivos inflamables.	OK		
+FOCUS	Foco	OK		
+FOCUS_TOOLTIP	Aumenta el daño del ataque principal, pero lo hace más lento.	OK		
+FOLLOWANDWELD	Seguir y soldar	OK		
+FOLLOWANDWELD_TOOLTIP	Sigue a una unidad y suelda o construye todo lo que esté a su alcance.	OK		
+FOLLOW_NEAREST_ALIEN	Seguir	OK		
+FOLLOW_NEAREST_ALIEN_TOOLTIP	El Drifter sigue al jugador Alien más cercano	OK		
+GAS_GRENADE	Granada de gas nervioso	OK		
+GORE	Cornada	OK		
+GORE_TOOLTIP	BIND_PrimaryAttack para dar cornadas a los jugadores. También destroza estructuras con facilidad.	OK		
+GORGE	Gorge	OK		
+GORGE_EGG	Huevo de Gorge	OK		
+GORGE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Gorge	OK		
+GORGE_TOOLTIP	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar Bile Bomb, a distancia, para atacar armaduras y estructuras.	OK		
+GRENADES_TOOLTIP	Permite comprar granadas de mano en los Armories.	OK		
+GRENADE_LAUNCHER	Lanzagranadas	OK		
+GRENADE_LAUNCHER_DROP	Soltar lanzagranadas	OK		
+GRENADE_LAUNCHER_TECH_TOOLTIP	Permite comprar lanzagranadas en los Armories	OK		
+GRENADE_LAUNCHER_TOOLTIP	Daño en área. Hace cuádruple daño a las estructuras.	OK		
+GROW	Crecer	OK		
+GROW_TOOLTIP	Acelera el crecimiento de las estructuras alien.	OK		
+HALLUCINATE_CRAG	Alucinar Crag	OK		
+HALLUCINATE_CRAG_TOOLTIP	Crea un Crag falso	OK		
+HALLUCINATE_DRIFTER	Alucinar Drifter	OK		
+HALLUCINATE_DRIFTER_TOOLTIP	Crea un Drifter falso	OK		
+HALLUCINATE_FADE	Alucinar Fade	OK		
+HALLUCINATE_FADE_TOOLTIP	Crea un Fade falso	OK		
+HALLUCINATE_GORGE	Alucinar Gorge	OK		
+HALLUCINATE_GORGE_TOOLTIP	Crea un Gorge falso	OK		
+HALLUCINATE_HARVESTER	Alucinar Harvester	OK		
+HALLUCINATE_HARVESTER_TOOLTIP	Crea un Harvester falso	OK		
+HALLUCINATE_HIVE	Alucinar Hive	OK		
+HALLUCINATE_HIVE_TOOLTIP	Crea una Hive falsa	OK		
+HALLUCINATE_HYDRA	Alucinar Hydra	OK		
+HALLUCINATE_HYDRA_TOOLTIP	Crea una Hydra falsa	OK		
+HALLUCINATE_LERK	Alucinar Lerk	OK		
+HALLUCINATE_LERK_TOOLTIP	Crea un Lerk falso	OK		
+HALLUCINATE_ONOS	Alucinar Onos	OK		
+HALLUCINATE_ONOS_TOOLTIP	Crea un Onos falso	OK		
+HALLUCINATE_SHADE	Alucinar Shade	OK		
+HALLUCINATE_SHADE_TOOLTIP	Crea una Shade falsa	OK		
+HALLUCINATE_SHIFT	Alucinar Shift	OK		
+HALLUCINATE_SHIFT_TOOLTIP	Crea un Shift falso	OK		
+HALLUCINATE_SKULK	Alucinar Skulk	OK		
+HALLUCINATE_SKULK_TOOLTIP	Crea un Skulk falso	OK		
+HALLUCINATE_WHIP	Alucinar Whip	OK		
+HALLUCINATE_WHIP_TOOLTIP	Crea un Whip falso	OK		
+HALLUCINATION	Alucinación	OK		
+HALLUCINATION_CLOUD	Bruma de ocultamiento	OK		
+HALLUCINATION_CLOUD_TOOLTIP	Crea una nube que oculta a los jugadores, huevos y Drifters dentro de la zona.	OK		
+HARVESTER	Harvester	OK		
+HARVESTER_HINT	Genera recursos	OK		
+HARVESTER_TOOLTIP	Generan recursos para el equipo y para cada jugador. Permiten al Commander colocar estructuras y desbloquear nuevos rasgos.	OK		
+HEAVY_MACHINE_GUN	Ametralladora pesada	OK		
+HEAVY_MACHINE_GUN_DROP	Soltar ametralladora pesada	OK		
+HEAVY_MACHINE_GUN_TOOLTIP	Ametralladora con un cargador grande. Imprecisa a media y larga distancia. Daño extra contra jugadores.	OK		
+HATCH	Gestar	OK		
+HEAL	Curar	OK		
+HEAL_WAVE	Onda de escudo	OK		
+HEAL_WAVE_TOOLTIP	Genera un escudo en todas las formas de vida cercanas.	OK		
+HIVE	Hive	OK		
+HIVE_HEAL_TOOLTIP	Cura a los Aliens cercanos	OK		
+HIVE_HINT	Base alien	OK		
+HIVE_TOOLTIP	En esta estructura está el Commander Alien, que elige las evoluciones del equipo (algunas requieren varias Hives). También cura a los jugadores cercanos. Los Aliens pierden si ya no les queda ninguna Hive.	OK		
+HOLD_POSITION	Mantener la posición	OK		
+HYDRA	Hydra	OK		
+HYDRA_HINT	Planta con púas del Gorge	OK		
+HYDRA_TOOLTIP	Planta con púas que se puede construir en cualquier lugar y dispara a los enemigos. Mantenla viva con tu spray de curación.	OK		
+INFANTRY_PORTAL	Infantry Portal	OK		
+INFANTRY_PORTAL_HINT	Reaparición de Marines	Keep current		
+INFANTRY_PORTAL_TOOLTIP	Hace reaparecer a un Marine cada 9 segundos. Solo se puede construir cerca de una Command Station. Máximo 3 por Command Station.	OK		
+INFESTATION	Infestación	OK		
+INFESTATION_SPIKE	Bone Wall	Use my Spanish	Muro de Huesos	
+INFESTATION_SPIKE_TOOLTIP	Crea un muro temporal que bloquea el movimiento y los ataques	OK		
+INFESTATION_TOOLTIP	Genera infestación	OK		
+INFESTED_TUNNEL_ENTRANCE	Entrada de túnel infestado	OK		
+INFESTED_TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar	OK		
+INFESTED_TUNNEL_TOOLTIP	Permite a los jugadores viajar rápido a otro lugar y además extiende la infestación	OK		
+INK	Tinta	OK		
+JETPACK	Jetpack	OK		
+JETPACK_DROP	Soltar Jetpack	OK		
+JETPACK_ARMOR_TECH	Investigar armadura de Jetpack	OK		
+JETPACK_ARMOR_TOOLTIP	Da armadura extra a los Jetpacks	OK		
+JETPACK_FUEL_TECH	Investigar combustible de Jetpack	OK		
+JETPACK_FUEL_TOOLTIP	Mejora la maniobrabilidad y el tiempo de vuelo del Jetpack	OK		
+JETPACK_HINT	Marine con Jetpack	OK		
+JETPACK_TECH	Investigar Jetpacks	OK		
+JETPACK_TOOLTIP	Permite a los Marines volar y acceder a los conductos de ventilación.	OK		
+LEAP	Salto	Use my Spanish	Impulso	Helps distinguish it from regular jumps, also called "Salto". Will use this from now on.
+LEAP_TOOLTIP	Permite a los Skulks saltar al combate	Keep current		
+LERK	Lerk	OK		
+LERK_BITE	Mordida	OK		
+LERK_BITE_TOOLTIP	BIND_PrimaryAttack para morder: envenena a los Marines y les hace daño con el tiempo. BIND_SecondaryAttack para un ataque de espinas a larga distancia.	OK		
+LERK_EGG	Huevo de Lerk	OK		
+LERK_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Lerk	OK		
+LERK_TOOLTIP	Unidad voladora de apoyo, muy versátil. Puede hacer daño con el tiempo con su mordida venenosa y sus espinas a distancia. Puede evolucionar una nube de esporas asfixiante y la Umbra protectora.	OK		
+LOCK_DOOR	Bloquear puerta	OK		
+MAC	MAC	OK		
+MAC_EMP	EMP	OK		
+MAC_EMP_RESEARCH	Investigar EMP	OK		
+MAC_EMP_RESEARCH_TOOLTIP	Permite a los MACs generar un pulso electromagnético que vacía la energía de los Aliens cercanos	OK		
+MAC_EMP_TOOLTIP	Genera un pulso electromagnético que vacía la energía de los Aliens cercanos	OK		
+MAC_HINT	Dron de reparación del Commander	OK		
+MAC_SPEED	Aumentar la velocidad de los MACs	OK		
+MAC_SPEED_TOOLTIP	Aumenta la velocidad de los MACs un 50%	OK		
+MAC_TOOLTIP	Robot que construye estructuras y puede reparar armadura	OK		
+MAC_UPGRADES	Mejoras del MAC	OK		
+MARINE	Marine	OK		
+MARINE_ALERT_ACKNOWLEDGE	Soldado acepta órdenes	OK		
+MARINE_ALERT_COMMANDER_EJECTED	Echaron al Commander	OK		
+MARINE_ALERT_COMMANDSTATION_UNDERAT	Command Station bajo ataque	OK		
+MARINE_ALERT_COMMAND_STATION_COMPLETE	Command Station completada	OK		
+MARINE_ALERT_CONSTRUCTION_COMPLETE	Construcción completada	OK		
+MARINE_ALERT_EXTRACTOR_UNDERATTACK	Extractor bajo ataque	OK		
+MARINE_ALERT_INFANTRYPORTAL_UNDERAT	Infantry Portal bajo ataque	OK		
+MARINE_ALERT_MAC_BLOCKED	MAC bloqueado	OK		
+MARINE_ALERT_MANUFACTURE_COMPLETE	Construcción completada	OK		
+MARINE_ALERT_NEED_AMMO	Soldado necesita munición	OK		
+MARINE_ALERT_NEED_MEDPACK	Soldado necesita Med pack	OK		
+MARINE_ALERT_NEED_ORDER	Soldado necesita órdenes	OK		
+MARINE_ALERT_NEED_STRUCTURE	Soldado pide una estructura	OK		
+MARINE_ALERT_NOT_ENOUGH_RESOURCES	No hay suficientes recursos	OK		
+MARINE_ALERT_ORDER_COMPLETE	Objetivo completado	OK		
+MARINE_ALERT_RESEARCH_COMPLETE	Investigación completada	OK		
+MARINE_ALERT_SENTRY_FIRING	Sentry disparando	OK		
+MARINE_ALERT_SENTRY_UNDERATTACK	Sentry recibiendo daño	OK		
+MARINE_ALERT_SOLDIER_LOST	Soldado abatido	OK		
+MARINE_ALERT_SOLDIER_UNDERATTACK	Soldado bajo ataque	OK		
+MARINE_ALERT_STRUCTURE_UNDERATTACK	Estructura bajo ataque	OK		
+MARINE_ALERT_UPGRADE_COMPLETE	Mejora completada	OK		
+MARINE_ARMOR1	Armadura #1	OK		
+MARINE_ARMOR1_TOOLTIP	Da a los Marines 20 puntos extra de armadura	OK		
+MARINE_ARMOR2	Armadura #2	OK		
+MARINE_ARMOR2_TOOLTIP	Da a los Marines 40 puntos extra de armadura	OK		
+MARINE_ARMOR3	Armadura #3	OK		
+MARINE_ARMOR3_TOOLTIP	Da a los Marines 60 puntos extra de armadura	OK		
+MARINE_COMMANDER	Commander Marine	OK		
+MARINE_WEAPONS1	Armas #1	OK		
+MARINE_WEAPONS1_TOOLTIP	Las armas marine hacen un 10% más de daño a jugadores y un 20% más a estructuras.	OK		
+MARINE_WEAPONS2	Armas #2	OK		
+MARINE_WEAPONS2_TOOLTIP	Las armas marine hacen un 20% más de daño a jugadores y un 40% más a estructuras.	OK		
+MARINE_WEAPONS3	Armas #3	OK		
+MARINE_WEAPONS3_TOOLTIP	Las armas marine hacen un 30% más de daño a jugadores y un 60% más a estructuras.	OK		
+MARKERS	Marcadores	OK		
+MARK_THREAT	Amenaza	OK		
+MED_PACK	Med pack	OK		
+MED_PACK_TOOLTIP	Restablece 50 puntos de vida del jugador	OK		
+METABOLIZE	Metabolize	Use my Spanish	Metabolización	Following the trend of translating abilities.
+METABOLIZE_ADV	Advanced Metabolize	Use my Spanish	Metabolización Avanzada	Following the trend of translating abilities.
+METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y salud.	OK		
+METABOLIZE_TOOLTIP	Con esta habilidad el Fade recupera energía.	OK		
+MINE_SINGULAR	Mina	OK		
+MINE_DROP	Soltar minas	OK		
+MINES	Investigar minas	OK		
+MINE_HINT	Mina de proximidad	OK		
+MINE_TOOLTIP	Suelta 1 mina de proximidad.	OK		
+MINIGUN	Minigun	OK		
+MINIGUN_CLAW_TOOLTIP	BIND_PrimaryAttack para golpear con la garra. Mantén presionado BIND_SecondaryAttack para disparar la Minigun (munición ilimitada, pero se puede sobrecalentar). BIND_Jump para activar los propulsores de salto.	OK		
+MOVE	Mover	OK		
+MOVE_TOOLTIP	Moverse a un punto de ruta	OK		
+MUCOUS_MEMBRANE	Membrana mucosa	OK		
+MUCOUS_MEMBRANE_TOOLTIP	Da un escudo temporal a las unidades aliadas.	OK		
+NANO_SHIELD_DEFENSE	Nano-escudo	OK		
+NANO_SHIELD_DEFENSE_TOOLTIP	Reduce todo el daño al objetivo un 32% durante 5 segundos	OK		
+NEED_HEALING_HERE	Necesito curación aquí	OK		
+NUTRIENT_MIST	Neblina de nutrientes	OK		
+NUTRIENT_MIST_TOOLTIP	Acelera la maduración de las estructuras y la evolución de los jugadores, y evita el daño a los Cysts desconectados	OK		
+OBSERVATORY	Observatory	OK		
+OBSERVATORY_HINT	Detecta Aliens	OK		
+OBSERVATORY_TOOLTIP	Detecta enemigos cercanos	OK		
+ONOS	Onos	OK		
+ONOS_EGG	Huevo de Onos	OK		
+ONOS_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Onos	OK		
+ONOS_TOOLTIP	Un gigante que puede destrozar estructuras, cargar contra el enemigo y matar a cornadas. También puede evolucionar el pisotón para aturdir a sus enemigos.	OK		
+OPEN_DOOR	Abrir puerta	OK		
+OPEN_DOOR_TOOLTIP	Abre la puerta	OK		
+PARASITE	Parásito	OK		
+PARASITE_TOOLTIP	Habilidad a distancia que marca a un enemigo para que tu equipo lo vea.	OK		
+PATROL	Patrullar	OK		
+PATROL_TOOLTIP	Se mueve entre dos puntos de ruta	OK		
+PHANTOM	Fantasma	OK		
+PHANTOM_TOOLTIP	Te vuelve silencioso al moverte y atacar, y casi invisible cuando estás quieto	OK		
+PHASE_GATE	Portal de fase	OK		
+PHASE_GATE_HINT	Teletransporte marine	OK		
+PHASE_GATE_TOOLTIP	Teletransporta a los Marines a otros portales de fase	OK		
+PHASE_TECH	Tecnología de fase	OK		
+PHASE_TECH_TOOLTIP	Desbloquea la tecnología de portales de fase	OK		
+PHEROMONE_EXPANDING_TOOLTIP	Avisar al equipo dónde nos estamos expandiendo	OK		
+PHEROMONE_HEAL_TOOLTIP	Avisar al equipo dónde curarse	OK		
+PHEROMONE_THREAT_TOOLTIP	Avisar al equipo la posición de una amenaza	OK		
+PHEROMONE_TOOLTIP	Colocar marcadores de feromonas	OK		
+PISTOL	Pistola	OK		
+PISTOL_TOOLTIP	Arma precisa a distancia, ideal para disparos lejanos y para rematar objetivos heridos. BIND_PrimaryAttack para disparar.	OK		
+POWERPOINT_HINT	Da energía a las estructuras marine	OK		
+POWERPOINT_TOOLTIP	Necesario para dar energía a las estructuras marine de este cuarto. Si se destruye, esas estructuras dejan de funcionar hasta que se repare la energía.	OK		
+POWER_NODE	Power Node	Use my Spanish	Nodo de energía	
+POWER_SURGE	Power Surge	Use my Spanish	Sobretensión	
+POWER_SURGE_TOOLTIP	Da energía a la estructura elegida durante 10 segundos.	OK		
+PROTOTYPE_LAB	Prototype Lab	OK		
+PROTOTYPE_LAB_HINT	Exosuits	Use my Spanish	Exotrajes	
+PROTOTYPE_LAB_TOOLTIP	Aquí puedes comprar Exosuits.	Use my Spanish	Aquí puedes comprar Exotrajes.	
+PULSE_GRENADE	Granada de pulso	OK		
+RAILGUN	Railgun	OK		
+RAILGUN_CLAW_TOOLTIP	BIND_PrimaryAttack para golpear con la garra. BIND_SecondaryAttack para disparar la Railgun (munición ilimitada, pero dispara lento). BIND_Jump para activar los propulsores de salto.	OK		
+RALLY_POINT_TOOLTIP	Las unidades de apoyo nuevas van a este punto automáticamente	OK		
+READY_ROOM_PLAYER	Jugador en el Ready Room	OK		
+RECYCLE	Reciclar	OK		
+RECYCLE_TOOLTIP	Destruye la estructura para recuperar el 75% del costo	OK		
+REGENERATION	Regeneración	OK		
+REGENERATION_TOOLTIP	Te cura lentamente mientras no estás bajo ataque.	OK		
+RESEARCH_GRENADES_TITLE	Granadas	OK		
+RESEARCH_SHOTGUNS_TITLE	Escopetas	OK		
+RESEARCH_MINES_TITLE	Minas	OK		
+RESEARCH_JETPACKS_TITLE	Jetpacks	OK		
+RESEARCH_EXOSUITS_TITLE	Exosuits	Use my Spanish	Exotrajes	
+RESEARCH_CLAW_RAILGUN	Investigar garra/Railgun	OK		
+RESEARCH_DUAL_RAILGUNS	Investigar dos Railguns	OK		
+RESEARCH_EXOSUITS	Investigar Exosuits	Use my Spanish	Investigar Exotrajes	
+RESEARCH_FLAMETHROWERS	Investigar lanzallamas	OK		
+RESEARCH_HEAVY_MACHINE_GUN	Investigar ametralladoras pesadas	OK		
+RESEARCH_GRENADES	Investigar granadas de mano	OK		
+RESEARCH_GRENADE_LAUNCHERS	Investigar lanzagranadas	OK		
+RESEARCH_SHOTGUNS	Investigar escopetas	OK		
+RESEARCH_WELDER	Investigar Welders	OK		
+RESOURCE_NOZZLE	Boca de recursos	Use my Spanish	Nodo de recursos	
+RESOURCE_NOZZLE_TOOLTIP	Los equipos construyen estructuras aquí para recolectar recursos.	OK		
+RETURN	Volver	OK		
+RETURN_DESCRIPTION	Vuelve al menú anterior.	OK		
+REVERSE_PHASE_GATE	Invertir portal de fase	OK		
+REVERSE_PG_TOOLTIP	Cambia la dirección de teletransporte del portal de fase	OK		
+RIFLE	Rifle	OK		
+RIFLE_TOOLTIP	BIND_PrimaryAttack para disparar con el rifle reglamentario. BIND_SecondaryAttack da un culatazo.	OK		
+ROBOTICS_FACTORY	Robotics Factory	OK		
+ROBOTICS_FACTORY_HINT	Construye MACs	OK		
+ROBOTICS_FACTORY_TOOLTIP	Crea Sentries, MACs y ARCs	OK		
+ROOT_WHIP	Arraigar Whip	OK		
+ROOT_WHIP_TOOLTIP	Arraiga el Whip al suelo (solo sobre infestación)	OK		
+RUPTURE	Ruptura	OK		
+RUPTURE_TOOLTIP	Salpica infestación sobre las unidades enemigas cercanas: les nubla la vista un momento y las marca con un parásito.	OK		
+SCAN	Escanear	OK		
+SCAN_TOOLTIP	Revela unidades ocultas y da visión de cualquier zona	OK		
+SELECT	Seleccionar	OK		
+SELECT_DRIFTER	Seleccionar Drifter	OK		
+SELECT_HALLUCINATIONS	Seleccionar alucinaciones	OK		
+SELECT_HALLUCINATIONS_TOOLTIP	Seleccionar alucinaciones	OK		
+SELECT_NEAREST_DRIFTER	Selecciona el Drifter más cercano en pantalla.	OK		
+SELECT_NEAREST_OBSERVATORY	Selecciona el Observatory más cercano en pantalla.	OK		
+SELECT_NEAREST_SHIFT	Selecciona el Shift más cercano en pantalla.	OK		
+SELECT_OBSERVATORY	Seleccionar Observatory	OK		
+SELECT_SHIFT	Seleccionar Shift	OK		
+SELECT_TUNNEL_ENTRY	Seleccionar entrada del túnel	OK		
+SELECT_TUNNEL_ENTRY_TOOLTIP		OK		
+SELECT_TUNNEL_EXIT	Seleccionar salida del túnel	OK		
+SELECT_TUNNEL_EXIT_TOOLTIP		OK		
+SELECT_TOOLTIP	Menú de selección	OK		
+SENTRY_BATTERY	Power Battery	Use my Spanish	Batería de Energía	
+SENTRY_BATTERY_HINT	Da energía a las estructuras marine	OK		
+SENTRY_BATTERY_TOOLTIP	Da energía a las estructuras marine cercanas (máximo 1 por cuarto). ¡Máximo 2!	OK		
+SENTRY_HINT	Torreta de IA	OK		
+SENTRY_TOOLTIP	Torreta de IA que da fuego de apoyo. ¡Máximo 1!	OK		
+SENTRY_TURRET	Sentry	OK		
+SET_RALLY_POINT	Establecer punto de reunión	OK		
+SET_TARGET	Establecer objetivo	OK		
+SET_TARGET_TOOLTIP	Establece la dirección a la que se apunta	OK		
+SHADE	Shade	OK		
+SHADE_CLOAK_TOOLTIP	Oculta a las estructuras y jugadores alien cercanos	OK		
+SHADE_DISORIENT_TOOLTIP	Los jugadores enemigos y el Commander no pueden ver ni oír bien dentro de su alcance (pasivo)	OK		
+SHADE_HINT	Oculta a los Aliens	OK		
+SHADE_HIVE	Hive Shade	OK		
+SHADE_HIVE_HINT	Base de engaño	OK		
+SHADE_HIVE_TOOLTIP	Las Hives Shade permiten al equipo construir Shades y evolucionar rasgos basados en el engaño	OK		
+SHADE_INK_TOOLTIP	Crea una nube de tinta alrededor de la Shade para que las unidades alien se escondan	OK		
+SHADE_TOOLTIP	Oculta las estructuras cercanas.	OK		
+SHADOWSTEP	Shadowstep	OK		
+SHADOWSTEP_TOOLTIP	Permite al Fade dar un paso rápido en una distancia corta.	OK		
+SHELL	Shell	OK		
+SHELL_HINT	Mejora defensiva	OK		
+SHELL_TOOLTIP	Da un nuevo rasgo alien defensivo	OK		
+SHIFT	Shift	OK		
+SHIFT_ECHO_TOOLTIP	Mueve la estructura a otro lugar	OK		
+SHIFT_ENERGIZE_TOOLTIP	Aumenta la regeneración de energía de las unidades cercanas	OK		
+SHIFT_HATCH_TOOLTIP	Crea huevos cerca	OK		
+SHIFT_HINT	Da energía a los Aliens	OK		
+SHIFT_HIVE	Hive Shift	OK		
+SHIFT_HIVE_HINT	Base de movimiento	OK		
+SHIFT_HIVE_TOOLTIP	Elige un camino de velocidad y maniobra	OK		
+SHIFT_TOOLTIP	Acelera la recuperación de energía de los Aliens y puede mover estructuras por el mapa con Eco.	OK		
+SHOTGUN	Escopeta	OK		
+SHOTGUN_DROP	Soltar escopeta	OK		
+SHOTGUN_TECH_TOOLTIP	Permite comprar escopetas en los Armories	OK		
+SHOTGUN_TOOLTIP	Su gran daño y la dispersión de los perdigones hacen que la escopeta sea más eficaz contra objetivos cercanos.	OK		
+SKULK	Skulk	OK		
+SKULK_TOOLTIP	Puede atacar con su mordida y rastrear enemigos con el parásito. Puede emboscar a los enemigos trepando por paredes y techos. Puede evolucionar el salto y Xenocide.	Use my Spanish	Puede atacar con su mordida y rastrear enemigos con el parásito. Puede emboscar a los enemigos trepando por paredes y techos. Puede evolucionar impulso y Xenocide.	
+SOCKET_POWER_NODE	Colocar Power Node	OK		
+SPAWN_ALIEN	Aparición alien	OK		
+SPAWN_ALIEN_TOOLTIP	Los Aliens aparecen en los huevos cuando hay disponibles	OK		
+SPAWN_MARINE	Aparición marine	OK		
+SPAWN_MARINE_TOOLTIP	Los Marines muertos reaparecen aquí cada 9 segundos	OK		
+SPIKES	Espinas	OK		
+SPIKES_TOOLTIP	Ataque de espinas de largo alcance	OK		
+SPIT	Escupitajo	OK		
+SPIT_TOOLTIP	Ataque débil a distancia. BIND_SecondaryAttack usa el spray de curación, que cura a jugadores y estructuras y acelera el crecimiento de las estructuras.	OK		
+SPORES	Esporas	OK		
+SPORES_TOOLTIP	Permite a los Lerks lanzar una nube de esporas venenosas.	OK		
+SPRAY	Spray de curación	OK		
+SPRAY_TOOLTIP	Cura a jugadores y estructuras. También acelera el crecimiento de las estructuras.	OK		
+SPUR	Spur	OK		
+SPUR_HINT	Mejora de movimiento	OK		
+SPUR_TOOLTIP	Da un nuevo rasgo alien de velocidad	OK		
+STAB_BLINK	Stab	OK		
+STOMP	Pisotón	OK		
+STOMP_TOOLTIP	Permite al Onos golpear el suelo y desestabilizar a las unidades enemigas	OK		
+STOP	Detener	OK		
+STOP_TOOLTIP	Detenerse y cancelar todas las órdenes	OK		
+STORM	Tormenta	OK		
+STORM_TOOLTIP	Las unidades aliadas se mueven más rápido.	OK		
+SWIPE_BLINK	Zarpazo y Blink	OK		
+SWIPE_TOOLTIP	Poderoso ataque cuerpo a cuerpo que hace daño extra a los jugadores. Presiona BIND_SecondaryAttack para usar Blink y teletransportarte (cuando el Commander lo evoluciona).	OK		
+SWITCH_AXE	Cambiar a hacha	OK		
+TEAM_UPGRADES_TOOLTIP	Evoluciona nuevos rasgos para todas las formas de vida y la infestación	OK		
+TECH_POINT	Tech point	OK		
+TECH_POINT_HINT	Lugar para bases	OK		
+TECH_POINT_TOOLTIP	Algunas habilidades y tecnologías requieren varias Hives o Command Stations. Estos tech points son los lugares especiales donde se construyen.	OK		
+THREE_COMMAND_STATIONS	Tres Command Stations	OK		
+THREE_HIVES	Tres Hives	OK		
+THREE_SHELLS	Tres Shells	OK		
+THREE_SPURS	Tres Spurs	OK		
+THREE_VEILS	Tres Veils	OK		
+TUNNEL_COLLAPSE	Derrumbar	OK		
+TUNNEL_COLLAPSE_TOOLTIP	Derrumba el túnel. Esto también destruye esta entrada.	OK		
+TUNNEL_ENTRANCE	Entrada de túnel	OK		
+TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar	OK		
+TUNNEL_ENTRY	Entrada del túnel	OK		
+TUNNEL_EXIT	Salida del túnel	OK		
+TUNNEL_EXIT_TOOLTIP	Coloca la salida de esta entrada para abrir un túnel que permite a los jugadores viajar rápido entre dos lugares. ¡Cuidado: los Marines también pueden usar el túnel!	OK		
+TUNNEL_RELOCATE_TOOLTIP	Mueve esta entrada del túnel a otro lugar.	OK		
+TUNNEL_TOOLTIP	Haz crecer un túnel colocando una entrada y una salida para que los jugadores viajen rápido entre dos lugares. ¡Selecciona la entrada para colocar la salida!	OK		
+TWO_COMMAND_STATIONS	Dos Command Stations	OK		
+TWO_HIVES	Dos Hives	OK		
+TWO_SHELLS	Dos Shells	OK		
+TWO_SPURS	Dos Spurs	OK		
+TWO_VEILS	Dos Veils	OK		
+UMBRA	Umbra	OK		
+UMBRA_TOOLTIP	Crea una nube protectora que reduce el daño de las balas	OK		
+UNLOCK_DOOR	Desbloquear puerta	OK		
+UNLOCK_DOOR_TOOLTIP	Desbloquea la puerta	OK		
+UNROOT_WHIP	Desarraigar Whip	OK		
+UNROOT_WHIP_TOOLTIP	Permite al Whip moverse	OK		
+UPGRADES	Evoluciones del equipo	OK		
+UPGRADE_CRAG_HIVE	Evolucionar a Hive Crag	OK		
+UPGRADE_CRAG_HIVE_TOOLTIP	Elige un camino de curación y defensa	OK		
+UPGRADE_FADE	Mejorar Fade	OK		
+UPGRADE_FADE_TOOLTIP	Desbloquea habilidades del Fade	OK		
+UPGRADE_GORGE	Mejorar Gorge	OK		
+UPGRADE_GORGE_TOOLTIP	Desbloquea habilidades del Gorge	OK		
+UPGRADE_INFESTED_TUNNEL_ENTRANCE	Mejorar a túnel infestado	OK		
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más vida y extienden la infestación	OK		
+UPGRADE_LERK	Mejorar Lerk	OK		
+UPGRADE_LERK_TOOLTIP	Desbloquea habilidades del Lerk	OK		
+UPGRADE_ONOS	Mejorar Onos	OK		
+UPGRADE_ONOS_TOOLTIP	Desbloquea habilidades del Onos	OK		
+UPGRADE_ROBOTICS_FACTORY	Mejorar a ARC Factory	OK		
+UPGRADE_ROBOTICS_FACTORY_TOOLTIP	Las Robotics Factories mejoradas pueden construir ARCs	OK		
+UPGRADE_SHADE_HIVE	Evolucionar a Hive Shade	OK		
+UPGRADE_SHADE_HIVE_TOOLTIP	Elige un camino de confusión y engaño	OK		
+UPGRADE_SHIFT_HIVE	Evolucionar a Hive Shift	OK		
+UPGRADE_SHIFT_HIVE_TOOLTIP	Elige un camino de velocidad y maniobra	OK		
+UPGRADE_SKULK	Mejorar Skulk	OK		
+UPGRADE_SKULK_TOOLTIP	Desbloquea habilidades del Skulk	OK		
+ARC_FACTORY	ARC Factory	OK		
+VAMPIRISM	Vampirismo	OK		
+VAMPIRISM_TOOLTIP	Crea un escudo temporal para ti absorbiendo vida de los enemigos cuando los golpeas con tu ataque principal	OK		
+VEIL	Veil	OK		
+VEIL_HINT	Mejora de confusión	OK		
+VEIL_TOOLTIP	Da un nuevo rasgo alien de engaño	OK		
+WEAK_HERE	Débil aquí	OK		
+WEAPONS_MENU	Armas	OK		
+WEAPONS_MENU_TOOLTIP	Soltar armas para los Marines	OK		
+WEB	Telaraña	OK		
+WEB_TOOLTIP	Ralentiza durante un tiempo a los Marines que la atraviesan.	OK		
+WELD	Soldar	OK		
+WELDER	Welder	OK		
+WELDER_DROP	Soltar Welder	OK		
+WELDER_TECH_TOOLTIP	Permite comprar Welders en el Armory	OK		
+WELDER_TOOLTIP	Repara la armadura de Marines y Exos, y también estructuras. Es la forma más rápida de reparar Power Nodes y sirve contra objetivos inflamables.	OK		
+WELDING	Soldando	OK		
+WELDING_TOOLTIP	Reparando armadura o estructura	OK		
+WELD_TOOLTIP	Suelda puertas para cerrarlas o repara el objetivo	OK		
+WHIP	Whip	OK		
+WHIPBOMB	Whip Bomb	OK		
+WHIP_BOMBARD_CANCEL	Detener bombardeo	OK		
+WHIP_BOMBARD_TOOLTIP	Bombardea objetivos con daño a la armadura	OK		
+WHIP_HINT	Atacante defensivo	OK		
+WHIP_SLAP	Latigazo	OK		
+WHIP_SLAP_TOOLTIP	Golpea a los enemigos cercanos.	OK		
+WHIP_TOOLTIP	Ataca a los enemigos cercanos y, cuando madura, puede bombardear estructuras enemigas.	OK		
+XENOCIDE	Xenocide	OK		
+XENOCIDE_TOOLTIP	Permite a los Skulks autodestruirse y dañar a las unidades cercanas.	OK		
+CONSUME	Consumir	OK		
+CONSUME_TOOLTIP	Destruye la estructura para recuperar suministro.	OK		
+HALLUCINATE_CLONING	Clonar alucinación	OK		
+HALLUCINATE_CLONING_TOOLTIP	Convierte la alucinación en una copia de un objetivo válido.	OK		
+HALLUCINATE_RANDOM	Alucinación aleatoria	OK		
+HALLUCINATE_RANDOM_TOOLTIP	Convierte la alucinación en una aleatoria.	OK		
+SHELL_PASSIVE	Regeneración	OK		
+SHELL_PASSIVE_TOOLTIP	Las Shells se curan con el tiempo.	OK		
+SPUR_PASSIVE	Movimiento	OK		
+SPUR_PASSIVE_TOOLTIP	Los Spurs pueden moverse.	OK		
+VEIL_PASSIVE	Camuflaje	OK		
+VEIL_PASSIVE_TOOLTIP	Los Veils están ocultos.	OK		
+ADVANCED_SUPPORT	Soporte avanzado	OK		
+JETPACK_TECH_TOOLTIP	Permite comprar Jetpacks.	OK		
+RESEARCH_CORES_EXOSUIT_TITLE	Núcleos de Exosuit	Use my Spanish	Núcleos de Exotraje	
+CORES_EXOSUIT_TECH_TOOLTIP	Desbloquea los módulos de núcleo del Exosuit: propulsores, asiento eyectable y placas de armadura.	Use my Spanish	Desbloquea los módulos de núcleo del Exotraje: propulsores, asiento eyectable y placas de armadura.	
+ADVANCED_EXO_ARMS_TECH	Brazos avanzados de Exosuit	Use my Spanish	Brazos avanzados de Exotraje	
+ADVANCED_EXO_ARMS_TECH_TOOLTIP	Desbloquea los brazos de lanzallamas y lanzaplasma.	OK		
+STAB_EXO_TOOLTIP	Un golpe lento y pesado. Hace más del doble de daño si golpea a un Exosuit por la espalda, salvo que tenga nano-escudo.	Use my Spanish	Un golpe lento y pesado. Hace más del doble de daño si golpea a un Exotraje por la espalda, salvo que tenga nano-escudo.	
+SYNC_ONE	Sincronización de investigación, nivel 1	OK		
+SYNC_TWO	Sincronización de investigación, nivel 2	OK		
+SYNC_THREE	Sincronización de investigación, nivel 3	OK		
+SYNC_FOUR	Sincronización de investigación, nivel 4	OK		
+SYNC_FIVE	Sincronización de investigación, nivel 5	OK		
+SYNC_SIX	Sincronización de investigación, nivel 6	OK		
+SYNC_SEVEN	Sincronización de investigación, nivel 7	OK		
+SYNC_EIGHT	Sincronización de investigación, nivel 8	OK		
+SYNC_NINE	Sincronización de investigación, nivel 9	OK		
+SYNC_TEN	Sincronización de investigación, nivel 10	OK		
+SYNC_ELEVEN	Sincronización de investigación, nivel 11	OK		
+SYNC_TWELVE	Sincronización de investigación, nivel 12	OK		
+SYNC_THIRTEEN	Sincronización de investigación, nivel 13	OK		
+SYNC_FOURTEEN	Sincronización de investigación, nivel 14	OK		
+SYNC_FIFTEEN	Sincronización de investigación, nivel 15	OK		
+SYNC_SIXTEEN	Sincronización de investigación, nivel 16	OK		
+SYNC_SEVENTEEN	Sincronización de investigación, nivel 17	OK		
+SYNC_EIGHTEEN	Sincronización de investigación, nivel 18	OK		
+SYNC_NINETEEN	Sincronización de investigación, nivel 19	OK		
+SYNC_TWENTY	Sincronización de investigación, nivel 20	OK		
+SYNC_TWENTYONE	Sincronización de investigación, nivel 21	OK		
+DUAL_ARMS_TECH	Brazos dobles de Exosuit	Use my Spanish	Brazos dobles de Exotraje	
+DUAL_ARMS_TECH_TOOLTIP	Permite al Exosuit montar un arma en cada brazo en lugar de una garra en uno de ellos.	Use my Spanish	Permite al Exotraje montar un arma en cada brazo en lugar de una garra en uno de ellos.	

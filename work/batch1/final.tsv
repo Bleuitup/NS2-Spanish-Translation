@@ -199,9 +199,9 @@ OPTION_ALIEN_WEAPONSLOTS_CHOICE_DEFAULT	Predeterminado
 OPTION_ALIEN_WEAPONSLOTS_CHOICE_USEWEAPONSLOTS	USAR RANURAS DE ARMA
 OPTION_ALIEN_WEAPONSLOTS_TOOLTIP	Elige cómo seleccionar y activar las habilidades alien
 OPTION_BLUEPRINT_ROTATION_SHIFT_KEY	Mantén presionado Shift para rotar un plano y para revisar la salida de una Robotics Factory mientras la mueves.
-OPTION_DUAL_FLAMETHROWER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
-OPTION_DUAL_MINIGUN_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
-OPTION_DUAL_PLASMA_LAUNCHER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exosuit.
+OPTION_DUAL_FLAMETHROWER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exotraje.
+OPTION_DUAL_MINIGUN_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exotraje.
+OPTION_DUAL_PLASMA_LAUNCHER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exotraje.
 OPTION_PERTEAM_SENSITIVITY	SENSIBILIDAD POR EQUIPO
 OPTION_PERTEAM_SENSITIVITY_TOOLTIP	Permite tener sensibilidades distintas para Aliens y Marines.
 OPTION_PERTEAM_FOV	FOV POR EQUIPO
@@ -308,7 +308,7 @@ ADVANCED_CATEGORY_MISC	VARIOS
 ADVANCED_OPTION_AV_INITIALSTATE	ESTADO INICIAL DE LA VISIÓN ALIEN
 ADVANCED_OPTION_AV_INITIALSTATE_TOOLTIP	Define si la visión alien está activada o no al reaparecer.
 ADVANCED_OPTION_BANNERS	AVISOS DE OBJETIVO
-ADVANCED_OPTION_BANNERS_TOOLTIP	Activa o desactiva los avisos en el centro de la pantalla (\"Se necesita Commander\", \"Power Node bajo ataque\", \"Evolución perdida\", etc.).
+ADVANCED_OPTION_BANNERS_TOOLTIP	Activa o desactiva los avisos en el centro de la pantalla (\"Se necesita Commander\", \"Nodo de energía bajo ataque\", \"Evolución perdida\", etc.).
 ADVANCED_OPTION_CLASSICAMMO	CONTADOR DE MUNICIÓN CLÁSICO
 ADVANCED_OPTION_CLASSICAMMO_TOOLTIP	Muestra un contador de munición clásico abajo a la derecha del HUD de Marine, encima de los recursos personales.
 ADVANCED_OPTION_HIVESTATUS	ESTADO DE LAS HIVES

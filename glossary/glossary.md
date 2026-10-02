@@ -33,7 +33,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | upgrade | translate | mejora |  |  |
 | research | translate | investigar / investigación |  | I don't like Desarrollar in this context. RTS games in spanish tend to use 'investigar' |
 | tech point | keep | tech point | el *(proposed)* | The existing tutorial already writes 'tech point'. |
-| resource node | translate | nodo de res | el | I saw "Res" used also in the translation so this could work too since res is such a common ns2 term |
+| resource node | translate | nodo de recursos | el | Also the resource nozzle (batch 3). |
 | Tech Tree | translate | árbol de tecnologías | el |  |
 | badge | translate | insignia |  |  |
 | skill | translate | nivel de habilidad | el | Player rating and bot difficulty. 'Skill Tier' = rango de habilidad; 'relative skill' = habilidad relativa. Not ELO. |
@@ -80,8 +80,8 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Prototype Lab | keep | Prototype Lab | el *(proposed)* |  |
 | Extractor | keep | Extractor | el *(proposed)* |  |
 | Sentry | keep | Sentry | la *(proposed)* |  |
-| Sentry Battery | keep | Sentry Battery | la *(proposed)* |  |
-| Power Node | keep | Power Node | el *(proposed)* |  |
+| Sentry Battery | translate | Batería de Energía | la | Batch 3: the game calls it Power Battery. |
+| Power Node | translate | Nodo de energía | el | Batch 3. |
 
 ## Marine units
 
@@ -89,7 +89,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 |---|---|---|---|---|
 | MAC | keep | MAC | el *(proposed)* |  |
 | ARC | keep | ARC | el *(proposed)* |  |
-| Exosuit | keep | Exosuit | el *(proposed)* |  |
+| Exosuit | translate | Exotraje | el | Batch 3. Capitalized like a unit name; 'Exo' stays. |
 | Exo | keep | Exo | el *(proposed)* |  |
 | Jetpack | keep | Jetpack | el *(proposed)* |  |
 
@@ -100,7 +100,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Rifle | keep | Rifle | el *(proposed)* |  |
 | Pistol | translate | pistola |  |  |
 | Axe | translate | hacha |  |  |
-| Welder | keep | Welder | el *(proposed)* |  |
+| Welder | translate | soldador | el | Batch 3. |
 | Shotgun | translate | escopeta |  |  |
 | Grenade Launcher | translate | lanzagranadas |  |  |
 | Flamethrower | translate | lanzallamas |  |  |
@@ -118,13 +118,13 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 
 | English | Handling | Spanish | Article | Notes |
 |---|---|---|---|---|
-| Med pack | keep | Med pack | el *(proposed)* |  |
-| Ammo pack | keep | Ammo pack | el *(proposed)* |  |
-| Catalyst pack | keep | Catalyst pack | el *(proposed)* |  |
+| Med pack | keep | Med pack | el *(proposed)* | Batch 3: Bleu keeps 'Med pack'. |
+| Ammo pack | translate | paquete de munición | el | Batch 3. The short label stays 'Paq. de munición'. |
+| Catalyst pack | translate | paquete catalizador | el | Batch 3. |
 | Nano-shield | translate | nano-escudo |  |  |
 | Scan | translate | escaneo |  |  |
 | Distress Beacon | mixed | Beacon de emergencia | el *(proposed)* |  |
-| Power Surge | keep | Power Surge | la *(proposed)* |  |
+| Power Surge | translate | Sobretensión | la | Batch 3. |
 
 ## Marine research
 
@@ -164,11 +164,11 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | English | Handling | Spanish | Article | Notes |
 |---|---|---|---|---|
 | Drifter | keep | Drifter | el *(proposed)* |  |
-| Hydra | keep | Hydra | la *(proposed)* |  |
+| Hydra | translate | Hidra | la | Batch 3: nearly the same word, like Túnel. |
 | Babbler | keep | Babbler | el *(proposed)* |  |
 | Clog | keep | Clog | el *(proposed)* |  |
 | Web | translate | telaraña |  |  |
-| Bone Wall | keep | Bone Wall | la *(proposed)* |  |
+| Bone Wall | translate | Muro de Huesos | el | Batch 3. |
 
 ## Alien structures
 
@@ -201,23 +201,23 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | English | Handling | Spanish | Article | Notes |
 |---|---|---|---|---|
 | Bite | translate | Mordida | la | Ability name 'Mordida'; the verb is morder. |
-| Leap | translate | Salto | el |  |
+| Leap | translate | Impulso | el | Batch 3: 'Impulso', so it is not confused with an ordinary jump (salto). |
 | Parasite | translate | parásito | el |  |
-| Xenocide | keep | Xenocide | el *(proposed)* |  |
+| Xenocide | translate | Xenocidio | el | Batch 3. |
 | Spit | translate | Escupitajo | el | Ability name 'Escupitajo'; the verb is escupir. |
 | Heal Spray | mixed | spray de curación | el |  |
-| Bile Bomb | keep | Bile Bomb | la *(proposed)* |  |
+| Bile Bomb | translate | Bomba de Bilis | la | Batch 3. Bile Mine = Mina de Bilis. |
 | Spikes | translate | espinas | las |  |
 | Spores | translate | esporas | las |  |
 | Umbra | keep | Umbra | la *(proposed)* |  |
 | Swipe | translate | Zarpazo | el |  |
-| Blink | keep | Blink | el *(proposed)* |  |
-| Metabolize | keep | Metabolize | el *(proposed)* |  |
-| Stab | keep | Stab | la *(proposed)* |  |
+| Blink | translate | Destello | el | Batch 3: as Overwatch does. |
+| Metabolize | translate | Metabolización | la | Batch 3. Advanced Metabolize = Metabolización Avanzada. |
+| Stab | translate | Puñalada | la | Batch 3. |
 | Gore | translate | Cornada | la |  |
 | Stomp | translate | Pisotón | el |  |
-| Charge | keep | Charge | la | Ability name stays 'Charge'; the verb is translated: cargar / embestir. |
-| Bone Shield | keep | Bone Shield | el *(proposed)* |  |
+| Charge | translate | Carga | la | Ability name 'Carga' (batch 3 review); the verb is cargar / embestir. |
+| Bone Shield | translate | Escudo de Huesos | el | Batch 3, to match Muro de Huesos. |
 | Enzyme | translate | enzima |  |  |
 | Mucous Membrane | translate | membrana mucosa |  |  |
 | Hallucination | translate | alucinación |  |  |

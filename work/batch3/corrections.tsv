@@ -1,0 +1,29 @@
+BUILD_TUNNELS_MENU_TOOLTIP	 	The review export trims the trailing space the English line has.
+SELECT_TUNNEL_ENTRY_TOOLTIP	 	The review export trims the trailing space the English line has.
+SELECT_TUNNEL_EXIT_TOOLTIP	 	The review export trims the trailing space the English line has.
+TECH_POINT_TOOLTIP	Algunas habilidades y tecnologías requieren varias Hives o Command Stations. Estos tech points son los lugares especiales donde se construyen. 	The review export trims the trailing space the English line has.
+BITE_TOOLTIP	BIND_PrimaryAttack para morder. Sirve contra jugadores y estructuras, pero elige bien el momento de cada mordida. BIND_SecondaryAttack para el impulso (cuando el Commander lo investiga).	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+BLINK	Destello	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+BONESHIELD	Escudo de Huesos	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hidras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+CAT_PACK	Paquete catalizador	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+CLAWRAILGUN_EXOSUIT	Exotraje con puño y railgun	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+DUALMINIGUN_EXOSUIT	Exotraje con dos Miniguns	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+DUALRAILGUN_EXOSUIT	Exotraje con dos Railguns	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+ECHO_HYDRA	Mover Hidra	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+HALLUCINATE_HYDRA	Alucinar Hidra	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+HALLUCINATE_HYDRA_TOOLTIP	Crea una Hidra falsa	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+HYDRA	Hidra	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con el destello mientras ataca con sus garras. Puede evolucionar metabolización para recuperar energía y metabolización avanzada para recuperar energía y salud. Experto en ataques relámpago y en sorprender a Marines solitarios.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+GORGE_TOOLTIP	Un Gorge puede construir Hidras ofensivas y Clogs defensivos. Puede evolucionar bomba de bilis, a distancia, para atacar armaduras y estructuras.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+SKULK_TOOLTIP	Puede atacar con su mordida y rastrear enemigos con el parásito. Puede emboscar a los enemigos trepando por paredes y techos. Puede evolucionar impulso y xenocidio.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+RESEARCH_WELDER	Investigar soldadores	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+WELDER	Soldador	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+WELDER_DROP	Soltar soldador	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+WELDER_TECH_TOOLTIP	Permite comprar soldadores en el Armory	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+WELDER_TOOLTIP	Repara la armadura de Marines y Exos, y también estructuras. Es la forma más rápida de reparar Nodos de energía y sirve contra objetivos inflamables.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+SOCKET_POWER_NODE	Colocar Nodo de energía	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+STAB_BLINK	Puñalada	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+SWIPE_BLINK	Zarpazo y Destello	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+SWIPE_TOOLTIP	Poderoso ataque cuerpo a cuerpo que hace daño extra a los jugadores. Presiona BIND_SecondaryAttack para usar el destello y teletransportarte (cuando el Commander lo evoluciona).	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+XENOCIDE	Xenocidio	Batch 3 term decisions (2026-10-02): term swept to the new glossary.

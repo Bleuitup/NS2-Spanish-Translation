@@ -35,7 +35,13 @@ Decided by Bleu, 2026-09-29 (terminology workbook, then follow-ups in chat).
 Follow the glossary. Its handling column means:
 
 - **keep**: the English name stays, exactly as written: Hive, Armory, Skulk, Command Station.
-- **translate**: the Spanish term: lanzallamas, biomasa, zarpazo, cámara de evolución.
+- **translate**: the Spanish term: lanzallamas, biomasa, zarpazo, cámara de evolución, Exotraje.
+
+**The rule for which is which (Bleu, batch 3 review, 2026-10-02): translate as much as possible.**
+Abilities, equipment and generic things are translated (Xenocidio, Destello, Puñalada, soldador).
+Lifeform names (Skulk, Gorge, Lerk, Fade, Onos) and acronyms (MAC, ARC) stay. Buildings stay in
+English unless the Spanish is nearly the same word (Túnel, Hidra) or the name is plain descriptive
+words (Nodo de energía, Batería de Energía). 'Med pack' stays by choice.
 - **mixed**: English name with a Spanish noun: Beacon de emergencia, campo de regen.
 
 How English names behave inside Spanish sentences:
@@ -54,8 +60,8 @@ Translated names:
 
 Names that are also verbs:
 
-- **Charge**: the ability name stays «Charge»; the verb is **cargar** / **embestir** («el Onos
-  puede cargar contra…»).
+- **Charge**: name «Carga»; the verb is **cargar** / **embestir** («el Onos puede cargar contra…»).
+- **Leap**: name «Impulso», never «Salto», which is an ordinary jump.
 - **Bite**: name «Mordida»; verb **morder**. **Spit**: name «Escupitajo»; verb **escupir**.
 
 Specific terms:

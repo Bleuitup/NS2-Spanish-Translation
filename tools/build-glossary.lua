@@ -28,8 +28,8 @@ local overrides = {
     ["Evolution Chamber"] = { handling = "translate", spanish = "cámara de evolución", article = "la" },
     ["Command Chair"] = { handling = "keep", spanish = "Command Station", article = "la",
         notes = "Always 'Command Station', also where English says Command Chair (the seat)." },
-    ["Charge"] = { handling = "keep", article = "la",
-        notes = "Ability name stays 'Charge'; the verb is translated: cargar / embestir." },
+    ["Charge"] = { handling = "translate", spanish = "Carga", article = "la",
+        notes = "Ability name 'Carga' (batch 3 review); the verb is cargar / embestir." },
     ["Bite"] = { handling = "translate", spanish = "Mordida", article = "la",
         notes = "Ability name 'Mordida'; the verb is morder." },
     ["Spit"] = { handling = "translate", spanish = "Escupitajo", article = "el",
@@ -39,7 +39,8 @@ local overrides = {
     ["Stomp"] = { handling = "translate", spanish = "Pisotón", article = "el" },
     ["Swipe"] = { handling = "translate", spanish = "Zarpazo", article = "el" },
     ["Gore"] = { handling = "translate", spanish = "Cornada", article = "la" },
-    ["Leap"] = { handling = "translate", spanish = "Salto", article = "el" },
+    ["Leap"] = { handling = "translate", spanish = "Impulso", article = "el",
+        notes = "Batch 3: 'Impulso', so it is not confused with an ordinary jump (salto)." },
     ["Crush"] = { handling = "translate", spanish = "Aplastamiento", article = "el" },
     -- spelling fixes to the workbook entries
     ["Hallucination"] = { spanish = "alucinación" },
@@ -49,6 +50,26 @@ local overrides = {
     ["chamber"] = { drop = true }, -- never appears alone in the game text
     -- From the batch 1 review, 2026-09-30
     ["Ready Room"] = { article = "el", notes = "Bleu: 'IR AL READY ROOM'." },
+    -- From the batch 3 review, 2026-10-02. The rule Bleu settled on: translate as much as possible.
+    -- Lifeform names and acronyms stay; buildings stay in English unless the Spanish is nearly the
+    -- same word (Tunnel, Hydra) or the name is plain descriptive words (Power Node).
+    ["Exosuit"] = { handling = "translate", spanish = "Exotraje", article = "el", notes = "Batch 3. Capitalized like a unit name; 'Exo' stays." },
+    ["Power Node"] = { handling = "translate", spanish = "Nodo de energía", article = "el", notes = "Batch 3." },
+    ["Sentry Battery"] = { handling = "translate", spanish = "Batería de Energía", article = "la", notes = "Batch 3: the game calls it Power Battery." },
+    ["Bone Wall"] = { handling = "translate", spanish = "Muro de Huesos", article = "el", notes = "Batch 3." },
+    ["Bone Shield"] = { handling = "translate", spanish = "Escudo de Huesos", article = "el", notes = "Batch 3, to match Muro de Huesos." },
+    ["Power Surge"] = { handling = "translate", spanish = "Sobretensión", article = "la", notes = "Batch 3." },
+    ["Bile Bomb"] = { handling = "translate", spanish = "Bomba de Bilis", article = "la", notes = "Batch 3. Bile Mine = Mina de Bilis." },
+    ["Metabolize"] = { handling = "translate", spanish = "Metabolización", article = "la", notes = "Batch 3. Advanced Metabolize = Metabolización Avanzada." },
+    ["Xenocide"] = { handling = "translate", spanish = "Xenocidio", article = "el", notes = "Batch 3." },
+    ["Blink"] = { handling = "translate", spanish = "Destello", article = "el", notes = "Batch 3: as Overwatch does." },
+    ["Stab"] = { handling = "translate", spanish = "Puñalada", article = "la", notes = "Batch 3." },
+    ["Catalyst pack"] = { handling = "translate", spanish = "paquete catalizador", article = "el", notes = "Batch 3." },
+    ["Ammo pack"] = { handling = "translate", spanish = "paquete de munición", article = "el", notes = "Batch 3. The short label stays 'Paq. de munición'." },
+    ["Welder"] = { handling = "translate", spanish = "soldador", article = "el", notes = "Batch 3." },
+    ["Hydra"] = { handling = "translate", spanish = "Hidra", article = "la", notes = "Batch 3: nearly the same word, like Túnel." },
+    ["Med pack"] = { notes = "Batch 3: Bleu keeps 'Med pack'." },
+    ["resource node"] = { spanish = "nodo de recursos", article = "el", notes = "Also the resource nozzle (batch 3)." },
 }
 
 -- Proposed articles for English names (gender of the Spanish word the name stands for).
