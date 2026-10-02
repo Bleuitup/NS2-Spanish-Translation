@@ -10,7 +10,7 @@ THUNDERDOME_TUTORIAL_ALIENCOM_TITLE	Tutorial de Commander Alien
 THUNDERDOME_TUTORIAL_ALIENCOM_DESC	Completa el tutorial de Commander Alien		
 THUNDERDOME_SEARCHING_FOR_LOBBY	Buscando sala		
 THUNDERDOME_FETCHING_HIVE_DATA	Obteniendo perfil de Hive	CHECK	"Hive" here is the stats service, kept as a name.
-THUNDERDOME_LOADING_LOCAL_DATA	Inicializando datos de Partidas competitivas		
+THUNDERDOME_LOADING_LOCAL_DATA	Inicializando datos de Partida competitiva		
 THUNDERDOME_MAPSELECTIONTITLE	SELECCIONA 3 MAPAS EN ORDEN DE PREFERENCIA		
 THUNDERDOME_MAPSELECTIONDESC	SELECCIONA TRES		
 THUNDERDOME_VOTEBUTTON_VOTED	VOTADO		
@@ -60,28 +60,28 @@ THUNDERDOME_RESOURCENODE_LEGEND_LABEL	Nodos de recursos
 THUNDERDOME_COMMANDER	COMMANDER		
 THUNDERDOME_SERVER_WAIT_FAILED	Falló el inicio del servidor		
 THUNDERDOME_MATCH_PROCESS_FAILED	Falló el proceso de la partida		
-THUNDERDOME_SERVER_CONNECT_FAILED	No se pudo conectar al servidor de Partidas competitivas.		
+THUNDERDOME_SERVER_CONNECT_FAILED	No se pudo conectar al servidor de Partida competitiva.		
 THUNDERDOME_HIVEPROFILEFAILED	No se pudo obtener el perfil de Hive.		
-THUNDERDOME_MATCHMAKING_ERROR_TITLE	Error de Partidas competitivas		
-THUNDERDOME_MATCHMAKING_RECONNECT_PROMPT	¿Reconectar al último servidor de Partidas competitivas?		
+THUNDERDOME_MATCHMAKING_ERROR_TITLE	Error de Partida competitiva		
+THUNDERDOME_MATCHMAKING_RECONNECT_PROMPT	¿Reconectar al último servidor de Partida competitiva?		
 THUNDERDOME_MATCHMAKING_LOBBYINVITE_PROMPT	te invitó a unirte a su sala. ¿Unirte a la sala?	CHECK	Follows a player name.
 THUNDERDOME_MATCHMAKING_AFKKICK_PROMPT	Fuiste expulsado por estar inactivo demasiado tiempo. Si no vuelves a la partida, serás penalizado.\n\n¿Quieres volver?		
 THUNDERDOME_MATCHMAKING_AFKKICK_NO_PEN_PROMPT	Fuiste expulsado por estar inactivo demasiado tiempo. ¿Quieres volver?		
 THUNDERDOME_LOBBY_LIFESPAN_TIMEOUT	Estuviste inactivo demasiado tiempo en una sala y saliste de ella automáticamente.		
 THUNDERDOME_MATCHMAKING_AFKKICK_TIMEOUT_PENALIZED_TITLE	Expulsado por AFK		
 THUNDERDOME_MATCHMAKING_AFKKICK_PENALZIED	Fuiste penalizado por estar AFK demasiado tiempo.		
-THUNDERDOME_MATCHMAKING_PENALIZED	Fuiste penalizado por abandonar una partida antes de que terminaran ambas rondas. Las Partidas competitivas no están disponibles por ahora.		
+THUNDERDOME_MATCHMAKING_PENALIZED	Fuiste penalizado por abandonar una partida antes de que terminaran ambas rondas. Partida competitiva no está disponible por ahora.		
 THUNDERDOME_OWNER_CHANGE_FAILED	Ningún miembro de la sala pudo completar una tarea. (Probablemente el sistema o Steam están caídos)		
-THUNDERDOME_SYSTEM_DISABLED	Las Partidas competitivas están desactivadas por el momento. Puede deberse a un mantenimiento regular o a una caída del sistema. Vuelve a intentarlo más tarde.		
-THUNDERDOME_STEAMOFFLINE	Steam está desconectado o se perdió la conexión a internet. Las Partidas competitivas no están disponibles sin Steam.\nVuelve a intentarlo más tarde.		
+THUNDERDOME_SYSTEM_DISABLED	Partida competitiva está desactivada por el momento. Puede deberse a un mantenimiento regular o a una caída del sistema. Vuelve a intentarlo más tarde.		
+THUNDERDOME_STEAMOFFLINE	Steam está desconectado o se perdió la conexión a internet. Partida competitiva no está disponible sin Steam.\nVuelve a intentarlo más tarde.		
 THUNDERDOME_SEARCH_FAILED	¡No se encontró ninguna sala!		
-THUNDERDOME_BANNED	Las Partidas competitivas no están disponibles. Tu cuenta de Steam tiene un baneo activo.		
+THUNDERDOME_BANNED	Partida competitiva no está disponible. Tu cuenta de Steam tiene un baneo activo.		
 THUNDERDOME_ROUND_AWAITING_ALL_CLIENTS	La ronda empieza cuando todos los jugadores estén conectados		
 THUNDERDOME_FIRST_ROUND	Primera ronda		
 THUNDERDOME_SECOND_ROUND	Segunda ronda		
 THUNDERDOME_OVERVIEW_MAP_LABEL	MAPA		
-THUNDERDOME_LEAVE_WARNING_TITLE	Salir de Partidas competitivas		
-THUNDERDOME_LEAVE_WARNING_MESSAGE	¿Seguro que quieres salir de Partidas competitivas?		
+THUNDERDOME_LEAVE_WARNING_TITLE	Salir de Partida competitiva		
+THUNDERDOME_LEAVE_WARNING_MESSAGE	¿Seguro que quieres salir de Partida competitiva?		
 THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY	Hay una partida en curso: serás penalizado.\n¿Seguro que quieres salir?		
 THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY_INGAME	La partida sigue en curso: serás penalizado.\n¿Seguro que quieres salir?		
 THUNDERDOME_MATCHMAKE_START_WARNING_TITLE	Advertencia		
@@ -153,7 +153,7 @@ THUNDERDOME_RULES_FORCED_CONCEDE_MSG_DESC	La ronda se dará por concedida autom�
 THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG_TITLE	Equipos desequilibrados		
 THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG	La partida terminará automáticamente en %s segundos		
 THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG_TITLE	Límite de tiempo de la ronda		
-THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG	Las rondas de Partidas competitivas están limitadas a %s minutos. La ronda terminará en empate en %s segundos		
+THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG	Las rondas de Partida competitiva están limitadas a %s minutos. La ronda terminará en empate en %s segundos		
 THUNDERDOME_REWARDS_PULLOUT_TITLE	RECOMPENSAS DE PARTIDAS RANKEADAS		
 THUNDERDOME_REWARDS_DETAILS_PROGRESSLABEL	Progreso que falta para alcanzar esta recompensa:		
 THUNDERDOME_REWARDS_DETAILS_PROGRESSPOSTFIX_HOURS	horas		

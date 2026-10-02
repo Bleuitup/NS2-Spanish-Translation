@@ -146,9 +146,9 @@ THUNDERDOME_GROUP_TITLE	COLA DE GRUPO
 THUNDERDOME_LOBBY_INVITE_INVALID	Invitación no válida		
 THUNDERDOME_MATCHMAKING_LOBBYINVITE_INVALID	La sala a la que intentas unirte está llena o no admite más jugadores.		
 THUNDERDOME_LOBBY_KICKED	Expulsado		
-THUNDERDOME_MATCHMAKING_LOBBY_KICKED	Otros jugadores te expulsaron de la sala de Partidas competitivas.		
-THUNDERDOME_MODE_TIP_SEARCH_PENALTY	Las Partidas competitivas públicas no están disponibles mientras estés penalizado.		
-THUNDERDOME_MODE_TIP_GROUP_PENALTY	La cola de grupo de Partidas competitivas no está disponible mientras estés penalizado.		
+THUNDERDOME_MATCHMAKING_LOBBY_KICKED	Otros jugadores te expulsaron de la sala de Partida competitiva.		
+THUNDERDOME_MODE_TIP_SEARCH_PENALTY	Partida competitiva pública no está disponible mientras estés penalizado.		
+THUNDERDOME_MODE_TIP_GROUP_PENALTY	La cola de grupo de Partida competitiva no está disponible mientras estés penalizado.		
 THUNDERDOME_MATCHMAKING_PENALTY_EXPIRES	La penalización termina en %s.		
 THUNDERDOME_LOBBY_RESULTS	%s esperando | %s jugando		
 THUNDERDOME_OPPOSING_TEAM	EQUIPO CONTRARIO		

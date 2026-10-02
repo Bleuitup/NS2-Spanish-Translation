@@ -10,7 +10,7 @@ Competitive Play	THUNDERDOME_TUTORIAL_ALIENCOM_TITLE	Alien Comm Tutorial		Tutori
 Competitive Play	THUNDERDOME_TUTORIAL_ALIENCOM_DESC	Complete the Alien Commander Tutorial		Completa el tutorial de Commander Alien	New			
 Competitive Play	THUNDERDOME_SEARCHING_FOR_LOBBY	Searching For Lobby		Buscando sala	New			
 Competitive Play	THUNDERDOME_FETCHING_HIVE_DATA	Fetching Hive Profile		Obteniendo perfil de Hive	New	CHECK	"Hive" here is the stats service, kept as a name.	
-Competitive Play	THUNDERDOME_LOADING_LOCAL_DATA	Initializing Competitive Play data		Inicializando datos de Partidas competitivas	New			
+Competitive Play	THUNDERDOME_LOADING_LOCAL_DATA	Initializing Competitive Play data		Inicializando datos de Partida competitiva	New			
 Competitive Play	THUNDERDOME_MAPSELECTIONTITLE	SELECT 3 MAPS IN ORDER OF PREFERENCE		SELECCIONA 3 MAPAS EN ORDEN DE PREFERENCIA	New			
 Competitive Play	THUNDERDOME_MAPSELECTIONDESC	SELECT THREE		SELECCIONA TRES	New			
 Competitive Play	THUNDERDOME_VOTEBUTTON_VOTED	VOTED		VOTADO	New			
@@ -60,28 +60,28 @@ Competitive Play	THUNDERDOME_RESOURCENODE_LEGEND_LABEL	Resource Nodes		Nodos de 
 Competitive Play	THUNDERDOME_COMMANDER	COMMANDER		COMMANDER	New			
 Competitive Play	THUNDERDOME_SERVER_WAIT_FAILED	Server spinup failed		Falló el inicio del servidor	New			
 Competitive Play	THUNDERDOME_MATCH_PROCESS_FAILED	Match Process Failed		Falló el proceso de la partida	New			
-Competitive Play	THUNDERDOME_SERVER_CONNECT_FAILED	Could not connect to Competitive Play Server.		No se pudo conectar al servidor de Partidas competitivas.	New			
+Competitive Play	THUNDERDOME_SERVER_CONNECT_FAILED	Could not connect to Competitive Play Server.		No se pudo conectar al servidor de Partida competitiva.	New			
 Competitive Play	THUNDERDOME_HIVEPROFILEFAILED	Hive profile could not be fetched.		No se pudo obtener el perfil de Hive.	New			
-Competitive Play	THUNDERDOME_MATCHMAKING_ERROR_TITLE	Competitive Play Error		Error de Partidas competitivas	New			
-Competitive Play	THUNDERDOME_MATCHMAKING_RECONNECT_PROMPT	Reconnect to last Competitive Play server?		¿Reconectar al último servidor de Partidas competitivas?	New			
+Competitive Play	THUNDERDOME_MATCHMAKING_ERROR_TITLE	Competitive Play Error		Error de Partida competitiva	New			
+Competitive Play	THUNDERDOME_MATCHMAKING_RECONNECT_PROMPT	Reconnect to last Competitive Play server?		¿Reconectar al último servidor de Partida competitiva?	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_LOBBYINVITE_PROMPT	has invited you to join their lobby. Join the lobby?		te invitó a unirte a su sala. ¿Unirte a la sala?	New	CHECK	Follows a player name.	
 Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_PROMPT	You were kicked for being idle too long. If you do not rejoin the match, you will be penalized.\n\nDo you want to rejoin?		Fuiste expulsado por estar inactivo demasiado tiempo. Si no vuelves a la partida, serás penalizado.\n\n¿Quieres volver?	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_NO_PEN_PROMPT	You were kicked for being idle too long. Do you want to rejoin?		Fuiste expulsado por estar inactivo demasiado tiempo. ¿Quieres volver?	New			
 Competitive Play	THUNDERDOME_LOBBY_LIFESPAN_TIMEOUT	You were idle too long in a Lobby and automatically left the lobby.		Estuviste inactivo demasiado tiempo en una sala y saliste de ella automáticamente.	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_TIMEOUT_PENALIZED_TITLE	AFK Kicked		Expulsado por AFK	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_AFKKICK_PENALZIED	You have been penalized for being AFK too long.		Fuiste penalizado por estar AFK demasiado tiempo.	New			
-Competitive Play	THUNDERDOME_MATCHMAKING_PENALIZED	You have been penalized for leaving a match before both rounds were completed. Competitive Play is unavailable at this time.		Fuiste penalizado por abandonar una partida antes de que terminaran ambas rondas. Las Partidas competitivas no están disponibles por ahora.	New			
+Competitive Play	THUNDERDOME_MATCHMAKING_PENALIZED	You have been penalized for leaving a match before both rounds were completed. Competitive Play is unavailable at this time.		Fuiste penalizado por abandonar una partida antes de que terminaran ambas rondas. Partida competitiva no está disponible por ahora.	New			
 Competitive Play	THUNDERDOME_OWNER_CHANGE_FAILED	No lobby members could complete a task. (Likely System or Steam is down)		Ningún miembro de la sala pudo completar una tarea. (Probablemente el sistema o Steam están caídos)	New			
-Competitive Play	THUNDERDOME_SYSTEM_DISABLED	Competitive Play is currently disabled. This may be due to regular maintenance or a system outage. Please try again later.		Las Partidas competitivas están desactivadas por el momento. Puede deberse a un mantenimiento regular o a una caída del sistema. Vuelve a intentarlo más tarde.	New			
-Competitive Play	THUNDERDOME_STEAMOFFLINE	Steam is Offline or internet connection lost. Competitive Play is unavailable without Steam.\nPlease try again later.		Steam está desconectado o se perdió la conexión a internet. Las Partidas competitivas no están disponibles sin Steam.\nVuelve a intentarlo más tarde.	New			
+Competitive Play	THUNDERDOME_SYSTEM_DISABLED	Competitive Play is currently disabled. This may be due to regular maintenance or a system outage. Please try again later.		Partida competitiva está desactivada por el momento. Puede deberse a un mantenimiento regular o a una caída del sistema. Vuelve a intentarlo más tarde.	New			
+Competitive Play	THUNDERDOME_STEAMOFFLINE	Steam is Offline or internet connection lost. Competitive Play is unavailable without Steam.\nPlease try again later.		Steam está desconectado o se perdió la conexión a internet. Partida competitiva no está disponible sin Steam.\nVuelve a intentarlo más tarde.	New			
 Competitive Play	THUNDERDOME_SEARCH_FAILED	Could not find a lobby!		¡No se encontró ninguna sala!	New			
-Competitive Play	THUNDERDOME_BANNED	Competitive Play is not available. Your Steam account has an active ban.		Las Partidas competitivas no están disponibles. Tu cuenta de Steam tiene un baneo activo.	New			
+Competitive Play	THUNDERDOME_BANNED	Competitive Play is not available. Your Steam account has an active ban.		Partida competitiva no está disponible. Tu cuenta de Steam tiene un baneo activo.	New			
 Competitive Play	THUNDERDOME_ROUND_AWAITING_ALL_CLIENTS	Round begins when all Players are connected		La ronda empieza cuando todos los jugadores estén conectados	New			
 Competitive Play	THUNDERDOME_FIRST_ROUND	First Round		Primera ronda	New			
 Competitive Play	THUNDERDOME_SECOND_ROUND	Second Round		Segunda ronda	New			
 Competitive Play	THUNDERDOME_OVERVIEW_MAP_LABEL	MAP		MAPA	New			
-Competitive Play	THUNDERDOME_LEAVE_WARNING_TITLE	Leaving Competitive Play		Salir de Partidas competitivas	New			
-Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE	Are you sure you want to leave Competitive Play?		¿Seguro que quieres salir de Partidas competitivas?	New			
+Competitive Play	THUNDERDOME_LEAVE_WARNING_TITLE	Leaving Competitive Play		Salir de Partida competitiva	New			
+Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE	Are you sure you want to leave Competitive Play?		¿Seguro que quieres salir de Partida competitiva?	New			
 Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY	A Match is in progress, you will be penalized.\nAre you sure you want to leave?		Hay una partida en curso: serás penalizado.\n¿Seguro que quieres salir?	New			
 Competitive Play	THUNDERDOME_LEAVE_WARNING_MESSAGE_PENALTY_INGAME	The Match is still in progress, you will be penalized.\nAre you sure you want to leave?		La partida sigue en curso: serás penalizado.\n¿Seguro que quieres salir?	New			
 Competitive Play	THUNDERDOME_MATCHMAKE_START_WARNING_TITLE	Warning		Advertencia	New			
@@ -153,7 +153,7 @@ Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_MSG_DESC	The round will automa
 Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG_TITLE	Teams are uneven		Equipos desequilibrados	New			
 Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_MSG	The Match will automatically end in %s seconds		La partida terminará automáticamente en %s segundos	New			
 Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG_TITLE	Round Time Limit		Límite de tiempo de la ronda	New			length: 28 chars vs 16 in English
-Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG	Competitive Play rounds are limited to %s minutes. Round will end as a Draw in %s seconds		Las rondas de Partidas competitivas están limitadas a %s minutos. La ronda terminará en empate en %s segundos	New			
+Competitive Play	THUNDERDOME_RULES_FORCED_CONCEDE_WARN_ROUNDLEN_MSG	Competitive Play rounds are limited to %s minutes. Round will end as a Draw in %s seconds		Las rondas de Partida competitiva están limitadas a %s minutos. La ronda terminará en empate en %s segundos	New			
 Competitive Play	THUNDERDOME_REWARDS_PULLOUT_TITLE	RANKED PLAY REWARDS		RECOMPENSAS DE PARTIDAS RANKEADAS	New			length: 33 chars vs 19 in English
 Competitive Play	THUNDERDOME_REWARDS_DETAILS_PROGRESSLABEL	Progress remaining to reach this reward:		Progreso que falta para alcanzar esta recompensa:	New			
 Competitive Play	THUNDERDOME_REWARDS_DETAILS_PROGRESSPOSTFIX_HOURS	Hours		horas	New			
@@ -316,9 +316,9 @@ Competitive Play	THUNDERDOME_GROUP_TITLE	GROUP QUEUE		COLA DE GRUPO	New
 Competitive Play	THUNDERDOME_LOBBY_INVITE_INVALID	Invalid Invitation		Invitación no válida	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_LOBBYINVITE_INVALID	The lobby you are attempting to join is full or cannot be joined.		La sala a la que intentas unirte está llena o no admite más jugadores.	New			
 Competitive Play	THUNDERDOME_LOBBY_KICKED	Kicked		Expulsado	New			
-Competitive Play	THUNDERDOME_MATCHMAKING_LOBBY_KICKED	You have been kicked from the Competitive Play lobby by other players.		Otros jugadores te expulsaron de la sala de Partidas competitivas.	New			
-Competitive Play	THUNDERDOME_MODE_TIP_SEARCH_PENALTY	Public Competitive Play is unavailable while penalized.		Las Partidas competitivas públicas no están disponibles mientras estés penalizado.	New			
-Competitive Play	THUNDERDOME_MODE_TIP_GROUP_PENALTY	Competitive Play Group Queuing is unavailable while penalized.		La cola de grupo de Partidas competitivas no está disponible mientras estés penalizado.	New			
+Competitive Play	THUNDERDOME_MATCHMAKING_LOBBY_KICKED	You have been kicked from the Competitive Play lobby by other players.		Otros jugadores te expulsaron de la sala de Partida competitiva.	New			
+Competitive Play	THUNDERDOME_MODE_TIP_SEARCH_PENALTY	Public Competitive Play is unavailable while penalized.		Partida competitiva pública no está disponible mientras estés penalizado.	New			
+Competitive Play	THUNDERDOME_MODE_TIP_GROUP_PENALTY	Competitive Play Group Queuing is unavailable while penalized.		La cola de grupo de Partida competitiva no está disponible mientras estés penalizado.	New			
 Competitive Play	THUNDERDOME_MATCHMAKING_PENALTY_EXPIRES	Penalty expires in %s.		La penalización termina en %s.	New			
 Competitive Play	THUNDERDOME_LOBBY_RESULTS	%s Waiting | %s Playing		%s esperando | %s jugando	New			
 Competitive Play	THUNDERDOME_OPPOSING_TEAM	OPPOSING TEAM		EQUIPO CONTRARIO	New			

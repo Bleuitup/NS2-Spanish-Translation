@@ -75,7 +75,7 @@ Specific terms:
   being played.
 - **Skill:** **nivel de habilidad** (player rating, bot difficulty). "Skill Tier" = **rango de
   habilidad**; "relative skill" = **habilidad relativa**. Never ELO.
-- **Quick Play** = «Partida rápida», **Competitive Play** = «Partidas competitivas» (the mode; plural, capital P only).
+- **Quick Play** = «Partida rápida», **Competitive Play** = «Partida competitiva» (the mode; singular, capital P only, no article: «Partida competitiva no está disponible»).
 
 ## 5. Punctuation
 
