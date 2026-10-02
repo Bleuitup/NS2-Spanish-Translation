@@ -39,9 +39,12 @@ Follow the glossary. Its handling column means:
 
 **The rule for which is which (Bleu, batch 3 review, 2026-10-02): translate as much as possible.**
 Abilities, equipment and generic things are translated (Xenocidio, Destello, Puñalada, soldador).
-Lifeform names (Skulk, Gorge, Lerk, Fade, Onos) and acronyms (MAC, ARC) stay. Buildings stay in
-English unless the Spanish is nearly the same word (Túnel, Hidra) or the name is plain descriptive
-words (Nodo de energía, Batería de Energía). 'Med pack' stays by choice.
+Lifeform names (Skulk, Gorge, Lerk, Fade, Onos) and acronyms (MAC, ARC) stay. **Every faction
+structure keeps its English name, with no exceptions** (Bleu, 2026-10-03): Hive, Armory, Phase Gate,
+Tunnel, Hydra, Sentry Battery, Cargo Gate. Three things that look like structures are translated:
+the Power Node («Nodo de energía», part of the map, not of a faction), the Evolution Chamber
+(«cámara de evolución», a button inside the Hive) and tech names such as Phase Tech («tecnología
+de fase»). 'Med pack' stays by choice.
 - **mixed**: English name with a Spanish noun: Beacon de emergencia, campo de regen.
 
 How English names behave inside Spanish sentences:

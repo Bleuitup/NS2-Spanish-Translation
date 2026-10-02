@@ -8,3 +8,14 @@ EXO_MODULE_NANOREPAIR_DESC	Habilidad de apoyo en la tecla de recarga: cura a cad
 TIPVIDEO_2_ALIEN__AURA	La mejora Aura muestra la vida de los enemigos a través de las paredes.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 TIPVIDEO_2_FADE_FADE_METABOLIZE	La metabolización restaura algo de energía y, si tu Commander la mejora, también algo de vida	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 LOADING_TIP_REQ_MENU	Como Marine, presiona BIND_RequestMenu para pedirle al Commander munición, vida u órdenes.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+TIPVIDEO_1_MARINE_PHASE_GATES	Atraviesa los Phase Gates para viajar rápido entre ellos.	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_1_MARINE_PHASE_GATES_TITEL	Phase Gates	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES	Las Sentries necesitan una Sentry Battery cerca para funcionar.	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES_TITEL	Sentry Batteries	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_2_GORGE_GORGE_TUNNELS	Los Gorges pueden construir dos entradas de Gorge Tunnel que crean un atajo de ida y vuelta.	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_2_GORGE_GORGE_TUNNELS_TITEL	Gorge: Tunnels	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES	Destruye los Phase Gates de los Marines para impedir que lleguen refuerzos.	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES_TITEL	Destruir Phase Gates	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT	Las Hydras se pueden colocar en suelos, paredes y techos.	Faction structure names stay in English (Bleu, 2026-10-03).
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT_TITEL	Gorge: Colocación de Hydras	Faction structure names stay in English (Bleu, 2026-10-03).
+LOADING_TIP_SUPPORT	¡Las clases de apoyo son invaluables! Un Gorge con algunas Hydras o un Marine con un soldador pueden tener un impacto enorme.	Faction structure names stay in English (Bleu, 2026-10-03).

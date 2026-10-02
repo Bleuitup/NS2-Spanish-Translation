@@ -76,5 +76,5 @@ INFANTRY_PORTAL_TOOLTIP	Hace renacer a un Marine cada 9 segundos. Solo se puede 
 MED_PACK_TOOLTIP	Restablece 50 puntos de vida del jugador
 OPTION_ENEMY_HEALTH	Muestra la vida total del enemigo al atacarlo
 SPAWN_MARINE_TOOLTIP	Los Marines muertos renacen aquí cada 9 segundos
-UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más vida y extienden la infestación
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de Infested Tunnel tienen más vida y extienden la infestación
 VAMPIRISM_TOOLTIP	Crea un escudo temporal para ti absorbiendo vida de los enemigos cuando los golpeas con tu ataque principal

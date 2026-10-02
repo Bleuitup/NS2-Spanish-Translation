@@ -79,15 +79,15 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Advanced Armory | keep | Advanced Armory | el *(proposed)* |  |
 | Arms Lab | keep | Arms Lab | el *(proposed)* |  |
 | Observatory | keep | Observatory | el *(proposed)* |  |
-| Phase Gate | translate | portal de fase | el |  |
+| Phase Gate | keep | Phase Gate | el | Faction structure: English name. Phase Tech stays 'tecnología de fase'. |
 | Robotics Factory | keep | Robotics Factory | la *(proposed)* |  |
 | ARC Factory | keep | ARC Factory | la *(proposed)* |  |
 | Prototype Lab | keep | Prototype Lab | el *(proposed)* |  |
 | Extractor | keep | Extractor | el *(proposed)* |  |
 | Sentry | keep | Sentry | la *(proposed)* |  |
-| Sentry Battery | translate | Batería de Energía | la | Batch 3: the game calls it Power Battery. |
+| Sentry Battery | keep | Sentry Battery | la | Faction structure: English name. The game displays it as Power Battery; each line uses the name its English uses. |
 | Power Node | translate | Nodo de energía | el | Batch 3. |
-| Cargo Gate | translate | Puerta de Carga | la | Batch 4 (CBM): Bleu translated it. |
+| Cargo Gate | keep | Cargo Gate | la | CBM structure. Kept in English like every faction structure (2026-10-03). |
 
 ## Marine units
 
@@ -172,7 +172,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | English | Handling | Spanish | Article | Notes |
 |---|---|---|---|---|
 | Drifter | keep | Drifter | el *(proposed)* |  |
-| Hydra | translate | Hidra | la | Batch 3: nearly the same word, like Túnel. |
+| Hydra | keep | Hydra | la | Faction structure: English name. |
 | Babbler | keep | Babbler | el *(proposed)* |  |
 | Clog | keep | Clog | el *(proposed)* |  |
 | Web | translate | telaraña |  |  |
@@ -192,7 +192,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Shell | keep | Shell | la *(proposed)* |  |
 | Spur | keep | Spur | el *(proposed)* |  |
 | Veil | keep | Veil | el *(proposed)* |  |
-| Tunnel | translate | túnel |  |  |
+| Tunnel | keep | Tunnel | el | Faction structure: English name. Also Gorge Tunnel and Infested Tunnel. |
 | Evolution Chamber | translate | cámara de evolución | la |  |
 | Contamination | translate | contaminación | la |  |
 

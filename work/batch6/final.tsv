@@ -21,7 +21,7 @@ CUSTOMIZE_MENU_SKULK_TYPE	TIPO DE SKULK
 CUSTOMIZE_MENU_WELDER_SKIN	SKIN DE SOLDADOR
 CUSTOMIZE_MENU_ALIEN_STRUCTURES_SKIN	SKIN DE ESTRUCTURAS
 CUSTOMIZE_MENU_MARINE_STRUCTURES_SKIN	SKIN DE ESTRUCTURAS
-CUSTOMIZE_MENU_ALIEN_TUNNELS_SKIN	SKIN DE TÚNELES
+CUSTOMIZE_MENU_ALIEN_TUNNELS_SKIN	SKIN DE TUNNELS
 BUY_THUNDERDOME_UNLOCK	Se desbloquea en Partida competitiva
 BADGE_COMMANDER	Commander
 BADGE_COMMUNITY_DEV	Desarrollador de la comunidad
@@ -251,7 +251,7 @@ ITEM_TITLE_AURIC_ONOS	Onos Auric
 ITEM_AURIC_ONOS	Hueso dorado y espinas relucientes, ¡desgarra carne y acero por igual! 
 ITEM_TITLE_AURIC_CLOG	Clog Auric
 ITEM_AURIC_CLOG	Oscuro y espectacularmente espinoso, ¡este brillante disuadirá a los Marines de entrar a una zona!
-ITEM_TITLE_AURIC_HYDRA	Hidra Auric
+ITEM_TITLE_AURIC_HYDRA	Hydra Auric
 ITEM_AURIC_HYDRA	Una centinela reluciente que detectará a cualquiera que entre en su territorio.
 ITEM_TITLE_AURIC_BABBLER	Babbler Auric
 ITEM_AURIC_BABBLER	Ponle algo de brillo a tu Gorge.
@@ -267,8 +267,8 @@ ITEM_TITLE_AURIC_CYST	Cyst Auric
 ITEM_AURIC_CYST	¡Solo sigue el camino de ladrillos amarillos! ...Un momento.
 ITEM_TITLE_AURIC_DRIFTER	Drifter Auric
 ITEM_AURIC_DRIFTER	Construye tus estructuras y apoya a tu equipo con el máximo estilo.
-ITEM_TITLE_AURIC_TUNNEL	Túnel Auric
-ITEM_AURIC_TUNNEL	Guía a tu equipo con estilo por este túnel ferozmente fabuloso.
+ITEM_TITLE_AURIC_TUNNEL	Tunnel Auric
+ITEM_AURIC_TUNNEL	Guía a tu equipo con estilo por este Tunnel ferozmente fabuloso.
 ITEM_TITLE_WIDOW_SKULK	Skulk Widow
 ITEM_WIDOW_SKULK	Esta aberración única de la genética Kharaa es particularmente desagradable y paciente.
 ITEM_TITLE_WOOD_AXE	Hacha de madera

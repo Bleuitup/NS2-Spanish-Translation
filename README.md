@@ -1,7 +1,7 @@
 # NS2 Spanish Translation
 
 A complete, reviewed Spanish translation of Natural Selection 2 (`ns2/gamestrings/esES.txt`), in
-neutral Latin American Spanish. Version 1.0 covers all 3,854 strings; the finished file is
+neutral Latin American Spanish. Version 1.01 covers all 3,854 strings; the finished file is
 [`out/esES.txt`](out/esES.txt). It is meant for the NS2 game repository (ns2-game), delivered in the
 way its maintainer prefers.
 
@@ -35,7 +35,7 @@ the reason.
 ## Glossary criteria
 
 The full list is in [`glossary/glossary.md`](glossary/glossary.md). These are the criteria behind it, as of
-version 1.0.
+version 1.01.
 
 | Handling | What falls under it | Why | Examples |
 |---|---|---|---|
@@ -46,13 +46,12 @@ version 1.0.
 | | Game concepts and interface | Everyday vocabulary | health → vida, respawn → renacer, lifeform → forma de vida, research → investigar, lobby → sala, badge → insignia |
 | | Exosuit and its modules | Descriptive compound words | Exosuit → Exotraje, Thrusters → propulsores, Ejection Seat → asiento eyectable |
 | **Kept in English** | Lifeforms | Proper names of the species | Skulk, Gorge, Lerk, Fade, Onos |
-| | Most structures | Names players use as-is in voice chat, and they match the map and the wiki | Hive, Armory, Command Station, Infantry Portal, Observatory, Crag, Shift, Shade, Whip |
+| | Every faction structure | Names players use as-is in voice chat, and they match the map and the wiki. No exceptions, so the rule is easy to apply | Hive, Armory, Command Station, Infantry Portal, Phase Gate, Sentry Battery, Tunnel, Hydra, Crag, Shift, Shade, Whip, Cargo Gate |
 | | Acronyms and unit names | Nothing to translate | MAC, ARC, Exo, Drifter, Babbler, Clog |
 | | Factions and roles | Proper names | Marine, Alien, Kharaa, Frontiersmen, Commander |
 | | Words Spanish-speaking players already use in English | Community usage wins over a formal term | mod, bot, mouse, tooltip, killfeed, Sandbox, Ready Room, Jetpack |
 | | Cosmetic and product names | Collection and calling card names | Abyss, Chroma, Auric, Reinforced, "Lazy Gorge" |
-| **Case by case** | Structures whose Spanish is nearly the same word | Translated, since nothing is lost | Tunnel → túnel, Hydra → Hidra |
-| | Structures named with plain descriptive words | Translated, since the name is a description | Power Node → Nodo de energía, Sentry Battery → Batería de Energía, Phase Gate → portal de fase, Cargo Gate → Puerta de Carga |
+| **Case by case** | Things that look like structures but are not faction structures | Translated | Power Node → Nodo de energía (part of the map, not of a faction); Evolution Chamber → cámara de evolución (a button inside the Hive) |
 | | Individual exceptions decided by Bleu | Kept or translated against the general rule | Med pack stays (but Ammo pack is translated); Umbra and Aura stay, being the same word in Spanish; tech point stays |
 | | Words that are both a name and a verb | Name and verb handled separately | Charge: the ability is "Carga", the verb is "cargar" or "embestir" |
 | | Jokes and wordplay | Rewritten by Bleu when the joke does not survive, otherwise translated for sense | The Blink help text, the rifle-butt joke, the tutorial narrator |
@@ -60,15 +59,12 @@ version 1.0.
 | | A Spanish long name with the English abbreviation | Players say the abbreviation | Heavy Machine Gun → ametralladora pesada (HMG), Submachine gun → subfusil (SMG) |
 | | Item names | Collection name kept, object translated | Chroma Axe → Hacha Chroma, Damascus Green Rifle → Rifle de Damasco verde |
 
-### Planned change after 1.0: structure names
+### Changed in 1.01: structure names
 
-Reviewing the table, Bleu found the structure rows inconsistent: Phase Gate became "portal de
-fase" while almost every other structure kept its English name. The next version will keep
-**every faction structure name in English**, Phase Gate and the Sentry Battery (Power Battery)
-included. Two things stay translated:
-
-- **Power Node → Nodo de energía**, because power nodes belong to the map, not to a faction.
-- **Phase Tech → tecnología de fase**, because tech and research names are translated.
+In 1.0 a few structures were translated (Phase Gate as "portal de fase", Tunnel as "túnel", Hydra
+as "Hidra", the Sentry Battery, the Cargo Gate) while almost every other structure kept its English
+name. Bleu found that inconsistent, and 1.01 returns all of them to English: 97 lines changed. Tech
+names are still translated, so Phase Tech remains "tecnología de fase" next to "Phase Gate".
 
 ## Snapshot
 
@@ -82,11 +78,11 @@ flagged for re-check) and removed keys, and those become a small follow-up batch
 
 ## Where it stands
 
-| | At the snapshot | Version 1.0 |
+| | At the snapshot | Version 1.01 |
 |---|---|---|
 | English strings | 3,854 | 3,854 |
-| Spanish, differs from English | 1,338 (35%) | 3,637 (94%) |
-| Spanish, identical to English | 1,636 | 217, all names that stay as they are (buildings, lifeforms, maps, calling cards) |
+| Spanish, differs from English | 1,338 (35%) | 3,630 (94%) |
+| Spanish, identical to English | 1,636 | 224, all names that stay as they are (buildings, lifeforms, maps, calling cards) |
 | Missing from Spanish | 860 | 0 |
 
 Run `lua tools/status.lua` for current numbers and technical problems.

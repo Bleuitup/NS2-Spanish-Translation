@@ -39,13 +39,13 @@ Marine structures	Armory	keep	Armory	el (proposed)
 Marine structures	Advanced Armory	keep	Advanced Armory	el (proposed)	
 Marine structures	Arms Lab	keep	Arms Lab	el (proposed)	
 Marine structures	Observatory	keep	Observatory	el (proposed)	
-Marine structures	Phase Gate	translate	portal de fase	el	
+Marine structures	Phase Gate	keep	Phase Gate	el	Faction structure: English name. Phase Tech stays 'tecnología de fase'.
 Marine structures	Robotics Factory	keep	Robotics Factory	la (proposed)	
 Marine structures	ARC Factory	keep	ARC Factory	la (proposed)	
 Marine structures	Prototype Lab	keep	Prototype Lab	el (proposed)	
 Marine structures	Extractor	keep	Extractor	el (proposed)	
 Marine structures	Sentry	keep	Sentry	la (proposed)	
-Marine structures	Sentry Battery	translate	Batería de Energía	la	Batch 3: the game calls it Power Battery.
+Marine structures	Sentry Battery	keep	Sentry Battery	la	Faction structure: English name. The game displays it as Power Battery; each line uses the name its English uses.
 Marine structures	Power Node	translate	Nodo de energía	el	Batch 3.
 Marine units	MAC	keep	MAC	el (proposed)	
 Marine units	ARC	keep	ARC	el (proposed)	
@@ -94,7 +94,7 @@ Alien lifeforms	Onos	keep	Onos	el (proposed)
 Alien lifeforms	Embryo	translate	embrión		
 Alien lifeforms	Egg	translate	huevo		
 Alien units	Drifter	keep	Drifter	el (proposed)	
-Alien units	Hydra	translate	Hidra	la	Batch 3: nearly the same word, like Túnel.
+Alien units	Hydra	keep	Hydra	la	Faction structure: English name.
 Alien units	Babbler	keep	Babbler	el (proposed)	
 Alien units	Clog	keep	Clog	el (proposed)	
 Alien units	Web	translate	telaraña		
@@ -109,7 +109,7 @@ Alien structures	Whip	keep	Whip	el (proposed)
 Alien structures	Shell	keep	Shell	la (proposed)	
 Alien structures	Spur	keep	Spur	el (proposed)	
 Alien structures	Veil	keep	Veil	el (proposed)	
-Alien structures	Tunnel	translate	túnel		
+Alien structures	Tunnel	keep	Tunnel	el	Faction structure: English name. Also Gorge Tunnel and Infested Tunnel.
 Alien structures	Evolution Chamber	translate	cámara de evolución	la	
 Alien structures	Contamination	translate	contaminación	la	
 Alien concepts	Infestation	translate	infestación		
@@ -170,7 +170,7 @@ General	lobby	translate	sala	la	Batch 2.
 General	replay	translate	repetición	la	Batch 2.
 General	leaderboard	translate	tabla de clasificación	la	Batch 2.
 General	Skill Tier	translate	rango de habilidad	el	Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji.
-Marine structures	Cargo Gate	translate	Puerta de Carga	la	Batch 4 (CBM): Bleu translated it.
+Marine structures	Cargo Gate	keep	Cargo Gate	la	CBM structure. Kept in English like every faction structure (2026-10-03).
 Alien abilities	Vortex	translate	Vórtice	el	Batch 4.
 Marine weapons	SMG	mixed	subfusil (SMG)	el	Batch 4 (CBM): subfusil as the long name, SMG as the short one.
 General	bundle	translate	paquete	el	Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C.

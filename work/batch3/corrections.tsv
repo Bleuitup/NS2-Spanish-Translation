@@ -31,3 +31,28 @@ ARMORY_HINT	Armas, vida y munición	Health is "vida", never "salud" (Bleu, 2026-
 ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con vida y munición gratis. Aquí puedes comprar armas con tus recursos personales.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con el destello mientras ataca con sus garras. Puede evolucionar metabolización para recuperar energía y metabolización avanzada para recuperar energía y vida. Experto en ataques relámpago y en sorprender a Marines solitarios.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y vida.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hydras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.	Faction structure names stay in English (Bleu, 2026-10-03).
+BUILD_TUNNELS_MENU	Menú de Tunnels	Faction structure names stay in English (Bleu, 2026-10-03).
+ECHO_HYDRA	Mover Hydra	Faction structure names stay in English (Bleu, 2026-10-03).
+GORGE_TOOLTIP	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar bomba de bilis, a distancia, para atacar armaduras y estructuras.	Faction structure names stay in English (Bleu, 2026-10-03).
+HALLUCINATE_HYDRA	Alucinar Hydra	Faction structure names stay in English (Bleu, 2026-10-03).
+HALLUCINATE_HYDRA_TOOLTIP	Crea una Hydra falsa	Faction structure names stay in English (Bleu, 2026-10-03).
+HYDRA	Hydra	Faction structure names stay in English (Bleu, 2026-10-03).
+INFESTED_TUNNEL_ENTRANCE	Entrada de Infested Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+PHASE_GATE	Phase Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+PHASE_GATE_TOOLTIP	Teletransporta a los Marines a otros Phase Gates	Faction structure names stay in English (Bleu, 2026-10-03).
+PHASE_TECH_TOOLTIP	Desbloquea la tecnología de Phase Gates	Faction structure names stay in English (Bleu, 2026-10-03).
+REVERSE_PHASE_GATE	Invertir Phase Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+REVERSE_PG_TOOLTIP	Cambia la dirección de teletransporte del Phase Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+SELECT_TUNNEL_ENTRY	Seleccionar entrada del Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+SELECT_TUNNEL_EXIT	Seleccionar salida del Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+SENTRY_BATTERY	Power Battery	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_COLLAPSE_TOOLTIP	Derrumba el Tunnel. Esto también destruye esta entrada.	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_ENTRANCE	Entrada de Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_ENTRY	Entrada del Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_EXIT	Salida del Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_EXIT_TOOLTIP	Coloca la salida de esta entrada para abrir un Tunnel que permite a los jugadores viajar rápido entre dos lugares. ¡Cuidado: los Marines también pueden usar el Tunnel!	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_RELOCATE_TOOLTIP	Mueve esta entrada del Tunnel a otro lugar.	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_TOOLTIP	Haz crecer un Tunnel colocando una entrada y una salida para que los jugadores viajen rápido entre dos lugares. ¡Selecciona la entrada para colocar la salida!	Faction structure names stay in English (Bleu, 2026-10-03).
+UPGRADE_INFESTED_TUNNEL_ENTRANCE	Mejorar a Infested Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de Infested Tunnel tienen más vida y extienden la infestación	Faction structure names stay in English (Bleu, 2026-10-03).

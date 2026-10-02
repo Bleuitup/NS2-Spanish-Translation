@@ -105,7 +105,7 @@ TUT_ALIEN_MSG_13	El Gorge es una forma de vida defensiva de apoyo que puede cura
 TUT_ALIEN_MSG_14	Prueba construir unos Clogs. Presiona el número 2, luego 2 otra vez, apunta a algo y usa BIND_PrimaryAttack. Construye 3.
 TUT_ALIEN_MSG_15	Los Clogs pueden bloquear pasillos y frenar a los Marines.
 TUT_ALIEN_MSG_16	Tienes que curarlas para que crezcan. Apúntales y mantén presionado BIND_SecondaryAttack.
-TUT_ALIEN_MSG_17	¡Viene un Marine! Pero no te preocupes. Quédate cerca de tus Hidras y deja que ellas se encarguen de él.
+TUT_ALIEN_MSG_17	¡Viene un Marine! Pero no te preocupes. Quédate cerca de tus Hydras y deja que ellas se encarguen de él.
 TUT_ALIEN_MSG_18	Por último, probemos el Lerk volador. Presiona BIND_Buy y evoluciona a Lerk ahora.
 TUT_ALIEN_MSG_19	Los Lerks se mueven volando. Mantén presionado W y toca la barra espaciadora varias veces para volar hacia delante, y mantén presionada la barra espaciadora para planear. Pruébalo ahora.
 TUT_ALIEN_MSG_2	Espera mientras renaces.
@@ -113,7 +113,7 @@ TUT_ALIEN_MSG_20	¡Vuela y elimina al Marine en Courtyard! BIND_SecondaryAttack 
 TUT_ALIEN_MSG_21	Por último, los Aliens pueden evolucionar mejoras. Presiona BIND_Buy, haz click en el ícono amarillo llamado Regeneración, abajo a la derecha del círculo, y luego haz click en 'Evolucionar'.
 TUT_ALIEN_MSG_22	Eso es lo básico de jugar como Alien. Hay más formas de vida y habilidades por aprender, y puedes probarlas en el modo Sandbox del menú Entrenamiento.
 TUT_ALIEN_MSG_23	También puedes practicar contra bots desde el menú Entrenamiento si todavía no te sientes listo para jugar partidas reales. ¡Buena suerte y diviértete!
-TUT_ALIEN_MSG_24	También puedes construir Hidras, que funcionan como torretas defensivas. Presiona el número 2 y luego el número 1 para seleccionarlas. Construye 3.
+TUT_ALIEN_MSG_24	También puedes construir Hydras, que funcionan como torretas defensivas. Presiona el número 2 y luego el número 1 para seleccionarlas. Construye 3.
 TUT_ALIEN_MSG_25	Ahora tu vida se regenerará con el tiempo. Tu Commander decide qué mejoras están disponibles, y cada una da un beneficio específico a cualquier forma de vida.
 TUT_ALIEN_MSG_26	Usa tu mapa y vuela hasta Courtyard.
 TUT_ALIEN_MSG_3	Los Aliens empiezan como Skulks. Puedes subir por las paredes: acércate a una, mira hacia arriba y presiona W. Sube ahora hacia el ventilador del techo.
@@ -129,9 +129,9 @@ COMMANDER_TUT_BUILD_CYST	Todas las estructuras necesitan infestación. Para expa
 COMMANDER_TUT_BUILD_EXTRACTOR	Necesitas un mayor ingreso de recursos [CollectResources]. Selecciona el menú de construcción [1:BuildMenu] y construye un Extractor [2:Extractor] en el nodo de recursos más cercano.
 COMMANDER_TUT_BUILD_HIVE	Las habilidades más fuertes requieren un nivel de biomasa más alto. El nivel actual se muestra arriba a la izquierda de tu pantalla. Para aumentar el nivel de biomasa, selecciona el menú de construcción [1:BuildMenu] y construye otra Hive [2:Hive] en un tech point libre [TechPoint]
 COMMANDER_TUT_BUILD_OBS	Las tecnologías avanzadas permiten a los Marines viajar al instante entre dos puntos. Para desbloquear esta tecnología, selecciona el menú de construcción avanzada [1:AdvancedMenu] y crea un Observatory [2:Observatory] en tu base. Los Observatories tienen una habilidad pasiva y escanean el área a su alrededor.
-COMMANDER_TUT_BUILD_PHASE_GATE	La tecnología de fase ya está desbloqueada. Selecciona el menú de construcción avanzada [1:AdvancedMenu]. Todos los portales de fase que construyas estarán conectados entre sí (la conexión se indica con una línea en el minimapa) y permitirán a los Marines viajar al instante entre esos puntos. Construye el primer portal de fase [2:PhaseGate] en tu base.
+COMMANDER_TUT_BUILD_PHASE_GATE	La tecnología de fase ya está desbloqueada. Selecciona el menú de construcción avanzada [1:AdvancedMenu]. Todos los Phase Gates que construyas estarán conectados entre sí (la conexión se indica con una línea en el minimapa) y permitirán a los Marines viajar al instante entre esos puntos. Construye el primer Phase Gate [2:PhaseGate] en tu base.
 COMMANDER_TUT_BUILD_PROTO	Ahora que tienes un Arms Lab, es hora de desbloquear los Exotrajes para tus Marines. Construye un [2:PrototypeLab] desde el menú de construcción avanzada [1:AdvancedMenu].
-COMMANDER_TUT_BUILD_SECOND_PHASE_GATE	Ahora elige un punto de destino, idealmente junto a un tech point libre [TechPoint]. Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye el portal de fase [2:PhaseGate]
+COMMANDER_TUT_BUILD_SECOND_PHASE_GATE	Ahora elige un punto de destino, idealmente junto a un tech point libre [TechPoint]. Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye el Phase Gate [2:PhaseGate]
 COMMANDER_TUT_BUILD_SECOND_SHELL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una segunda Shell [2:SecondShell] 
 COMMANDER_TUT_BUILD_SECOND_SPUR	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Spur [2:SecondSpur] 
 COMMANDER_TUT_BUILD_SECOND_VEIL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Veil [2:SecondVeil] 
@@ -188,24 +188,24 @@ TUTORIAL_BRONZE_ALIEN_27	¡Buen trabajo defendiendo el Harvester! El Commander t
 TUTORIAL_BRONZE_ALIEN_28	No te curará tan rápido como una Hive o un Gorge, pero igual es muy útil tenerlo cerca.
 TUTORIAL_BRONZE_ALIEN_29	El Harvester terminó de construirse. ¡Ahora los recursos entran mucho más rápido!
 TUTORIAL_BRONZE_ALIEN_30	Parece que hay Marines cerca construyendo algo. Usa el conducto de ventilación de este cuarto para evaluar la situación.
-TUTORIAL_BRONZE_ALIEN_31	¡Los Marines acaban de construir un portal de fase! Eso les permitirá reforzar esta posición al instante. Deberíamos destruirlo cuanto antes, pero ahora hay demasiados Marines aquí. Tendremos que alejarlos.
+TUTORIAL_BRONZE_ALIEN_31	¡Los Marines acaban de construir un Phase Gate! Eso les permitirá reforzar esta posición al instante. Deberíamos destruirlo cuanto antes, pero ahora hay demasiados Marines aquí. Tendremos que alejarlos.
 TUTORIAL_BRONZE_ALIEN_32	Si atacamos otra cosa, algunos tendrán que volver a defender, y eso debilitará su posición avanzada.
 TUTORIAL_BRONZE_ALIEN_33	¡Destruye ese Extractor!
-TUTORIAL_BRONZE_ALIEN_34	¡Buen trabajo! No importa que hayas muerto, porque los alejaste del portal de fase y lo dejaste vulnerable.
+TUTORIAL_BRONZE_ALIEN_34	¡Buen trabajo! No importa que hayas muerto, porque los alejaste del Phase Gate y lo dejaste vulnerable.
 TUTORIAL_BRONZE_ALIEN_35	Tienes suficientes recursos personales para evolucionar a una forma de vida superior.
 TUTORIAL_BRONZE_ALIEN_36	Selecciona el Onos. Es la forma de vida más cara, pero también la más devastadora.
 TUTORIAL_BRONZE_ALIEN_37	Pide una neblina de nutrientes para evolucionar más rápido.
-TUTORIAL_BRONZE_ALIEN_38	Estos Gorges te seguirán a la batalla y te curarán cuando recibas daño. ¡Vamos a destruir ese portal de fase!
+TUTORIAL_BRONZE_ALIEN_38	Estos Gorges te seguirán a la batalla y te curarán cuando recibas daño. ¡Vamos a destruir ese Phase Gate!
 TUTORIAL_BRONZE_ALIEN_39	¡Carga contra ese Marine!
 TUTORIAL_BRONZE_ALIEN_40	¡Destrúyelo todo!
 TUTORIAL_BRONZE_ALIEN_41	¡Así aprenderán esos asquerosos respiradores de oxígeno! Con su posición avanzada eliminada, es hora de atacar su base principal.
-TUTORIAL_BRONZE_ALIEN_42	Los Gorges están construyendo un túnel. Los túneles permiten viajar rápido entre dos puntos distantes del mapa.
-TUTORIAL_BRONZE_ALIEN_43	¡El túnel está abierto! Párate sobre él para entrar.
+TUTORIAL_BRONZE_ALIEN_42	Los Gorges están construyendo un Tunnel. Los Tunnels permiten viajar rápido entre dos puntos distantes del mapa.
+TUTORIAL_BRONZE_ALIEN_43	¡El Tunnel está abierto! Párate sobre él para entrar.
 TUTORIAL_BRONZE_ALIEN_44	Ahí está la base de los Marines. ¡Destrúyela!
 TUTORIAL_BRONZE_ALIEN_45	¡Destruye los Infantry Portals para que no puedan renacer!
 TUTORIAL_BRONZE_ALIEN_46	¡Ahora acaba con la Command Station para terminar la partida!
 TUTORIAL_BRONZE_ALIEN_47	¡Excelente trabajo! Esa era la única Command Station que tenían los Marines. Por lo tanto...
-TUTORIAL_BRONZE_ALIEN_48	¡Atención! Algunos Marines están dejando el portal de fase para venir a defender esta posición.
+TUTORIAL_BRONZE_ALIEN_48	¡Atención! Algunos Marines están dejando el Phase Gate para venir a defender esta posición.
 TUTORIAL_BRONZE_ALIEN_49	Prueba usar el pisotón contra grupos de Marines.
 TUTORIAL_BRONZE_ALIEN_50	Destruye el Nodo de energía de este cuarto. La oscuridad hará más fácil defenderlo.
 TUTORIAL_BRONZE_ALIEN_EGG_1	No te preocupes por matar al Marine todavía; solo parasítalo y sigue adelante.
@@ -252,10 +252,10 @@ TUTORIAL_BRONZE_MARINE_13	El Commander escaneó la zona. Ahí está el Alien que
 TUTORIAL_BRONZE_MARINE_14	Buen trabajo, pero te hirieron. Pide un Med pack al Commander para curarte.
 TUTORIAL_BRONZE_MARINE_15	Listo. Te curaste, y al Commander le costó un recurso. También puedes pedir un paquete de munición para reabastecerte. Hazlo ahora.
 TUTORIAL_BRONZE_MARINE_16	Bien. El Commander gastó otro recurso para darte esa munición. Ahora ve a asegurar el nodo de recursos de Cafeteria para que pueda seguir apoyándote.
-TUTORIAL_BRONZE_MARINE_17	¡Aquí hay un túnel, y está abierto! Los Aliens usan esta estructura para traer refuerzos. ¡Destrúyelo rápido!
-TUTORIAL_BRONZE_MARINE_18	¡Ataca primero el túnel! Podemos destruir el Harvester una vez que aseguremos el cuarto.
+TUTORIAL_BRONZE_MARINE_17	¡Aquí hay un Tunnel, y está abierto! Los Aliens usan esta estructura para traer refuerzos. ¡Destrúyelo rápido!
+TUTORIAL_BRONZE_MARINE_18	¡Ataca primero el Tunnel! Podemos destruir el Harvester una vez que aseguremos el cuarto.
 TUTORIAL_BRONZE_MARINE_19	Buen trabajo. Los Aliens ya no tienen una ruta rápida hasta aquí. Ahora acaba con el Harvester.
-TUTORIAL_BRONZE_MARINE_20	Fíjate que la infestación verde del suelo está retrocediendo. La infestación se extiende con Cysts y túneles de Gorge. Sin infestación cubriendo el suelo, este Harvester morirá lentamente por sí solo, pero podemos ayudarlo.
+TUTORIAL_BRONZE_MARINE_20	Fíjate que la infestación verde del suelo está retrocediendo. La infestación se extiende con Cysts y Gorge Tunnels. Sin infestación cubriendo el suelo, este Harvester morirá lentamente por sí solo, pero podemos ayudarlo.
 TUTORIAL_BRONZE_MARINE_21	Ahora podemos quedarnos con estos recursos. El primer paso es construir el Nodo de energía de este cuarto, que está en la pared norte.
 TUTORIAL_BRONZE_MARINE_22	Ahora podemos construir ese Extractor.
 TUTORIAL_BRONZE_MARINE_23	Ahora los recursos entran el doble de rápido que antes.
@@ -303,7 +303,7 @@ TUTORIAL_SILVER_BUILD_ARMS_LAB	Construir Arms Lab
 TUTORIAL_SILVER_BUILD_EXTRACTOR	Construir Extractor
 TUTORIAL_SILVER_BUILD_MENU_TAB	Pestaña del menú de construcción
 TUTORIAL_SILVER_BUILD_OBSERVATORY	Construir Observatory
-TUTORIAL_SILVER_BUILD_PHASE_GATE	Construir portal de fase
+TUTORIAL_SILVER_BUILD_PHASE_GATE	Construir Phase Gate
 TUTORIAL_SILVER_BUILD_ROBOTICS_FACTORY	Construir Robotics Factory
 TUTORIAL_SILVER_COMMANDER_ALERT_JUMP	Ir a la alerta
 TUTORIAL_SILVER_COMMANDER_ALIEN_1	Bienvenido de nuevo al equipo Alien, Commander.
@@ -314,10 +314,10 @@ TUTORIAL_SILVER_COMMANDER_ALIEN_5	Pasarán unos momentos antes de que esta \"cad
 TUTORIAL_SILVER_COMMANDER_ALIEN_6	Mientras esperamos a que se extienda la infestación, hay que elegir un camino de mejora para nuestra Hive. Hay 3 caminos: Crag, Shade y Shift. Crag favorece la resistencia y la supervivencia; Shade, el sigilo y el engaño; y Shift, la velocidad y la evasión. Selecciona la Hive y mejórala a Shift Hive.
 TUTORIAL_SILVER_COMMANDER_ALIEN_7	Los Cysts de Gravity Control terminaron de construirse y ya extienden su infestación. Crea un Harvester en Gravity Control.
 TUTORIAL_SILVER_COMMANDER_ALIEN_8	El Harvester se construye muy lento, pero un Drifter puede acelerarlo. Crea un Drifter en Gravity Control.
-TUTORIAL_SILVER_COMMANDER_ALIEN_9	El Gorge del este colocó un túnel de Gorge que lo conecta con la base principal.
-TUTORIAL_SILVER_COMMANDER_ALIEN_10	Igual que los Cysts, los túneles de Gorge crean infestación cuando están terminados. Como el túnel se colocó cerca de un nodo de recursos, podemos poner un Harvester ahí.
+TUTORIAL_SILVER_COMMANDER_ALIEN_9	El Gorge del este colocó un Gorge Tunnel que lo conecta con la base principal.
+TUTORIAL_SILVER_COMMANDER_ALIEN_10	Igual que los Cysts, los Gorge Tunnels crean infestación cuando están terminados. Como el Tunnel se colocó cerca de un nodo de recursos, podemos poner un Harvester ahí.
 TUTORIAL_SILVER_COMMANDER_ALIEN_11	Fíjate cuánto más rápido se construye este Harvester. Los Gorges construyen mucho más rápido que los Drifters.
-TUTORIAL_SILVER_COMMANDER_ALIEN_12	Este túnel de Gorge está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel de Gorge.
+TUTORIAL_SILVER_COMMANDER_ALIEN_12	Este Gorge Tunnel está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del Gorge Tunnel.
 TUTORIAL_SILVER_COMMANDER_ALIEN_13	Los Crags son estructuras de apoyo que curan a los Aliens y estructuras cercanos. Y que el nombre no te confunda: aunque mejoramos nuestra Hive a Shift Hive, igual podemos construir los otros dos tipos de estructuras de apoyo.
 TUTORIAL_SILVER_COMMANDER_ALIEN_14	Este cuarto está seguro por ahora. El Harvester de Gravity Control también terminó de construirse. Deberíamos llevar nuestro Drifter de vuelta a la base, porque los Drifters son objetivos valiosos para los Marines.
 TUTORIAL_SILVER_COMMANDER_ALIEN_15	Ordena al Drifter moverse al círculo brillante en Launch Control.
@@ -365,7 +365,7 @@ TUTORIAL_SILVER_COMMANDER_ALIEN_56	Nuestro Gorge acabará rápido con estas vile
 TUTORIAL_SILVER_COMMANDER_ALIEN_57	¡Un Marine está destruyendo mejoras en la base principal! ¡Sal de la Hive y encárgate de él!
 TUTORIAL_SILVER_COMMANDER_ALIEN_58	Qué raro. Ese Marine entró por el lado norte del cuarto. ¿Cómo llegó ahí? Vuelve a la Hive para que mandemos a nuestro Drifter a investigar.
 TUTORIAL_SILVER_COMMANDER_ALIEN_59	Usa el Drifter de Launch Control para explorar hacia el norte.
-TUTORIAL_SILVER_COMMANDER_ALIEN_60	¡Los Marines tienen un portal de fase en Plaza! Esto es malo.
+TUTORIAL_SILVER_COMMANDER_ALIEN_60	¡Los Marines tienen un Phase Gate en Plaza! Esto es malo.
 TUTORIAL_SILVER_COMMANDER_ALIEN_61	¡Y las cosas acaban de ponerse mucho peor! Parece que los Marines nos están tirando con todo lo que tienen en el norte. Es solo cuestión de tiempo para que ataquen nuestra base principal, y es poco probable que podamos defendernos de un ataque tan fuerte.
 TUTORIAL_SILVER_COMMANDER_ALIEN_62	En cambio, tendremos que destruir algo de ellos. Tus compañeros están formando un grupo para contraatacar la base de los Marines. Aleja a tu Drifter de los Marines y úsalo para ayudar en el contraataque.
 TUTORIAL_SILVER_COMMANDER_ALIEN_63	Los Marines no tienen otra base, pero nosotros sí. Si logramos destruirlos lo bastante rápido, ¡ganamos! ¡Ataca ahora! Usa la habilidad nube de enzima del Drifter para que tus compañeros ataquen más rápido.
@@ -377,19 +377,19 @@ TUTORIAL_SILVER_COMMANDER_ALIEN_68	Mientras esperamos a que se construya el Harv
 TUTORIAL_SILVER_COMMANDER_ALIEN_69	Bien. Ahora deberíamos tomar más territorio. Extiende la cadena de Cysts hasta Hydroanalysis.
 TUTORIAL_SILVER_COMMANDER_ALIEN_70	Las estructuras Alien se construyen muy lento sin ayuda. Crea un Drifter para construir este Spur más rápido.
 TUTORIAL_SILVER_COMMANDER_ALIEN_71	Bien. Ese Spur estará listo en un momento.
-TUTORIAL_SILVER_COMMANDER_ALIEN_72	Necesitamos asegurar nuestro territorio al este. Crea una entrada de túnel en Hydroanalysis.
-TUTORIAL_SILVER_COMMANDER_ALIEN_73	Los túneles funcionan como un atajo que conecta dos puntos distantes del mapa y permite reforzar una zona mucho más rápido.
-TUTORIAL_SILVER_COMMANDER_ALIEN_74	Selecciona el túnel y construye el otro extremo en la base.
+TUTORIAL_SILVER_COMMANDER_ALIEN_72	Necesitamos asegurar nuestro territorio al este. Crea una entrada de Tunnel en Hydroanalysis.
+TUTORIAL_SILVER_COMMANDER_ALIEN_73	Los Tunnels funcionan como un atajo que conecta dos puntos distantes del mapa y permite reforzar una zona mucho más rápido.
+TUTORIAL_SILVER_COMMANDER_ALIEN_74	Selecciona el Tunnel y construye el otro extremo en la base.
 TUTORIAL_SILVER_COMMANDER_ALIEN_75	¡Están dañando parte de la cadena de Cysts!
 TUTORIAL_SILVER_COMMANDER_ALIEN_76	¡Hay un Marine destruyendo nuestra cadena de Cysts! No podemos verlo porque no tenemos línea de visión, pero ESTÁ ahí.
 TUTORIAL_SILVER_COMMANDER_ALIEN_77	Nuestro Cyst de Hydroanalysis quedó completamente desconectado de la Hive. Fíjate que recibe daño poco a poco. Acabará muriendo si no se reconecta.
 TUTORIAL_SILVER_COMMANDER_ALIEN_78	Prueba reconectar la cadena de Cysts ahora.
 TUTORIAL_SILVER_COMMANDER_ALIEN_79	Fíjate que el Cyst de Hydroanalysis ahora brilla, porque está otra vez conectado a una Hive.
 TUTORIAL_SILVER_COMMANDER_ALIEN_80	Rayos. Ese Marine está decidido a mantener este territorio aislado.
-TUTORIAL_SILVER_COMMANDER_ALIEN_81	Necesitamos otra fuente de infestación para esta zona. Selecciona el túnel y mejóralo a \"Túnel infestado\".
-TUTORIAL_SILVER_COMMANDER_ALIEN_82	Esta mejora crea infestación en ambos extremos del túnel.
-TUTORIAL_SILVER_COMMANDER_ALIEN_83	Ahora podemos usar este nodo de recursos sin necesidad de una cadena de Cysts. Construye un Harvester junto al túnel.
-TUTORIAL_SILVER_COMMANDER_ALIEN_84	Este túnel está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel.
+TUTORIAL_SILVER_COMMANDER_ALIEN_81	Necesitamos otra fuente de infestación para esta zona. Selecciona el Tunnel y mejóralo a \"Infested Tunnel\".
+TUTORIAL_SILVER_COMMANDER_ALIEN_82	Esta mejora crea infestación en ambos extremos del Tunnel.
+TUTORIAL_SILVER_COMMANDER_ALIEN_83	Ahora podemos usar este nodo de recursos sin necesidad de una cadena de Cysts. Construye un Harvester junto al Tunnel.
+TUTORIAL_SILVER_COMMANDER_ALIEN_84	Este Tunnel está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del Tunnel.
 TUTORIAL_SILVER_COMMANDER_ALIEN_85	Coloca la neblina de nutrientes cerca del embrión.
 TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_1	Mira el nodo de recursos del cuarto llamado \"Gravity Control\".
 TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_2	No te preocupes por lo que hace el Gorge. Tú tienes tus propias tareas.
@@ -443,12 +443,12 @@ TUTORIAL_SILVER_COMMANDER_MARINE_25	¡Excelente, ahora los veremos venir desde l
 TUTORIAL_SILVER_COMMANDER_MARINE_26	Los dos Marines del lado izquierdo del mapa están listos para asegurar más territorio. Síguelos.
 TUTORIAL_SILVER_COMMANDER_MARINE_27	Los Marines del lado izquierdo hacen bien en mantener su posición hasta estar curados. Suéltales Med packs.
 TUTORIAL_SILVER_COMMANDER_MARINE_28	Este cuarto parece seguro. Haz que tus Marines construyan otro Extractor aquí. ¡Nunca sobran Extractors!
-TUTORIAL_SILVER_COMMANDER_MARINE_29	Este territorio queda bastante lejos de la base. Deberíamos conectar los dos cuartos con un par de portales de fase.
-TUTORIAL_SILVER_COMMANDER_MARINE_30	Parece que necesitamos una tecnología previa para construir portales de fase. Selecciona el Observatory de la base principal e investiga \"Tecnología de fase\"
+TUTORIAL_SILVER_COMMANDER_MARINE_29	Este territorio queda bastante lejos de la base. Deberíamos conectar los dos cuartos con un par de Phase Gates.
+TUTORIAL_SILVER_COMMANDER_MARINE_30	Parece que necesitamos una tecnología previa para construir Phase Gates. Selecciona el Observatory de la base principal e investiga \"Tecnología de fase\"
 TUTORIAL_SILVER_COMMANDER_MARINE_31	¡Están atacando Repair Room! ¡Suelta Med packs para mantenerlos con vida!
-TUTORIAL_SILVER_COMMANDER_MARINE_32	Estuvo cerca. Al menos nos queda un soldado en el cuarto para construir un portal de fase. Cúralo con Med packs si hace falta.
-TUTORIAL_SILVER_COMMANDER_MARINE_33	La tecnología de fase terminó de investigarse. Coloca el plano del portal de fase en Repair.
-TUTORIAL_SILVER_COMMANDER_MARINE_34	Los portales de fase funcionan conectándose con otros portales de fase. Tendremos que construir uno también en la base para que este tenga con qué conectarse.
+TUTORIAL_SILVER_COMMANDER_MARINE_32	Estuvo cerca. Al menos nos queda un soldado en el cuarto para construir un Phase Gate. Cúralo con Med packs si hace falta.
+TUTORIAL_SILVER_COMMANDER_MARINE_33	La tecnología de fase terminó de investigarse. Coloca el plano del Phase Gate en Repair.
+TUTORIAL_SILVER_COMMANDER_MARINE_34	Los Phase Gates funcionan conectándose con otros Phase Gates. Tendremos que construir uno también en la base para que este tenga con qué conectarse.
 TUTORIAL_SILVER_COMMANDER_MARINE_35	No hace falta que salgas de la Command Station. El Marine que murió en Repair renació y está construyendo el portal. Evita salir de la Command Station siempre que puedas.
 TUTORIAL_SILVER_COMMANDER_MARINE_36	Bien. Ahora nuestras tropas pueden viajar al instante entre la base principal y Repair Room.
 TUTORIAL_SILVER_COMMANDER_MARINE_37	A los Marines de Observation les queda poca munición. Suéltales paquetes de munición para reabastecerlos.
@@ -461,10 +461,10 @@ TUTORIAL_SILVER_COMMANDER_MARINE_43	Construye un Armory en Repair Room.
 TUTORIAL_SILVER_COMMANDER_MARINE_44	Estos dos Marines deberían poder mantener este cuarto sin supervisión del Commander por un rato.
 TUTORIAL_SILVER_COMMANDER_MARINE_45	La mejora Armadura 1 acaba de terminar. Deberíamos empezar a mejorar las armas de inmediato. Selecciona el Arms Lab y mejora \"Armas 1\" ahora.
 TUTORIAL_SILVER_COMMANDER_MARINE_46	Commander, los Marines de Observation están listos para avanzar. Ayúdalos.
-TUTORIAL_SILVER_COMMANDER_MARINE_47	Hay bastantes Aliens atacando esta parte del mapa. ¿Tendrán un túnel cerca?
+TUTORIAL_SILVER_COMMANDER_MARINE_47	Hay bastantes Aliens atacando esta parte del mapa. ¿Tendrán un Tunnel cerca?
 TUTORIAL_SILVER_COMMANDER_MARINE_48	Como tenemos un Observatory, podemos escanear cualquier lugar del mapa. Escanea el cuarto de adelante para ver qué tienen los Aliens.
-TUTORIAL_SILVER_COMMANDER_MARINE_49	¡No! Es mucho peor que un túnel: ¡los Aliens tienen una Hive en Elevator Transfer!
-TUTORIAL_SILVER_COMMANDER_MARINE_50	Coloca el plano de un portal de fase en Observation: vamos a construir una base avanzada aquí.
+TUTORIAL_SILVER_COMMANDER_MARINE_49	¡No! Es mucho peor que un Tunnel: ¡los Aliens tienen una Hive en Elevator Transfer!
+TUTORIAL_SILVER_COMMANDER_MARINE_50	Coloca el plano de un Phase Gate en Observation: vamos a construir una base avanzada aquí.
 TUTORIAL_SILVER_COMMANDER_MARINE_51	Ahora colócales un Armory, como hicimos en Repair.
 TUTORIAL_SILVER_COMMANDER_MARINE_52	Uno de los jugadores pide escopetas, que son mucho más potentes a corta distancia que el Rifle. Selecciona el Armory e investiga las escopetas ahora.
 TUTORIAL_SILVER_COMMANDER_MARINE_53	Bien. Ahora pensemos cómo vamos a destruir esta Hive.

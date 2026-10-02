@@ -19,3 +19,20 @@ NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de vida	Health is "vida",
 HEALTH	Vida	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 POWER_HEALTH	%{location}s (%{percentage}d%% Vida)	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
 UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la vida.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+NEW_ACHIEVEMENT_1_3_DESC	Usa un Phase Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+NEW_ACHIEVEMENT_1_30_DESC	Usa un Gorge Tunnel	Faction structure names stay in English (Bleu, 2026-10-03).
+EVT_GORGETUNNEL_RESEARCHED	GORGE TUNNELS INVESTIGADOS	Faction structure names stay in English (Bleu, 2026-10-03).
+COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Cargo Gates.	Faction structure names stay in English (Bleu, 2026-10-03).
+WEAPON_DESC_MINE	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los Phase Gates e incluso en las paredes.	Faction structure names stay in English (Bleu, 2026-10-03).
+BUYMENU_MASSIVE_SPECIAL4	- No puede usar Phase Gates	Faction structure names stay in English (Bleu, 2026-10-03).
+GORGE_TUNNEL_TECH	Gorge Tunnels	Faction structure names stay in English (Bleu, 2026-10-03).
+GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir Tunnels que conectan dos partes del mapa.	Faction structure names stay in English (Bleu, 2026-10-03).
+GORGE_TUNNEL_TOOLTIP	Entrada de Tunnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_ENTRANCE_OWNER	Gorge Tunnel de %s	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	Gorge Tunnel de %s	Faction structure names stay in English (Bleu, 2026-10-03).
+TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	¡Necesitas otra Hive para construir más Tunnels!	Faction structure names stay in English (Bleu, 2026-10-03).
+CARGO_GATE	Cargo Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Cargo Gate.	Faction structure names stay in English (Bleu, 2026-10-03).
+CARGO_TECH	Tecnología de Cargo Gate	Faction structure names stay in English (Bleu, 2026-10-03).
+CARGO_TECH_TOOLTIP	Desbloquea la tecnología de Cargo Gate.	Faction structure names stay in English (Bleu, 2026-10-03).
+RESEARCH_CARGO_TECH_TOOLTIP	Cargo Gate	Faction structure names stay in English (Bleu, 2026-10-03).

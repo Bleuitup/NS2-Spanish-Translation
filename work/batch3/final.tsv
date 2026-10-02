@@ -90,9 +90,9 @@ BONESHIELD	Escudo de Huesos
 BONESHIELD_TOOLTIP	Usa el caparazón de la cabeza para bloquear la mayoría de los ataques frontales.
 BUILD	Construir
 BUILD_ABILITY	Construir
-BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hidras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.
+BUILD_ABILITY_TOOLTIP	Construye plantas lanzapúas (Hydras) en cualquier superficie. Construye Clogs para protegerte o para bloquear pasillos.
 BUILD_TOOLTIP	Estructuras básicas
-BUILD_TUNNELS_MENU	Menú de túneles
+BUILD_TUNNELS_MENU	Menú de Tunnels
 BUILD_TUNNELS_MENU_TOOLTIP	 
 CAMOUFLAGE	Camuflaje
 CAMOUFLAGE_TOOLTIP	Muévete despacio para camuflarte con el entorno.
@@ -170,7 +170,7 @@ ECHO	Eco
 ECHO_CRAG	Mover Crag
 ECHO_EGG	Mover huevo
 ECHO_HARVESTER	Mover Harvester
-ECHO_HYDRA	Mover Hidra
+ECHO_HYDRA	Mover Hydra
 ECHO_SHADE	Mover Shade
 ECHO_SHELL	Mover Shell
 ECHO_SHIFT	Mover Shift
@@ -212,7 +212,7 @@ GORE_TOOLTIP	BIND_PrimaryAttack para dar cornadas a los jugadores. También dest
 GORGE	Gorge
 GORGE_EGG	Huevo de Gorge
 GORGE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Gorge
-GORGE_TOOLTIP	Un Gorge puede construir Hidras ofensivas y Clogs defensivos. Puede evolucionar bomba de bilis, a distancia, para atacar armaduras y estructuras.
+GORGE_TOOLTIP	Un Gorge puede construir Hydras ofensivas y Clogs defensivos. Puede evolucionar bomba de bilis, a distancia, para atacar armaduras y estructuras.
 GRENADES_TOOLTIP	Permite comprar granadas de mano en los Armories.
 GRENADE_LAUNCHER	Lanzagranadas
 GRENADE_LAUNCHER_DROP	Soltar lanzagranadas
@@ -232,8 +232,8 @@ HALLUCINATE_HARVESTER	Alucinar Harvester
 HALLUCINATE_HARVESTER_TOOLTIP	Crea un Harvester falso
 HALLUCINATE_HIVE	Alucinar Hive
 HALLUCINATE_HIVE_TOOLTIP	Crea una Hive falsa
-HALLUCINATE_HYDRA	Alucinar Hidra
-HALLUCINATE_HYDRA_TOOLTIP	Crea una Hidra falsa
+HALLUCINATE_HYDRA	Alucinar Hydra
+HALLUCINATE_HYDRA_TOOLTIP	Crea una Hydra falsa
 HALLUCINATE_LERK	Alucinar Lerk
 HALLUCINATE_LERK_TOOLTIP	Crea un Lerk falso
 HALLUCINATE_ONOS	Alucinar Onos
@@ -264,7 +264,7 @@ HIVE_HEAL_TOOLTIP	Cura a los Aliens cercanos
 HIVE_HINT	Base alien
 HIVE_TOOLTIP	En esta estructura está el Commander Alien, que elige las evoluciones del equipo (algunas requieren varias Hives). También cura a los jugadores cercanos. Los Aliens pierden si ya no les queda ninguna Hive.
 HOLD_POSITION	Mantener la posición
-HYDRA	Hidra
+HYDRA	Hydra
 HYDRA_HINT	Planta con púas del Gorge
 HYDRA_TOOLTIP	Planta con púas que se puede construir en cualquier lugar y dispara a los enemigos. Mantenla viva con tu spray de curación.
 INFANTRY_PORTAL	Infantry Portal
@@ -274,7 +274,7 @@ INFESTATION	Infestación
 INFESTATION_SPIKE	Muro de Huesos
 INFESTATION_SPIKE_TOOLTIP	Crea un muro temporal que bloquea el movimiento y los ataques
 INFESTATION_TOOLTIP	Genera infestación
-INFESTED_TUNNEL_ENTRANCE	Entrada de túnel infestado
+INFESTED_TUNNEL_ENTRANCE	Entrada de Infested Tunnel
 INFESTED_TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar
 INFESTED_TUNNEL_TOOLTIP	Permite a los jugadores viajar rápido a otro lugar y además extiende la infestación
 INK	Tinta
@@ -381,11 +381,11 @@ PATROL	Patrullar
 PATROL_TOOLTIP	Se mueve entre dos puntos de ruta
 PHANTOM	Fantasma
 PHANTOM_TOOLTIP	Te vuelve silencioso al moverte y atacar, y casi invisible cuando estás quieto
-PHASE_GATE	Portal de fase
+PHASE_GATE	Phase Gate
 PHASE_GATE_HINT	Teletransporte marine
-PHASE_GATE_TOOLTIP	Teletransporta a los Marines a otros portales de fase
+PHASE_GATE_TOOLTIP	Teletransporta a los Marines a otros Phase Gates
 PHASE_TECH	Tecnología de fase
-PHASE_TECH_TOOLTIP	Desbloquea la tecnología de portales de fase
+PHASE_TECH_TOOLTIP	Desbloquea la tecnología de Phase Gates
 PHEROMONE_EXPANDING_TOOLTIP	Avisar al equipo dónde nos estamos expandiendo
 PHEROMONE_HEAL_TOOLTIP	Avisar al equipo dónde curarse
 PHEROMONE_THREAT_TOOLTIP	Avisar al equipo la posición de una amenaza
@@ -427,8 +427,8 @@ RESOURCE_NOZZLE	Nodo de recursos
 RESOURCE_NOZZLE_TOOLTIP	Los equipos construyen estructuras aquí para recolectar recursos.
 RETURN	Volver
 RETURN_DESCRIPTION	Vuelve al menú anterior.
-REVERSE_PHASE_GATE	Invertir portal de fase
-REVERSE_PG_TOOLTIP	Cambia la dirección de teletransporte del portal de fase
+REVERSE_PHASE_GATE	Invertir Phase Gate
+REVERSE_PG_TOOLTIP	Cambia la dirección de teletransporte del Phase Gate
 RIFLE	Rifle
 RIFLE_TOOLTIP	BIND_PrimaryAttack para disparar con el rifle reglamentario. BIND_SecondaryAttack da un culatazo.
 ROBOTICS_FACTORY	Robotics Factory
@@ -449,12 +449,12 @@ SELECT_NEAREST_OBSERVATORY	Selecciona el Observatory más cercano en pantalla.
 SELECT_NEAREST_SHIFT	Selecciona el Shift más cercano en pantalla.
 SELECT_OBSERVATORY	Seleccionar Observatory
 SELECT_SHIFT	Seleccionar Shift
-SELECT_TUNNEL_ENTRY	Seleccionar entrada del túnel
+SELECT_TUNNEL_ENTRY	Seleccionar entrada del Tunnel
 SELECT_TUNNEL_ENTRY_TOOLTIP	 
-SELECT_TUNNEL_EXIT	Seleccionar salida del túnel
+SELECT_TUNNEL_EXIT	Seleccionar salida del Tunnel
 SELECT_TUNNEL_EXIT_TOOLTIP	 
 SELECT_TOOLTIP	Menú de selección
-SENTRY_BATTERY	Batería de Energía
+SENTRY_BATTERY	Power Battery
 SENTRY_BATTERY_HINT	Da energía a las estructuras marine
 SENTRY_BATTERY_TOOLTIP	Da energía a las estructuras marine cercanas (máximo 1 por cuarto). ¡Máximo 2!
 SENTRY_HINT	Torreta de IA
@@ -528,14 +528,14 @@ THREE_SHELLS	Tres Shells
 THREE_SPURS	Tres Spurs
 THREE_VEILS	Tres Veils
 TUNNEL_COLLAPSE	Derrumbar
-TUNNEL_COLLAPSE_TOOLTIP	Derrumba el túnel. Esto también destruye esta entrada.
-TUNNEL_ENTRANCE	Entrada de túnel
+TUNNEL_COLLAPSE_TOOLTIP	Derrumba el Tunnel. Esto también destruye esta entrada.
+TUNNEL_ENTRANCE	Entrada de Tunnel
 TUNNEL_ENTRANCE_HINT	Permite a los jugadores viajar rápido a otro lugar
-TUNNEL_ENTRY	Entrada del túnel
-TUNNEL_EXIT	Salida del túnel
-TUNNEL_EXIT_TOOLTIP	Coloca la salida de esta entrada para abrir un túnel que permite a los jugadores viajar rápido entre dos lugares. ¡Cuidado: los Marines también pueden usar el túnel!
-TUNNEL_RELOCATE_TOOLTIP	Mueve esta entrada del túnel a otro lugar.
-TUNNEL_TOOLTIP	Haz crecer un túnel colocando una entrada y una salida para que los jugadores viajen rápido entre dos lugares. ¡Selecciona la entrada para colocar la salida!
+TUNNEL_ENTRY	Entrada del Tunnel
+TUNNEL_EXIT	Salida del Tunnel
+TUNNEL_EXIT_TOOLTIP	Coloca la salida de esta entrada para abrir un Tunnel que permite a los jugadores viajar rápido entre dos lugares. ¡Cuidado: los Marines también pueden usar el Tunnel!
+TUNNEL_RELOCATE_TOOLTIP	Mueve esta entrada del Tunnel a otro lugar.
+TUNNEL_TOOLTIP	Haz crecer un Tunnel colocando una entrada y una salida para que los jugadores viajen rápido entre dos lugares. ¡Selecciona la entrada para colocar la salida!
 TWO_COMMAND_STATIONS	Dos Command Stations
 TWO_HIVES	Dos Hives
 TWO_SHELLS	Dos Shells
@@ -554,8 +554,8 @@ UPGRADE_FADE	Mejorar Fade
 UPGRADE_FADE_TOOLTIP	Desbloquea habilidades del Fade
 UPGRADE_GORGE	Mejorar Gorge
 UPGRADE_GORGE_TOOLTIP	Desbloquea habilidades del Gorge
-UPGRADE_INFESTED_TUNNEL_ENTRANCE	Mejorar a túnel infestado
-UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más vida y extienden la infestación
+UPGRADE_INFESTED_TUNNEL_ENTRANCE	Mejorar a Infested Tunnel
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de Infested Tunnel tienen más vida y extienden la infestación
 UPGRADE_LERK	Mejorar Lerk
 UPGRADE_LERK_TOOLTIP	Desbloquea habilidades del Lerk
 UPGRADE_ONOS	Mejorar Onos

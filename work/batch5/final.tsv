@@ -220,8 +220,8 @@ TIPVIDEO_1_MARINE_MINES_TITEL	Minas
 TIPVIDEO_1_MARINE_NERVE_GAS	Las granadas de gas nervioso dañan la armadura de los jugadores Alien y son muy efectivas contra las defensas de los Gorges.
 TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE	Las granadas de gas nervioso dañan la armadura de los Aliens que estén a su alcance.
 TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE_TITEL	Granada de gas nervioso
-TIPVIDEO_1_MARINE_PHASE_GATES	Atraviesa los portales de fase para viajar rápido entre ellos.
-TIPVIDEO_1_MARINE_PHASE_GATES_TITEL	Portales de fase
+TIPVIDEO_1_MARINE_PHASE_GATES	Atraviesa los Phase Gates para viajar rápido entre ellos.
+TIPVIDEO_1_MARINE_PHASE_GATES_TITEL	Phase Gates
 TIPVIDEO_1_MARINE_PULSE	Las granadas de pulso hacen daño moderado y drenan la energía de los jugadores Alien.
 TIPVIDEO_1_MARINE_PULSE_GRENADE	Las granadas de pulso pueden explotar al impactar y reducen la velocidad de ataque de los jugadores Alien.
 TIPVIDEO_1_MARINE_PULSE_GRENADE_TITEL	Granada de pulso
@@ -253,8 +253,8 @@ TIPVIDEO_1_PLAYER_POWER_NODES	Cuando las luces del cuarto estén apagadas, recon
 TIPVIDEO_1_PLAYER_POWER_NODES_TITEL	Nodos de energía
 TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS	Protege los Extractors. Recolectan recursos para que tu equipo los gaste en armas y equipo.
 TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS_TITEL	Proteger Extractors
-TIPVIDEO_1_PLAYER_SENTRY_BATTERIES	Las Sentries necesitan una Batería de Energía cerca para funcionar.
-TIPVIDEO_1_PLAYER_SENTRY_BATTERIES_TITEL	Baterías de Energía
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES	Las Sentries necesitan una Sentry Battery cerca para funcionar.
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES_TITEL	Sentry Batteries
 TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK	Con un Jetpack, toca Espacio y una dirección para esquivar a los enemigos que te atacan.
 TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK_TITEL	Jetpack: Hacia atrás
 TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL	Con un Jetpack, puedes mantener presionado Espacio para llegar a lugares altos. El medidor de combustible se recarga despacio.
@@ -293,8 +293,8 @@ TIPVIDEO_2_GORGE_GORGE_CLOGS	Arma tu muro de Clogs para limitar el movimiento de
 TIPVIDEO_2_GORGE_GORGE_CLOGS_TITEL	Gorge: Clogs
 TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS_	Un Gorge curando a un Onos es excelente para atacar posiciones fortificadas de los Marines.
 TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS__TITEL	Gorge: Curar Onos
-TIPVIDEO_2_GORGE_GORGE_TUNNELS	Los Gorges pueden construir dos entradas de túnel de Gorge que crean un atajo de ida y vuelta.
-TIPVIDEO_2_GORGE_GORGE_TUNNELS_TITEL	Gorge: Túneles
+TIPVIDEO_2_GORGE_GORGE_TUNNELS	Los Gorges pueden construir dos entradas de Gorge Tunnel que crean un atajo de ida y vuelta.
+TIPVIDEO_2_GORGE_GORGE_TUNNELS_TITEL	Gorge: Tunnels
 TIPVIDEO_2_GORGE_GORGE_WEBS	Los Gorges pueden crear telarañas que atrapan a los enemigos.
 TIPVIDEO_2_GORGE_GORGE_WEBS_TITEL	Gorge: Telarañas
 TIPVIDEO_2_LERK_LERK_HIT_AND_RUN	Como Lerk, ataca y retírate para evitar el fuego enemigo.
@@ -323,8 +323,8 @@ TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS	Destruye los Infantry Portals de los 
 TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS_TITEL	Destruir Infantry Portals
 TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES	Destruye los Observatories de los Marines para impedir que su Commander traiga de vuelta a su equipo.
 TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES_TITEL	Destruir Observatories
-TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES	Destruye los portales de fase de los Marines para impedir que lleguen refuerzos.
-TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES_TITEL	Destruir portales de fase
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES	Destruye los Phase Gates de los Marines para impedir que lleguen refuerzos.
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES_TITEL	Destruir Phase Gates
 TIPVIDEO_2_PLAYER_INFESTATION	La mayoría de las estructuras Alien necesitan infestación debajo para construirse. Sin ella reciben daño y mueren.
 TIPVIDEO_2_PLAYER_INFESTATION_TITEL	Infestación
 TIPVIDEO_2_PLAYER_POWER_NODES	Destruir los Nodos de energía apaga las luces y desactiva las estructuras de los Marines.
@@ -343,8 +343,8 @@ TIPVIDEO_2_SKULK_SKULK_PARASITE	Los Skulks pueden usar el parásito sobre los Ma
 TIPVIDEO_2_SKULK_SKULK_PARASITE_TITEL	Skulk: Parásito
 TIPVIDEO_2_SKULK_SKULK_WALL_JUMP	Como Skulk, encadena saltos por las paredes para alcanzar velocidades increíbles.
 TIPVIDEO_2_SKULK_SKULK_WALL_JUMP_TITEL	Skulk: Salto de pared
-TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT	Las Hidras se pueden colocar en suelos, paredes y techos.
-TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT_TITEL	Gorge: Colocación de Hidras
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT	Las Hydras se pueden colocar en suelos, paredes y techos.
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT_TITEL	Gorge: Colocación de Hydras
 TIPVIDEO_3_PLAYER_PING_MAP	Presiona el botón central del mouse para colocar un marcador y llamar la atención de tu equipo.
 TIPVIDEO_3_PLAYER_PING_MAP_TITEL	Marcar Mapa
 TIPVIDEO_3_PLAYER_USING_THE_MICROPHONE	Presiona ALT para usar tu micrófono. Es un medio de comunicación efectivo
@@ -384,7 +384,7 @@ LOADING_TIP_SAYINGS_MENU	Presiona BIND_ToggleSayings para burlarte o decir algo.
 LOADING_TIP_SCOREBOARD	Presiona BIND_Scoreboard para ver a los jugadores de la partida y sus puntuaciones.
 LOADING_TIP_SPAWN	Los Marines renacen en el Infantry Portal. Los Aliens salen de huevos.
 LOADING_TIP_SPEEDYGONZALES	Correr te lleva rápido a todas partes, pero recuerda: hace mucho más ruido que agacharse o caminar.
-LOADING_TIP_SUPPORT	¡Las clases de apoyo son invaluables! Un Gorge con algunas Hidras o un Marine con un soldador pueden tener un impacto enorme.
+LOADING_TIP_SUPPORT	¡Las clases de apoyo son invaluables! Un Gorge con algunas Hydras o un Marine con un soldador pueden tener un impacto enorme.
 LOADING_TIP_VENTS	Los Aliens pueden usar los conductos de ventilación para moverse más rápido y flanquear.
 LOADING_TIP_WALLRUN	Como Skulk, no corras de frente hacia los Marines: usa las paredes y los techos para emboscarlos.
 LOADING_VAC	NOTA: ESTE SERVIDOR ESTÁ PROTEGIDO POR VAC\nHACER TRAMPA RESULTARÁ EN UN BANEO PERMANENTE

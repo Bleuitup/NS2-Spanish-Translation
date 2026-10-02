@@ -55,7 +55,6 @@ local overrides = {
     -- same word (Tunnel, Hydra) or the name is plain descriptive words (Power Node).
     ["Exosuit"] = { handling = "translate", spanish = "Exotraje", article = "el", notes = "Batch 3. Capitalized like a unit name; 'Exo' stays." },
     ["Power Node"] = { handling = "translate", spanish = "Nodo de energía", article = "el", notes = "Batch 3." },
-    ["Sentry Battery"] = { handling = "translate", spanish = "Batería de Energía", article = "la", notes = "Batch 3: the game calls it Power Battery." },
     ["Bone Wall"] = { handling = "translate", spanish = "Muro de Huesos", article = "el", notes = "Batch 3." },
     ["Bone Shield"] = { handling = "translate", spanish = "Escudo de Huesos", article = "el", notes = "Batch 3, to match Muro de Huesos." },
     ["Power Surge"] = { handling = "translate", spanish = "Sobretensión", article = "la", notes = "Batch 3." },
@@ -67,13 +66,19 @@ local overrides = {
     ["Catalyst pack"] = { handling = "translate", spanish = "paquete catalizador", article = "el", notes = "Batch 3." },
     ["Ammo pack"] = { handling = "translate", spanish = "paquete de munición", article = "el", notes = "Batch 3. The short label stays 'Paq. de munición'." },
     ["Welder"] = { handling = "translate", spanish = "soldador", article = "el", notes = "Batch 3." },
-    ["Hydra"] = { handling = "translate", spanish = "Hidra", article = "la", notes = "Batch 3: nearly the same word, like Túnel." },
     ["Med pack"] = { notes = "Batch 3: Bleu keeps 'Med pack'." },
     -- From the batch 5 review, 2026-10-02
     ["Catalyst Field"] = { handling = "translate", spanish = "campo catalizador", article = "el", notes = "Batch 5: follows paquete catalizador." },
     ["Regen Field"] = { handling = "translate", spanish = "campo de regeneración", article = "el", notes = "Batch 5." },
     ["Competitive Play"] = { handling = "translate", spanish = "Partida competitiva", article = "la",
         notes = "The mode name, settled 2026-10-02: singular, capital P only, used like a proper name with no article (Partida competitiva no está disponible). Bleu tried the plural and dropped it." },
+    -- 2026-10-03, after 1.0: every faction structure keeps its English name. Power Node (a map
+    -- element) and Evolution Chamber (a button inside the Hive) stay translated; so does Phase Tech,
+    -- because tech names are translated.
+    ["Phase Gate"] = { handling = "keep", spanish = "Phase Gate", article = "el", notes = "Faction structure: English name. Phase Tech stays 'tecnología de fase'." },
+    ["Sentry Battery"] = { handling = "keep", spanish = "Sentry Battery", article = "la", notes = "Faction structure: English name. The game displays it as Power Battery; each line uses the name its English uses." },
+    ["Tunnel"] = { handling = "keep", spanish = "Tunnel", article = "el", notes = "Faction structure: English name. Also Gorge Tunnel and Infested Tunnel." },
+    ["Hydra"] = { handling = "keep", spanish = "Hydra", article = "la", notes = "Faction structure: English name." },
     ["resource node"] = { spanish = "nodo de recursos", article = "el", notes = "Also the resource nozzle (batch 3)." },
 }
 
@@ -120,7 +125,7 @@ local additions = {
     { "General", "replay", "translate", "repetición", "la", "Batch 2." },
     { "General", "leaderboard", "translate", "tabla de clasificación", "la", "Batch 2." },
     { "General", "Skill Tier", "translate", "rango de habilidad", "el", "Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji." },
-    { "Marine structures", "Cargo Gate", "translate", "Puerta de Carga", "la", "Batch 4 (CBM): Bleu translated it." },
+    { "Marine structures", "Cargo Gate", "keep", "Cargo Gate", "la", "CBM structure. Kept in English like every faction structure (2026-10-03)." },
     { "Alien abilities", "Vortex", "translate", "Vórtice", "el", "Batch 4." },
     { "Marine weapons", "SMG", "mixed", "subfusil (SMG)", "el", "Batch 4 (CBM): subfusil as the long name, SMG as the short one." },
     { "General", "bundle", "translate", "paquete", "el", "Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C." },

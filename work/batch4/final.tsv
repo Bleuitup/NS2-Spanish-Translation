@@ -3,7 +3,7 @@ NEW_ACHIEVEMENT_1_1_DESC	Construye 10 Extractors en 1 ronda
 NEW_ACHIEVEMENT_1_2_NAME	El doctor está de turno
 NEW_ACHIEVEMENT_1_2_DESC	Repara a tus compañeros con el soldador 10 veces en 1 ronda
 NEW_ACHIEVEMENT_1_3_NAME	Correo de primera clase
-NEW_ACHIEVEMENT_1_3_DESC	Usa un portal de fase
+NEW_ACHIEVEMENT_1_3_DESC	Usa un Phase Gate
 NEW_ACHIEVEMENT_1_4_NAME	Luz ambiental
 NEW_ACHIEVEMENT_1_4_DESC	Repara un Nodo de energía con el soldador
 NEW_ACHIEVEMENT_1_5_NAME	Técnico de reparaciones
@@ -55,7 +55,7 @@ NEW_ACHIEVEMENT_1_27_DESC	Mata a un Marine que tenga un lanzagranadas
 NEW_ACHIEVEMENT_1_28_NAME	Ahora vas a pie
 NEW_ACHIEVEMENT_1_28_DESC	Destruye un Exotraje
 NEW_ACHIEVEMENT_1_30_NAME	Baboso
-NEW_ACHIEVEMENT_1_30_DESC	Usa un túnel de Gorge
+NEW_ACHIEVEMENT_1_30_DESC	Usa un Gorge Tunnel
 NEW_ACHIEVEMENT_1_31_NAME	Listo para la batalla
 NEW_ACHIEVEMENT_1_31_DESC	Evoluciona una mejora Kharaa
 NEW_ACHIEVEMENT_2_0_NAME	Ventaja injusta
@@ -159,7 +159,7 @@ EVT_DUALRAILGUN_RESEARCHED	EXOTRAJE CON DOS RAILGUNS INVESTIGADO
 EVT_EXOSUIT_RESEARCHED	EXOTRAJES INVESTIGADOS
 EVT_FADE_UPGRADED	FADE MEJORADO
 EVT_FLAMETHROWER_RESEARCHED	LANZALLAMAS INVESTIGADOS
-EVT_GORGETUNNEL_RESEARCHED	TÚNELES DE GORGE INVESTIGADOS
+EVT_GORGETUNNEL_RESEARCHED	GORGE TUNNELS INVESTIGADOS
 EVT_GORGE_UPGRADED	GORGE MEJORADO
 EVT_GRENADES_RESEARCHED	GRANADAS INVESTIGADAS
 EVT_GRENADE_LAUNCHER_RESEARCHED	LANZAGRANADAS INVESTIGADOS
@@ -185,7 +185,7 @@ EVT_WEBTECH_RESEARCHED	TELARAÑAS INVESTIGADAS
 EVT_WELDER_RESEARCHED	SOLDADORES INVESTIGADOS
 EVT_XENOCIDE_RESEARCHED	XENOCIDIO INVESTIGADO
 MARINE_ALERT_RESEARCH_CANCELLED	Investigación cancelada
-COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Puertas de Carga.
+COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Cargo Gates.
 REQUEST_ALIEN_CHUCKLE	Risita
 REQUEST_ALIEN_DRIFTER	Pedir Drifter
 REQUEST_ALIEN_FOLLOWME	\"Sígueme\"
@@ -227,7 +227,7 @@ WEAPON_DESC_GAS_GRENADE	Libera un gas nervioso que daña la armadura de los Alie
 WEAPON_DESC_GRENADELAUNCHER	Pega duro contra objetivos lentos o inmóviles.
 WEAPON_DESC_HMG	Ametralladora con cargador de gran capacidad que hace daño extra a los jugadores, pero no es muy precisa a larga distancia.
 WEAPON_DESC_JETPACK	Este dispositivo experimental permite a su usuario volar distancias cortas. Úsalo para entrar en conductos de ventilación que de otro modo no alcanzarías o para esquivar con facilidad las mandíbulas enemigas.
-WEAPON_DESC_MINE	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los portales de fase e incluso en las paredes.
+WEAPON_DESC_MINE	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los Phase Gates e incluso en las paredes.
 WEAPON_DESC_PISTOL	Usa la pistola para rematar rápido a los enemigos en lugar de recargar.
 WEAPON_DESC_PULSE_GRENADE	Daño de impacto moderado; reduce la velocidad de ataque de los objetivos.
 WEAPON_DESC_REQUIREMENTS	¡El Commander todavía tiene que %s!\n\n%s
@@ -249,7 +249,7 @@ BUYMENU_MASSIVE_TITLE	Masivo
 BUYMENU_MASSIVE_SPECIAL1	- Puede destruir huevos al pisarlos.
 BUYMENU_MASSIVE_SPECIAL2	- Inmune al derribo
 BUYMENU_MASSIVE_SPECIAL3	- Inmune a las esporas del Lerk
-BUYMENU_MASSIVE_SPECIAL4	- No puede usar portales de fase
+BUYMENU_MASSIVE_SPECIAL4	- No puede usar Phase Gates
 BUYMENU_MASSIVE_SPECIAL5	- El Beacon de emergencia no lo trae de vuelta
 BUYMENU_ELECTRIFY_TITLE	Electrificar
 BUYMENU_ELECTRIFY_SPECIAL1	- Electrocuta a los jugadores enemigos y reduce mucho su velocidad de ataque
@@ -503,9 +503,9 @@ GB_ONE	1GB
 GB_ONE_POINT_FIVE	1.5GB
 GB_TWO_PLUS	2GB+
 GET_MODS	OBTENER MODS
-GORGE_TUNNEL_TECH	Túneles de Gorge
-GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir túneles que conectan dos partes del mapa.
-GORGE_TUNNEL_TOOLTIP	Entrada de túnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.
+GORGE_TUNNEL_TECH	Gorge Tunnels
+GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir Tunnels que conectan dos partes del mapa.
+GORGE_TUNNEL_TOOLTIP	Entrada de Tunnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.
 GROWN	Madura
 HEALTH	Vida
 HIGH_AO_OLD	ALTA (VERSIÓN ANTERIOR)
@@ -699,10 +699,10 @@ TUNDRA_BUNDLE_MSG	Tienes un Paquete Tundra en tu inventario. ¿Quieres abrirlo a
 TUNDRA_BUNDLE_TITLE	¡Paquete Tundra disponible!
 OPEN_TUNDRA_BUNDLE	ABRIR UN PAQUETE
 TUNNEL_ENTRANCE_HINT_TO_LOCATION	Atajo hacia %s
-TUNNEL_ENTRANCE_OWNER	Túnel de Gorge de %s
-TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	Túnel de Gorge de %s
+TUNNEL_ENTRANCE_OWNER	Gorge Tunnel de %s
+TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	Gorge Tunnel de %s
 TUNNEL_LIMIT_ONE_PER_HIVE	Otra Hive
-TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	¡Necesitas otra Hive para construir más túneles!
+TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	¡Necesitas otra Hive para construir más Tunnels!
 UNBOUND	¡SIN ASIGNAR!
 UNBUILT_POWER_NODE	Presiona %s para construir y dar energía a las estructuras cercanas
 UNBUILT_STRUCTURE	%s (Sin construir)
@@ -766,9 +766,9 @@ ADVANCED_OBSERVATORY_TOOLTIP	Detecta enemigos cercanos.
 ADVANCED_OBSERVATORY	Advanced Observatory
 RESEARCH_ADVANCED_OBSERVATORY_TITLE	Advanced Observatory
 CARGO_GATE_HINT	Teletransporte de Exotrajes
-CARGO_GATE	Puerta de Carga
-CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Puerta de Carga.
+CARGO_GATE	Cargo Gate
+CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Cargo Gate.
 CARGO_GATE_HINT_TO_LOCATION	Teletransporte a %s
-CARGO_TECH	Tecnología de Puerta de Carga
-CARGO_TECH_TOOLTIP	Desbloquea la tecnología de Puerta de Carga.
-RESEARCH_CARGO_TECH_TOOLTIP	Puerta de Carga
+CARGO_TECH	Tecnología de Cargo Gate
+CARGO_TECH_TOOLTIP	Desbloquea la tecnología de Cargo Gate.
+RESEARCH_CARGO_TECH_TOOLTIP	Cargo Gate
