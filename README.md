@@ -35,7 +35,7 @@ the reason.
 ## Glossary criteria
 
 The full list is in [`glossary/glossary.md`](glossary/glossary.md). These are the criteria behind it, as of
-version 1.0.
+version 1.0, decided by Bleu in each case.
 
 | Handling | What falls under it | Why | Examples |
 |---|---|---|---|
