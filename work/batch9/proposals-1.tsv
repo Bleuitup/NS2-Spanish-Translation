@@ -1,0 +1,80 @@
+ADVANCED_OPTION_AV_INITIALSTATE_TOOLTIP	Define si la visión Alien está activada o no al renacer.	FIX	"renacer", the word you kept for respawn; Alien capitalized.
+ADVANCED_OPTION_INSTANT_ALIENHEALTH_TOOLTIP	El círculo de salud Alien se actualiza al instante, sin animaciones, cuando cambia la salud.	CHECK	salud, as above; Alien capitalized.
+ADVANCED_OPTION_RELOAD_INDICATOR_TOOLTIP	Muestra un indicador de recarga alrededor de la mira. También muestra el enfriamiento de algunas habilidades de movimiento Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+BASIC_LIFE_FORMS_TOOLTIP	Evoluciona nuevas habilidades para los Aliens	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+BINDINGS_BUY/EVOLVE_MENU	MENÚ DE COMPRA/EVOLUCIÓN		
+BINDINGS_DROP_WEAPON_/_EJECT	SOLTAR ARMA / EYECTARSE		
+BINDINGS_REQUEST_AMMO_/_ENZYME	PEDIR MUNICIÓN / ENZIMA		
+BINDINGS_REQUEST_HEALING_/_MEDPACK	PEDIR CURACIÓN / MED PACK		
+BINDINGS_VOICE_HOSTILES	(MARINE) \"ENEMIGOS\"	CHECK	The request menu line you approved in batch 4 says "Enemigos".
+BINDINGS_VOICE_ACKOWLEDGED	\"ENTENDIDO\"/RISA	CHECK	The request menu line you approved in batch 4 says "Entendido".
+BINDINGS_TAUNT	BURLA	CHECK	Batch 1 has PROVOCAR; the request menu and the achievement (batch 4) say Burla / Búrlate. One word for taunt.
+BINDINGS_WEAPON_#1	ARMA #1		
+BINDINGS_WEAPON_#2	ARMA #2		
+BINDINGS_WEAPON_#3	ARMA #3		
+BINDINGS_WEAPON_#4	ARMA #4		
+BINDINGS_WEAPON_#5	ARMA #5		
+CLAWRAILGUN_EXOSUIT	Exotraje con garra y Railgun	CHECK	You kept "puño y railgun" here in batch 3, but approved "GARRA Y RAILGUN" in the batch 4 event line and "Garra" for the module in batch 5.
+COMBINDINGS_GRID_SPOT_10_(DEFAULT_G)	Posición 10 de la cuadrícula (por defecto G)		
+COMBINDINGS_GRID_SPOT_11_(DEFAULT_V)	Posición 11 de la cuadrícula (por defecto V)		
+COMBINDINGS_GRID_SPOT_1_(DEFAULT_Q)	Posición 1 de la cuadrícula (por defecto Q)	CHECK	Commander button grid hotkeys.
+COMBINDINGS_GRID_SPOT_2_(DEFAULT_W)	Posición 2 de la cuadrícula (por defecto W)		
+COMBINDINGS_GRID_SPOT_3_(DEFAULT_E)	Posición 3 de la cuadrícula (por defecto E)		
+COMBINDINGS_GRID_SPOT_4_(DEFAULT_A)	Posición 4 de la cuadrícula (por defecto A)		
+COMBINDINGS_GRID_SPOT_5_(DEFAULT_S)	Posición 5 de la cuadrícula (por defecto S)		
+COMBINDINGS_GRID_SPOT_6_(DEFAULT_D)	Posición 6 de la cuadrícula (por defecto D)		
+COMBINDINGS_GRID_SPOT_7_(DEFAULT_F)	Posición 7 de la cuadrícula (por defecto F)		
+COMBINDINGS_GRID_SPOT_8_(DEFAULT_Z)	Posición 8 de la cuadrícula (por defecto Z)		
+COMBINDINGS_GRID_SPOT_9_(DEFAULT_X)	Posición 9 de la cuadrícula (por defecto X)		
+COMMAND_STATION_HINT	Base Marine	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+CRAG_HINT	Cura unidades Alien	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+CYST_TOOLTIP	El Commander coloca Cysts, que hacen crecer la infestación. Si los Cysts no están conectados en cadena con una Hive, mueren y la infestación retrocede. Las estructuras Alien sin infestación también mueren.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+DECAL_LIFETIME_TOOLTIP	Cuánto tiempo (en minutos) tardan en desaparecer marcas como agujeros de bala o el escupitajo Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+ENEMY_HEALTH_BARS	MOSTRAR SALUD DEL ENEMIGO	CHECK	salud, as above.
+DRIFTER_REGENERATION_TOOLTIP	Los Drifters regeneran el 3% de su salud cada 2 segundos mientras reciben daño	CHECK	Health is "salud" in 21 lines and "vida" in these few. "Barra de vida" is left alone as a set phrase.
+EGG_HINT	Renace Aliens	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+GROW_TOOLTIP	Acelera el crecimiento de las estructuras Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_EXO_EGG_STOMP_DESCRIPTION	Aplasta los huevos Alien sin nacer con tus poderosas piernas robóticas. ¡Piensa que son plástico de burbujas gigante! Pop pop pop.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_EXO_THRUSTERS_DESCRIPTION	¡Como si las gigantescas máquinas de muerte de metal no fueran ya bastante para los Aliens! Esquiva en la dirección en la que te mueves, o elévate a nuevas alturas con estos elegantes propulsores.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_GAS_GRENADE_DESCRIPTION	Granada de mano que les crispa los nervios a los Aliens. Daña rápidamente la armadura de los jugadores y las estructuras Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_PULSE_GRENADE_DESCRIPTION	Granada de mano que hace una explosión muy vistosa. Como efecto secundario, además drena la energía de los Aliens y reduce su velocidad de ataque por un momento.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_MACHINE_GUN_DESCRIPTION	El rifle no tenía ni de cerca suficientes balas... así que aquí metimos algunas más. Buena contra formas de vida Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_MINES_DESCRIPTION	Haz volar en pedazos a los Aliens desde el suelo, la pared o el techo. De verdad, ninguna superficie es segura para quien no quiera volar en pedazos.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_SHOTGUN_DESCRIPTION	Vuela a cualquier Alien lo bastante tonto como para ponerse a distancia de ser acariciado.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HELP_SCREEN_UMBRA_DESCRIPTION	Rocía una nube que detiene una pequeña parte de las balas que la atraviesan. La nube además se adhiere a los Aliens que pasan por ella y les da también algo de protección temporal.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+HIVE_HINT	Base Alien	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+INFANTRY_PORTAL_HINT	Renace Marines	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+INFANTRY_PORTAL_TOOLTIP	Hace renacer a un Marine cada 9 segundos. Solo se puede construir cerca de una Command Station. Máximo 3 por Command Station.	FIX	"renacer", the word you kept for respawn.
+ITEM_UNEARTHED_STRUCTURE_SKINS_DESC	Una nueva forma de Kharaa se reveló en las minas de cristal de Unearthed. Hipnotiza a amigos y enemigos con estas skins de estructuras Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+ITEM_CC_LOCKNLOAD	Tarjeta de presentación. Recién aparecido y listo para patear traseros Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+MARINE_WEAPONS1_TOOLTIP	Las armas Marine hacen un 10% más de daño a jugadores y un 20% más a estructuras.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+MARINE_WEAPONS2_TOOLTIP	Las armas Marine hacen un 20% más de daño a jugadores y un 40% más a estructuras.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+MARINE_WEAPONS3_TOOLTIP	Las armas Marine hacen un 30% más de daño a jugadores y un 60% más a estructuras.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+MED_PACK_TOOLTIP	Restablece 50 puntos de salud del jugador	CHECK	salud, as above.
+MENU_INFESTATION_TOOLTIP	Calidad de la infestación cerca de las estructuras Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+OPTION_ALIEN_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras Alien. Desactívalo para un rendimiento un poco mejor.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+OPTION_ALIEN_WEAPONSLOTS_TOOLTIP	Elige cómo seleccionar y activar las habilidades Alien	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+OPTION_PERLIFEFORM_SENSITIVITY_TOOLTIP	Permite tener sensibilidades distintas para cada forma de vida Alien. Tiene prioridad sobre la sensibilidad del equipo Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+OPTION_ENEMY_HEALTH	Muestra la salud total del enemigo al atacarlo	CHECK	salud, as above.
+OPTION_MARINE_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras Marine. Desactívalo para un rendimiento un poco mejor.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+PHASE_GATE_HINT	Teletransporte Marine	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+POWERPOINT_HINT	Da energía a las estructuras Marine	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+POWERPOINT_TOOLTIP	Necesario para dar energía a las estructuras Marine de este cuarto. Si se destruye, esas estructuras dejan de funcionar hasta que se repare la energía.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SENTRY_BATTERY_HINT	Da energía a las estructuras Marine	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SENTRY_BATTERY_TOOLTIP	Da energía a las estructuras Marine cercanas (máximo 1 por cuarto). ¡Máximo 2!	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SHADE_CLOAK_TOOLTIP	Oculta a las estructuras y jugadores Alien cercanos	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SHADE_INK_TOOLTIP	Crea una nube de tinta alrededor de la Shade para que las unidades Alien se escondan	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SHELL_TOOLTIP	Da un nuevo rasgo Alien defensivo	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SPAWN_ALIEN	Aparición Alien	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SPAWN_MARINE	Aparición Marine	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+SPAWN_MARINE_TOOLTIP	Los Marines muertos renacen aquí cada 9 segundos	FIX	"renacer", the word you kept for respawn.
+SPUR_TOOLTIP	Da un nuevo rasgo Alien de velocidad	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS	Los Exotrajes pueden aplastar huevos Alien al caminar sobre ellos.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más salud y extienden la infestación	CHECK	salud, as above.
+VAMPIRISM_TOOLTIP	Crea un escudo temporal para ti absorbiendo salud de los enemigos cuando los golpeas con tu ataque principal	CHECK	salud, as above.
+VEIL_TOOLTIP	Da un nuevo rasgo Alien de engaño	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+WEAPON_DESC_FLAMETHROWER	Esta nueva incorporación al arsenal de la TSF fue creada para combatir directamente la infestación Alien. Además, su llama hace daño medio con el tiempo a jugadores y estructuras, y quema rápidamente las reservas de energía de un Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_29	Empacando huevos Alien en contenedores	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+THUNDERDOME_REWARD_CC_LOCKED_AND_LOADED_DESC	Tarjeta de presentación. Recién aparecido y listo para patear traseros Alien.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+EXO_MODULE_PLASMALAUNCHER_DESC	Carga de plasma lanzada en arco: 40 de daño en una explosión de 4 metros más daño persistente. Un impacto directo electrifica al Alien alcanzado durante 3.5 segundos: le quita la membrana mucosa y la enzima, y frena sus ataques. Control de enjambres, no un arma de asedio. Una bomba con la celda llena, y luego una cada 2 segundos.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.
+EXO_MODULE_FLAMETHROWER_DESC	Tiene un cono más ancho que el lanzallamas de los Marines, 9 de daño por pulso hasta 9 metros; prende fuego a Aliens y estructuras y quema esporas y Umbra; las bombas de bilis lo atraviesan. No puede soldar y se sobrecalienta tras 10 segundos.	FIX	Marine and Alien capitalized everywhere, as the glossary keeps them as names. About half the file already did.

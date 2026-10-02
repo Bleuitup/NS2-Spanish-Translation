@@ -17,7 +17,7 @@ end
 function M.parse(path)
     local map, order, dups = {}, {}, {}
     for line in M.read(path):gmatch("[^\r\n]+") do
-        local k, v = line:match('^%s*([%w_%.%-]+)%s*=%s*"(.*)"%s*$')
+        local k, v = line:match('^%s*([^%s=]+)%s*=%s*"(.*)"%s*$')
         if k then
             if map[k] == nil then
                 order[#order + 1] = k

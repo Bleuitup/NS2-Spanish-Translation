@@ -31,7 +31,7 @@ local raw = gs.read("snapshot/esES.txt")
 local lines, lineOfKey = {}, {}
 for line in (raw:gsub("\r\n", "\n") .. "\n"):gmatch("([^\n]*)\n") do
     lines[#lines + 1] = line
-    local k = line:match('^%s*([%w_%.%-]+)%s*=%s*"')
+    local k = line:match('^%s*([^%s=]+)%s*=%s*"')
     if k then lineOfKey[k] = #lines end
 end
 if lines[#lines] == "" then lines[#lines] = nil end
@@ -61,7 +61,7 @@ local outLines = {}
 for _, k in ipairs(after[""] or {}) do outLines[#outLines + 1] = k .. ' = "' .. final[k] .. '"' end
 for _, line in ipairs(lines) do
     outLines[#outLines + 1] = line
-    local k = line:match('^%s*([%w_%.%-]+)%s*=%s*"')
+    local k = line:match('^%s*([^%s=]+)%s*=%s*"')
     if k and after[k] then
         for _, m in ipairs(after[k]) do outLines[#outLines + 1] = m .. ' = "' .. final[m] .. '"' end
     end
