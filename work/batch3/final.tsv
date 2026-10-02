@@ -44,8 +44,8 @@ ARC_UNDEPLOY	Desanclar
 ARC_UNDEPLOY_TOOLTIP	Devuelve al ARC al modo de movimiento
 ARC_UPGRADES	Mejoras del ARC
 ARMORY	Armory
-ARMORY_HINT	Armas, salud y munición
-ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con salud y munición gratis. Aquí puedes comprar armas con tus recursos personales.
+ARMORY_HINT	Armas, vida y munición
+ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con vida y munición gratis. Aquí puedes comprar armas con tus recursos personales.
 ARMSLAB_HINT	Mejoras de daño y armadura
 ARMS_LAB	Arms Lab
 ARMS_LAB_TOOLTIP	Mejoras de ataque y armadura para los jugadores
@@ -195,7 +195,7 @@ EXTRACTOR_TOOLTIP	Los Extractors generan recursos para el equipo y para cada jug
 FADE	Fade
 FADE_EGG	Huevo de Fade
 FADE_EGG_DROP_TOOLTIP	Crea un huevo del que puede nacer un Fade
-FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con el destello mientras ataca con sus garras. Puede evolucionar metabolización para recuperar energía y metabolización avanzada para recuperar energía y salud. Experto en ataques relámpago y en sorprender a Marines solitarios.
+FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con el destello mientras ataca con sus garras. Puede evolucionar metabolización para recuperar energía y metabolización avanzada para recuperar energía y vida. Experto en ataques relámpago y en sorprender a Marines solitarios.
 FLAMETHROWER	Lanzallamas
 FLAMETHROWER_DROP	Soltar lanzallamas
 FLAMETHROWER_TECH_TOOLTIP	Permite comprar lanzallamas en los Armories
@@ -348,7 +348,7 @@ MED_PACK	Med pack
 MED_PACK_TOOLTIP	Restablece 50 puntos de vida del jugador
 METABOLIZE	Metabolización
 METABOLIZE_ADV	Metabolización Avanzada
-METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y salud.
+METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y vida.
 METABOLIZE_TOOLTIP	Con esta habilidad el Fade recupera energía.
 MINE_SINGULAR	Mina
 MINE_DROP	Soltar minas

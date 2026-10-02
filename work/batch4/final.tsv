@@ -71,7 +71,7 @@ NEW_ACHIEVEMENT_2_4_DESC	Mata a un Marine mientras defiendes un Harvester 10 vec
 NEW_ACHIEVEMENT_2_5_NAME	Consejo de experto
 NEW_ACHIEVEMENT_2_5_DESC	Mata a un Marine con 2 mordidas y un parásito
 NEW_ACHIEVEMENT_2_6_NAME	Intocable
-NEW_ACHIEVEMENT_2_6_DESC	Mata a un Marine teniendo la salud completa
+NEW_ACHIEVEMENT_2_6_DESC	Mata a un Marine teniendo la vida completa
 NEW_ACHIEVEMENT_2_7_NAME	Demoliciones
 NEW_ACHIEVEMENT_2_7_DESC	Causa 7500 de daño a estructuras en una sola ronda
 NEW_ACHIEVEMENT_2_8_NAME	Furia sangrienta
@@ -79,7 +79,7 @@ NEW_ACHIEVEMENT_2_8_DESC	Causa 4000 de daño a jugadores en una sola ronda
 NEW_ACHIEVEMENT_2_9_NAME	Jaque mate
 NEW_ACHIEVEMENT_2_9_DESC	Da el golpe final a una Hive o Command Station
 NEW_ACHIEVEMENT_2_10_NAME	Es solo un rasguño
-NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de salud
+NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de vida
 NEW_ACHIEVEMENT_2_11_NAME	Control de calidad
 NEW_ACHIEVEMENT_2_11_DESC	Mata a un desarrollador
 NEW_ACHIEVEMENT_2_12_NAME	Conducta antideportiva
@@ -507,7 +507,7 @@ GORGE_TUNNEL_TECH	Túneles de Gorge
 GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir túneles que conectan dos partes del mapa.
 GORGE_TUNNEL_TOOLTIP	Entrada de túnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.
 GROWN	Madura
-HEALTH	Salud
+HEALTH	Vida
 HIGH_AO_OLD	ALTA (VERSIÓN ANTERIOR)
 HIVE_CONSTRUCTED	Hive de %s completada
 HIVE_KILLED	Hive de %s destruida
@@ -597,7 +597,7 @@ PLAYER_COUNT_WARNING	El servidor al que te vas a conectar tiene más de 24 jugad
 POWERPOINT_NOSTRUCTURES_TOOLTIP	NINGUNA ESTRUCTURA REQUIERE ENERGÍA
 POWERPOINT_FINISHBUILD_TOOLTIP	PRIMERO TERMINA DE CONSTRUIR LAS ESTRUCTURAS - LINTERNA PARA FORZAR
 POWER_BUILT	%{location}s (%{percentage}d%% Construido)
-POWER_HEALTH	%{location}s (%{percentage}d%% Salud)
+POWER_HEALTH	%{location}s (%{percentage}d%% Vida)
 POWER_LOST	Energía perdida en %s
 POWER_POINT_UNDER_ATTACK	Nodo de energía de %s bajo ataque
 POWER_RESTORED	Energía restaurada en %s
@@ -760,7 +760,7 @@ RESEARCH_SCAN_GRENADES	Granadas de escaneo
 SCAN_GRENADES_TOOLTIP	Permite comprar granadas de escaneo en los Armories.
 RESEARCH_SCAN_GRENADES_TITLE	Granadas de escaneo
 UPGRADE_OBSERVATORY	Mejorar a Advanced Observatory
-UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la salud.
+UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la vida.
 ADVANCED_OBSERVATORY_HINT	Detecta Aliens
 ADVANCED_OBSERVATORY_TOOLTIP	Detecta enemigos cercanos.
 ADVANCED_OBSERVATORY	Advanced Observatory

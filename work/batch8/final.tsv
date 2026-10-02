@@ -76,7 +76,7 @@ TUT_MARINE_MSG_12	Ahora usa tu soldador para construir el Observatory que tu Com
 TUT_MARINE_MSG_13	Presiona la tecla 1 para volver a tu arma principal.
 TUT_MARINE_MSG_14	¡El Observatory detectó más enemigos! Aparecen como puntos rojos en tu minimapa, arriba a la izquierda de la pantalla. Encuéntralos y encárgate de ellos.
 TUT_MARINE_MSG_15	Si te quedas sin munición, puedes cambiar a tus otras armas con las teclas 2 y 3.
-TUT_MARINE_MSG_16	Genial, vuelve otra vez al Armory para recargar tu munición y tu salud. 
+TUT_MARINE_MSG_16	Genial, vuelve otra vez al Armory para recargar tu munición y tu vida. 
 TUT_MARINE_MSG_17	Recuerda siempre dónde está el Armory más cercano por si necesitas retirarte.
 TUT_MARINE_MSG_18	¡Tu Commander usó recursos de equipo para investigar escopetas! Pero necesitas 20 recursos personales para comprar una.
 TUT_MARINE_MSG_19	Para ganar recursos más rápido, ayuda a tu equipo a capturar y asegurar nodos de recursos por el mapa. Mantén presionado BIND_ShowMap para abrir el mapa detallado y úsalo para ir a Cafeteria.
@@ -92,7 +92,7 @@ TUT_MARINE_MSG_27	Buen trabajo, novato. Eso es lo básico de jugar como Marine, 
 TUT_MARINE_MSG_28	Ahora presiona BIND_ReadyRoom para volver al Ready Room y aprender sobre el lado Alien.
 TUT_MARINE_MSG_3	Tu Commander colocó un Armory, una estructura muy importante. Acércate al fantasma azul y mantén presionado E para construirlo.
 TUT_MARINE_MSG_4	Buen trabajo. Pero hay enemigos cerca. Ve al otro lado del cuarto, encuéntralos y elimínalos. [No puedes morir en el tutorial]
-TUT_MARINE_MSG_5	¡Buena puntería! Vuelve al Armory para recargar tu munición y tu salud.
+TUT_MARINE_MSG_5	¡Buena puntería! Vuelve al Armory para recargar tu munición y tu vida.
 TUT_MARINE_MSG_6	Solo párate cerca del Armory y míralo para reabastecerte.
 TUT_MARINE_MSG_7	Otro enemigo se coló y está atacando tu Command Station, la estructura grande detrás del Armory. ¡Defiéndela!
 TUT_MARINE_MSG_8	La Command Station está dañada. Vuelve al Armory, presiona E y usa el mouse para comprar el soldador.
@@ -114,7 +114,7 @@ TUT_ALIEN_MSG_21	Por último, los Aliens pueden evolucionar mejoras. Presiona BI
 TUT_ALIEN_MSG_22	Eso es lo básico de jugar como Alien. Hay más formas de vida y habilidades por aprender, y puedes probarlas en el modo Sandbox del menú Entrenamiento.
 TUT_ALIEN_MSG_23	También puedes practicar contra bots desde el menú Entrenamiento si todavía no te sientes listo para jugar partidas reales. ¡Buena suerte y diviértete!
 TUT_ALIEN_MSG_24	También puedes construir Hidras, que funcionan como torretas defensivas. Presiona el número 2 y luego el número 1 para seleccionarlas. Construye 3.
-TUT_ALIEN_MSG_25	Ahora tu salud se regenerará con el tiempo. Tu Commander decide qué mejoras están disponibles, y cada una da un beneficio específico a cualquier forma de vida.
+TUT_ALIEN_MSG_25	Ahora tu vida se regenerará con el tiempo. Tu Commander decide qué mejoras están disponibles, y cada una da un beneficio específico a cualquier forma de vida.
 TUT_ALIEN_MSG_26	Usa tu mapa y vuela hasta Courtyard.
 TUT_ALIEN_MSG_3	Los Aliens empiezan como Skulks. Puedes subir por las paredes: acércate a una, mira hacia arriba y presiona W. Sube ahora hacia el ventilador del techo.
 TUT_ALIEN_MSG_4	Bien. Mientras te mantengas cerca de una pared o del techo, no te caerás.
@@ -260,7 +260,7 @@ TUTORIAL_BRONZE_MARINE_21	Ahora podemos quedarnos con estos recursos. El primer 
 TUTORIAL_BRONZE_MARINE_22	Ahora podemos construir ese Extractor.
 TUTORIAL_BRONZE_MARINE_23	Ahora los recursos entran el doble de rápido que antes.
 TUTORIAL_BRONZE_MARINE_24	¡La base está bajo ataque! ¡Prepárate para que el Beacon te lleve de vuelta!
-TUTORIAL_BRONZE_MARINE_25	¡Menos mal que reparamos ese Observatory! No solo revela enemigos cercanos: también puede traer a todos los soldados de vuelta a la base, como acabas de ver. Recarga tu salud y munición en el Armory.
+TUTORIAL_BRONZE_MARINE_25	¡Menos mal que reparamos ese Observatory! No solo revela enemigos cercanos: también puede traer a todos los soldados de vuelta a la base, como acabas de ver. Recarga tu vida y munición en el Armory.
 TUTORIAL_BRONZE_MARINE_26	Se acaban de investigar las escopetas. Compra una en el Armory ahora.
 TUTORIAL_BRONZE_MARINE_27	Por desgracia, aun con los recursos extra, todavía no te alcanza para una escopeta. Por suerte, hoy el Commander se siente muy generoso.
 TUTORIAL_BRONZE_MARINE_28	Dejaron una escopeta cerca del Armory. Recógela.
@@ -431,7 +431,7 @@ TUTORIAL_SILVER_COMMANDER_MARINE_13	Coloca ahora el plano del Extractor para el 
 TUTORIAL_SILVER_COMMANDER_MARINE_14	¡Están atacando a un Marine!
 TUTORIAL_SILVER_COMMANDER_MARINE_15	¡Un Alien mató al constructor y está destruyendo el Extractor! Por suerte hay refuerzos en camino.
 TUTORIAL_SILVER_COMMANDER_MARINE_16	El Extractor se salvó, pero uno de nuestros soldados está herido. Suéltale un Med pack.
-TUTORIAL_SILVER_COMMANDER_MARINE_17	Este Marine estaba muy herido y necesita un Med pack más para volver a tener la salud completa.
+TUTORIAL_SILVER_COMMANDER_MARINE_17	Este Marine estaba muy herido y necesita un Med pack más para volver a tener la vida completa.
 TUTORIAL_SILVER_COMMANDER_MARINE_18	Bien. Aunque ya está curado del todo, su armadura sigue dañada, así que no será tan efectivo en combate. Una forma de reparar la armadura es con un soldador.
 TUTORIAL_SILVER_COMMANDER_MARINE_19	Necesitamos un Armory para conseguir soldadores. Construye un Armory en la base principal.
 TUTORIAL_SILVER_COMMANDER_MARINE_20	Bien, ese Marine ya puede reparar a su compañero y la torre de recursos dañada.
@@ -453,7 +453,7 @@ TUTORIAL_SILVER_COMMANDER_MARINE_35	No hace falta que salgas de la Command Stati
 TUTORIAL_SILVER_COMMANDER_MARINE_36	Bien. Ahora nuestras tropas pueden viajar al instante entre la base principal y Repair Room.
 TUTORIAL_SILVER_COMMANDER_MARINE_37	A los Marines de Observation les queda poca munición. Suéltales paquetes de munición para reabastecerlos.
 TUTORIAL_SILVER_COMMANDER_MARINE_38	Estuvo cerca. Tenemos que equipar mejor a nuestros soldados. Coloca el plano de un Arms Lab en la base principal.
-TUTORIAL_SILVER_COMMANDER_MARINE_39	Mientras se construye, deberíamos curar a ese Marine solitario que aguanta la línea en Observation. Siempre que te alcance, trata de mantener a tus Marines con la salud completa.
+TUTORIAL_SILVER_COMMANDER_MARINE_39	Mientras se construye, deberíamos curar a ese Marine solitario que aguanta la línea en Observation. Siempre que te alcance, trata de mantener a tus Marines con la vida completa.
 TUTORIAL_SILVER_COMMANDER_MARINE_40	Selecciona el Arms Lab y empieza la mejora \"Armadura 1\". Dará más protección a nuestros soldados.
 TUTORIAL_SILVER_COMMANDER_MARINE_41	¡Están atacando Repair Room! Prueba usar la barra espaciadora para ir a la alerta.
 TUTORIAL_SILVER_COMMANDER_MARINE_42	Como pensamos mantener este cuarto por un buen rato, quizá salga más barato construir aquí un Armory para los Marines que gastar el dinero en Med packs y paquetes de munición.

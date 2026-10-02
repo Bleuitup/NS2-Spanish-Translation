@@ -68,7 +68,7 @@ HELP_SCREEN_METABOLIZE	METABOLIZACIÓN
 HELP_SCREEN_METABOLIZE_DESCRIPTION	Regenera parte de la energía del Fade.
 HELP_SCREEN_METABOLIZE_REQUIREMENT	Requiere investigar metabolización
 HELP_SCREEN_METABOLIZE_ADV	METABOLIZACIÓN AVANZADA
-HELP_SCREEN_METABOLIZE_ADV_DESCRIPTION	Versión más avanzada de la metabolización. Regenera salud y energía.
+HELP_SCREEN_METABOLIZE_ADV_DESCRIPTION	Versión más avanzada de la metabolización. Regenera vida y energía.
 HELP_SCREEN_METABOLIZE_ADV_REQUIREMENT	Requiere investigar metabolización avanzada
 HELP_SCREEN_MINES	MINAS
 HELP_SCREEN_MINES_DESCRIPTION	Haz volar en pedazos a los aliens desde el suelo, la pared o el techo. De verdad, ninguna superficie es segura para quien no quiera volar en pedazos.
@@ -125,7 +125,7 @@ EXO_ABILITY_NANOSHIELD_FIELD_TOOLTIP	Emite un nano-escudo ligero sobre cada Mari
 EXO_ABILITY_ADRENALINE_FIELD	Campo catalizador
 EXO_ABILITY_ADRENALINE_FIELD_TOOLTIP	Emite un impulso catalizador sobre cada Marine a menos de 8 metros que no haya sido potenciado en los últimos 4 segundos. Solo Marines; no afecta a los Exotrajes. El efecto dura 5 segundos. Enfriamiento de 90 segundos.
 EXO_ABILITY_REGEN_FIELD	Campo de regeneración
-EXO_ABILITY_REGEN_FIELD_TOOLTIP	Cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos (60 de salud, nada de armadura). Solo cuentan los Marines heridos. Solo Marines; no afecta a los Exotrajes. Enfriamiento de 90 segundos.
+EXO_ABILITY_REGEN_FIELD_TOOLTIP	Cura a cada Marine a menos de 8 metros 12 de vida por segundo durante 5 segundos (60 de vida, nada de armadura). Solo cuentan los Marines heridos. Solo Marines; no afecta a los Exotrajes. Enfriamiento de 90 segundos.
 EXO_MODULE_ARMOR	Placas de armadura
 EXO_MODULE_ARMOR_TOOLTIP	Placas atornilladas: 80 de armadura extra a cambio de velocidad.
 EXO_MODULE_NONE_DESC	Deja esta ranura vacía. No cuesta nada y no añade peso, pero el Exotraje renuncia a lo que la ranura podría haber llevado.
@@ -139,7 +139,7 @@ EXO_MODULE_EJECTIONSEAT_DESC	Módulo de núcleo: cuando al traje se le acaba la 
 EXO_MODULE_ARMOR_DESC	Módulo de núcleo: 80 de armadura extra atornillada, que se paga con velocidad.
 EXO_MODULE_NANOSHIELD_DESC	Habilidad de apoyo en la tecla de recarga: un nano-escudo ligero sobre cada Marine a menos de 8 metros durante 1.5 segundos, que reduce el daño que reciben en una quinta parte. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si no hay ningún Marine al alcance, la activación se rechaza y la carga se conserva.
 EXO_MODULE_CATPACK_DESC	Habilidad de apoyo en la tecla de recarga: da a cada Marine a menos de 8 metros un impulso catalizador durante 5 segundos, para que se muevan y recarguen más rápido. Se omite a los Marines potenciados en los últimos 4 segundos. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si ningún Marine al alcance puede recibir el impulso, la activación se rechaza y la carga se conserva.
-EXO_MODULE_NANOREPAIR_DESC	Habilidad de apoyo en la tecla de recarga: cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos, 60 de salud en total. Solo salud, nada de armadura; solo Marines, y 90 segundos de enfriamiento. Solo cuentan los Marines heridos: si no hay ninguno al alcance, la activación se rechaza y la carga se conserva.
+EXO_MODULE_NANOREPAIR_DESC	Habilidad de apoyo en la tecla de recarga: cura a cada Marine a menos de 8 metros 12 de vida por segundo durante 5 segundos, 60 de vida en total. Solo vida, nada de armadura; solo Marines, y 90 segundos de enfriamiento. Solo cuentan los Marines heridos: si no hay ninguno al alcance, la activación se rechaza y la carga se conserva.
 EXO_EJECT_HOLD_HINT	Mantén presionado para eyectarte
 EXO_EJECT_HOLD_PROGRESS	Eyectando %d%%
 EXO_EJECT_BLOCKED_FORMAT	No puedes eyectarte: %s
@@ -261,7 +261,7 @@ TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL	Con un Jetpack, puedes mantener pre
 TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL_TITEL	Jetpack: Subir y combustible
 TIPVIDEO_2_ALIEN__ADRENALINE	La mejora Adrenalina te da más energía y la regenera más rápido.
 TIPVIDEO_2_ALIEN__ADRENALINE_TITEL	Adrenalina
-TIPVIDEO_2_ALIEN__AURA	La mejora Aura muestra el estado de salud de los enemigos a través de las paredes.
+TIPVIDEO_2_ALIEN__AURA	La mejora Aura muestra la vida de los enemigos a través de las paredes.
 TIPVIDEO_2_ALIEN__AURA_TITEL	Aura
 TIPVIDEO_2_ALIEN__CARAPACE	La mejora Caparazón aumenta tu armadura.
 TIPVIDEO_2_ALIEN__CARAPACE_TITEL	Caparazón
@@ -273,7 +273,7 @@ TIPVIDEO_2_FADE_FADE_ASSASSINATE	El Fade es más efectivo contra Marines solos. 
 TIPVIDEO_2_FADE_FADE_ASSASSINATE_TITEL	Fade: Asesinar
 TIPVIDEO_2_FADE_FADE_BLINK	Presiona o mantén presionado el click derecho para usar el destello y viajar increíblemente rápido.
 TIPVIDEO_2_FADE_FADE_BLINK_TITEL	Fade: Destello
-TIPVIDEO_2_FADE_FADE_METABOLIZE	La metabolización restaura algo de energía y, si tu Commander la mejora, también algo de salud
+TIPVIDEO_2_FADE_FADE_METABOLIZE	La metabolización restaura algo de energía y, si tu Commander la mejora, también algo de vida
 TIPVIDEO_2_FADE_FADE_METABOLIZE_TITEL	Fade: Metabolización
 TIPVIDEO_2_FADE_FADE_STAB	Usa el paso de sombra después de la puñalada para llegar más lejos.
 TIPVIDEO_2_FADE_FADE_STAB_TITEL	Fade: Puñalada
@@ -377,7 +377,7 @@ LOADING_TIP_NOIINTEAM	Habla con tus compañeros con el botón BIND_VoiceChat. ¡
 LOADING_TIP_POWER	Las estructuras de los Marines necesitan energía. Si el Nodo de energía es destruido, las estructuras se apagan.
 LOADING_TIP_PRIORITY	Prioriza tus objetivos. Los Nodos de energía y los Cysts son estructuras cruciales, pero destruir una torre de recursos o un Shift puede hacer más daño a largo plazo.
 LOADING_TIP_RAMBO	La unión hace la fuerza: ¡no pelees solo!
-LOADING_TIP_REQ_MENU	Como Marine, presiona BIND_RequestMenu para pedirle al Commander munición, salud u órdenes.
+LOADING_TIP_REQ_MENU	Como Marine, presiona BIND_RequestMenu para pedirle al Commander munición, vida u órdenes.
 LOADING_TIP_RESOURCES	Los nodos de recursos construidos dan recursos de equipo para el Commander y recursos personales para cada miembro del equipo.
 LOADING_TIP_ROOKIES	Los jugadores novatos de tu equipo aparecen en verde. Les vendría bien tu ayuda.
 LOADING_TIP_SAYINGS_MENU	Presiona BIND_ToggleSayings para burlarte o decir algo.

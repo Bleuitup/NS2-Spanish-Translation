@@ -27,3 +27,7 @@ STAB_BLINK	Puñalada	Batch 3 term decisions (2026-10-02): term swept to the new 
 SWIPE_BLINK	Zarpazo y Destello	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
 SWIPE_TOOLTIP	Poderoso ataque cuerpo a cuerpo que hace daño extra a los jugadores. Presiona BIND_SecondaryAttack para usar el destello y teletransportarte (cuando el Commander lo evoluciona).	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
 XENOCIDE	Xenocidio	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+ARMORY_HINT	Armas, vida y munición	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+ARMORY_TOOLTIP	Reabastece automáticamente a los Marines con vida y munición gratis. Aquí puedes comprar armas con tus recursos personales.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+FADE_TOOLTIP	Este asesino letal entra y sale del combate a toda velocidad con el destello mientras ataca con sus garras. Puede evolucionar metabolización para recuperar energía y metabolización avanzada para recuperar energía y vida. Experto en ataques relámpago y en sorprender a Marines solitarios.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+METABOLIZE_ADV_TOOLTIP	Permite al Fade recuperar energía y vida.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").

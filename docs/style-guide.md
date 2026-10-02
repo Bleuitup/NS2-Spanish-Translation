@@ -75,6 +75,9 @@ Specific terms:
   being played.
 - **Skill:** **nivel de habilidad** (player rating, bot difficulty). "Skill Tier" = **rango de
   habilidad**; "relative skill" = **habilidad relativa**. Never ELO.
+- **Health** is always **vida**, never «salud»: «recarga tu munición y tu vida», «barra de vida». Players say «no tengo vida».
+- **Respawn** is **renacer** («Los Marines muertos renacen aquí»), not «reaparecer».
+- **Marine** and **Alien** are always capitalized, as nouns and as adjectives: «los Aliens», «estructuras Marine».
 - **Quick Play** = «Partida rápida», **Competitive Play** = «Partida competitiva» (the mode; singular, capital P only, no article: «Partida competitiva no está disponible»).
 
 ## 5. Punctuation

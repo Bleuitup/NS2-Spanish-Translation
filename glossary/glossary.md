@@ -64,6 +64,8 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Skill Tier | translate | rango de habilidad | el | Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji. |
 | bundle | translate | paquete | el | Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C. |
 | respawn | translate | renacer |  | Batch 3 and 4: Bleu keeps renacer / renaciendo. |
+| health | translate | vida | la | Final pass, 2026-10-02: always vida, never salud. Players say 'no tengo vida'. |
+| taunt | translate | burla | la | Final pass: Burla / burlarse, not provocar. |
 | trait | translate | mejora | la | Batch 5: the alien upgrades (Adrenalina, Aura, Caparazón...). |
 
 ## Marine structures

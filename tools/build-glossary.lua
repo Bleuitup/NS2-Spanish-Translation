@@ -125,6 +125,8 @@ local additions = {
     { "Marine weapons", "SMG", "mixed", "subfusil (SMG)", "el", "Batch 4 (CBM): subfusil as the long name, SMG as the short one." },
     { "General", "bundle", "translate", "paquete", "el", "Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C." },
     { "General", "respawn", "translate", "renacer", "", "Batch 3 and 4: Bleu keeps renacer / renaciendo." },
+    { "General", "health", "translate", "vida", "la", "Final pass, 2026-10-02: always vida, never salud. Players say 'no tengo vida'." },
+    { "General", "taunt", "translate", "burla", "la", "Final pass: Burla / burlarse, not provocar." },
     { "Alien abilities", "Bait Ball", "translate", "bola cebo", "la", "Batch 5." },
     { "Alien abilities", "Shadow Step", "translate", "paso de sombra", "el", "Batch 5." },
     { "General", "trait", "translate", "mejora", "la", "Batch 5: the alien upgrades (Adrenalina, Aura, Caparazón...)." },

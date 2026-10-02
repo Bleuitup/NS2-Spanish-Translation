@@ -1,0 +1,80 @@
+BINDINGS_BUY/EVOLVE_MENU	MENÚ DE COMPRA/EVOLUCIÓN
+BINDINGS_DROP_WEAPON_/_EJECT	SOLTAR ARMA / EYECTARSE
+BINDINGS_REQUEST_AMMO_/_ENZYME	PEDIR MUNICIÓN / ENZIMA
+BINDINGS_REQUEST_HEALING_/_MEDPACK	PEDIR CURACIÓN / MED PACK
+BINDINGS_WEAPON_#1	ARMA #1
+BINDINGS_WEAPON_#2	ARMA #2
+BINDINGS_WEAPON_#3	ARMA #3
+BINDINGS_WEAPON_#4	ARMA #4
+BINDINGS_WEAPON_#5	ARMA #5
+COMBINDINGS_GRID_SPOT_10_(DEFAULT_G)	Posición 10 de la cuadrícula (por defecto G)
+COMBINDINGS_GRID_SPOT_11_(DEFAULT_V)	Posición 11 de la cuadrícula (por defecto V)
+COMBINDINGS_GRID_SPOT_1_(DEFAULT_Q)	Posición 1 de la cuadrícula (por defecto Q)
+COMBINDINGS_GRID_SPOT_2_(DEFAULT_W)	Posición 2 de la cuadrícula (por defecto W)
+COMBINDINGS_GRID_SPOT_3_(DEFAULT_E)	Posición 3 de la cuadrícula (por defecto E)
+COMBINDINGS_GRID_SPOT_4_(DEFAULT_A)	Posición 4 de la cuadrícula (por defecto A)
+COMBINDINGS_GRID_SPOT_5_(DEFAULT_S)	Posición 5 de la cuadrícula (por defecto S)
+COMBINDINGS_GRID_SPOT_6_(DEFAULT_D)	Posición 6 de la cuadrícula (por defecto D)
+COMBINDINGS_GRID_SPOT_7_(DEFAULT_F)	Posición 7 de la cuadrícula (por defecto F)
+COMBINDINGS_GRID_SPOT_8_(DEFAULT_Z)	Posición 8 de la cuadrícula (por defecto Z)
+COMBINDINGS_GRID_SPOT_9_(DEFAULT_X)	Posición 9 de la cuadrícula (por defecto X)
+ADVANCED_OPTION_RELOAD_INDICATOR_TOOLTIP	Muestra un indicador de recarga alrededor de la mira. También muestra el enfriamiento de algunas habilidades de movimiento Alien.
+BASIC_LIFE_FORMS_TOOLTIP	Evoluciona nuevas habilidades para los Aliens
+COMMAND_STATION_HINT	Base Marine
+CRAG_HINT	Cura unidades Alien
+CYST_TOOLTIP	El Commander coloca Cysts, que hacen crecer la infestación. Si los Cysts no están conectados en cadena con una Hive, mueren y la infestación retrocede. Las estructuras Alien sin infestación también mueren.
+DECAL_LIFETIME_TOOLTIP	Cuánto tiempo (en minutos) tardan en desaparecer marcas como agujeros de bala o el escupitajo Alien.
+EGG_HINT	Renace Aliens
+GROW_TOOLTIP	Acelera el crecimiento de las estructuras Alien.
+HELP_SCREEN_EXO_EGG_STOMP_DESCRIPTION	Aplasta los huevos Alien sin nacer con tus poderosas piernas robóticas. ¡Piensa que son plástico de burbujas gigante! Pop pop pop.
+HELP_SCREEN_EXO_THRUSTERS_DESCRIPTION	¡Como si las gigantescas máquinas de muerte de metal no fueran ya bastante para los Aliens! Esquiva en la dirección en la que te mueves, o elévate a nuevas alturas con estos elegantes propulsores.
+HELP_SCREEN_GAS_GRENADE_DESCRIPTION	Granada de mano que les crispa los nervios a los Aliens. Daña rápidamente la armadura de los jugadores y las estructuras Alien.
+HELP_SCREEN_PULSE_GRENADE_DESCRIPTION	Granada de mano que hace una explosión muy vistosa. Como efecto secundario, además drena la energía de los Aliens y reduce su velocidad de ataque por un momento.
+HELP_SCREEN_MACHINE_GUN_DESCRIPTION	El rifle no tenía ni de cerca suficientes balas... así que aquí metimos algunas más. Buena contra formas de vida Alien.
+HELP_SCREEN_MINES_DESCRIPTION	Haz volar en pedazos a los Aliens desde el suelo, la pared o el techo. De verdad, ninguna superficie es segura para quien no quiera volar en pedazos.
+HELP_SCREEN_SHOTGUN_DESCRIPTION	Vuela a cualquier Alien lo bastante tonto como para ponerse a distancia de ser acariciado.
+HELP_SCREEN_UMBRA_DESCRIPTION	Rocía una nube que detiene una pequeña parte de las balas que la atraviesan. La nube además se adhiere a los Aliens que pasan por ella y les da también algo de protección temporal.
+HIVE_HINT	Base Alien
+INFANTRY_PORTAL_HINT	Renace Marines
+ITEM_UNEARTHED_STRUCTURE_SKINS_DESC	Una nueva forma de Kharaa se reveló en las minas de cristal de Unearthed. Hipnotiza a amigos y enemigos con estas skins de estructuras Alien.
+ITEM_CC_LOCKNLOAD	Tarjeta de presentación. Recién aparecido y listo para patear traseros Alien.
+MARINE_WEAPONS1_TOOLTIP	Las armas Marine hacen un 10% más de daño a jugadores y un 20% más a estructuras.
+MARINE_WEAPONS2_TOOLTIP	Las armas Marine hacen un 20% más de daño a jugadores y un 40% más a estructuras.
+MARINE_WEAPONS3_TOOLTIP	Las armas Marine hacen un 30% más de daño a jugadores y un 60% más a estructuras.
+MENU_INFESTATION_TOOLTIP	Calidad de la infestación cerca de las estructuras Alien.
+OPTION_ALIEN_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras Alien. Desactívalo para un rendimiento un poco mejor.
+OPTION_ALIEN_WEAPONSLOTS_TOOLTIP	Elige cómo seleccionar y activar las habilidades Alien
+OPTION_PERLIFEFORM_SENSITIVITY_TOOLTIP	Permite tener sensibilidades distintas para cada forma de vida Alien. Tiene prioridad sobre la sensibilidad del equipo Alien.
+OPTION_MARINE_STRUCTURE_PLACEMENT	Busca una posición válida al colocar estructuras Marine. Desactívalo para un rendimiento un poco mejor.
+PHASE_GATE_HINT	Teletransporte Marine
+POWERPOINT_HINT	Da energía a las estructuras Marine
+POWERPOINT_TOOLTIP	Necesario para dar energía a las estructuras Marine de este cuarto. Si se destruye, esas estructuras dejan de funcionar hasta que se repare la energía.
+SENTRY_BATTERY_HINT	Da energía a las estructuras Marine
+SENTRY_BATTERY_TOOLTIP	Da energía a las estructuras Marine cercanas (máximo 1 por cuarto). ¡Máximo 2!
+SHADE_CLOAK_TOOLTIP	Oculta a las estructuras y jugadores Alien cercanos
+SHADE_INK_TOOLTIP	Crea una nube de tinta alrededor de la Shade para que las unidades Alien se escondan
+SHELL_TOOLTIP	Da un nuevo rasgo Alien defensivo
+SPAWN_ALIEN	Aparición Alien
+SPAWN_MARINE	Aparición Marine
+SPUR_TOOLTIP	Da un nuevo rasgo Alien de velocidad
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS	Los Exotrajes pueden aplastar huevos Alien al caminar sobre ellos.
+VEIL_TOOLTIP	Da un nuevo rasgo Alien de engaño
+WEAPON_DESC_FLAMETHROWER	Esta nueva incorporación al arsenal de la TSF fue creada para combatir directamente la infestación Alien. Además, su llama hace daño medio con el tiempo a jugadores y estructuras, y quema rápidamente las reservas de energía de un Alien.
+THUNDERDOME_PLANNING_SERVERWAIT_FLAVOR_29	Empacando huevos Alien en contenedores
+THUNDERDOME_REWARD_CC_LOCKED_AND_LOADED_DESC	Tarjeta de presentación. Recién aparecido y listo para patear traseros Alien.
+EXO_MODULE_PLASMALAUNCHER_DESC	Carga de plasma lanzada en arco: 40 de daño en una explosión de 4 metros más daño persistente. Un impacto directo electrifica al Alien alcanzado durante 3.5 segundos: le quita la membrana mucosa y la enzima, y frena sus ataques. Control de enjambres, no un arma de asedio. Una bomba con la celda llena, y luego una cada 2 segundos.
+EXO_MODULE_FLAMETHROWER_DESC	Tiene un cono más ancho que el lanzallamas de los Marines, 9 de daño por pulso hasta 9 metros; prende fuego a Aliens y estructuras y quema esporas y Umbra; las bombas de bilis lo atraviesan. No puede soldar y se sobrecalienta tras 10 segundos.
+ADVANCED_OPTION_AV_INITIALSTATE_TOOLTIP	Define si la visión Alien está activada o no al renacer.
+ADVANCED_OPTION_INSTANT_ALIENHEALTH_TOOLTIP	El círculo de vida Alien se actualiza al instante, sin animaciones, cuando cambia la vida.
+BINDINGS_VOICE_HOSTILES	(MARINE) \"ENEMIGOS\"
+BINDINGS_VOICE_ACKOWLEDGED	\"ENTENDIDO\"/RISA
+BINDINGS_TAUNT	BURLA
+CLAWRAILGUN_EXOSUIT	Exotraje con garra y Railgun
+ENEMY_HEALTH_BARS	MOSTRAR VIDA DEL ENEMIGO
+DRIFTER_REGENERATION_TOOLTIP	Los Drifters regeneran el 3% de su vida cada 2 segundos mientras reciben daño
+INFANTRY_PORTAL_TOOLTIP	Hace renacer a un Marine cada 9 segundos. Solo se puede construir cerca de una Command Station. Máximo 3 por Command Station.
+MED_PACK_TOOLTIP	Restablece 50 puntos de vida del jugador
+OPTION_ENEMY_HEALTH	Muestra la vida total del enemigo al atacarlo
+SPAWN_MARINE_TOOLTIP	Los Marines muertos renacen aquí cada 9 segundos
+UPGRADE_INFESTED_TUNNEL_ENTRANCE_TOOLTIP	Las entradas de túnel infestado tienen más vida y extienden la infestación
+VAMPIRISM_TOOLTIP	Crea un escudo temporal para ti absorbiendo vida de los enemigos cuando los golpeas con tu ataque principal

@@ -14,3 +14,8 @@ COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Puer
 CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Puerta de Carga.	Final period restored, as in English.
 WHIP_BOMBARD_HINT	Bombardeador defensivo	Hints carry no final period, as in English.
 BMACCP_TOOLTIP	Despliega un campo catalizador que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!	Batch 5 review: Catalyst Field is campo catalizador, Regen Field is campo de regeneración.
+NEW_ACHIEVEMENT_2_6_DESC	Mata a un Marine teniendo la vida completa	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de vida	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+HEALTH	Vida	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+POWER_HEALTH	%{location}s (%{percentage}d%% Vida)	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
+UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la vida.	Health is "vida", never "salud" (Bleu, 2026-10-02: players say "no tengo vida").
