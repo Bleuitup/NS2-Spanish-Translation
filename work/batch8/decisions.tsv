@@ -1,0 +1,538 @@
+CHALLENGE_MEDAL_BRONZE	Medalla de bronce	OK		
+CHALLENGE_MEDAL_SILVER	Medalla de plata	OK		
+CHALLENGE_MEDAL_GOLD	Medalla de oro	OK		
+CHALLENGE_MEDAL_SHADOW	Medalla Shadow	OK		
+CHALLENGE_REPLAY_LINE_1	Repetición	OK		
+CHALLENGE_REPLAY_LINE_2	y fantasma	OK		
+TUT_COMING_SOON	PRÓXIMAMENTE	OK		
+TUT_START	INICIAR	OK		
+TUTNAG_CLOSE	Cerrar	OK		
+TUTNAG_MSG	El Reglamento 1.01 de la TSF recomienda a los nuevos reclutas hacer el curso de entrenamiento galáctico estándar antes del despliegue.	OK		
+TUTNAG_PLAY	¡Empezar el entrenamiento!	OK		
+TUTNAG_PLAYNOW	¡Unirse a un entrenamiento básico!	OK		
+TUTNAG_TITLE	¡Reglamento 1.01 de la TSF!	OK		
+TUTORIAL_DISABLED_BY_TUTORIAL_ERROR	ERROR: desactivado por el tutorial.	OK		
+TUTORIAL_MISC_ALIEN_VISION	Visión Alien	OK		
+TUTORIAL_MISC_BUILD_STRUCTURE	Construir estructura	OK		
+TUTORIAL_MISC_BUY_EXOSUIT	Comprar Exotraje	OK		
+TUTORIAL_MISC_BUY_EXOSUIT2	Comprar segunda arma	OK		
+TUTORIAL_MISC_BUY_SHOTGUN	Comprar escopeta	OK		
+TUTORIAL_MISC_BUY_WELDER	Comprar soldador	OK		
+TUTORIAL_MISC_CARAPACE_DISABLED	Caparazón desactivado	OK		
+TUTORIAL_MISC_CHARGE	Carga (mantener)	OK		
+TUTORIAL_MISC_CROUCH	Agacharse (mantener)	OK		
+TUTORIAL_MISC_CRUSH_DISABLED	Aplastamiento desactivado	OK		
+TUTORIAL_MISC_DEAD_ONOS	El único Onos bueno es un Onos muerto.	OK		
+TUTORIAL_MISC_DETACH	Soltarse	OK		
+TUTORIAL_MISC_DISPLAY_MAP	Mostrar mapa (mantener)	OK		
+TUTORIAL_MISC_DONT_FORGET_ONOS_UPGRADES	¡No olvides las mejoras!	OK		
+TUTORIAL_MISC_EQUIP_AXE	Equipar hacha	OK		
+TUTORIAL_MISC_EQUIP_BITE	Equipar Mordida	OK		
+TUTORIAL_MISC_EQUIP_PARASITE	Equipar Parásito	OK		
+TUTORIAL_MISC_EQUIP_PISTOL	Equipar pistola	OK		
+TUTORIAL_MISC_EQUIP_RIFLE	Equipar Rifle	OK		
+TUTORIAL_MISC_EQUIP_WELDER	Equipar soldador	OK		
+TUTORIAL_MISC_EVOLVE_MENU	Menú de evolución	OK		
+TUTORIAL_MISC_FADE_DISABLED	Fade desactivado	OK		
+TUTORIAL_MISC_GORGE_DISABLED	Gorge desactivado	OK		
+TUTORIAL_MISC_GUN_LEFT	Disparar arma izquierda	OK		
+TUTORIAL_MISC_GUN_RIGHT	Disparar arma derecha	OK		
+TUTORIAL_MISC_LERK_DISABLED	Lerk desactivado	OK		
+TUTORIAL_MISC_PICKUP_AMMOPACK	Recoge el paquete de munición	OK		
+TUTORIAL_MISC_PICKUP_BOTH_MEDPACKS	Recoge los dos Med packs	OK		
+TUTORIAL_MISC_PICKUP_MEDPACK	Recoge el Med pack	OK		
+TUTORIAL_MISC_PICKUP_SHOTGUN	Recoge la escopeta	OK		
+TUTORIAL_MISC_REQUEST_NUTRIENT_MIST	Pedir neblina de nutrientes	OK		
+TUTORIAL_MISC_SHOOT_PARASITE	Disparar Parásito	OK		
+TUTORIAL_MISC_SKULK_DISABLED	Skulk desactivado	OK		
+TUTORIAL_MISC_SKULK_FALL	Bueno, supongo que esa es UNA forma de matar a un Skulk.	OK		
+TUTORIAL_MISC_SNEAK	Sigilo	OK		
+TUTORIAL_MISC_SPRINT	Correr	OK		
+TUTORIAL_MISC_VAMPIRISM_DISABLED	Vampirismo desactivado	OK		
+TUTORIAL_MISC_WELD_STRUCTURE	Reparar estructura	OK		
+TUT_ABOTNUMBER	NÚMERO DE BOTS ALIEN	OK		
+TUT_ACOMMBOT	BOT COMMANDER ALIEN	OK		
+TUT_CAT_1	General	OK		
+TUT_CAT_10	Fade y Onos	OK		
+TUT_CAT_11	Mejoras evolutivas	OK		
+TUT_CAT_2	Marine básico	OK		
+TUT_CAT_3	Marine avanzado	OK		
+TUT_CAT_4	Armas de Marine	OK		
+TUT_CAT_5	Objetos de Marine	OK		
+TUT_CAT_6	Alien básico	OK		
+TUT_CAT_7	Alien avanzado	OK		
+TUT_CAT_8	Skulk y Lerk	OK		
+TUT_CAT_9	Gorge	OK		
+TUT_MBOTNUMBER	NÚMERO DE BOTS MARINE	OK		
+TUT_MBOTSKILL	NIVEL DE HABILIDAD DE LOS MARINES	OK		
+TUT_MCOMMBOT	BOT COMMANDER MARINE	OK		
+TUT_MESSAGE_1	¡Aprende lo básico de Natural Selection 2! Cada tutorial lleva unos\n5-8 minutos. ¡También puedes poner a prueba tus habilidades de Lerk y Fade\nen el Hive Challenge!	OK		
+TUT_MESSAGE_2	El modo Sandbox te permite practicar libremente y probar distintas partes del juego.\nPuedes unirte a los Marines y comprar cualquier arma en el Armory y el Prototype Lab.\nPuedes unirte a los Aliens y evolucionar a cualquier forma de vida con cualquier mejora.	OK		
+TUT_MESSAGE_3	NOTA: Los bots están pensados para aprender el juego, así que quizá no sean un reto para\njugadores experimentados. Tus amigos pueden unirse a tu partida, pero asegúrate de que tus puertos\nestén abiertos. ¡Que lo disfrutes!	OK		
+TUT_MARINE_MSG_1	Bienvenido al Ready Room. NS2 es un juego de equipo contra equipo, así que camina hacia el punto de ruta azul para unirte al equipo Marine.	OK		
+TUT_MARINE_MSG_10	Usa tu soldador para reparar la Command Station: acércate y mantén presionado BIND_PrimaryAttack.	OK		
+TUT_MARINE_MSG_11	¡Buen trabajo! Si los Aliens destruyen todas las Command Stations, los Marines pierden. Defiéndelas y repáralas.	OK		
+TUT_MARINE_MSG_12	Ahora usa tu soldador para construir el Observatory que tu Commander acaba de colocar: acércate y mantén presionado BIND_PrimaryAttack. El soldador construye más rápido.	OK		
+TUT_MARINE_MSG_13	Presiona la tecla 1 para volver a tu arma principal.	OK		
+TUT_MARINE_MSG_14	¡El Observatory detectó más enemigos! Aparecen como puntos rojos en tu minimapa, arriba a la izquierda de la pantalla. Encuéntralos y encárgate de ellos.	OK		
+TUT_MARINE_MSG_15	Si te quedas sin munición, puedes cambiar a tus otras armas con las teclas 2 y 3.	OK		
+TUT_MARINE_MSG_16	Genial, vuelve otra vez al Armory para recargar tu munición y tu salud.	OK		
+TUT_MARINE_MSG_17	Recuerda siempre dónde está el Armory más cercano por si necesitas retirarte.	OK		
+TUT_MARINE_MSG_18	¡Tu Commander usó recursos de equipo para investigar escopetas! Pero necesitas 20 recursos personales para comprar una.	OK		
+TUT_MARINE_MSG_19	Para ganar recursos más rápido, ayuda a tu equipo a capturar y asegurar nodos de recursos por el mapa. Mantén presionado BIND_ShowMap para abrir el mapa detallado y úsalo para ir a Cafeteria.	OK		
+TUT_MARINE_MSG_2	Cada equipo tiene un Commander y todos los demás son tropas de campo. Por ahora, serás una tropa de campo	OK		
+TUT_MARINE_MSG_20	¡Aquí hay enemigos! Elimínalos a todos para asegurar la zona.	OK		
+TUT_MARINE_MSG_21	Buen trabajo. Los nodos de recursos son boquillas en el suelo que emiten gas. Encuentra el de Cafeteria y párate sobre él.	OK		
+TUT_MARINE_MSG_22	Encontraste el nodo de recursos. Tu Commander colocará un Extractor para recolectar sus recursos. Constrúyelo.	OK		
+TUT_MARINE_MSG_23	Sin embargo, todas las estructuras de los Marines necesitan energía para funcionar. Construye el Nodo de energía cercano.	OK		
+TUT_MARINE_MSG_24	Ahora el Extractor producirá recursos. Pronto tendrás suficientes para comprar la escopeta en el Armory. Ve a comprarla. [Mantén presionado SHIFT para correr]	OK		
+TUT_MARINE_MSG_25	¡Genial! Se pueden desbloquear otras armas si tu Commander las investiga.	OK		
+TUT_MARINE_MSG_26	¡Llegaron más enemigos! ¡Ya sabes qué hacer!	OK		
+TUT_MARINE_MSG_27	Buen trabajo, novato. Eso es lo básico de jugar como Marine, ¡pero hay muchas más armas, estructuras y mejoras por descubrir!	OK		
+TUT_MARINE_MSG_28	Ahora presiona BIND_ReadyRoom para volver al Ready Room y aprender sobre el lado Alien.	OK		
+TUT_MARINE_MSG_3	Tu Commander colocó un Armory, una estructura muy importante. Acércate al fantasma azul y mantén presionado E para construirlo.	OK		
+TUT_MARINE_MSG_4	Buen trabajo. Pero hay enemigos cerca. Ve al otro lado del cuarto, encuéntralos y elimínalos. [No puedes morir en el tutorial]	OK		
+TUT_MARINE_MSG_5	¡Buena puntería! Vuelve al Armory para recargar tu munición y tu salud.	OK		
+TUT_MARINE_MSG_6	Solo párate cerca del Armory y míralo para reabastecerte.	OK		
+TUT_MARINE_MSG_7	Otro enemigo se coló y está atacando tu Command Station, la estructura grande detrás del Armory. ¡Defiéndela!	OK		
+TUT_MARINE_MSG_8	La Command Station está dañada. Vuelve al Armory, presiona E y usa el mouse para comprar el soldador.	OK		
+TUT_MARINE_MSG_9	Comprar equipo cuesta recursos personales, que se muestran abajo a la derecha de la pantalla.	OK		
+TUT_ALIEN_MSG_1	Bienvenido de nuevo al Ready Room. Ahora camina hacia el punto de ruta amarillo para unirte al equipo Alien.	OK		
+TUT_ALIEN_MSG_10	Puedes mantener presionado SHIFT para silenciar tus pasos y que los enemigos no te oigan.	OK		
+TUT_ALIEN_MSG_11	¡Atrapa a ese Marine de ahí abajo!	OK		
+TUT_ALIEN_MSG_12	Los Skulks son útiles, pero también puedes evolucionar a otras formas de vida. Presiona BIND_Buy para abrir el menú de evolución y evoluciona a Gorge.	OK		
+TUT_ALIEN_MSG_13	El Gorge es una forma de vida defensiva de apoyo que puede curar y construir estructuras pequeñas	OK		
+TUT_ALIEN_MSG_14	Prueba construir unos Clogs. Presiona el número 2, luego 2 otra vez, apunta a algo y usa BIND_PrimaryAttack. Construye 3.	OK		
+TUT_ALIEN_MSG_15	Los Clogs pueden bloquear pasillos y frenar a los Marines.	OK		
+TUT_ALIEN_MSG_16	Tienes que curarlas para que crezcan. Apúntales y mantén presionado BIND_SecondaryAttack.	OK		
+TUT_ALIEN_MSG_17	¡Viene un Marine! Pero no te preocupes. Quédate cerca de tus Hidras y deja que ellas se encarguen de él.	OK		
+TUT_ALIEN_MSG_18	Por último, probemos el Lerk volador. Presiona BIND_Buy y evoluciona a Lerk ahora.	OK		
+TUT_ALIEN_MSG_19	Los Lerks se mueven volando. Mantén presionado W y toca la barra espaciadora varias veces para volar hacia delante, y mantén presionada la barra espaciadora para planear. Pruébalo ahora.	OK		
+TUT_ALIEN_MSG_2	Espera mientras renaces.	OK		
+TUT_ALIEN_MSG_20	¡Vuela y elimina al Marine en Courtyard! BIND_SecondaryAttack para disparar proyectiles, BIND_PrimaryAttack para morder.	OK		
+TUT_ALIEN_MSG_21	Por último, los Aliens pueden evolucionar mejoras. Presiona BIND_Buy, haz click en el ícono amarillo llamado Regeneración, abajo a la derecha del círculo, y luego haz click en 'Evolucionar'.	OK		
+TUT_ALIEN_MSG_22	Eso es lo básico de jugar como Alien. Hay más formas de vida y habilidades por aprender, y puedes probarlas en el modo Sandbox del menú Entrenamiento.	OK		
+TUT_ALIEN_MSG_23	También puedes practicar contra bots desde el menú Entrenamiento si todavía no te sientes listo para jugar partidas reales. ¡Buena suerte y diviértete!	OK		
+TUT_ALIEN_MSG_24	También puedes construir Hidras, que funcionan como torretas defensivas. Presiona el número 2 y luego el número 1 para seleccionarlas. Construye 3.	OK		
+TUT_ALIEN_MSG_25	Ahora tu salud se regenerará con el tiempo. Tu Commander decide qué mejoras están disponibles, y cada una da un beneficio específico a cualquier forma de vida.	OK		
+TUT_ALIEN_MSG_26	Usa tu mapa y vuela hasta Courtyard.	OK		
+TUT_ALIEN_MSG_3	Los Aliens empiezan como Skulks. Puedes subir por las paredes: acércate a una, mira hacia arriba y presiona W. Sube ahora hacia el ventilador del techo.	OK		
+TUT_ALIEN_MSG_4	Bien. Mientras te mantengas cerca de una pared o del techo, no te caerás.	OK		
+TUT_ALIEN_MSG_5	¡Hay un Marine debajo de ti! Baja manteniéndote detrás de él, acércate con sigilo y luego usa BIND_PrimaryAttack para morder.	OK		
+TUT_ALIEN_MSG_6	Buen trabajo. Quédate cerca de la Hive, el gran organismo naranja bajo el ventilador del techo, para curarte.	OK		
+TUT_ALIEN_MSG_7	Si los Marines destruyen todas las Hives, ganan. Defiéndelas.	OK		
+TUT_ALIEN_MSG_8	Ahora mantén presionado BIND_ShowMap para usar tu mapa e ir a Pressure Control. Encuentra al Marine que está allí y elimínalo.	OK		
+TUT_ALIEN_MSG_9	¡Buena caza! Abre tu mapa otra vez y fíjate en la línea naranja gruesa al este de ti. Es un conducto de ventilación. Encuentra la entrada y atraviésalo.	OK		
+COMMANDER_TUT_BUILD_ARMORY	Una de las tareas más importantes del Commander Marine es apoyar a sus tropas. Selecciona el menú de construcción [1:BuildMenu] y construye un Armory [2:Armory] en tu base. En esta estructura tus Marines podrán conseguir munición y curarse.	OK		
+COMMANDER_TUT_BUILD_ARMS_LAB	Tu equipo necesita mejoras. Selecciona el menú de construcción [1:BuildMenu] y crea un Arms Lab [2:ArmsLab] en tu base.	OK		
+COMMANDER_TUT_BUILD_CYST	Todas las estructuras necesitan infestación. Para expandirla, primero selecciona el menú de construcción [1:BuildMenu], luego selecciona el ícono del Cyst [2:Cyst] y colócalo.	OK		
+COMMANDER_TUT_BUILD_EXTRACTOR	Necesitas un mayor ingreso de recursos [CollectResources]. Selecciona el menú de construcción [1:BuildMenu] y construye un Extractor [2:Extractor] en el nodo de recursos más cercano.	OK		
+COMMANDER_TUT_BUILD_HIVE	Las habilidades más fuertes requieren un nivel de biomasa más alto. El nivel actual se muestra arriba a la izquierda de tu pantalla. Para aumentar el nivel de biomasa, selecciona el menú de construcción [1:BuildMenu] y construye otra Hive [2:Hive] en un tech point libre [TechPoint]	OK		
+COMMANDER_TUT_BUILD_OBS	Las tecnologías avanzadas permiten a los Marines viajar al instante entre dos puntos. Para desbloquear esta tecnología, selecciona el menú de construcción avanzada [1:AdvancedMenu] y crea un Observatory [2:Observatory] en tu base. Los Observatories tienen una habilidad pasiva y escanean el área a su alrededor.	OK		
+COMMANDER_TUT_BUILD_PHASE_GATE	La tecnología de fase ya está desbloqueada. Selecciona el menú de construcción avanzada [1:AdvancedMenu]. Todos los portales de fase que construyas estarán conectados entre sí (la conexión se indica con una línea en el minimapa) y permitirán a los Marines viajar al instante entre esos puntos. Construye el primer portal de fase [2:PhaseGate] en tu base.	OK		
+COMMANDER_TUT_BUILD_PROTO	Ahora que tienes un Arms Lab, es hora de desbloquear los Exotrajes para tus Marines. Construye un [2:PrototypeLab] desde el menú de construcción avanzada [1:AdvancedMenu].	OK		
+COMMANDER_TUT_BUILD_SECOND_PHASE_GATE	Ahora elige un punto de destino, idealmente junto a un tech point libre [TechPoint]. Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye el portal de fase [2:PhaseGate]	OK		
+COMMANDER_TUT_BUILD_SECOND_SHELL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una segunda Shell [2:SecondShell]	OK		
+COMMANDER_TUT_BUILD_SECOND_SPUR	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Spur [2:SecondSpur]	OK		
+COMMANDER_TUT_BUILD_SECOND_VEIL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Veil [2:SecondVeil]	OK		
+COMMANDER_TUT_BUILD_SHELL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una Shell [2:Shell] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	OK		
+COMMANDER_TUT_BUILD_SPUR	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un Spur [2:Spur] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	OK		
+COMMANDER_TUT_BUILD_VEIL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un Veil [2:Veil] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	OK		
+COMMANDER_TUT_CONSTRUCT_DRIFTER	Puedes aumentar la velocidad de crecimiento de cualquier estructura con Drifters [1:DrifterEgg], que se construyen sobre infestación. Los Drifters buscan automáticamente estructuras sin crecer a su alcance, pero también puedes darles órdenes a mano.	OK		
+COMMANDER_TUT_DROP_AMMOPACK	Abasteces directamente a tus Marines soltando paquetes que pueden recoger. Selecciona el menú de asistencia [1:AssistMenu] y suelta un paquete de munición [2:AmmoPack] para darles munición.	OK		
+COMMANDER_TUT_DROP_MEDPACK	Abasteces directamente a tus Marines soltando paquetes que pueden recoger. Selecciona el menú de asistencia [1:AssistMenu] y suelta un Med pack [2:MedPack] para curar a los Marines heridos.	OK		
+COMMANDER_TUT_INFEST_NODE	Necesitas un mayor ingreso de recursos [CollectResources]. Construye un Cyst [1:Cyst] junto al nodo de recursos más cercano y, cuando la infestación se haya extendido sobre el nodo, selecciona el Harvester [2:Harvester] del menú de construcción y colócalo sobre el nodo de recursos.	OK		
+COMMANDER_TUT_ORDER_DRIFTER	Con click derecho puedes darle al Drifter una orden de movimiento [1:Move] El Drifter también tiene un conjunto de habilidades para apoyar a tus compañeros, que se desbloquean según los tipos de Hive que hayas mejorado. Haz click en una habilidad [2:EnzymeCloud] [2:Hallucinate] [2:MucousMembrane] y luego selecciona una posición objetivo.	OK		
+COMMANDER_TUT_ORDER_DRIFTER_TO_HIVE	Para aumentar la velocidad de crecimiento de tu Hive, selecciona un Drifter [1:Drifter] y haz click derecho en la Hive sin construir [2:Grow]	OK		
+COMMANDER_TUT_ORDER_TROOPS	Ordena a tus Marines construir las estructuras que acabas de colocar. Para seleccionar a todos los Marines, haz click en el elemento de arriba a la izquierda [1:Marine]. Luego haz click derecho en una estructura sin construir para darles una orden de construcción [2:Construct]	OK		
+COMMANDER_TUT_RESEARCH_PHASE_TECH	Selecciona tu Observatory [1:Observatory] y haz click en Tecnología de fase [2:PhaseTech]	OK		
+COMMANDER_TUT_RESEARCH_WEAPON_ONE	Ya es hora de darles a tus Marines juguetes nuevos. Selecciona tu Armory [1:Armory] y elige un arma para investigar [2:ShotgunTech] [2:MinesTech] [2:GrenadeTech]	OK		
+COMMANDER_TUT_SELECT_DRIFTER	Puedes usar tu Drifter no solo para acelerar la construcción, sino también por sus habilidades. Selecciona el menú de asistencia [1:AssistMenu] y haz click en seleccionar Drifter [2:SelectDrifter]	OK		
+COMMANDER_TUT_UPGRADE_ARMORY	Para desbloquear armas más poderosas, selecciona tu Armory [1:Armory] y mejóralo [2:AdvancedArmoryUpgrade]. Esto permitirá a tus Marines comprar lanzagranadas [GrenadeLauncher] y lanzallamas [Flamethrower]	OK		
+COMMANDER_TUT_UPGRADE_ARMOR_TWO	No olvides que tu Arms Lab ofrece varios niveles de mejoras de armadura. Selecciona el Arms Lab [1:ArmsLab] e investiga la armadura de nivel 2 [2:Armor2]	OK		
+COMMANDER_TUT_UPGRADE_AT_ARMS_LAB	Selecciona el Arms Lab [1:ArmsLab] y elige la mejora de armas [2:Weapons1] o la de armadura [2:Armor1]. Cada categoría se puede mejorar tres veces.	OK		
+COMMANDER_TUT_UPGRADE_BIOMASS	Cada Hive puede dar un máximo de 3 de biomasa. Para aumentar en uno la biomasa desbloqueada por una Hive, selecciónala [1:Hive] y haz click en investigar biomasa [2:ResearchBioMassOne]	OK		
+COMMANDER_TUT_UPGRADE_BIOMASS_TWO	Cada Hive puede dar un máximo de 3 de biomasa. Para aumentar en uno la biomasa desbloqueada por una Hive, selecciónala [1:Hive] y haz click en investigar biomasa [2:ResearchBioMassTwo]	OK		
+COMMANDER_TUT_UPGRADE_GORGE	Cada forma de vida Alien tiene su propio conjunto de habilidades. No todas están desbloqueadas desde el principio. Para mejorar al Gorge [Gorge], selecciona tu Hive [1:Hive], haz click en el menú de evoluciones de formas de vida [2:LifeFormMenu] y luego en el menú del Gorge [3:GorgeMenu] . Por último, haz click en Bomba de Bilis [4:BileBomb] para desbloquear esa habilidad.	OK		
+COMMANDER_TUT_UPGRADE_HIVE	Tu equipo necesita mejoras. Primero selecciona la Hive [1:Hive] , luego elige uno de los tres tipos de Hive [2:CragHive] [2:ShadeHive] [2:ShiftHive].	OK		
+COMMANDER_TUT_UPGRADE_JETPACK	Selecciona el Advanced Armory [1:AdvancedArmory] e investiga Jetpacks [2:JetpackTech]	OK		
+COMMANDER_TUT_UPGRADE_WEAPON_TWO	No olvides que tu Arms Lab ofrece varios niveles de mejoras de armas. Selecciona el Arms Lab [1:ArmsLab] e investiga las armas de nivel 2 [2:Weapons2]	OK		
+COMMANDER_TUT_VIEW_TECH	Para ver un resumen de todas las tecnologías, haz click en el ícono del árbol de tecnologías [1:Research] junto al minimapa, abajo a la izquierda de tu pantalla.	OK		
+TUTORIAL_BRONZE_ALIEN_1	Bienvenido al equipo Alien.	OK		
+TUTORIAL_BRONZE_ALIEN_2	Esta es la Hive: ¡defiéndela a toda costa! Si todas las Hives son destruidas, pierdes. Cada ronda empieza con una sola Hive, pero el Commander puede colocar más a medida que avanza la ronda.	OK		
+TUTORIAL_BRONZE_ALIEN_3	Los jugadores muertos renacen dentro de huevos, que la Hive suelta cada cierto tiempo.	OK		
+TUTORIAL_BRONZE_ALIEN_4	Acabas de aparecer como Skulk, la forma de vida inicial de los Aliens. El Skulk tiene una mordida feroz y la capacidad de caminar sin esfuerzo por paredes y techos. Pruébalo ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_5	Bien. También puedes soltarte en cualquier momento alejándote de la superficie o presionando la tecla de soltarse. Prueba soltarte de una pared ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_6	Como Skulk también puedes silenciar tus pasos.	OK		
+TUTORIAL_BRONZE_ALIEN_7	El Commander necesita más recursos, pero hay un Marine que le impide expandir su territorio. ¡Mátalo!	OK		
+TUTORIAL_BRONZE_ALIEN_8	Ese Marine está al final de un pasillo largo y te está mirando directamente. Nunca vas a poder recorrer esa distancia antes de que te mate.	OK		
+TUTORIAL_BRONZE_ALIEN_9	Pero hay algo que sí podemos hacer: marcarlo.	OK		
+TUTORIAL_BRONZE_ALIEN_10	El parásito es un arma a distancia que hace muy poco daño, pero permite a todo el equipo ver exactamente dónde está el Marine, lo cual es información valiosa.	OK		
+TUTORIAL_BRONZE_ALIEN_11	Cambia a tu parásito ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_12	Asómate por la esquina y parasita a ese Marine. ¡Hazlo rápido y mantén la distancia!	OK		
+TUTORIAL_BRONZE_ALIEN_13	Buen trabajo, el Marine está parasitado.	OK		
+TUTORIAL_BRONZE_ALIEN_14	Vuelve a la Hive para curarte.	OK		
+TUTORIAL_BRONZE_ALIEN_15	Ups, moriste igual. No pasa nada.	OK		
+TUTORIAL_BRONZE_ALIEN_16	Ahora hay que encargarse de ese Marine. Él controla el pasillo, así que tendremos que rodearlo. Abre tu mapa.	OK		
+TUTORIAL_BRONZE_ALIEN_17	Algunas partes del mapa son naranjas en lugar de grises. Esas zonas son conductos de ventilación. Fíjate que hay un conducto que conecta Pipeline con The Neck y evita ese pasillo largo. Encuentra el conducto y atraviésalo con sigilo.	OK		
+TUTORIAL_BRONZE_ALIEN_18	El Marine te oyó. Asegúrate de moverte con sigilo, incluso dentro del conducto. El sonido llega muy lejos. Un buen Marine puede oírte a 1 o 2 cuartos de distancia.	OK		
+TUTORIAL_BRONZE_ALIEN_19	¡Buen trabajo! Para que no tengas que volver a la Hive a curarte, el Commander la mejoró a Crag Hive. Ahora tienes acceso a 3 nuevas mejoras Alien. Abre tu menú de evolución.	OK		
+TUTORIAL_BRONZE_ALIEN_20	Cerca de la parte inferior puedes ver las tres mejoras que desbloqueó la Crag Hive: vampirismo, caparazón y regeneración. Evoluciona regeneración ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_21	¡Genial! El Skulk puede evolucionar mejoras gratis, pero a las demás formas de vida les costará recursos personales.	OK		
+TUTORIAL_BRONZE_ALIEN_22	El Commander va a intentar capturar el nodo de recursos de C-12. Mira tu mapa para ver dónde queda y ve allí ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_23	El cuarto parece despejado, así que es seguro colocar el Harvester.	OK		
+TUTORIAL_BRONZE_ALIEN_24	El Harvester es muy vulnerable en este momento y no generará recursos hasta estar terminado. Por sí solo se construye muy lento, así que el Commander está incubando un Drifter para ayudarlo.	OK		
+TUTORIAL_BRONZE_ALIEN_25	Los Drifters son sirvientes del Commander. Construyen estructuras, usan habilidades y cuestan una buena cantidad de recursos.	OK		
+TUTORIAL_BRONZE_ALIEN_26	¡Hay un Marine cerca! Prepara una emboscada por si decide atacar. Prueba esperar en la pared sobre la entrada.	OK		
+TUTORIAL_BRONZE_ALIEN_27	¡Buen trabajo defendiendo el Harvester! El Commander trajo un Crag al cuarto para curar el Harvester. Los Crags curan a todas las estructuras y formas de vida Alien en un radio amplio. Quédate cerca del Crag para curarte ahora.	OK		
+TUTORIAL_BRONZE_ALIEN_28	No te curará tan rápido como una Hive o un Gorge, pero igual es muy útil tenerlo cerca.	OK		
+TUTORIAL_BRONZE_ALIEN_29	El Harvester terminó de construirse. ¡Ahora los recursos entran mucho más rápido!	OK		
+TUTORIAL_BRONZE_ALIEN_30	Parece que hay Marines cerca construyendo algo. Usa el conducto de ventilación de este cuarto para evaluar la situación.	OK		
+TUTORIAL_BRONZE_ALIEN_31	¡Los Marines acaban de construir un portal de fase! Eso les permitirá reforzar esta posición al instante. Deberíamos destruirlo cuanto antes, pero ahora hay demasiados Marines aquí. Tendremos que alejarlos.	OK		
+TUTORIAL_BRONZE_ALIEN_32	Si atacamos otra cosa, algunos tendrán que volver a defender, y eso debilitará su posición avanzada.	OK		
+TUTORIAL_BRONZE_ALIEN_33	¡Destruye ese Extractor!	OK		
+TUTORIAL_BRONZE_ALIEN_34	¡Buen trabajo! No importa que hayas muerto, porque los alejaste del portal de fase y lo dejaste vulnerable.	OK		
+TUTORIAL_BRONZE_ALIEN_35	Tienes suficientes recursos personales para evolucionar a una forma de vida superior.	OK		
+TUTORIAL_BRONZE_ALIEN_36	Selecciona el Onos. Es la forma de vida más cara, pero también la más devastadora.	OK		
+TUTORIAL_BRONZE_ALIEN_37	Pide una neblina de nutrientes para evolucionar más rápido.	OK		
+TUTORIAL_BRONZE_ALIEN_38	Estos Gorges te seguirán a la batalla y te curarán cuando recibas daño. ¡Vamos a destruir ese portal de fase!	OK		
+TUTORIAL_BRONZE_ALIEN_39	¡Carga contra ese Marine!	OK		
+TUTORIAL_BRONZE_ALIEN_40	¡Destrúyelo todo!	OK		
+TUTORIAL_BRONZE_ALIEN_41	¡Así aprenderán esos asquerosos respiradores de oxígeno! Con su posición avanzada eliminada, es hora de atacar su base principal.	OK		
+TUTORIAL_BRONZE_ALIEN_42	Los Gorges están construyendo un túnel. Los túneles permiten viajar rápido entre dos puntos distantes del mapa.	OK		
+TUTORIAL_BRONZE_ALIEN_43	¡El túnel está abierto! Párate sobre él para entrar.	OK		
+TUTORIAL_BRONZE_ALIEN_44	Ahí está la base de los Marines. ¡Destrúyela!	OK		
+TUTORIAL_BRONZE_ALIEN_45	¡Destruye los Infantry Portals para que no puedan renacer!	OK		
+TUTORIAL_BRONZE_ALIEN_46	¡Ahora acaba con la Command Station para terminar la partida!	OK		
+TUTORIAL_BRONZE_ALIEN_47	¡Excelente trabajo! Esa era la única Command Station que tenían los Marines. Por lo tanto...	OK		
+TUTORIAL_BRONZE_ALIEN_48	¡Atención! Algunos Marines están dejando el portal de fase para venir a defender esta posición.	OK		
+TUTORIAL_BRONZE_ALIEN_49	Prueba usar el pisotón contra grupos de Marines.	OK		
+TUTORIAL_BRONZE_ALIEN_50	Destruye el Nodo de energía de este cuarto. La oscuridad hará más fácil defenderlo.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_1	No te preocupes por matar al Marine todavía; solo parasítalo y sigue adelante.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_2	Puedes parasitar al Marine desde lejos: no hace falta acercarse.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_3	El parásito es un arma a distancia. Deja de correr hacia el Marine.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_4	¡Basta! Eso no ayuda.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_5	Nunca va a fallar. Prueba otra estrategia.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_6	No sé cómo decirlo más claro: DEJA DE CORRER HACIA EL MARINE.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_7	¿Estoy... estoy silenciado o algo así?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_8	¿Por qué sigues haciendo esto?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_9	Me cuesta entender dónde está la diversión en esto.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_10	No solo pierdes tu tiempo: pierdes MI tiempo.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_11	Ah, espera, ¡no estás perdiendo mi tiempo! Estos son mensajes pregrabados.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_12	En serio, no sé qué crees que estás logrando.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_13	Puedo esperar tanto como tú; soy un hombre muy paciente.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_14	*Ruido de páginas, sorbos de café*	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_15	Eh, por cierto, a ese Marine nunca jamás se le van a acabar las balas.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_16	Prueba saltar por la pared para ganar velocidad.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_17	Ah, no quise decir que eso ayudaría. Pero aceleró las cosas, ¿no?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_18	¡Uy, creo que esta vez casi lo logras!	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_19	¿Te están obligando a hacer esto contra tu voluntad?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_20	Si es así, sigue haciendo lo que haces y yo llamo a la policía.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_21	Sí, hola. Estoy grabando... sí, estoy grabando voces para un videojuego, y sospecho que uno de los jugadores que va a jugar esto está secuestrado.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_22	Eh, supongo que quiero decir "estará secuestrado", en futuro, porque... ¿qué? Ah, no, ahora mismo todo está bien.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_23	No, lo que digo es que hay un jugador que hipotéticamente jugará esto en el futuro y se niega a completar el tutorial, y sospecho que lo retienen contra su voluntad.	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_24	No, no tengo una dirección. No sé con certeza que esté pasando algo. Yo... ¿hola? ¿Hola?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_25	Hola, creo que se cortó antes. Soy el que llamó por la situación de rehenes que puede o no ocurrir en algún momento del futuro, en un lugar no especifi... ¿Hola?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_26	Las malditas líneas deben estar caídas. Vaya... sigues en lo mismo, ¿no?	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_27	Eres persistente, ¡eso te lo reconozco!	OK		
+TUTORIAL_BRONZE_ALIEN_EGG_28	Está bien, por todas tus molestias, con gusto te otorgo este... logro... especial. Solo... vete...	OK		
+TUTORIAL_BRONZE_MARINE_1	¡Bienvenido al equipo Marine, soldado! Como Marine, tu principal preocupación es proteger esta estructura: la Command Station.	OK		
+TUTORIAL_BRONZE_MARINE_2	El Commander Marine se sienta dentro de esta estructura y coordina al equipo con vista de águila.	OK		
+TUTORIAL_BRONZE_MARINE_3	Y este es un Infantry Portal. Aquí es donde los Marines se imprimen en 3D para volver a existir. Sin estas estructuras vitales, tu equipo no puede renacer.	OK		
+TUTORIAL_BRONZE_MARINE_4	Los Marines aparecen con un Rifle, una pistola y un hacha. Prueba cambiar entre ellos ahora.	OK		
+TUTORIAL_BRONZE_MARINE_5	El Commander colocó el plano de un Armory. El Commander puede colocar estructuras, pero necesita tropas de campo como tú para construirlas. Acércate al plano y construye el Armory con tu tecla de 'usar'.	OK		
+TUTORIAL_BRONZE_MARINE_6	Bien. Ahora tienes un lugar para curarte y para comprar las armas nuevas que el Commander desbloquee. Una de las estructuras de la base necesita reparación. Compra un soldador en el Armory.	OK		
+TUTORIAL_BRONZE_MARINE_7	Ahora puedes reparar el Observatory.	OK		
+TUTORIAL_BRONZE_MARINE_8	El Observatory es una estructura valiosa que te permite detectar enemigos a través de las paredes en un radio amplio.	OK		
+TUTORIAL_BRONZE_MARINE_9	Buen trabajo. Al Commander le gustaría desbloquear más armas para el equipo, pero necesita más recursos. Para conseguir recursos más rápido necesitamos más Extractors, pero solo se pueden construir sobre nodos de recursos, y este cuarto tiene uno solo.	OK		
+TUTORIAL_BRONZE_MARINE_10	Construiremos nuestro segundo Extractor en Cafeteria. Abre tu mapa para encontrar Cafeteria.	OK		
+TUTORIAL_BRONZE_MARINE_11	El mapa es una herramienta invaluable tanto para Marines como para Aliens. Consúltalo seguido. Ahora ve a Cafeteria.	OK		
+TUTORIAL_BRONZE_MARINE_12	¡Te acaban de parasitar! Fíjate en el ícono amarillo de la esquina y en los bichos que caminan sobre tu arma. Ahora todos los Aliens de la partida pueden ver exactamente dónde estás, ¡incluso a través de las paredes! Por desgracia, no hay forma de quitarse un parásito salvo esperar a que pase.	OK		
+TUTORIAL_BRONZE_MARINE_13	El Commander escaneó la zona. Ahí está el Alien que te parasitó. ¡Mátalo!	OK		
+TUTORIAL_BRONZE_MARINE_14	Buen trabajo, pero te hirieron. Pide un Med pack al Commander para curarte.	OK		
+TUTORIAL_BRONZE_MARINE_15	Listo. Te curaste, y al Commander le costó un recurso. También puedes pedir un paquete de munición para reabastecerte. Hazlo ahora.	OK		
+TUTORIAL_BRONZE_MARINE_16	Bien. El Commander gastó otro recurso para darte esa munición. Ahora ve a asegurar el nodo de recursos de Cafeteria para que pueda seguir apoyándote.	OK		
+TUTORIAL_BRONZE_MARINE_17	¡Aquí hay un túnel, y está abierto! Los Aliens usan esta estructura para traer refuerzos. ¡Destrúyelo rápido!	OK		
+TUTORIAL_BRONZE_MARINE_18	¡Ataca primero el túnel! Podemos destruir el Harvester una vez que aseguremos el cuarto.	OK		
+TUTORIAL_BRONZE_MARINE_19	Buen trabajo. Los Aliens ya no tienen una ruta rápida hasta aquí. Ahora acaba con el Harvester.	OK		
+TUTORIAL_BRONZE_MARINE_20	Fíjate que la infestación verde del suelo está retrocediendo. La infestación se extiende con Cysts y túneles de Gorge. Sin infestación cubriendo el suelo, este Harvester morirá lentamente por sí solo, pero podemos ayudarlo.	OK		
+TUTORIAL_BRONZE_MARINE_21	Ahora podemos quedarnos con estos recursos. El primer paso es construir el Nodo de energía de este cuarto, que está en la pared norte.	OK		
+TUTORIAL_BRONZE_MARINE_22	Ahora podemos construir ese Extractor.	OK		
+TUTORIAL_BRONZE_MARINE_23	Ahora los recursos entran el doble de rápido que antes.	OK		
+TUTORIAL_BRONZE_MARINE_24	¡La base está bajo ataque! ¡Prepárate para que el Beacon te lleve de vuelta!	OK		
+TUTORIAL_BRONZE_MARINE_25	¡Menos mal que reparamos ese Observatory! No solo revela enemigos cercanos: también puede traer a todos los soldados de vuelta a la base, como acabas de ver. Recarga tu salud y munición en el Armory.	OK		
+TUTORIAL_BRONZE_MARINE_26	Se acaban de investigar las escopetas. Compra una en el Armory ahora.	OK		
+TUTORIAL_BRONZE_MARINE_27	Por desgracia, aun con los recursos extra, todavía no te alcanza para una escopeta. Por suerte, hoy el Commander se siente muy generoso.	OK		
+TUTORIAL_BRONZE_MARINE_28	Dejaron una escopeta cerca del Armory. Recógela.	OK		
+TUTORIAL_BRONZE_MARINE_29	Ahora sí tenemos potencia de fuego seria a corta distancia. Y justo a tiempo: el Observatory detectó un enemigo; mira tu mapa. ¡Ve a probar tu escopeta nueva!	OK		
+TUTORIAL_BRONZE_MARINE_30	¡Los Aliens tienen un Onos! Por suerte, ahora tenemos más potencia de fuego y podemos usarla para asaltar la Hive.	OK		
+TUTORIAL_BRONZE_MARINE_31	Busca el Prototype Lab en la base, la estructura alta y delgada, y compra un Exotraje.	OK		
+TUTORIAL_BRONZE_MARINE_32	¡Bien! Pero dos Miniguns son mejores que una, ¿no crees? ¡Ve otra vez al Prototype Lab y cambia la garra de metal por otra arma!	OK		
+TUTORIAL_BRONZE_MARINE_33	¡Genial, vamos a destrozar Aliens! Avanza hacia el cuarto llamado 'Departures' en tu mapa. Tus compañeros te acompañarán a pie.	OK		
+TUTORIAL_BRONZE_MARINE_34	Quédate quieto y deja que tus compañeros te reparen.	OK		
+TUTORIAL_BRONZE_MARINE_35	¡Como nuevo! Ahora ve a asaltar la Hive cercana con tus compañeros.	OK		
+TUTORIAL_BRONZE_MARINE_36	¡Ahí está la Hive! ¡Destrúyela!	OK		
+TUTORIAL_BRONZE_MARINE_37	Acabas de destruir la última Hive, y sin Hives los Aliens no pueden renacer. Por lo tanto...	OK		
+TUTORIAL_BRONZE_MARINE_EGG_1	Lo siento, no te vas a escapar tan fácil.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_2	Basta.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_3	Ya basta.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_4	¿De verdad estás tan desesperado por no hacer el tutorial?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_5	¡Con todo el tiempo que perdiste, ya podrías haberlo terminado!	OK		
+TUTORIAL_BRONZE_MARINE_EGG_6	Si sigues intentando matarte, no te dejaremos jugar NS3.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_7	Te lo advierto.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_8	Bueno, se acabó. Anotamos tu ID de Steam y no te dejaremos jugar NS3... NUNCA.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_9	Y es una lástima. Hablando hipotéticamente, si HUBIERA un NS3 y ya ESTUVIÉRAMOS muy avanzados en su desarrollo... se VERÍA bastante increíble.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_10	Todas las nuevas formas de vida Alien son increíbles, y todas las nuevas armas de los Marines son asombrosas.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_11	Hasta agregamos un tercer equipo jugable... hablando hipotéticamente, claro.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_12	Lástima que nunca vayas a verlo.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_13	Sí, una lástima...	OK		
+TUTORIAL_BRONZE_MARINE_EGG_14	¿Por qué sigues haciendo esto?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_15	¿Por qué?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_16	En serio, la gracia de esto se está acabando muy rápido.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_17	¿De verdad estás tan aburrido?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_18	¿Qué es lo que quieres, exactamente?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_19	Si te doy un logro, ¿te vas?	OK		
+TUTORIAL_BRONZE_MARINE_EGG_20	Listo. Ahí tienes tu maldito logro. ¡Déjame en paz!	OK		
+TUTORIAL_BRONZE_MARINE_EGG_21	En serio, esto es todo lo que hay... ya puedes parar.	OK		
+TUTORIAL_BRONZE_MARINE_EGG_22	Bueno, eh... no te entretengo más... eh... adiós... supongo...	OK		
+TUTORIAL_SILVER_ASSIST_MENU_TAB	Pestaña de asistencia	OK		
+TUTORIAL_SILVER_BUILD_ADVANCED_MENU_TAB	Pestaña del menú avanzado	OK		
+TUTORIAL_SILVER_BUILD_ARMORY	Construir Armory	OK		
+TUTORIAL_SILVER_BUILD_ARC	Construir ARC	OK		
+TUTORIAL_SILVER_BUILD_ARMS_LAB	Construir Arms Lab	OK		
+TUTORIAL_SILVER_BUILD_EXTRACTOR	Construir Extractor	OK		
+TUTORIAL_SILVER_BUILD_MENU_TAB	Pestaña del menú de construcción	OK		
+TUTORIAL_SILVER_BUILD_OBSERVATORY	Construir Observatory	OK		
+TUTORIAL_SILVER_BUILD_PHASE_GATE	Construir portal de fase	OK		
+TUTORIAL_SILVER_BUILD_ROBOTICS_FACTORY	Construir Robotics Factory	OK		
+TUTORIAL_SILVER_COMMANDER_ALERT_JUMP	Ir a la alerta	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_1	Bienvenido de nuevo al equipo Alien, Commander.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_2	Como Commander, una de tus prioridades es asegurar un flujo constante de recursos. Hay dos nodos de recursos bastante cerca de nuestra Hive inicial. A veces se los llama "expansiones naturales" o "naturales".	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_3	Antes de poder colocar un Harvester en esos nodos de recursos, hay que cubrirlos de infestación. La infestación se crea colocando Cysts. Prueba colocar un Cyst cerca del nodo de recursos de Gravity Control ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_4	Fíjate que al colocar el Cyst cerca del nodo de recursos también se crearon otros Cysts entre este punto y la Hive, completando la conexión.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_5	Pasarán unos momentos antes de que esta "cadena de Cysts" esté construida y extendiendo infestación. Mientras esperamos, construye otra cadena de Cysts hasta la otra expansión natural, en Plaza.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_6	Mientras esperamos a que se extienda la infestación, hay que elegir un camino de mejora para nuestra Hive. Hay 3 caminos: Crag, Shade y Shift. Crag favorece la resistencia y la supervivencia; Shade, el sigilo y el engaño; y Shift, la velocidad y la evasión. Selecciona la Hive y mejórala a Shift Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_7	Los Cysts de Gravity Control terminaron de construirse y ya extienden su infestación. Crea un Harvester en Gravity Control.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_8	El Harvester se construye muy lento, pero un Drifter puede acelerarlo. Crea un Drifter en Gravity Control.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_9	El Gorge del este colocó un túnel de Gorge que lo conecta con la base principal.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_10	Igual que los Cysts, los túneles de Gorge crean infestación cuando están terminados. Como el túnel se colocó cerca de un nodo de recursos, podemos poner un Harvester ahí.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_11	Fíjate cuánto más rápido se construye este Harvester. Los Gorges construyen mucho más rápido que los Drifters.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_12	Este túnel de Gorge está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel de Gorge.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_13	Los Crags son estructuras de apoyo que curan a los Aliens y estructuras cercanos. Y que el nombre no te confunda: aunque mejoramos nuestra Hive a Shift Hive, igual podemos construir los otros dos tipos de estructuras de apoyo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_14	Este cuarto está seguro por ahora. El Harvester de Gravity Control también terminó de construirse. Deberíamos llevar nuestro Drifter de vuelta a la base, porque los Drifters son objetivos valiosos para los Marines.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_15	Ordena al Drifter moverse al círculo brillante en Launch Control.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_16	Nuestra Hive terminó de mejorarse y ahora es una Shift Hive. Ahora podemos hacer más efectivos a nuestros compañeros colocando estructuras de mejora llamadas "Spurs".	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_17	Las estructuras de mejora son valiosas, así que deben colocarse en un lugar seguro. Coloca un Spur en Launch Control ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_18	Se necesitan tres de cada tipo de mejora para el efecto máximo. Por ejemplo, con un solo Spur nuestras fuerzas reciben apenas un tercio del aumento de velocidad posible.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_19	¡Están atacando Hydroanalysis!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_20	Menos mal que construimos un Crag aquí. Permite a nuestras fuerzas curarse en el frente en lugar de volver a la Hive. Ahora deberíamos tomar el nodo de recursos de Plaza, pero hagamos las cosas un poco más interesantes.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_21	Como elegimos el camino de mejora Shift, podemos usar el "eco" sobre las estructuras. Lo hace la estructura de apoyo "Shift". Construye un Shift en la base principal, cerca del nodo de recursos.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_22	La habilidad "eco" permite mover estructuras Alien de un lugar infestado a otro, con un costo. Podemos usarla para mover el Harvester resistente y ya construido de nuestra base principal a Plaza.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_23	Selecciona el Shift y usa el eco para mover el Harvester a Plaza.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_24	Bien. Ahora podemos colocar un nuevo Harvester en la base principal, donde puede crecer y madurar con mucho menos riesgo que si lo hubiéramos colocado más lejos.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_25	¡Están atacando Gravity Control!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_26	¡Hay Marines atacando nuestro Harvester! No podemos verlos porque no tenemos nada en el cuarto que pueda verlos. Los Harvesters, como todas las estructuras Alien, son ciegos.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_27	Los Marines en Gravity Control destruyeron los Cysts que daban infestación al Harvester. Si no los reconstruimos a tiempo, el Harvester morirá de hambre. Coloca un nuevo Cyst cerca del Harvester ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_28	Pasará un momento antes de que la infestación vuelva a nutrir esta estructura. Mientras tanto, para que no muera de hambre, podemos colocar una "neblina de nutrientes" en este lugar. Pruébalo ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_29	Bien. Pero ten en cuenta que este Harvester sigue dañado y será un blanco fácil si los Marines vuelven. Coloca un Whip para protegerlo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_30	Los Whips son estructuras defensivas de corto alcance. No suelen matar a muchos Marines, pero al menos los debilitan o los obligan a ponerse en una posición vulnerable, para que tus compañeros los rematen con más facilidad.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_31	Deberíamos poner este Whip fuera de la vista para que los Marines no puedan dispararle tan fácil. Selecciona el Whip y ordénale moverse fuera de la vista de la entrada.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_32	Ahora entran muchos recursos: deberíamos construir nuestro segundo Spur.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_33	Es hora de construir nuestra segunda Hive en Hydroanalysis.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_34	Bien. Deberíamos traer nuestro Drifter para ayudar a construir la Hive. Las Hives tardan muchísimo en construirse comparadas con otras estructuras. Cada ayuda cuenta.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_35	Ordena al Drifter hacer crecer la Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_36	Como siempre, los Gorges construyen mucho más rápido que los Drifters, pero también necesitan mucha energía para mantener el ritmo. Usa el eco para llevar el Shift a Hydroanalysis y evitar que este Gorge se quede sin energía mientras construye la Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_37	Bien. Mientras esperamos a que la nueva Hive se construya, deberíamos mejorar la biomasa de la primera Hive. Selecciona la Shift Hive en Launch Control y mejora la biomasa.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_38	Cada Hive vale por sí sola 1 punto de biomasa y se puede mejorar tres veces, para un total de 4 de biomasa por Hive. Cada nivel adicional de biomasa hace más resistentes a los Aliens y permite al Commander investigar habilidades avanzadas para cada forma de vida.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_39	Mientras esperamos, deberíamos crear un tercer Spur para completar las mejoras de la Shift Hive. Coloca el último Spur en Launch Control.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_40	Construye un segundo Drifter, ya que el primero está ocupado.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_41	Bien. En cuanto termine de construirse, nuestros Aliens podrán disfrutar del beneficio máximo de las mejoras.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_42	Ahora tenemos biomasa de nivel 2. Nuestros Aliens son un poco más resistentes que hace un momento.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_43	Cerca hay un Alien evolucionando a una forma de vida superior. Coloca una neblina de nutrientes cerca de ese huevo para acelerar la evolución.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_44	Genial. ¡Ese jugador saldrá de su huevo a patear traseros en un momento!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_45	La nueva Hive acaba de terminarse. La Hive completa nos da un nivel adicional de biomasa, para un total de 3. La biomasa de nivel 3 desbloquea muchas habilidades nuevas, pero aún hay que investigarlas para que los jugadores puedan usarlas. Selecciona una Hive y empieza a investigar la habilidad "Metabolización" para nuestro Fade.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_46	Bien. Como tenemos dos Hives, podemos investigar dos habilidades a la vez. Selecciona la otra Hive y empieza a investigar "Bomba de Bilis", una habilidad del Gorge.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_47	Mientras esperamos a que terminen de investigarse esas habilidades, podemos trabajar en nuestro segundo grupo de mejoras. Selecciona la nueva Hive y mejórala a Shade Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_48	Ahora deberíamos ocultar un poco mejor nuestra presencia en este cuarto. Construye una Shade.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_49	La Shade oculta a todos los Aliens y estructuras en un radio amplio, así que el cuarto parece vacío para los Marines cercanos.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_50	¡Los Marines están usando ARCs contra nuestra nueva Hive! Selecciona la Shade y usa la habilidad tinta.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_51	La tinta no solo nubla la visión de los Marines: también altera los sistemas de puntería de los ARCs y nos da un tiempo valioso, ¡pero no podemos mantenerla para siempre! ¡Hay que destruir los ARCs, rápido!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_52	¡Nos quedamos sin huevos! Las Hives crean huevos por sí solas, pero muy lento. ¡Necesitamos crear huevos más rápido para defender esta Hive! Selecciona la Hive de Hydroanalysis e incuba algunos huevos.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_53	Nuestro Gorge puede usar su nueva Bomba de Bilis para disolver fácilmente esos ARCs, pero primero hay que eliminar a esos Marines. Selecciona tu Drifter.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_54	Cada Hive mejorada activa una habilidad única para el Drifter. Como tenemos una Shade Hive, nuestros Drifters pueden crear alucinaciones. Crea una nube de alucinación sobre el grupo de Aliens.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_55	Bien. ¡Ahora esos Marines no sabrán a qué Aliens dispararles!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_56	Nuestro Gorge acabará rápido con estas viles máquinas.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_57	¡Un Marine está destruyendo mejoras en la base principal! ¡Sal de la Hive y encárgate de él!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_58	Qué raro. Ese Marine entró por el lado norte del cuarto. ¿Cómo llegó ahí? Vuelve a la Hive para que mandemos a nuestro Drifter a investigar.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_59	Usa el Drifter de Launch Control para explorar hacia el norte.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_60	¡Los Marines tienen un portal de fase en Plaza! Esto es malo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_61	¡Y las cosas acaban de ponerse mucho peor! Parece que los Marines nos están tirando con todo lo que tienen en el norte. Es solo cuestión de tiempo para que ataquen nuestra base principal, y es poco probable que podamos defendernos de un ataque tan fuerte.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_62	En cambio, tendremos que destruir algo de ellos. Tus compañeros están formando un grupo para contraatacar la base de los Marines. Aleja a tu Drifter de los Marines y úsalo para ayudar en el contraataque.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_63	Los Marines no tienen otra base, pero nosotros sí. Si logramos destruirlos lo bastante rápido, ¡ganamos! ¡Ataca ahora! Usa la habilidad nube de enzima del Drifter para que tus compañeros ataquen más rápido.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_64	Aunque perdiste la Hive, los Marines perdieron su única Command Station del mapa, ¡así que ganan los Aliens!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_65	Con esto termina todo el entrenamiento formal disponible en Natural Selection 2. Sin embargo, todavía te queda mucho por aprender en el campo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_66	¡Lo más importante que puedes hacer como Commander es comunicarte! Si no estás seguro de cómo funciona algo o no sabes qué hacer, pregúntales a tus compañeros. La forma más rápida de que te echen de la Command Station es quedarte callado y no hacer nada.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_67	Lo segundo más importante es usar un micrófono. Buena suerte, Commander. Puede retirarse.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_68	Mientras esperamos a que se construya el Harvester, hay que elegir un camino de mejora para nuestra Hive. Hay 3 caminos: Crag, Shade y Shift. Crag favorece la resistencia y la supervivencia; Shade, el sigilo y el engaño; y Shift, la velocidad y la evasión. Selecciona la Hive y mejórala a Shift Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_69	Bien. Ahora deberíamos tomar más territorio. Extiende la cadena de Cysts hasta Hydroanalysis.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_70	Las estructuras Alien se construyen muy lento sin ayuda. Crea un Drifter para construir este Spur más rápido.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_71	Bien. Ese Spur estará listo en un momento.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_72	Necesitamos asegurar nuestro territorio al este. Crea una entrada de túnel en Hydroanalysis.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_73	Los túneles funcionan como un atajo que conecta dos puntos distantes del mapa y permite reforzar una zona mucho más rápido.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_74	Selecciona el túnel y construye el otro extremo en la base.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_75	¡Están dañando parte de la cadena de Cysts!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_76	¡Hay un Marine destruyendo nuestra cadena de Cysts! No podemos verlo porque no tenemos línea de visión, pero ESTÁ ahí.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_77	Nuestro Cyst de Hydroanalysis quedó completamente desconectado de la Hive. Fíjate que recibe daño poco a poco. Acabará muriendo si no se reconecta.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_78	Prueba reconectar la cadena de Cysts ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_79	Fíjate que el Cyst de Hydroanalysis ahora brilla, porque está otra vez conectado a una Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_80	Rayos. Ese Marine está decidido a mantener este territorio aislado.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_81	Necesitamos otra fuente de infestación para esta zona. Selecciona el túnel y mejóralo a "Túnel infestado".	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_82	Esta mejora crea infestación en ambos extremos del túnel.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_83	Ahora podemos usar este nodo de recursos sin necesidad de una cadena de Cysts. Construye un Harvester junto al túnel.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_84	Este túnel está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_85	Coloca la neblina de nutrientes cerca del embrión.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_1	Mira el nodo de recursos del cuarto llamado "Gravity Control".	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_2	No te preocupes por lo que hace el Gorge. Tú tienes tus propias tareas.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_3	¡Deja de mirar al maldito Gorge! Estoy tratando de enseñarte cosas.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_4	Está claro que el Gorge está muy ocupado y no necesita que lo mires fijo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_5	¿No ves que estás molestando al Gorge?	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_6	¡El Gorge te pide amablemente que te vayas!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_7	El Gorge quiere que hagas tu trabajo, ¡que es para ALLÁ!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_8	Bueno, ¿sabes qué? Voy a usar mi autoridad de narrador del tutorial para darle al Gorge poderes especiales de ocultamiento. ¡Intenta seguirlo AHORA!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_9	Grr, está bien. Tus sentidos para vigilar Gorges son bastante agudos, eso te lo reconozco. ¿Ahora podemos seguir con el tutorial, por favor?	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_10	Creo que no le caes muy bien al Gorge. Aunque aquí dentro no puede hacernos daño.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_11	¿A dónde va ahora?	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_12	¿Qué está haciendo?	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_13	Oh no, ¡NO! ¡DETENLO!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_14	¡¿Te das cuenta de lo que hiciste?! ¡¿POR QUÉ no pudiste simplemente hacer el tutorial, como una persona NORMAL?! ¡Nos condenaste a todos!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_1	Bien. Ahora vuelve al trabajo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_2	Por fin. ¿En qué estábamos?	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_3	Ay, ¿tan difícil era? ¿No pudiste seguir al Gorgecito? Qué lástima, vuelve al trabajo.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_4	¡GRACIAS! Mejor no provocarlo más. ¡Creo que ese Gorge estaba a punto de estallar!	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_1	Coloca la neblina de nutrientes cerca del Harvester.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_2	Colócala dentro del bonito círculo que me tomé el trabajo de hacerte.	OK		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_3	COLÓCALA... Bueno, te lo digo de una vez: este NO es el easter egg de este tutorial; ese tren ya pasó. Si eso es lo único que buscas aquí, tienes que reiniciar.	OK		
+TUTORIAL_SILVER_COMMANDER_DROP_AMMOPACK	Soltar paquete de munición	OK		
+TUTORIAL_SILVER_COMMANDER_DROP_MEDPACK	Soltar Med pack	OK		
+TUTORIAL_SILVER_COMMANDER_ISSUE_ORDER	Dar orden	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_1	¡Bienvenido de nuevo al equipo Marine, soldado! Es hora de enseñarte a ser Commander. Entra en la Command Station que tienes delante.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_2	Como Commander, tu trabajo es supervisar el campo de batalla y dar órdenes a tus tropas. Para mover la vista, simplemente lleva el cursor del mouse al borde de la pantalla.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_3	Bien. También puedes moverte rápido por el campo de batalla arrastrando sobre el minimapa de la esquina inferior izquierda. Pruébalo ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_4	Bien. El Commander es un rol vital para ambos equipos en NS2. Tan vital que la partida no empieza hasta que ambos equipos hayan elegido uno. Los Aliens acaban de elegir a su Commander: ya puede empezar la partida.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_5	En la esquina inferior derecha de la pantalla hay tres pestañas: estructuras básicas, estructuras avanzadas y habilidades de Commander.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_6	A la derecha del minimapa está el botón del árbol de tecnologías. Haz click en él.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_7	El árbol de tecnologías muestra todas las investigaciones y mejoras que ya se compraron, se están comprando o aún no se compraron. Como ves, no empezamos con mucho.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_8	La única forma de arreglarlo es gastar muchos recursos. Cierra el árbol.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_9	Uno de tus Marines está pidiendo órdenes. Haz click en el ícono de notificación a la derecha de la pantalla para ir a su ubicación.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_10	Queremos construir un Extractor en este cuarto, pero primero hay que traer energía. Selecciona el Nodo de energía sin colocar.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_11	Fíjate que al colocar el plano también se colocó el Nodo de energía de este cuarto. Es buena costumbre construir primero el Nodo de energía, porque es gratis.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_12	En cambio, una vez que empieza la construcción de una estructura, ese dinero queda gastado y no se recupera por completo si los Aliens atacan de repente.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_13	Coloca ahora el plano del Extractor para el grupo en Logistics.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_14	¡Están atacando a un Marine!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_15	¡Un Alien mató al constructor y está destruyendo el Extractor! Por suerte hay refuerzos en camino.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_16	El Extractor se salvó, pero uno de nuestros soldados está herido. Suéltale un Med pack.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_17	Este Marine estaba muy herido y necesita un Med pack más para volver a tener la salud completa.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_18	Bien. Aunque ya está curado del todo, su armadura sigue dañada, así que no será tan efectivo en combate. Una forma de reparar la armadura es con un soldador.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_19	Necesitamos un Armory para conseguir soldadores. Construye un Armory en la base principal.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_20	Bien, ese Marine ya puede reparar a su compañero y la torre de recursos dañada.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_21	Ahora deberíamos construir un Observatory en la base principal como línea de defensa extra.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_22	Parece que todos nuestros soldados están en otras partes del campo de batalla, ¡y ese Observatory no se va a construir solo!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_23	Como Commander, puedes salir de la Command Station en cualquier momento.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_24	Pero ten en cuenta que al salir de la Command Station ya no puedes apoyar a tu equipo ni usar habilidades de Commander, ¡y eso a veces decide la partida! Úsalo con moderación.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_25	¡Excelente, ahora los veremos venir desde lejos! Vuelve a la Command Station.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_26	Los dos Marines del lado izquierdo del mapa están listos para asegurar más territorio. Síguelos.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_27	Los Marines del lado izquierdo hacen bien en mantener su posición hasta estar curados. Suéltales Med packs.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_28	Este cuarto parece seguro. Haz que tus Marines construyan otro Extractor aquí. ¡Nunca sobran Extractors!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_29	Este territorio queda bastante lejos de la base. Deberíamos conectar los dos cuartos con un par de portales de fase.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_30	Parece que necesitamos una tecnología previa para construir portales de fase. Selecciona el Observatory de la base principal e investiga "Tecnología de fase"	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_31	¡Están atacando Repair Room! ¡Suelta Med packs para mantenerlos con vida!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_32	Estuvo cerca. Al menos nos queda un soldado en el cuarto para construir un portal de fase. Cúralo con Med packs si hace falta.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_33	La tecnología de fase terminó de investigarse. Coloca el plano del portal de fase en Repair.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_34	Los portales de fase funcionan conectándose con otros portales de fase. Tendremos que construir uno también en la base para que este tenga con qué conectarse.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_35	No hace falta que salgas de la Command Station. El Marine que murió en Repair renació y está construyendo el portal. Evita salir de la Command Station siempre que puedas.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_36	Bien. Ahora nuestras tropas pueden viajar al instante entre la base principal y Repair Room.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_37	A los Marines de Observation les queda poca munición. Suéltales paquetes de munición para reabastecerlos.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_38	Estuvo cerca. Tenemos que equipar mejor a nuestros soldados. Coloca el plano de un Arms Lab en la base principal.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_39	Mientras se construye, deberíamos curar a ese Marine solitario que aguanta la línea en Observation. Siempre que te alcance, trata de mantener a tus Marines con la salud completa.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_40	Selecciona el Arms Lab y empieza la mejora "Armadura 1". Dará más protección a nuestros soldados.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_41	¡Están atacando Repair Room! Prueba usar la barra espaciadora para ir a la alerta.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_42	Como pensamos mantener este cuarto por un buen rato, quizá salga más barato construir aquí un Armory para los Marines que gastar el dinero en Med packs y paquetes de munición.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_43	Construye un Armory en Repair Room.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_44	Estos dos Marines deberían poder mantener este cuarto sin supervisión del Commander por un rato.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_45	La mejora Armadura 1 acaba de terminar. Deberíamos empezar a mejorar las armas de inmediato. Selecciona el Arms Lab y mejora "Armas 1" ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_46	Commander, los Marines de Observation están listos para avanzar. Ayúdalos.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_47	Hay bastantes Aliens atacando esta parte del mapa. ¿Tendrán un túnel cerca?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_48	Como tenemos un Observatory, podemos escanear cualquier lugar del mapa. Escanea el cuarto de adelante para ver qué tienen los Aliens.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_49	¡No! Es mucho peor que un túnel: ¡los Aliens tienen una Hive en Elevator Transfer!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_50	Coloca el plano de un portal de fase en Observation: vamos a construir una base avanzada aquí.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_51	Ahora colócales un Armory, como hicimos en Repair.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_52	Uno de los jugadores pide escopetas, que son mucho más potentes a corta distancia que el Rifle. Selecciona el Armory e investiga las escopetas ahora.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_53	Bien. Ahora pensemos cómo vamos a destruir esta Hive.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_54	Una opción es simplemente entrar a los tiros. Pero con tan pocos Marines y tantos Aliens, es poco probable que funcione.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_55	Por suerte, tenemos otra opción. Construye una Robotics Factory en la base avanzada.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_56	Selecciona la Robotics Factory y mejórala a ARC Factory.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_57	Los ARCs pueden disparar a través de las paredes a corta distancia, ¡así que ni siquiera hace falta entrar al cuarto para destruir esa Hive!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_58	Construye un ARC en nuestra nueva ARC Factory.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_59	Aunque los ARCs disparan a través de las paredes, igual necesitan que alguien les marque los objetivos. Podríamos escanear el cuarto una y otra vez, pero a la larga sale más barato construir un Observatory cerca.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_60	Bien, ahora selecciona el ARC y despliégalo en modo de disparo.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_61	Mmm... algo anda mal. Hace rato que no vemos ningún Alien. ¿Qué estarán tramando?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_62	¡Viene un ataque en masa a la base! ¡Mira tu mapa!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_63	Hay que traer a todas las tropas de vuelta para enfrentar esto. Selecciona el Observatory y usa la habilidad "Beacon de emergencia".	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_64	Mantener la calma está muy bien, pero de verdad podrías hacer más para proteger la base.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_65	¡Buen trabajo! ¡Ahora vamos a acabar con esa Hive!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_66	Buen trabajo... al final.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_67	Ahora sugiero que acabemos con esa Hive, si no es mucho pedir.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_68	¡Buen trabajo! ¡Los Aliens fueron derrotados!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_69	Ahora haz click en el botón "Colocar Nodo de energía" del panel de comandos.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_70	Bien. Ahora crea el plano de un Extractor sobre el nodo de recursos.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_71	De verdad deberías volver a la Command Station.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_72	Por cierto, este no es el easter egg. Solo estás rompiendo el ritmo del tutorial, y eso me pone triste. ¡Vuelve a la Command Station!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_73	Armas 1 acaba de terminar de investigarse. Deberíamos empezar la siguiente mejora enseguida.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_74	Aquí podemos construir una pieza de artillería especial llamada ARC. Los ARCs solo atacan estructuras, ¡pero pueden disparar a través de las paredes!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_75	¡Estás moviendo el ARC para el lado equivocado! Ya estaba en un buen lugar, donde se construyó. Llévalo de vuelta adonde están los Marines.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_76	No hace falta meter el ARC en la base enemiga: puede bombardear la Hive a través de la pared. Llévalo de vuelta adonde están los Marines.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_77	Felicitaciones, descubriste que el tutorial en realidad no te deja perder. Estamos todos muy impresionados con lo listo que eres; ahora, ¿podrías seguir, por favor?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_78	Con esto termina tu entrenamiento formal como Commander, soldado. Ten en cuenta que aún queda mucho por aprender, y lo irás aprendiendo en el campo. Buena suerte. Puede retirarse.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_1	Escanea el cuarto llamado "Elevator Transfer".	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_2	Es el del lado derecho del mapa, justo al norte de los dos Marines.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_3	Sabes lo que significa "norte", ¿verdad?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_4	Y supongo que "lado derecho" tampoco te queda grande, ¿no?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_5	...¿y "dos"? ¿Voy... voy demasiado rápido?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_6	Bueno, probemos desde otro ángulo...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_7	Abajo...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_8	Izquierda...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_9	Derecha...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_10	Arriba...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_11	¿Me estás escuchando?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_12	Bueno, probemos otra cosa...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_13	Helado...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_14	¡TE QUEMAS!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_15	Más caliente...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_16	Más frío...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_17	Te juro que esto sería mucho más entretenido si no te hubiera dado ya instrucciones explícitas de adónde te estoy mandando...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_18	Es increíble que hayas logrado encontrar el mouse y el teclado, ni hablar de abrir el juego.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_19	Quizá solo eres joven y tonto...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_20	Esta no es una tontería común y corriente... esto es... tontería AVANZADA...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_21	¿No? Bueno, ¿qué tal "¡El nivel de tontería aquí es demasiado alto!"?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_22	¡¿X QUÉ NO escaneas la zona correcta, tonto?!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_23	Bueno, parece que usar memes viejos tampoco me sirve para llegar a ti...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_24	En serio, me quedé sin ideas.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_25	Dale... ¡sigue escaneando! ¡Yo NO QUIERO que escanees "Elevator Transfer"!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_26	¿Alguna vez funcionó de verdad la psicología inversa? Solo... tengo curiosidad.	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_27	Con la cantidad de escaneos que hiciste, es sorprendente que aún no hayas descubierto el tesoro. El... tesoro... perdido... del Gorge... ...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_28	Bueno, no hay ningún tesoro... lo inventé...	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_29	En serio... ¡no existe!	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_EASTER_EGG_30	Ay, por... ¡ESTÁ BIEN! Aquí tienes tu maldito tesoro. ¿Ahora podrías escanear "Elevator Transfer" para que podamos seguir?	OK		
+TUTORIAL_SILVER_COMMANDER_MARINE_SHOTGUNS_PLZ	escopetas plz!!!!	OK		
+TUTORIAL_SILVER_COMMANDER_SCAN	Escanear el cuarto	OK		
+TUTORIAL_SILVER_COMMANDER_SELECT_DRIFTER	Seleccionar Drifter	OK		
+TUTORIAL_SILVER_COMMANDER_SELECT_WHIP	Seleccionar Whip	OK		
+TUTORIAL_SILVER_RESEARCH_ARMOR_1	Investigar Armadura 1	OK		
+TUTORIAL_SILVER_RESEARCH_ARMOR_2	Investigar Armadura 2	OK		
+TUTORIAL_SILVER_RESEARCH_PHASE_TECH	Investigar tecnología de fase	OK		
+TUTORIAL_SILVER_RESEARCH_SHOTGUNS	Investigar escopetas	OK		
+TUTORIAL_SILVER_RESEARCH_WEAPONS_1	Investigar Armas 1	OK		
+TUTORIAL_SILVER_RESEARCH_WEAPONS_2	Investigar Armas 2	OK		
+TUTORIAL_SILVER_SHOW_TECH_MAP	Mostrar árbol de tecnologías (mantener)	OK		
+TUTORIAL_SILVER_UPGRADE_TO_ARC_FACTORY	Mejorar a ARC Factory	OK		
+TUTORIAL	TUTORIAL	OK		
