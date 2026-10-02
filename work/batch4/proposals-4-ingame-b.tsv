@@ -1,0 +1,194 @@
+NO_MEDAL	Sin medalla		
+NOCTURNE_BUNDLE_MSG	Tienes un Paquete Nocturne en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Nocturne?		
+NOCTURNE_BUNDLE_TITLE	¡Paquete Nocturne disponible!		
+OPEN_NOCTURNE_BUNDLE	ABRIR UN PAQUETE		
+OBJECTIVE_PROGRESS	%{name}s de %{location}s %{health}d%%		
+OBSERVATORY_BEACON_TO_HINT	Beacon a %s		
+OK	Ok		
+ON	ACTIVADO		
+OPTIMIZE_CONFIRM	Aceptar		
+PHASE_GATE_HINT_TO_LOCATION	Teletransporte a %s		
+PHYSX_GPU_ACCELERATION	ACELERACIÓN POR GPU PHYSX		
+PLAYER	JUGADOR		
+PLAYER_NAME	NOMBRE DE JUGADOR		
+PLAYER_PROFILE	PERFIL DE JUGADOR		
+PLAYERS	JUGADORES		
+PLAYER_COUNT_WARNING	El servidor al que te vas a conectar tiene más de 24 jugadores. Natural Selection 2 ha sido diseñado para tener una experiencia óptima con un máximo de 24 jugadores. En servidores con límites de jugadores mayores de 24 no podemos garantizar un rendimiento aceptable o jugabilidad equilibrada.		
+POWERPOINT_NOSTRUCTURES_TOOLTIP	NINGUNA ESTRUCTURA REQUIERE ENERGÍA		
+POWERPOINT_FINISHBUILD_TOOLTIP	PRIMERO TERMINA DE CONSTRUIR LAS ESTRUCTURAS - LINTERNA PARA FORZAR	CHECK	"FLASH TO OVERRIDE": I read it as "press the flashlight key to build anyway".
+POWER_BUILT	%{location}s (%{percentage}d%% Construido)		
+POWER_HEALTH	%{location}s (%{percentage}d%% Salud)		
+POWER_LOST	Energía perdida en %s	FIX	The English names the room's power, not the node; no "Power Node" left in English.
+POWER_POINT_UNDER_ATTACK	Nodo de energía de %s bajo ataque	FIX	Nodo de energía per batch 3.
+POWER_RESTORED	Energía restaurada en %s	FIX	Same as POWER_LOST.
+PRECACHING	PRECARGANDO		
+PREV	Ant.		
+PRODUCTION_COMPLETED	Completado: %s		
+PRODUCTION_LOST	Perdido: %s		
+PRODUCTION_STARTED	Comenzado: %s		
+QUICK_JOIN	PARTIDA RÁPIDA		
+QUIT	Salir		
+QUIT_CAPS	SALIR		
+QUIT_GAME	SALIR DEL JUEGO		
+RACE_GHOST	Competir contra un fantasma	CHECK	Skulk challenge: racing a recorded run.
+RACE_LAST_GHOST	Competir contra tu último fantasma		
+RANK	Rango		
+RAW_INPUT	ENTRADA DIRECTA	CHECK	Mouse "raw input" option; could stay "RAW INPUT".
+REAPER_BUNDLE_TITLE	¡Paquete Reaper disponible!		
+REAPER_BUNDLE_MSG	Tienes un Paquete Reaper en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Reaper?		
+OPEN_REAPER_BUNDLE	ABRIR UN PAQUETE		
+RECYCLED_STRUCTURE	%s (Reciclado)		
+REFRESH	Actualizar		
+RELATIVE_SKILL	habilidad relativa		
+RESEARCH_DUAL_EXOS	Investigar Exos dobles	FIX	investigar, never desarrollar; "dobles", as in the batch 3 exo lines.
+RESOURCES	RECURSOS (RES)		
+RESOURCES_ADDED	+%d recursos		
+RESOURCE_ADDED	+1 recurso		
+RESOURCE_TOWERS	Torres de recursos	CHECK	Covers both Extractors and Harvesters, so "Extractores" was wrong for aliens.
+RETRY	Reintentar		
+RETRY_SOLO	Reintentar solo		
+RETURN_TO_BASE	¡Zona exclusiva! ¡Retírate de inmediato!	FIX	Tú, not usted; opening "¡".
+REVERSE_MOUSE	MOUSE INVERTIDO	FIX	mouse, never ratón.
+RIGHT_MOUSE_BUTTON	Botón derecho del mouse	FIX	mouse, never ratón.
+RIGHT_SHIFT	Mayús. der.		
+SANDBOX	SANDBOX		
+SEARCHING	Buscando		
+SLOWDRIVE_WARNING_TITLE	Advertencia: ¡disco lento detectado!		
+SLOWDRIVE_WARNING_WINDOW	Detectamos que quizá estás usando un disco duro lento. ¡Puedes tener tiempos de carga largos y desconexiones por tiempo de espera!		
+SERVER_PERF_LOADED	Exigido	CHECK	Left open in batch 2: server performance one step below good ("Stressed").
+SILENCE	Silencio		
+SILENCE_TOOLTIP	No haces ruido al moverte o atacar.		
+SKULK_CHALLENGE_1	Desafío de Skulk (Tram)		
+SKULK_CHALLENGE_DEATH	¡MORISTE!		
+SKULK_CHALLENGE_GO	¡YA!	FIX	Was left as "GO!".
+SKULK_CHALLENGE_FINISH	¡META!		
+SKULK_CHALLENGE_NEW_PERSONAL_BEST	¡NUEVO\nRÉCORD\nPERSONAL!		
+SKULK_CHALLENGE_TIP_1	Salta por las paredes para aumentar muchísimo tu velocidad.		
+SKULK_CHALLENGE_TIP_2	Trata de tocar el suelo lo menos posible para no perder velocidad.		
+SKULK_CHALLENGE_TIP_3	Gana mucha velocidad encadenando varios saltos de pared.		
+SKULK_CHALLENGE_TIP_4	Puedes mantener presionado %s para dejar de pegarte a las paredes, lo cual te frena.		
+SKULK_EGG	Huevo de Skulk		
+SPAWNING	Estás renaciendo		
+STAB_TOOLTIP	El Fade usa ambas garras para dar un golpe poderoso.	FIX	"más potente" compared with nothing; English says "a powerful strike".
+STARTING_IN	La partida comenzará en %s segundos...		
+STARTING_LOCAL_SERVER	INICIANDO SERVIDOR LOCAL		
+START_COMMANDING	Entrar a modo Commander		
+START_GAME	Comenzar la partida contigo como Commander		
+START_SERVER	CREAR SERVIDOR		
+START_VOTE	COMENZAR VOTACIÓN		
+STATUS_COMMANDER	Commander		
+STATUS_DEAD	Muerto		
+STATUS_EMBRYO	Embrión		
+STATUS_EVOLVING	Evolucionando		
+STATUS_EXO	Exo		
+STATUS_FADE	Fade		
+STATUS_FLAMETHROWER	FT		
+STATUS_SMG	SMG		
+STATUS_GORGE	Gorge		
+STATUS_GRENADE_LAUNCHER	GL		
+STATUS_HMG	MG		
+STATUS_JETPACK	JP		
+STATUS_LERK	Lerk		
+STATUS_ONOS	Onos		
+STATUS_RIFLE	Rifle		
+STATUS_SHOTGUN	Escopeta		
+STATUS_SKULK	Skulk		
+STATUS_SPECTATOR	Espectador		
+STATUS_VOID	 		
+SWITCH_AX	Cambiar a hacha	FIX	"Switch Ax" is an action; the file had only "Hacha".
+TARGET	Objetivo		
+TEAMS_BALANCED	Autoequilibrado de equipos desactivado		
+TEAMS_UNBALANCED	Autoequilibrado de equipos activado		
+TEAM_ALIENS_CONCEDED	Los Aliens se han rendido.	FIX	Aliens capitalized.
+TEAM_KILLS	Bajas del equipo		
+TEAM_MARINES_CONCEDED	Los Marines se han rendido.	FIX	Marines capitalized.
+TEAM_RES	RES DE EQUIPO: %d		
+TEAM_RESOURCES	Recursos del equipo		
+TECHPOINT_BUILT	Construido	FIX	No accent on construido.
+TECHPOINT_DESTROYED	Destruido	FIX	No accent on destruido.
+TECHPOINT_FINISHED	Finalizado		
+TECHPOINT_GROWN	Completado		
+TECHPOINT_UNCLAIMED	Sin dueño		
+TEMPORAL_AA_NAME	ACTIVADO		
+TIME	Tiempo		
+TIP	CONSEJO		
+TOP_SPEED	Velocidad máxima		
+TRAINING	Entrenamiento		
+TRY_ANOTHER_SERVER	PROBAR OTRO SERVIDOR		
+TUNDRA_BUNDLE_MSG	Tienes un Paquete Tundra en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Tundra?		
+TUNDRA_BUNDLE_TITLE	¡Paquete Tundra disponible!		
+OPEN_TUNDRA_BUNDLE	ABRIR UN PAQUETE		
+TUNNEL_ENTRANCE_HINT_TO_LOCATION	Atajo hacia %s		
+TUNNEL_ENTRANCE_OWNER	Túnel de Gorge de %s		
+TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	Túnel de Gorge de %s		
+TUNNEL_LIMIT_ONE_PER_HIVE	Otra Hive		
+TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	¡Necesitas otra Hive para construir más túneles!		
+UNBOUND	¡SIN ASIGNAR!		
+UNBUILT_POWER_NODE	Presiona %s para construir y dar energía a las estructuras cercanas	FIX	presiona, not pulsa; "power" as energy.
+UNBUILT_STRUCTURE	%s (Sin construir)		
+UPDATE	ACTUALIZAR		
+VENT_ENTRANCE	Aquí puedes entrar a un conducto de ventilación. Los Aliens usan los conductos de ventilación para esquivar a los Marines y viajar rápido entre dos lugares		
+VIEW_REPLAY	Ver repetición		
+VORTEX	Vórtice	CHECK	Not in the glossary; translated under the new rule.
+VORTEX_TOOLTIP	Crea un portal al que el Fade se teletransporta de vuelta en su primer ataque.	FIX	"back" and "first attack" restored.
+VS_BOTS	CONTRA BOTS		
+WAITING_TO_SPAWN	Esperando a renacer...		
+WARMUP_ACTIVE	Modo de calentamiento activo hasta que %s jugadores se unan a los equipos		
+WHIP_BOMBARD_HINT	Defensa bombardera		
+WIKI_BUTTON_TOOLTIP	Ver la wiki de Natural Selection 2		
+YES	SÍ		
+PISTOL_BUYDESCRIPTION	Arma semiautomática y precisa, excelente para eliminar objetivos a distancia.		
+RIFLE_BUYDESCRIPTION	Rifle automático estándar, efectivo tanto contra estructuras como contra formas de vida.		
+SHOTGUN_BUYDESCRIPTION	Arma de menor alcance que hace un potente daño de ráfaga.		
+GRENADELAUNCHER_BUYDESCRIPTION	Arma de asedio de largo alcance que demuele estructuras enemigas con facilidad, pero es vulnerable al contraataque de las formas de vida.		
+FLAMETHROWER_BUYDESCRIPTION	Arma de apoyo demoledora que devasta y desactiva estructuras enemigas, y además disuade muy bien a corta distancia.		
+HMG_BUYDESCRIPTION	Arma de largo alcance con un gran tambor de munición, ideal para destrozar formas de vida.		
+AXE_BUYDESCRIPTION	Herramienta cuerpo a cuerpo de corto alcance, ideal para golpear estructuras enemigas.		
+WELDER_BUYDESCRIPTION	Reemplaza al hacha y permite reparar estructuras dañadas y la armadura de los jugadores.		
+GASGRENADE_BUYDESCRIPTION	Contiene compuestos gaseosos antibacterianos que quitan rápidamente la armadura de jugadores y estructuras enemigas.		
+CLUSTERGRENADE_BUYDESCRIPTION	Cargada con explosivos antiestructura que hacen rápidamente un daño moderado a las estructuras enemigas.		
+PULSEGRENADE_BUYDESCRIPTION	Emite un gran pulso eléctrico que electrifica a los jugadores enemigos por un momento y reduce mucho su velocidad de ataque.		
+MINES_BUYDESCRIPTION	Coloca una mina de proximidad que explota sola cuando un enemigo se acerca y hace un daño moderado. Eso sí, se puede destruir a distancia.		
+JETPACK_BUYDESCRIPTION	Equipo especial para el Marine estándar de la TSF: permite vuelos cortos y da una movilidad excepcional.		
+DUALRAILGUN_BUYDESCRIPTION	Ofrece mucha armadura pero poca movilidad. Las Railguns hacen un daño de ráfaga enorme a larga distancia, pero es vulnerable a los enjambres de enemigos.		
+DUALMINIGUN_BUYDESCRIPTION	Ofrece mucha armadura pero poca movilidad. Las dos Miniguns hacen un daño sostenido impresionante, especialmente efectivo contra la armadura.		
+STEAMLOBBYCREATE_OK	Sala creada correctamente.		
+STEAMLOBBYCREATE_FAIL	El servidor tuvo un error interno desconocido.		
+STEAMLOBBYCREATE_NOCONNECTION	Tu cliente de Steam no tiene conexión con los servidores.		
+STEAMLOBBYCREATE_ACCESSDENIED	Tu juego no está configurado para permitir salas, o tu cliente no tiene permiso para jugar al juego.		
+STEAMLOBBYCREATE_TIMEOUT	Los servidores de Steam no respondieron a tiempo.		
+STEAMLOBBYCREATE_LIMITEXCEEDED	Tu cliente creó demasiadas salas y está siendo limitado.		
+UPDATING_MODS	Actualizando mods		
+DEATHSCREEN_LEFTLABEL_TOP_PREFIX	FUISTE	CHECK	Three stacked labels: YOU WERE / KILLED / BY:
+DEATHSCREEN_LEFTLABEL_TOP	ELIMINADO	CHECK	Same.
+DEATHSCREEN_LEFTLABEL_BOTTOM	POR:		
+DEATHSCREEN_RIGHTLABEL_TOP	CON:		
+DEATHSCREEN_SELFKILL_TITLE	Selección natural		
+DEATHSCREEN_SKIPTEXT_PREFIX	Click para omitir...		
+WHIP_ABILITY	Salpicadura de bilis	CHECK	CBM Whip ability, translated like Bomba de Bilis.
+WHIP_ABILITY_TOOLTIP	Salpica de bilis a los enemigos cercanos. Hace entre 1.25 y 2 veces el daño completo de una bomba de bilis		
+SMG	SMG		
+SMG_BUYDESCRIPTION	Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.		
+RESEARCH_SMG	Investigar subfusiles.	CHECK	Submachine gun: "subfusil", with "SMG" kept as the short name.
+RESEARCH_SMG_TITLE	Subfusil	CHECK	Same.
+SMG_TOOLTIP	Permite comprar SMG en los Armories.		
+SMG_DROP	Soltar subfusil	CHECK	Same.
+SCAN_GRENADE	Granada de escaneo		
+SCAN_GRENADE_TOOLTIP	Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa		
+SCANGRENADE_BUYDESCRIPTION	Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa		
+RESEARCH_SCAN_GRENADES	Granadas de escaneo		
+SCAN_GRENADES_TOOLTIP	Permite comprar granadas de escaneo en los Armories.		
+RESEARCH_SCAN_GRENADES_TITLE	Granadas de escaneo		
+UPGRADE_OBSERVATORY	Mejorar a Advanced Observatory		
+UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la salud.		
+ADVANCED_OBSERVATORY_HINT	Detecta Aliens		
+ADVANCED_OBSERVATORY_TOOLTIP	Detecta enemigos cercanos.		
+ADVANCED_OBSERVATORY	Advanced Observatory		
+RESEARCH_ADVANCED_OBSERVATORY_TITLE	Advanced Observatory		
+CARGO_GATE_HINT	Teletransporte de Exotrajes		
+CARGO_GATE	Cargo Gate	CHECK	CBM building, not in the glossary: kept in English like the other buildings.
+CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Cargo Gate.		
+CARGO_GATE_HINT_TO_LOCATION	Teletransporte a %s		
+CARGO_TECH	Tecnología de Cargo Gate		
+CARGO_TECH_TOOLTIP	Desbloquea la tecnología de Cargo Gate.		
+RESEARCH_CARGO_TECH_TOOLTIP	Cargo Gate		

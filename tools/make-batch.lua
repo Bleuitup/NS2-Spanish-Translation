@@ -26,6 +26,21 @@ local batches = {
                     "BOOTCAMP", "CHALLENGE", "COMMANDER_TUT", "HIVE_CHALLENGE" },
         tooltipsOfCodeKeys = true,
     },
+    [4] = { -- The rest of the in-game text: everything not done in batches 1 to 3 and not held back
+            -- for batches 5 to 8 (same exclusions as batch 3). Grouped by key prefix for the reviewer.
+        { "Achievements", { "NEW_ACHIEVEMENT" } },
+        { "Events and alerts", { "EVT_", "COMMANDERERROR", "MARINE_ALERT", "ALIEN_ALERT" } },
+        { "Requests and voice", { "REQUEST" } },
+        { "Buy menu and weapons", { "BUYMENU", "WEAPON_", "ABM_", "BMAC" } },
+        { "Bots", { "BOT_" } },
+        { "Infested", { "INFESTED" } },
+        { "Welcome, missions and feedback", { "WELCOME", "MISSION", "FEEDBACK", "ROOKIE" } },
+        { "In-game text", {} },
+        catchAll = "In-game text",
+        exclude = { "HELP", "EXO", "TIPVIDEO", "LOADING", "TIP_", "ITEM", "BADGE", "CALLINGCARD", "CUSTOMIZE",
+                    "STICKY", "SHOULDER", "SKIN", "BUY_", "THUNDERDOME", "TD_", "GMTD", "TUTORIAL", "TUT_", "TUT",
+                    "BOOTCAMP", "CHALLENGE", "COMMANDER_TUT", "HIVE_CHALLENGE" },
+    },
 }
 local def = assert(batches[n], "no definition for batch " .. n)
 
@@ -60,6 +75,7 @@ local function sectionOf(k)
     if refs[k] then
         for _, s in ipairs(def) do if s[3] then return s[1] end end -- code keys go to the flagged section
     end
+    return def.catchAll
 end
 
 local rows, rank = {}, {}

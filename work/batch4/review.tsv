@@ -1,0 +1,774 @@
+Achievements	NEW_ACHIEVEMENT_1_1_NAME	Combat Engineer	Ingeniero de Combate	Ingeniero de combate	Fixed	FIX	Capitals per the style guide (no Title Case).	
+Achievements	NEW_ACHIEVEMENT_1_1_DESC	Build 10 Extractors in 1 round	Construye 10 extractors en 1 ronda	Construye 10 Extractors en 1 ronda	Fixed	FIX	Extractor capitalized, as in the glossary.	
+Achievements	NEW_ACHIEVEMENT_1_2_NAME	The Doctor is In		El doctor está de turno	New	CHECK	Achievement name, free translation.	
+Achievements	NEW_ACHIEVEMENT_1_2_DESC	Weld your team mates 10 times in 1 round		Repara a tus compañeros con el soldador 10 veces en 1 ronda	New	CHECK	"Weld" as a verb: reparar con el soldador.	
+Achievements	NEW_ACHIEVEMENT_1_3_NAME	First Class Post		Correo de primera clase	New	CHECK	Achievement name, free translation.	
+Achievements	NEW_ACHIEVEMENT_1_3_DESC	Use a Phase Gate	Usa una Phase Gate	Usa un portal de fase	Fixed	FIX	Phase Gate is "portal de fase" in the glossary.	
+Achievements	NEW_ACHIEVEMENT_1_4_NAME	Mood Lighting		Luz ambiental	New	CHECK	Achievement name, free translation.	
+Achievements	NEW_ACHIEVEMENT_1_4_DESC	Weld a Power Node		Repara un Nodo de energía con el soldador	New			length: 41 chars vs 17 in English
+Achievements	NEW_ACHIEVEMENT_1_5_NAME	Repairman		Técnico de reparaciones	New			length: 23 chars vs 9 in English
+Achievements	NEW_ACHIEVEMENT_1_5_DESC	Weld 5 Power Nodes in 1 round	Weldea 5 Power Nodes en una ronda	Repara 5 Nodos de energía con el soldador en 1 ronda	Fixed	FIX	Was "Weldea 5 Power Nodes".	length: 52 chars vs 29 in English
+Achievements	NEW_ACHIEVEMENT_1_6_NAME	They Just Keep Coming	Ellos siguen viniendo	No paran de venir	Fixed	FIX	More natural than "Ellos siguen viniendo".	
+Achievements	NEW_ACHIEVEMENT_1_6_DESC	Kill a Skulk	Mata a un Skulk	Mata a un Skulk	Kept			
+Achievements	NEW_ACHIEVEMENT_1_7_NAME	Economic Sabotage		Sabotaje económico	New			
+Achievements	NEW_ACHIEVEMENT_1_7_DESC	Kill a Gorge	Mata a un George	Mata a un Gorge	Fixed	FIX	Was "George".	
+Achievements	NEW_ACHIEVEMENT_1_8_NAME	Air Defense	Defensa Aerea	Defensa aérea	Fixed	FIX	Accent and capitals.	
+Achievements	NEW_ACHIEVEMENT_1_8_DESC	Kill a Lerk	Mata a un Lerk	Mata a un Lerk	Kept			
+Achievements	NEW_ACHIEVEMENT_1_9_NAME	Asymmetrical Combat		Combate asimétrico	New			
+Achievements	NEW_ACHIEVEMENT_1_9_DESC	Kill a Fade	Mata a un Fade	Mata a un Fade	Kept			
+Achievements	NEW_ACHIEVEMENT_1_10_NAME	Big Game Hunter		Caza mayor	New			
+Achievements	NEW_ACHIEVEMENT_1_10_DESC	Kill an Onos	Mata a un Onos	Mata a un Onos	Kept			
+Achievements	NEW_ACHIEVEMENT_1_11_NAME	Strategic Thinking		Pensamiento estratégico	New			
+Achievements	NEW_ACHIEVEMENT_1_11_DESC	Follow 5 Commander’s order in 1 rounds	Sigue 5 ordenes del Commander en 1 ronda	Sigue 5 órdenes del Commander en 1 ronda	Fixed	FIX	Accent on órdenes.	
+Achievements	NEW_ACHIEVEMENT_1_12_NAME	Security Detail	Detalle de Seguridad	Escolta de seguridad	Fixed	FIX	"Security detail" is a guard team, not a detail (detalle).	
+Achievements	NEW_ACHIEVEMENT_1_12_DESC	Kill an Alien while defending an Extractor	Mata a un Alien mientras defiendes un Extractor	Mata a un Alien mientras defiendes un Extractor	Kept			
+Achievements	NEW_ACHIEVEMENT_1_13_NAME	Long Term Investments		Inversiones a largo plazo	New			
+Achievements	NEW_ACHIEVEMENT_1_13_DESC	Kill an Alien while defending an Extractor 5 times in a single round	Mata a un Alien mientras defiendes un Extractor 5 veces en una ronda	Mata a un Alien mientras defiendes un Extractor 5 veces en una sola ronda	Fixed	FIX	"una sola ronda", as in the other achievements.	
+Achievements	NEW_ACHIEVEMENT_1_14_NAME	Adam Smith		Adam Smith	New			
+Achievements	NEW_ACHIEVEMENT_1_14_DESC	Kill an Alien while defending an Extractor 10 times in a single round	Mata a un Alien mientras defiendes un Extractor 10 veces en una ronda	Mata a un Alien mientras defiendes un Extractor 10 veces en una sola ronda	Fixed	FIX	"una sola ronda", as in the other achievements.	
+Achievements	NEW_ACHIEVEMENT_1_15_NAME	Economics 101		Economía básica	New	CHECK	"Economics 101".	
+Achievements	NEW_ACHIEVEMENT_1_15_DESC	Kill a Harvester	Mata a un Harvester	Destruye un Harvester	Fixed	FIX	A structure is destroyed, not killed.	
+Achievements	NEW_ACHIEVEMENT_1_16_NAME	Dambuster		Rompepresas	New	CHECK	"Dambuster"; could stay in English.	
+Achievements	NEW_ACHIEVEMENT_1_16_DESC	Kill 5 Harvesters in a single round	Mata 5 Harvesters en una sola ronda	Destruye 5 Harvesters en una sola ronda	Fixed	FIX	Destroyed, not killed.	
+Achievements	NEW_ACHIEVEMENT_1_17_NAME	No Tech For You		Sin tecnología para ti	New			
+Achievements	NEW_ACHIEVEMENT_1_17_DESC	Kill 10 Harvesters in a single round	Mata 10 Harvesters en una sola ronda	Destruye 10 Harvesters en una sola ronda	Fixed	FIX	Destroyed, not killed.	
+Achievements	NEW_ACHIEVEMENT_1_18_NAME	Tag!		¡Te toqué!	New	CHECK	"Tag!" as in the children's game.	
+Achievements	NEW_ACHIEVEMENT_1_18_DESC	Parasite a Marine		Parasita a un Marine	New	CHECK	Verb for Parasite: parasitar.	
+Achievements	NEW_ACHIEVEMENT_1_19_NAME	I See Human Scum	Veo basura humana	Veo escoria humana	Fixed	FIX	"Scum" is escoria.	
+Achievements	NEW_ACHIEVEMENT_1_19_DESC	Parasite 10 Marines in a single round		Parasita a 10 Marines en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_1_20_NAME	Wall Hacks!		¡Wallhack!	New	CHECK	Cheat name, kept as players say it.	
+Achievements	NEW_ACHIEVEMENT_1_20_DESC	Parasite 20 Marines in a single round		Parasita a 20 Marines en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_1_21_NAME	Team Player		Jugador de equipo	New			
+Achievements	NEW_ACHIEVEMENT_1_21_DESC	Destroy an Extractor	Destruye un Extractor	Destruye un Extractor	Kept			
+Achievements	NEW_ACHIEVEMENT_1_22_NAME	Barking Dog		Perro que ladra	New	CHECK	"Barking Dog".	
+Achievements	NEW_ACHIEVEMENT_1_22_DESC	Destroy 5 Extractors in a single round		Destruye 5 Extractors en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_1_23_NAME	Rifles Only	Solo Rifles	Solo Rifles	Kept			
+Achievements	NEW_ACHIEVEMENT_1_23_DESC	Destroy 10 Extractors in a single round		Destruye 10 Extractors en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_1_24_NAME	Cultivation		Cultivo	New			
+Achievements	NEW_ACHIEVEMENT_1_24_DESC	Build a Hive as Gorge	Construye una Hive como George	Construye una Hive como Gorge	Fixed	FIX	Was "George".	
+Achievements	NEW_ACHIEVEMENT_1_25_NAME	Disarmament		Desarme	New			
+Achievements	NEW_ACHIEVEMENT_1_25_DESC	Kill a Marine who has a Shotgun	Mata a un Marine que tenga una Shotgun	Mata a un Marine que tenga una escopeta	Fixed	FIX	Shotgun is "escopeta" in the glossary.	
+Achievements	NEW_ACHIEVEMENT_1_26_NAME	Firefighter	Bombero	Bombero	Kept			
+Achievements	NEW_ACHIEVEMENT_1_26_DESC	Kill a Marine who has a Flamethrower	Mata a un Marine que tenga un Flamethrower	Mata a un Marine que tenga un lanzallamas	Fixed	FIX	Flamethrower is "lanzallamas" in the glossary.	
+Achievements	NEW_ACHIEVEMENT_1_27_NAME	Bomb Defusal		Desactivación de bombas	New			length: 23 chars vs 12 in English
+Achievements	NEW_ACHIEVEMENT_1_27_DESC	Kill a Marine who has a Grenade Launcher	Mata a un Marine que tenga un Grenade Launcher	Mata a un Marine que tenga un lanzagranadas	Fixed	FIX	Grenade Launcher is "lanzagranadas" in the glossary.	
+Achievements	NEW_ACHIEVEMENT_1_28_NAME	You're Walking Now	Estas caminando ahora	Ahora vas a pie	Fixed	FIX	The joke is that the pilot now has to walk.	
+Achievements	NEW_ACHIEVEMENT_1_28_DESC	Destroy an Exosuit	Destruye un Exosuit	Destruye un Exotraje	Fixed	FIX	Exotraje, per the batch 3 decisions.	
+Achievements	NEW_ACHIEVEMENT_1_30_NAME	Slimy		Baboso	New	CHECK	"Slimy".	
+Achievements	NEW_ACHIEVEMENT_1_30_DESC	Use a Gorge Tunnel	Usa un George Tunnel	Usa un túnel de Gorge	Fixed	FIX	Was "George Tunnel".	
+Achievements	NEW_ACHIEVEMENT_1_31_NAME	Battle Ready		Listo para la batalla	New			length: 21 chars vs 12 in English
+Achievements	NEW_ACHIEVEMENT_1_31_DESC	Evolve one Kharaa Upgrade		Evoluciona una mejora Kharaa	New			
+Achievements	NEW_ACHIEVEMENT_2_0_NAME	Unfair Advantage		Ventaja injusta	New			
+Achievements	NEW_ACHIEVEMENT_2_0_DESC	Evolve 3 Kharaa Upgrades		Evoluciona 3 mejoras Kharaa	New			
+Achievements	NEW_ACHIEVEMENT_2_1_NAME	They Came From Behind		Llegaron por la espalda	New			
+Achievements	NEW_ACHIEVEMENT_2_1_DESC	Kill a Marine after sneaking as Skulk		Mata a un Marine después de acercarte en sigilo como Skulk	New			
+Achievements	NEW_ACHIEVEMENT_2_2_NAME	Most Valued Xenomorph		Xenomorfo más valioso	New	CHECK	Plays on "Most Valuable Player".	
+Achievements	NEW_ACHIEVEMENT_2_2_DESC	Kill a Marine while defending a Harvester	Mata a un Marine mientras defiendes un Harvester	Mata a un Marine mientras defiendes un Harvester	Kept			
+Achievements	NEW_ACHIEVEMENT_2_3_NAME	Secure Investments		Inversiones seguras	New			
+Achievements	NEW_ACHIEVEMENT_2_3_DESC	Kill a Marine while defending a Harvester 5 times  in a single round	Mata a un Marine mientras defiendes un Harvester 5 veces en una sola ronda	Mata a un Marine mientras defiendes un Harvester 5 veces en una sola ronda	Kept			
+Achievements	NEW_ACHIEVEMENT_2_4_NAME	Patron Saint of Res		Santo patrono de los recursos	New			
+Achievements	NEW_ACHIEVEMENT_2_4_DESC	Kill a Marine while defending a Harvester 10 times  in a single round	Mata a un Marine mientras defiendes un Harvester 10 veces en una sola ronda	Mata a un Marine mientras defiendes un Harvester 10 veces en una sola ronda	Kept			
+Achievements	NEW_ACHIEVEMENT_2_5_NAME	Protip		Consejo de experto	New	CHECK	"Protip".	length: 18 chars vs 6 in English
+Achievements	NEW_ACHIEVEMENT_2_5_DESC	Kill a Marine with 2 bites and a parasite		Mata a un Marine con 2 mordidas y un parásito	New			
+Achievements	NEW_ACHIEVEMENT_2_6_NAME	Untouchable		Intocable	New			
+Achievements	NEW_ACHIEVEMENT_2_6_DESC	Kill a Marine while having full health	Mata a un Marine teniendo la vida llena	Mata a un Marine teniendo la salud completa	Fixed	FIX	Health is "salud" elsewhere in the file.	
+Achievements	NEW_ACHIEVEMENT_2_7_NAME	Demolitions		Demoliciones	New			
+Achievements	NEW_ACHIEVEMENT_2_7_DESC	Deal 7500 structure damage in a single round	Causa 7500 de daño a una estructura en una sola ronda	Causa 7500 de daño a estructuras en una sola ronda	Fixed	FIX	Damage to structures in general, not to one structure.	
+Achievements	NEW_ACHIEVEMENT_2_8_NAME	Bloodrage		Furia sangrienta	New			
+Achievements	NEW_ACHIEVEMENT_2_8_DESC	Deal 4000 player damage in a single round	Causa 4000 de daño a los jugadores en una sola ronda	Causa 4000 de daño a jugadores en una sola ronda	Fixed			
+Achievements	NEW_ACHIEVEMENT_2_9_NAME	Checkmate		Jaque mate	New			
+Achievements	NEW_ACHIEVEMENT_2_9_DESC	Deal the killing blow to a Hive or Command Station		Da el golpe final a una Hive o Command Station	New			
+Achievements	NEW_ACHIEVEMENT_2_10_NAME	‘Tis But a Scratch		Es solo un rasguño	New	CHECK	The Monty Python line.	
+Achievements	NEW_ACHIEVEMENT_2_10_DESC	Get healed with 1 health point		Recibe curación con 1 punto de salud	New			
+Achievements	NEW_ACHIEVEMENT_2_11_NAME	Quality Assurance		Control de calidad	New			
+Achievements	NEW_ACHIEVEMENT_2_11_DESC	Kill a developer	Mata a un Desarrollador	Mata a un desarrollador	Fixed	FIX	Lowercase.	
+Achievements	NEW_ACHIEVEMENT_2_12_NAME	Unsportsmanlike Conduct		Conducta antideportiva	New			
+Achievements	NEW_ACHIEVEMENT_2_12_DESC	Taunt after killing a player	Tauntea despues de matar a un jugador	Búrlate después de matar a un jugador	Fixed	FIX	Was "Tauntea".	
+Achievements	NEW_ACHIEVEMENT_2_13_NAME	Regicide		Regicidio	New			
+Achievements	NEW_ACHIEVEMENT_2_13_DESC	Kill the opposing team's Commander	Mata al Commandante del equipo opuesto	Mata al Commander del equipo contrario	Fixed	FIX	Was "Commandante".	
+Achievements	NEW_ACHIEVEMENT_2_14_NAME	No More Fancy Toys		Se acabaron los juguetes caros	New			length: 30 chars vs 18 in English
+Achievements	NEW_ACHIEVEMENT_2_14_DESC	Destroy 100 resources worth of enemy technology in a single round		Destruye tecnología enemiga por valor de 100 recursos en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_2_15_NAME	Burning Cash		Quemando dinero	New			
+Achievements	NEW_ACHIEVEMENT_2_15_DESC	Destroy 200 resources worth of enemy technology in a single round		Destruye tecnología enemiga por valor de 200 recursos en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_2_16_NAME	Recession		Recesión	New			
+Achievements	NEW_ACHIEVEMENT_2_16_DESC	Destroy 300 resources worth of enemy technology in a single round		Destruye tecnología enemiga por valor de 300 recursos en una sola ronda	New			
+Achievements	NEW_ACHIEVEMENT_2_17_NAME	First Adventure		Primera aventura	New			
+Achievements	NEW_ACHIEVEMENT_2_17_DESC	Complete both tutorials.	Completa ambos tutoriales	Completa ambos tutoriales.	Fixed	FIX	Final period, as in English.	
+Achievements	NEW_ACHIEVEMENT_2_18_NAME	Explorer	Explorador	Explorador	Kept			
+Achievements	NEW_ACHIEVEMENT_2_18_DESC	Use Play Now	Usa Play Now	Usa la partida rápida	Fixed	CHECK	"Play Now" is the old name of Quick Play.	length: 21 chars vs 12 in English
+Achievements	NEW_ACHIEVEMENT_2_19_NAME	TSF		TSF	New			
+Achievements	NEW_ACHIEVEMENT_2_19_DESC	Play a round as a Marine	Juega una ronda como Marine	Juega una ronda como Marine	Kept			
+Achievements	NEW_ACHIEVEMENT_2_20_NAME	Kharaa		Kharaa	New			
+Achievements	NEW_ACHIEVEMENT_2_20_DESC	Play a round as an Alien	Juega una ronda como un Alien	Juega una ronda como Alien	Fixed	FIX	Without "un", to match the Marine line.	
+Achievements	NEW_ACHIEVEMENT_2_21_NAME	Traveler		Viajero	New			
+Achievements	NEW_ACHIEVEMENT_2_21_DESC	Play on 3 different maps	Juega 3 mapas diferentes	Juega en 3 mapas diferentes	Fixed	FIX	Added "en".	
+Achievements	NEW_ACHIEVEMENT_2_22_NAME	Eat Your Greens		Cómete las verduras	New	CHECK	"Eat Your Greens".	
+Achievements	NEW_ACHIEVEMENT_2_22_DESC	Complete all new player missions	Completa todas las misiones de un jugador nuevo	Completa todas las misiones de jugador nuevo	Fixed	FIX	Tidier wording.	
+Achievements	NEW_ACHIEVEMENT_2_23_NAME	Darwin Award		Premio Darwin	New			
+Achievements	NEW_ACHIEVEMENT_2_23_DESC	Too determined to listen to good advice.		Demasiado decidido para escuchar buenos consejos.	New			
+Achievements	NEW_ACHIEVEMENT_2_24_NAME	Terminal Velocity Facepalm		Facepalm a velocidad terminal	New	CHECK	"Facepalm" kept; no good Spanish word.	
+Achievements	NEW_ACHIEVEMENT_2_24_DESC	For when a regular facepalm doesn't cut it...		Para cuando un facepalm común no alcanza...	New			
+Achievements	NEW_ACHIEVEMENT_2_25_NAME	New Recruit	Nuevo recluta	Nuevo recluta	Kept			
+Achievements	NEW_ACHIEVEMENT_2_25_DESC	Complete the Marine tutorial.		Completa el tutorial de Marine.	New			
+Achievements	NEW_ACHIEVEMENT_2_26_NAME	Fresh Larva	Larva fresca	Larva fresca	Kept			
+Achievements	NEW_ACHIEVEMENT_2_26_DESC	Complete the Alien tutorial.	Completa el tutorial de los Aliens	Completa el tutorial de Alien.	Fixed	FIX	Matches the Marine line; final period.	
+Achievements	NEW_ACHIEVEMENT_2_27_NAME	One Gorge's Treasure		El tesoro de un Gorge	New			
+Achievements	NEW_ACHIEVEMENT_2_27_DESC	Collect all 15 drop-able items.	Adquiere los 15 items dropeables	Consigue los 15 objetos que se pueden obtener al jugar.	Fixed	CHECK	"Drop-able items" are the cosmetic drops; was "items dropeables".	
+Achievements	NEW_ACHIEVEMENT_2_28_NAME	Unleashed		Desatado	New			
+Achievements	NEW_ACHIEVEMENT_2_28_DESC	Rattling the Cage reaps its own reward		Sacudir la jaula tiene su propia recompensa	New			
+Achievements	NEW_ACHIEVEMENT_2_29_NAME	Arcade Champion		Campeón del arcade	New			
+Achievements	NEW_ACHIEVEMENT_2_29_DESC	Spent some time playing arcade game modes		Pasaste un rato jugando modos de juego arcade	New			
+Achievements	NEW_ACHIEVEMENT_2_30_NAME	Old Recruit	Recluta viejo	Recluta veterano	Fixed	FIX	"Old Recruit" pairs with "New Recruit"; "viejo" reads as elderly.	
+Achievements	NEW_ACHIEVEMENT_2_30_DESC	Complete the Marine Commander tutorial.	Completa el tutorial de Commander Marine	Completa el tutorial de Commander Marine.	Fixed	FIX	Final period.	
+Achievements	NEW_ACHIEVEMENT_2_31_NAME	Clogbeard's Treasure		El tesoro de Barbaclog	New	CHECK	"Clogbeard", a pirate pun on Clog.	
+Achievements	NEW_ACHIEVEMENT_2_31_DESC	They say there's gorge treasure out there somewhere...		Dicen que hay un tesoro de Gorge por ahí en alguna parte...	New			
+Achievements	NEW_ACHIEVEMENT_3_0_NAME	Trust No-one		No confíes en nadie	New			
+Achievements	NEW_ACHIEVEMENT_3_0_DESC	I don't know what's in there, but it's weird and pissed off, whatever it is.		No sé qué hay ahí dentro, pero es raro y está furioso, sea lo que sea.	New	CHECK	Quote from The Thing.	
+Achievements	NEW_ACHIEVEMENT_3_1_NAME	It came from...behind		Llegó... por la espalda	New			
+Achievements	NEW_ACHIEVEMENT_3_1_DESC	Infest everybody and stay alive.		Infesta a todos y sigue con vida.	New			
+Achievements	NEW_ACHIEVEMENT_3_2_NAME	Sgt. MacReady		Sgto. MacReady	New			
+Achievements	NEW_ACHIEVEMENT_3_2_DESC	Be the last and only survivor against the Infestation		Sé el último y único sobreviviente contra la infestación	New			
+Achievements	NEW_ACHIEVEMENT_3_3_NAME	Higher Lifeform		Forma de vida superior	New			
+Achievements	NEW_ACHIEVEMENT_3_3_DESC	Complete the Alien Commander tutorial.		Completa el tutorial de Commander Alien.	New			
+Achievements	NEW_ACHIEVEMENT_3_4_NAME	The Last Straw		La gota que colmó el vaso	New			length: 25 chars vs 14 in English
+Achievements	NEW_ACHIEVEMENT_3_4_DESC	Gorges can only take so much...		Los Gorges solo pueden aguantar hasta cierto punto...	New			
+Events and alerts	ALIEN_ALERT_RESEARCH_CANCELLED	Research cancelled		Investigación cancelada	New			
+Events and alerts	COMMANDERERROR_BUILD_FAILED	Build failed.	Fallo de construcción.	Fallo de construcción.	Kept			length: 22 chars vs 13 in English
+Events and alerts	COMMANDERERROR_CANT_BUILD_ON_TOP	Can't build on entity.	No se puede construir sobre la entidad.	No se puede construir sobre la entidad.	Kept			length: 39 chars vs 22 in English
+Events and alerts	COMMANDERERROR_INFESTATION_REQUIRED	Place on infestation.	Se requiere infestación.	Se requiere infestación.	Kept			
+Events and alerts	COMMANDERERROR_INVALID_PLACEMENT	Invalid placement.	Lugar no válido.	Lugar no válido.	Kept			
+Events and alerts	COMMANDERERROR_MUST_WAIT	You must wait.	Tienes que esperar	Tienes que esperar.	Fixed	FIX	Final period, as in English and the other errors.	
+Events and alerts	COMMANDERERROR_NOT_ALLOWED_ON_INFESTATION	Not allowed on infestation.	No se permite sobre infestación.	No se permite sobre infestación.	Kept			
+Events and alerts	COMMANDERERROR_NO_EXIT	No exit.	Sin salida.	Sin salida.	Kept			
+Events and alerts	COMMANDERERROR_OUT_OF_RANGE	Out of range.	Fuera de rango.	Fuera de rango.	Kept			
+Events and alerts	COMMANDERERROR_TECH_NOT_AVAILABLE	Tech not available.	Tecnología no disponible.	Tecnología no disponible.	Kept			
+Events and alerts	COMMANDERERROR_TOO_MANY_ENTITIES	Can't build - too many entities.	No se puede construir - Demasiadas entidades.	No se puede construir: demasiadas entidades.	Fixed	FIX	Colon and lowercase in place of " - Demasiadas".	
+Events and alerts	COMMANDERERROR_TOO_MANY_UPGRADED_EGGS	Max 2 lifeform eggs per hive!		¡Máximo 2 huevos de forma de vida por Hive!	New			
+Events and alerts	EVT_ADVANCED_WEAPONRY_RESEARCHED	ADVANCED WEAPONRY RESEARCHED	ARMAMENTO AVANZADO DESARROLLADO	ARMAMENTO AVANZADO INVESTIGADO	Fixed	FIX	Research is "investigar", never "desarrollar" (style guide 4). Same for every line below.	
+Events and alerts	EVT_ARMOR_LEVEL_1_RESEARCHED	ARMOR LEVEL 1 RESEARCHED	ARMADURA DE NIVEL 1 DESARROLLADA	ARMADURA DE NIVEL 1 INVESTIGADA	Fixed	FIX	investigar.	
+Events and alerts	EVT_ARMOR_LEVEL_2_RESEARCHED	ARMOR LEVEL 2 RESEARCHED	ARMADURA DE NIVEL 2 DESARROLLADA	ARMADURA DE NIVEL 2 INVESTIGADA	Fixed	FIX	investigar.	
+Events and alerts	EVT_ARMOR_LEVEL_3_RESEARCHED	ARMOR LEVEL 3 RESEARCHED	ARMADURA DE NIVEL 3 DESARROLLADA	ARMADURA DE NIVEL 3 INVESTIGADA	Fixed	FIX	investigar.	
+Events and alerts	EVT_BILE_BOMB_RESEARCHED	BILE BOMB RESEARCHED	BILE BOMB DESARROLLADO	BOMBA DE BILIS INVESTIGADA	Fixed	FIX	investigar; Bomba de Bilis per batch 3.	
+Events and alerts	EVT_BONESHIELD_RESEARCHED	BONE SHIELD RESEARCHED	BONE SHIELD DESARROLLADO	ESCUDO DE HUESOS INVESTIGADO	Fixed	FIX	investigar; Escudo de Huesos per batch 3.	
+Events and alerts	EVT_BUY_AT_ARMORY	BUY AT ARMORY	COMPRAR EN LA ARMORY	COMPRAR EN EL ARMORY	Fixed	FIX	The glossary has "el Armory".	
+Events and alerts	EVT_BUY_AT_PROTOTYPE_LAB	BUY AT PROTOTYPE LAB	COMPRAR EN EL PROTOTYPE LAB	COMPRAR EN EL PROTOTYPE LAB	Kept			
+Events and alerts	EVT_CHARGE_RESEARCHED	CHARGE RESEARCHED	CHARGE DESARROLLADO	CARGA INVESTIGADA	Fixed	FIX	investigar; Carga per batch 3.	
+Events and alerts	EVT_CLAWRAILGUN_RESEARCHED	CLAW RAILGUN EXOSUIT RESEARCHED	EXOSUIT CON PUÑO Y RAILGUN DESARROLLADO	EXOTRAJE CON GARRA Y RAILGUN INVESTIGADO	Fixed	FIX	investigar; Exotraje. Claw is "garra" in the glossary, but you kept "puño" in CLAWRAILGUN_EXOSUIT: which one?	
+Events and alerts	EVT_DUALMINIGUN_RESEARCHED	DUAL GUN EXOSUIT RESEARCHED	EXOESQUELETO CON DOBLE MINIGUN DESARROLLADO	EXOTRAJE CON DOS MINIGUNS INVESTIGADO	Fixed	FIX	investigar; Exotraje (was "exoesqueleto").	
+Events and alerts	EVT_DUALRAILGUN_RESEARCHED	DUAL GUN EXOSUIT RESEARCHED	EXOESQUELETO CON DOBLE RAILGUN DESARROLLADO	EXOTRAJE CON DOS RAILGUNS INVESTIGADO	Fixed	FIX	investigar; Exotraje (was "exoesqueleto").	
+Events and alerts	EVT_EXOSUIT_RESEARCHED	EXOSUIT RESEARCHED	EXOESQUELETOS DESARROLLADOS	EXOTRAJES INVESTIGADOS	Fixed	FIX	investigar; Exotraje (was "exoesqueletos").	
+Events and alerts	EVT_FADE_UPGRADED	FADE UPGRADED	FADE MEJORADO	FADE MEJORADO	Kept			
+Events and alerts	EVT_FLAMETHROWER_RESEARCHED	FLAMETHROWER RESEARCHED	LANZALLAMAS DESARROLLADOS	LANZALLAMAS INVESTIGADOS	Fixed	FIX	investigar.	
+Events and alerts	EVT_GORGETUNNEL_RESEARCHED	GORGE TUNNELS RESEARCHED	TÚNELES DE GORGE DESARROLLADOS	TÚNELES DE GORGE INVESTIGADOS	Fixed	FIX	investigar.	
+Events and alerts	EVT_GORGE_UPGRADED	GORGE UPGRADED	GORGE MEJORADO	GORGE MEJORADO	Kept			
+Events and alerts	EVT_GRENADES_RESEARCHED	GRENADES RESEARCHED	GRANADAS DESARROLLADAS	GRANADAS INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_GRENADE_LAUNCHER_RESEARCHED	GRENADE LAUNCHER RESEARCHED	LANZAGRANADAS DESARROLLADOS	LANZAGRANADAS INVESTIGADOS	Fixed	FIX	investigar.	
+Events and alerts	EVT_HMG_RESEARCHED	MACHINE GUNS RESEARCHED	Ametralladoras investigadas	AMETRALLADORAS INVESTIGADAS	Fixed	FIX	ALL CAPS, like the English and the other events.	
+Events and alerts	EVT_JETPACK_RESEARCHED	JETPACK RESEARCHED	JETPACKS DESARROLLADOS	JETPACKS INVESTIGADOS	Fixed	FIX	investigar.	
+Events and alerts	EVT_LEAP_RESEARCHED	LEAP RESEARCHED	LEAP DESARROLLADO	IMPULSO INVESTIGADO	Fixed	FIX	investigar; Impulso per batch 3.	
+Events and alerts	EVT_LERK_UPGRADED	LERK UPGRADED	LERK MEJORADO	LERK MEJORADO	Kept			
+Events and alerts	EVT_METABOLIZE_ADV_RESEARCHED	ADVANCED METABOLIZE RESEARCHED	METABOLIZE AVANZADO DESARROLLADO	METABOLIZACIÓN AVANZADA INVESTIGADA	Fixed	FIX	investigar; Metabolización per batch 3.	
+Events and alerts	EVT_METABOLIZE_RESEARCHED	METABOLIZE RESEARCHED	METABOLIZE DESARROLLADO	METABOLIZACIÓN INVESTIGADA	Fixed	FIX	investigar; Metabolización per batch 3.	
+Events and alerts	EVT_MINES_RESEARCHED	MINES RESEARCHED	MINAS DESARROLLADAS	MINAS INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_ONOS_UPGRADED	ONOS UPGRADED	ONOS MEJORADO	ONOS MEJORADO	Kept			
+Events and alerts	EVT_SHOTGUN_RESEARCHED	SHOTGUN RESEARCHED	ESCOPETAS DESARROLLADAS	ESCOPETAS INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_SKULK_UPGRADED	SKULK UPGRADED	SKULK MEJORADO	SKULK MEJORADO	Kept			
+Events and alerts	EVT_SPORES_RESEARCHED	SPORES RESEARCHED	SPORES DESARROLLADAS	ESPORAS INVESTIGADAS	Fixed	FIX	investigar; esporas per the glossary.	
+Events and alerts	EVT_STAB_RESEARCHED	STAB RESEARCHED	STAB DESARROLLADO	PUÑALADA INVESTIGADA	Fixed	FIX	investigar; Puñalada per batch 3.	
+Events and alerts	EVT_STOMP_RESEARCHED	STOMP RESEARCHED	STOMP DESARROLLADO	PISOTÓN INVESTIGADO	Fixed	FIX	investigar; Pisotón per the glossary.	
+Events and alerts	EVT_UMBRA_RESEARCHED	UMBRA RESEARCHED	UMBRA DESARROLLADO	UMBRA INVESTIGADA	Fixed	FIX	investigar; la Umbra.	
+Events and alerts	EVT_VORTEX_RESEARCHED	VORTEX RESEARCHED	VORTEX DESARROLLADO	VÓRTICE INVESTIGADO	Fixed	FIX	investigar. Vortex is not in the glossary: Vórtice, under the new rule?	
+Events and alerts	EVT_WEAPON_LEVEL_1_RESEARCHED	WEAPON LEVEL 1 RESEARCHED	ARMAS DE NIVEL 1 DESARROLLADAS	ARMAS DE NIVEL 1 INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_WEAPON_LEVEL_2_RESEARCHED	WEAPON LEVEL 2 RESEARCHED	ARMAS DE NIVEL 2 DESARROLLADAS	ARMAS DE NIVEL 2 INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_WEAPON_LEVEL_3_RESEARCHED	WEAPON LEVEL 3 RESEARCHED	ARMAS DE NIVEL 3 DESARROLLADAS	ARMAS DE NIVEL 3 INVESTIGADAS	Fixed	FIX	investigar.	
+Events and alerts	EVT_WEBTECH_RESEARCHED	WEBS RESEARCHED	WEBS DESARROLLADAS	TELARAÑAS INVESTIGADAS	Fixed	FIX	investigar; telaraña per the glossary.	
+Events and alerts	EVT_WELDER_RESEARCHED	WELDERS RESEARCHED	WELDERS DESARROLLADOS	SOLDADORES INVESTIGADOS	Fixed	FIX	investigar; soldador per batch 3.	
+Events and alerts	EVT_XENOCIDE_RESEARCHED	XENOCIDE RESEARCHED	XENOCIDE DESARROLLADO	XENOCIDIO INVESTIGADO	Fixed	FIX	investigar; Xenocidio per batch 3.	
+Events and alerts	MARINE_ALERT_RESEARCH_CANCELLED	Research cancelled		Investigación cancelada	New			
+Events and alerts	COMMANDERERROR_TOO_MANY_CARGO_GATES	Can't build or too many cargo gates.		No se puede construir, o hay demasiadas Cargo Gates.	New	CHECK	Cargo Gate is not in the glossary; kept in English as a building.	
+Requests and voice	REQUEST_ALIEN_CHUCKLE	Chuckle		Risita	New	CHECK	The alien laugh voice line.	
+Requests and voice	REQUEST_ALIEN_DRIFTER	Request drifter	Solicitar drifter	Pedir Drifter	Fixed	FIX	"Pedir" for every request (the file mixed pedir and solicitar); Drifter capitalized.	
+Requests and voice	REQUEST_ALIEN_FOLLOWME	\"Follow me\"	Sígueme	\"Sígueme\"	Fixed	FIX	Quotes restored, as in English.	
+Requests and voice	REQUEST_ALIEN_HARVESTER	Request harvester	Solicitar harvester	Pedir Harvester	Fixed	FIX	Pedir; Harvester capitalized.	
+Requests and voice	REQUEST_ALIEN_HEAL	Request heal	Pedir cura	Pedir curación	Fixed	FIX	"curación", as in spray de curación.	
+Requests and voice	REQUEST_ALIEN_MIST	Request mist	Pedir Mist	Pedir neblina	Fixed	FIX	Nutrient Mist is "neblina de nutrientes" in the glossary.	
+Requests and voice	REQUEST_ALIEN_STRUCTURE	Request Structure		Pedir estructura	New			
+Requests and voice	REQUEST_ALIEN_TAUNT	Taunt	Vacilar	Burla	Fixed	FIX	"Vacilar" is Spain-only.	
+Requests and voice	REQUEST_MARINE_ACKNOWLEDGED	\"Acknowledged\"	\"Entendido\"	\"Entendido\"	Kept			
+Requests and voice	REQUEST_MARINE_AMMO	Request ammo	Pedir munición	Pedir munición	Kept			
+Requests and voice	REQUEST_MARINE_COVERING	\"Covering you\"	Te cubro	\"Te cubro\"	Fixed	FIX	Quotes restored, as in English.	
+Requests and voice	REQUEST_MARINE_FOLLOWME	\"Follow me\"	Sígueme	\"Sígueme\"	Fixed	FIX	Quotes restored, as in English.	
+Requests and voice	REQUEST_MARINE_HOSTILES	\"Hostiles\"	Enemigos	\"Enemigos\"	Fixed	FIX	Quotes restored, as in English.	
+Requests and voice	REQUEST_MARINE_LETSMOVE	\"Let's move\"	¡Vamos!	\"¡Vamos!\"	Fixed	FIX	Quotes restored, as in English.	
+Requests and voice	REQUEST_MARINE_MEDPACK	Request medpack	Pedir medpack	Pedir Med pack	Fixed	FIX	"Med pack", as in the glossary.	
+Requests and voice	REQUEST_MARINE_ORDER	Request order	Pedir orden	Pedir orden	Kept			
+Requests and voice	REQUEST_MARINE_TAUNT	Taunt	Vacilar	Burla	Fixed	FIX	"Vacilar" is Spain-only.	
+Requests and voice	REQUEST_MARINE_WELD	\"Need weld\"	\"Necesito weld\"	\"Necesito soldador\"	Fixed	FIX	Was "Necesito weld". Or "Necesito reparación"?	
+Requests and voice	REQUEST_PING	Ping map	Ping en mapa	Marcar en el mapa	Fixed	FIX	Was "Ping en mapa". Or keep "ping"?	length: 17 chars vs 8 in English
+Requests and voice	REQUEST_STRUCTURE	Request Structure		Pedir estructura	New			
+Buy menu and weapons	ABM_EVOLVE_FOR	Evolve for 		Evolucionar por 	New			
+Buy menu and weapons	ABM_GAME_NOT_STARTED	Game has not started	La partida no ha comenzado	La partida no ha comenzado	Kept			
+Buy menu and weapons	ABM_NEED	Need 	Se necesita 	Se necesita 	Kept			
+Buy menu and weapons	ABM_SELECT_UPGRADES	Select upgrades	Seleccionar mejoras	Seleccionar mejoras	Kept			
+Buy menu and weapons	BMAC_SUPPORT_PACK	B.M.A.C. Supporters Pack		Pack de apoyo B.M.A.C.	New	CHECK	A paid supporter pack. Translate the name, or keep it in English?	
+Buy menu and weapons	BMAC_SUPPORT_PACK_PLUS	B.M.A.C. Supporters Pack Plus		Pack de apoyo B.M.A.C. Plus	New	CHECK	Same.	
+Buy menu and weapons	BMAC_SUPPORT_PACK_ELITE	B.M.A.C. Elite Supporters Pack		Pack de apoyo B.M.A.C. Élite	New	CHECK	Same.	
+Buy menu and weapons	BMAC_SUPPORT_PACK_MSG	You have a B.M.A.C. Supporters Pack in your Inventory. Would you like to open it now to receive the B.M.A.C. items?		Tienes un Pack de apoyo B.M.A.C. en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	New			
+Buy menu and weapons	BMAC_SUPPORT_PACK_PLUS_MSG	You have a B.M.A.C. Supporters Pack Plus in your Inventory. Would you like to open it now to receive the B.M.A.C. items?		Tienes un Pack de apoyo B.M.A.C. Plus en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	New			
+Buy menu and weapons	BMAC_SUPPORT_PACK_ELITE_MSG	You have a B.M.A.C. Elite Supporters Pack in your Inventory. Would you like to open it now to receive the B.M.A.C. items?		Tienes un Pack de apoyo B.M.A.C. Élite en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	New			
+Buy menu and weapons	WEAPON_DESC_AXE	Melee weapon that's great against structures.	Arma de combate cuerpo a cuerpo buena contra estructuras.	Arma cuerpo a cuerpo, excelente contra estructuras.	Fixed	FIX	Tighter wording.	
+Buy menu and weapons	WEAPON_DESC_CLAWRAILGUN_EXO	Extra training is recommended before wielding the Railgun.	Se recomienda entrenamiento adicional antes de utilizar la Railgun.	Se recomienda entrenamiento adicional antes de usar la Railgun.	Fixed	FIX	"usar" in place of "utilizar".	
+Buy menu and weapons	WEAPON_DESC_CLUSTER_GRENADE	Releases additional war heads which detonate after the initial explosion.	Despliega pequeñas bombas adicionales tras la primera explosión	Libera ojivas adicionales que detonan después de la explosión inicial.	Fixed	FIX	Closer to the English; final period.	
+Buy menu and weapons	WEAPON_DESC_DUALMINIGUN_EXO	Awww. Yeah.		Ahhh. Sí.	New	CHECK	"Awww. Yeah."	
+Buy menu and weapons	WEAPON_DESC_DUALRAILGUN_EXO	In case the first shot misses...	En caso de que el primer tiro se falle...	Por si el primer disparo falla...	Fixed	FIX	More natural.	
+Buy menu and weapons	WEAPON_DESC_EXO	Exosuit with two miniguns.	Exosuit con dos Miniguns.	Exotraje con dos Miniguns.	Fixed	FIX	Exotraje.	
+Buy menu and weapons	WEAPON_DESC_FLAMETHROWER	This new addition to the TSF load-out was developed to battle the alien 'growth' directly. In addition, its flame can be used to damage players and structures for medium damage over time, and it will burn up an alien's energy reserves rapidly.	Este nuevo equipamiento en el arsenal de la TSF fue desarrollado para combatir la infestación alienígena directamente. Además, sus llamas pueden ser usadas para dañar a jugadores y estructuras durante un cierto periodo de tiempo, y quemará la energía de los aliens rápidamente.	Esta nueva incorporación al arsenal de la TSF fue creada para combatir directamente la infestación alien. Además, su llama hace daño medio con el tiempo a jugadores y estructuras, y quema rápidamente las reservas de energía de un alien.	Fixed	FIX	"desarrollado" avoided (reserved for nothing; research is investigar); "medium damage over time" restored.	
+Buy menu and weapons	WEAPON_DESC_GAS_GRENADE	Releases a nerve gas which damages Aliens armor.	Despliega un gas nervioso que daña la armadura alien.	Libera un gas nervioso que daña la armadura de los Aliens.	Fixed	FIX	"Libera", as in the cluster grenade.	
+Buy menu and weapons	WEAPON_DESC_GRENADELAUNCHER	Packs a punch against slow moving or stationary targets.	Un gran arma para objetivos lentos o estacionarios.	Pega duro contra objetivos lentos o inmóviles.	Fixed	FIX	"Packs a punch".	
+Buy menu and weapons	WEAPON_DESC_HMG	Machine Gun with a high-capacity magazine which deals extra damage to player targets but is not very accurate on longer distances.		Ametralladora con cargador de gran capacidad que hace daño extra a los jugadores, pero no es muy precisa a larga distancia.	New			
+Buy menu and weapons	WEAPON_DESC_JETPACK	This experimental device allows its user to fly over short distances. Use it to get into otherwise out-of-reach vents or easily dodge snapping jaws.	Este dispositivo experimental pemite a su usuario volar distancias cortas. Úsalo para llegar a sitios que de lo contrario no serían accesibles o para escapar de las garras de tus enemigos.	Este dispositivo experimental permite a su usuario volar distancias cortas. Úsalo para entrar en conductos de ventilación que de otro modo no alcanzarías o para esquivar con facilidad las mandíbulas enemigas.	Fixed	FIX	Typo "pemite"; vents and jaws restored.	
+Buy menu and weapons	WEAPON_DESC_MINE	Place mines around structures, in tight hallways, around phase gates and even on walls.	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de Phase Gates e incluso en las paredes.	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los portales de fase e incluso en las paredes.	Fixed	FIX	Phase Gate is "portal de fase".	
+Buy menu and weapons	WEAPON_DESC_PISTOL	Use the pistol to finish off enemies quickly instead of reloading.	Usa la pistola para rematar a los enemigos en lugar de recargar.	Usa la pistola para rematar rápido a los enemigos en lugar de recargar.	Fixed	FIX	"quickly" restored.	
+Buy menu and weapons	WEAPON_DESC_PULSE_GRENADE	Moderate impact damage and slows down attack rate of targets.	Daño de impacto moderado y hace que los aliens ataquen más lento.	Daño de impacto moderado; reduce la velocidad de ataque de los objetivos.	Fixed	FIX	"targets", not only aliens.	
+Buy menu and weapons	WEAPON_DESC_REQUIREMENTS	Commander still needs to %s!\n\n%s		¡El Commander todavía tiene que %s!\n\n%s	New	CHECK	The first %s is an action the game fills in (for example "research shotguns").	
+Buy menu and weapons	WEAPON_DESC_RIFLE	TSF standard issue rifle. This standby is an all-around versatile weapon at most ranges. While slightly heavier than previous models, it can still be effective in the field when you're low on ammo with a rifle butt.	Rifle estándar de la TSF. Es un arma muy versátil. Aunque es ligeramente más pesada que sus modelos anteriores, puede ser efectiva en el campo de batalla cuando tienes poca munición utilizando su culata para golpear a tu objetivo.	Rifle estándar de la TSF. Es un arma versátil a casi cualquier distancia. Aunque es un poco más pesado que los modelos anteriores, sigue siendo útil cuando te queda poca munición: golpea con la culata.	Fixed	FIX	Gender (el Rifle) and tighter wording.	
+Buy menu and weapons	WEAPON_DESC_SHOTGUN	The shotgun is the bane of Skulks everywhere. While slightly limited in clip size, it has been tuned to be even more effective at closer ranges. Sneak up on something slimy and see if it has a chance to react. Answer: it won't. Enjoy, jarhead.	La escopeta es la perdición de los skulks. Aunque limitada en capacidad de munición, ha sido ajustada para ser más efectiva en distancias cortas. Sorprende a un asqueroso alien y descubre si es capaz de reaccionar. Respuesta: No lo hará. Disfruta, soldado.	La escopeta es la perdición de los Skulks. Aunque su cargador es algo limitado, fue ajustada para ser aún más efectiva a corta distancia. Acércate en silencio a algo baboso y mira si alcanza a reaccionar. Respuesta: no. Disfrútala, soldado.	Fixed	FIX	Skulks capitalized; closer to the English.	
+Buy menu and weapons	WEAPON_DESC_WELDER	Use the welder to repair structures, power nodes and the armor of friendly players.	Usa el Welder para reparar estructuras, Power Nodes y la armadura de tus compañeros.	Usa el soldador para reparar estructuras, Nodos de energía y la armadura de tus compañeros.	Fixed	FIX	soldador and Nodo de energía per batch 3.	
+Buy menu and weapons	BUYMENU_TITLE_PREFIX	SPECIAL:  		ESPECIAL:  	New			
+Buy menu and weapons	BUYMENU_CLICKTOPURCHASE	CLICK TO PURCHASE		CLICK PARA COMPRAR	New			
+Buy menu and weapons	BUYMENU_CURRENTMONEY_PREFIX	CURRENT: 		ACTUAL: 	New			
+Buy menu and weapons	BUYMENU_RANGE	RANGE:		ALCANCE:	New			
+Buy menu and weapons	BUYMENU_GRENADES_RANGE_OVERRIDE	AOE RANGE:		ALCANCE DE ÁREA:	New			
+Buy menu and weapons	BUYMENU_VSLIFEFORMS	vs LIFEFORMS:		vs FORMAS DE VIDA:	New	CHECK	"vs" kept; could be "contra".	
+Buy menu and weapons	BUYMENU_VSSTRUCTURES	vs STRUCTURES:		vs ESTRUCTURAS:	New	CHECK	Same.	
+Buy menu and weapons	BUYMENU_GROUPLABEL_WEAPONS	WEAPONS		ARMAS	New			
+Buy menu and weapons	BUYMENU_GROUPLABEL_UTILITY	UTILITY		UTILIDAD	New			
+Buy menu and weapons	BUYMENU_GROUPLABEL_SPECIAL	SPECIAL		ESPECIAL	New			
+Buy menu and weapons	BUYMENU_COST	COST		COSTO	New			
+Buy menu and weapons	BUYMENU_MASSIVE_TITLE	Massive		Masivo	New	CHECK	Exo trait name.	
+Buy menu and weapons	BUYMENU_MASSIVE_SPECIAL1	- Can destroy eggs by stepping on them.		- Puede destruir huevos al pisarlos.	New			
+Buy menu and weapons	BUYMENU_MASSIVE_SPECIAL2	- Immune to knockdown		- Inmune al derribo	New			
+Buy menu and weapons	BUYMENU_MASSIVE_SPECIAL3	- Immune to Lerk Spores		- Inmune a las esporas del Lerk	New			
+Buy menu and weapons	BUYMENU_MASSIVE_SPECIAL4	- Cannot use Phase Gates		- No puede usar portales de fase	New			
+Buy menu and weapons	BUYMENU_MASSIVE_SPECIAL5	- Cannot be recalled by Distress Beacon		- El Beacon de emergencia no lo trae de vuelta	New			
+Buy menu and weapons	BUYMENU_ELECTRIFY_TITLE	Electrify		Electrificar	New			
+Buy menu and weapons	BUYMENU_ELECTRIFY_SPECIAL1	- Shocks enemy players, greatly reducing their attack speed		- Electrocuta a los jugadores enemigos y reduce mucho su velocidad de ataque	New			
+Buy menu and weapons	BUYMENU_BURN_TITLE	Burn		Quemar	New			
+Buy menu and weapons	BUYMENU_BURN_SPECIAL1	- Disable Enemy Structures		- Desactiva estructuras enemigas	New			
+Buy menu and weapons	BUYMENU_BURN_SPECIAL2	- Burn away BileBomb, Spores and Umbra		- Quema la bomba de bilis, las esporas y la Umbra	New			
+Buy menu and weapons	BUYMENU_ERROR_EQUIPPED	EQUIPPED		EQUIPADO	New			
+Buy menu and weapons	BUYMENU_ERROR_NOTRESEARCHED	UNRESEARCHED		SIN INVESTIGAR	New			
+Buy menu and weapons	BUYMENU_ERROR_INSUFFICIENTFUNDS	INSUFFICIENT FUNDS		FONDOS INSUFICIENTES	New			
+Buy menu and weapons	BUYMENU_ERROR_OCCUPIED	OCCUPIED		OCUPADO	New			
+Buy menu and weapons	BUYMENU_ERROR_UNAVAILABLE	UNAVAILABLE		NO DISPONIBLE	New			
+Buy menu and weapons	BUYMENU_ERROR_ADVANCED_ARMORY_ONLY	ADVANCED ARMORY ONLY		SOLO EN ADVANCED ARMORY	New			
+Buy menu and weapons	BUYMENU_ERROR_DISABLED	DISABLED		DESACTIVADO	New			
+Buy menu and weapons	WEAPON_DESC_SMG	A medium range light weight weapon with improved damage and melee than the standard assualt rifle.		Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.	New			
+Buy menu and weapons	BMAC	A-MAC		A-MAC	New			
+Buy menu and weapons	BMAC_HINT	Commander support drone		Dron de apoyo del Commander	New			
+Buy menu and weapons	BMAC_TOOLTIP	Sturdier MAC that can deploy a number of team support fields. Limited to 1!		MAC más resistente que puede desplegar varios campos de apoyo para el equipo. ¡Límite de 1!	New			
+Buy menu and weapons	BMACNS_TOOLTIP	Deploys a shield field that protects nearby marines (not exos). REQUIRES 85 ENERGY!		Despliega un campo de escudo que protege a los Marines cercanos (no a los Exos). ¡REQUIERE 85 DE ENERGÍA!	New			
+Buy menu and weapons	BMACCP_TOOLTIP	Deploys a catalyst field that speeds up nearby marines (not exos). REQUIRES 50 ENERGY!		Despliega un campo de catalyst que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!	New	CHECK	"campo de catalyst" is the glossary term, but Catalyst pack is now "paquete catalizador": campo catalizador?	
+Buy menu and weapons	BMACHW_TOOLTIP	Deploys a healing field that heals nearby marines (not exos). REQUIRES 20 ENERGY!		Despliega un campo de curación que cura a los Marines cercanos (no a los Exos). ¡REQUIERE 20 DE ENERGÍA!	New			
+Buy menu and weapons	BMACSB_TOOLTIP	Provides a limited speed boost to the AMAC. REQUIRES 30 ENERGY!		Da al A-MAC un aumento de velocidad limitado. ¡REQUIERE 30 DE ENERGÍA!	New			
+Bots	BOT_RESEARCH_START_ARMOR1	Starting research: Armor 1		Iniciando investigación: Armadura 1	New			
+Bots	BOT_RESEARCH_START_PHASETECH	Starting research: Phase Tech		Iniciando investigación: Tecnología de fase	New			
+Bots	BOT_RESEARCH_START_WEAPONS1	Starting research: Weapons 1		Iniciando investigación: Armas 1	New			
+Bots	BOT_RESEARCH_START_GRENADETECH	Starting research: Grenades		Iniciando investigación: Granadas	New			
+Bots	BOT_RESEARCH_START_MINESTECH	Starting research: Mines		Iniciando investigación: Minas	New			
+Bots	BOT_RESEARCH_START_DUALMINIGUNTECH	Starting research: Dual Exosuit Arms		Iniciando investigación: Brazos dobles de Exotraje	New			
+Bots	BOT_RESEARCH_START_CORESEXOSUITTECH	Starting research: Exosuit Cores		Iniciando investigación: Núcleos de Exotraje	New			
+Bots	BOT_RESEARCH_START_SHOTGUNTECH	Starting research: Shotguns		Iniciando investigación: Escopetas	New			
+Bots	BOT_RESEARCH_START_ARMOR2	Starting research: Armor 2		Iniciando investigación: Armadura 2	New			
+Bots	BOT_RESEARCH_START_WEAPONS2	Starting research: Weapons 2		Iniciando investigación: Armas 2	New			
+Bots	BOT_RESEARCH_START_ADVANCEDARMORYUPGRADE	Starting research: Advanced Armory		Iniciando investigación: Advanced Armory	New			
+Bots	BOT_RESEARCH_START_HEAVYMACHINEGUNTECH	Starting research: Heavy Machine Guns		Iniciando investigación: Ametralladoras pesadas	New			
+Bots	BOT_RESEARCH_START_ADVANCEDMARINESUPPORT	Starting research: Advanced Marine Support		Iniciando investigación: Soporte avanzado de Marines	New			
+Bots	BOT_RESEARCH_START_JETPACKTECH	Starting research: Jetpacks		Iniciando investigación: Jetpacks	New			
+Bots	BOT_RESEARCH_START_WEAPONS3	Starting research: Weapons 3		Iniciando investigación: Armas 3	New			
+Bots	BOT_RESEARCH_START_EXOSUITTECH	Starting research: Exos		Iniciando investigación: Exos	New			
+Bots	BOT_RESEARCH_START_ARMOR3	Starting research: Armor 3		Iniciando investigación: Armadura 3	New			
+Bots	BOT_RESEARCH_START_BILEBOMB	Starting research: Bilebomb		Iniciando investigación: Bomba de Bilis	New			
+Bots	BOT_RESEARCH_START_LEAP	Starting research: Leap		Iniciando investigación: Impulso	New			
+Bots	BOT_RESEARCH_START_METABOLIZEENERGY	Starting research: Metabolize		Iniciando investigación: Metabolización	New			
+Bots	BOT_RESEARCH_START_UMBRA	Starting research: Umbra		Iniciando investigación: Umbra	New			
+Bots	BOT_RESEARCH_START_BONESHIELD	Starting research: Boneshield		Iniciando investigación: Escudo de Huesos	New			
+Bots	BOT_RESEARCH_START_METABOLIZEHEALTH	Starting research: Advanced Metabolize		Iniciando investigación: Metabolización Avanzada	New			
+Bots	BOT_RESEARCH_START_STOMP	Starting research: Stomp		Iniciando investigación: Pisotón	New			
+Bots	BOT_RESEARCH_START_XENOCIDE	Starting research: Xenocide		Iniciando investigación: Xenocidio	New			
+Bots	BOT_RESEARCH_START_SPORES	Starting research: Spores		Iniciando investigación: Esporas	New			
+Bots	BOT_RESEARCH_START_STAB	Starting research: Stab		Iniciando investigación: Puñalada	New			
+Bots	BOT_RESEARCH_START_WEBTECH	Starting research: Webs		Iniciando investigación: Telarañas	New			
+Bots	BOT_RESEARCH_START_UPGRADETOCRAGHIVE	Starting research: Crag Hive Upgrade		Iniciando investigación: Mejora a Crag Hive	New			
+Bots	BOT_RESEARCH_START_UPGRADETOSHIFTHIVE	Starting research: Shift Hive Upgrade		Iniciando investigación: Mejora a Shift Hive	New			
+Bots	BOT_RESEARCH_START_UPGRADETOSHADEHIVE	Starting research: Shade Hive Upgrade		Iniciando investigación: Mejora a Shade Hive	New			
+Bots	BOT_RESEARCH_START_BIOMASS_1	Starting research: Biomass 1		Iniciando investigación: Biomasa 1	New			
+Bots	BOT_RESEARCH_START_BIOMASS_2	Starting research: Biomass 2		Iniciando investigación: Biomasa 2	New			
+Bots	BOT_RESEARCH_START_BIOMASS_3	Starting research: Biomass 3		Iniciando investigación: Biomasa 3	New			
+Bots	BOT_RESEARCH_START_BIOMASS_4	Starting research: Biomass 4		Iniciando investigación: Biomasa 4	New			
+Bots	BOT_RESEARCH_START_BIOMASS_5	Starting research: Biomass 5		Iniciando investigación: Biomasa 5	New			
+Bots	BOT_RESEARCH_START_BIOMASS_6	Starting research: Biomass 6		Iniciando investigación: Biomasa 6	New			
+Bots	BOT_RESEARCH_START_BIOMASS_7	Starting research: Biomass 7		Iniciando investigación: Biomasa 7	New			
+Bots	BOT_RESEARCH_START_BIOMASS_8	Starting research: Biomass 8		Iniciando investigación: Biomasa 8	New			
+Bots	BOT_RESEARCH_START_BIOMASS_9	Starting research: Biomass 9		Iniciando investigación: Biomasa 9	New			
+Bots	BOT_RESEARCH_START_BIOMASS_10	Starting research: Biomass 10		Iniciando investigación: Biomasa 10	New			
+Bots	BOT_RESEARCH_START_BIOMASS_11	Starting research: Biomass 11		Iniciando investigación: Biomasa 11	New			
+Bots	BOT_RESEARCH_START_BIOMASS_12	Starting research: Biomass 12		Iniciando investigación: Biomasa 12	New			
+Bots	BOT_RESEARCH_START_BIOMASS_EXTRA	Starting research: Extra Biomass		Iniciando investigación: Biomasa extra	New			
+Infested	INFESTED_MARINES_AIR_QUALITY	AIR QUALITY		CALIDAD DEL AIRE	New			
+Infested	INFESTED_MARINES_DO_NOT_KILL_CYSTS_MESSAGE	You are helping the enemy!  Do not kill cysts except to avoid suspicion.		¡Estás ayudando al enemigo! No destruyas Cysts salvo para evitar sospechas.	New			
+Infested	INFESTED_MARINES_DO_NOT_WELD_PURIFIERS_MESSAGE	You are helping the enemy!  Do not repair Air Purifiers except to avoid suspicion.		¡Estás ayudando al enemigo! No repares purificadores de aire salvo para evitar sospechas.	New			
+Infested	INFESTED_MARINES_FEED_DEATH_MESSAGE	You starved to death!  Infest marines to keep yourself from starving.		¡Moriste de hambre! Infesta Marines para no morir de hambre.	New			
+Infested	INFESTED_MARINES_FEED_SOON_MESSAGE	You are close to starvation!  Infest another player soon!		¡Estás a punto de morir de hambre! ¡Infesta pronto a otro jugador!	New			
+Infested	INFESTED_MARINES_FRIENDLY_FIRE_ATTACKER_MESSAGE	You burned an innocent, uninfested teammate!  If they were acting crazy, then bad luck, they probably deserved it.  But if they were being reasonable, maybe give them the benefit of the doubt next time.		¡Quemaste a un compañero inocente, sin infestar! Si se comportaba como un loco, mala suerte: seguramente se lo merecía. Pero si era razonable, la próxima vez dale el beneficio de la duda.	New			
+Infested	INFESTED_MARINES_FRIENDLY_FIRE_VICTIM_MESSAGE	You were burned by a teammate!  They must have thought you were infested.  Keep your distance from other players, and try not to act suspicious.		¡Un compañero te quemó! Habrá pensado que estabas infestado. Mantén la distancia con los demás jugadores y trata de no parecer sospechoso.	New			
+Infested	INFESTED_MARINES_INFESTED_FRIENDLY_FIRE_MESSAGE	You cannot kill other infested.		No puedes matar a otros infestados.	New			
+Infested	INFESTED_MARINES_INFESTED_LOSE	Infested Lose		Los infestados pierden	New			length: 22 chars vs 13 in English
+Infested	INFESTED_MARINES_INFESTED_MESSAGE	You are infested!\nRight-click (default for alt-fire) marines when close enough (outline turns red) to infest them.  Pretend you're uninfested to avoid suspicion, but you will starve to death soon if you do not infest more humans!		¡Estás infestado!\nHaz click derecho (el disparo secundario por defecto) sobre los Marines cuando estés lo bastante cerca (el contorno se pone rojo) para infestarlos. Finge que no estás infestado para evitar sospechas, ¡pero pronto morirás de hambre si no infestas a más humanos!	New			
+Infested	INFESTED_MARINES_INFESTED_SUICIDE_BY_FLAMETHROWER_MESSAGE	You attempted to burn a perfectly good host!  You violated the primary directive of the infested: to spread.		¡Intentaste quemar a un huésped en perfecto estado! Violaste la directiva principal de los infestados: propagarse.	New			
+Infested	INFESTED_MARINES_INFESTED_WIN	Infested Win		Los infestados ganan	New			
+Infested	INFESTED_MARINES_KILL_CYSTS_MESSAGE	Those cysts are emitting toxic gas.  Burn them!		Esos Cysts emiten gas tóxico. ¡Quémalos!	New			
+Infested	INFESTED_MARINES_NOBODY_INFESTED_MESSAGE	Infestation is taking over the facility; the air is becoming toxic!  Repair the Air Purifiers before the air becomes lethal.  We cannot lose this facility!\n\n(Infested has not yet been chosen.)		La infestación se está apoderando de la instalación; ¡el aire se está volviendo tóxico! Repara los purificadores de aire antes de que el aire sea letal. ¡No podemos perder esta instalación!\n\n(Todavía no se eligió al infestado.)	New			
+Infested	INFESTED_MARINES_NOT_INFESTED_MESSAGE	The infested has been chosen!\nYou are not infested!  One or more of your \"friends\" however, are.  Watch each other closely.  Infestation is spreading throughout the facility and poisoning the air!  Clear the infestation and repair the Air Purifiers before the air becomes lethal!		¡Ya se eligió al infestado!\n¡No estás infestado! Pero uno o más de tus \"amigos\" sí lo están. Vigílense de cerca. ¡La infestación se propaga por la instalación y envenena el aire! ¡Limpia la infestación y repara los purificadores de aire antes de que el aire sea letal!	New			
+Infested	INFESTED_MARINES_RIGHT_CLICK_TIP_MESSAGE	Infest (get close)		Infestar (acércate)	New			
+Infested	INFESTED_MARINES_SUFFOCATED_DEATH_MESSAGE	You suffocated on the toxic air!  Weld Air Purifiers and kill Cysts to keep the air clean!		¡Te asfixiaste con el aire tóxico! ¡Repara los purificadores de aire con el soldador y destruye Cysts para mantener el aire limpio!	New			
+Infested	INFESTED_MARINES_WELD_PURIFIERS_MESSAGE	There is a damaged air purifier nearby.  Damaged purifiers filter the toxins out of the air less effectively.  Weld them!		Hay un purificador de aire dañado cerca. Los purificadores dañados filtran peor las toxinas del aire. ¡Repáralos con el soldador!	New			
+Welcome, missions and feedback	FEEDBACK_RATEROUND	Rate the last round:	Califica la ultima ronda:	Califica la última ronda:	Fixed	FIX	Accent.	
+Welcome, missions and feedback	FEEDBACK_REASSON	Pick the main reason for your rating:	Pickea la primera razón para tu puntuación:	Elige la razón principal de tu calificación:	Fixed	FIX	Was "Pickea la primera razón".	
+Welcome, missions and feedback	FEEDBACK_REASSON_1	Uneven teams	Equipos desbalanceados	Equipos desbalanceados	Kept			length: 22 chars vs 12 in English
+Welcome, missions and feedback	FEEDBACK_REASSON_2	Toxic communication	Comunicación toxica	Comunicación tóxica	Fixed	FIX	Accent.	
+Welcome, missions and feedback	FEEDBACK_REASSON_3	Inexperienced commander	Comandante sin experiencia	Commander sin experiencia	Fixed	FIX	Commander stays in English.	
+Welcome, missions and feedback	FEEDBACK_REASSON_4	Bad server performance	Mala performance del servidor	Mal rendimiento del servidor	Fixed	FIX	"rendimiento", not "performance".	
+Welcome, missions and feedback	FEEDBACK_REASSON_5	Disliked map	No me gustaba el mapa	No me gustó el mapa	Fixed	FIX	Tense.	
+Welcome, missions and feedback	FEEDBACK_REASSON_6	Bad team to play with	Un mal equipo con el cual jugar	Mal equipo para jugar	Fixed	FIX	Tighter.	
+Welcome, missions and feedback	FEEDBACK_REASSON_7	Bad game balance	Juego desbalanceado	Juego desbalanceado	Kept			
+Welcome, missions and feedback	FEEDBACK_REASSON_8	Game is not fun	La partida fue aburrida	El juego no es divertido	Fixed	FIX	About the game, not the match ("Game is not fun").	
+Welcome, missions and feedback	FEEDBACK_REASSON_9	Player was cheating	Un jugador estaba usando cheats	Un jugador hacía trampa	Fixed	FIX	"hacer trampa" in place of "usar cheats".	
+Welcome, missions and feedback	FEEDBACK_REASSON_10	Other Reason	Otra razón	Otra razón	Kept			
+Welcome, missions and feedback	FEEDBACK_REASON_11	Poor teamwork	Poco trabajo en equipo	Poco trabajo en equipo	Kept			length: 22 chars vs 13 in English
+Welcome, missions and feedback	FEEDBACK_REASON_12	Inexperienced commander	Comandante sin experiencia	Commander sin experiencia	Fixed	FIX	Commander stays in English.	
+Welcome, missions and feedback	FEEDBACK_REASON_13	I didn't play well	No jugué bien	No jugué bien	Kept			
+Welcome, missions and feedback	FEEDBACK_REASON_14	Teams were imbalanced	Los equipos estaban desbalanceados	Los equipos estaban desbalanceados	Kept			length: 34 chars vs 21 in English
+Welcome, missions and feedback	FEEDBACK_REASON_15	Round was not fun	La ronda no fue divertida	La ronda no fue divertida	Kept			
+Welcome, missions and feedback	FEEDBACK_REASON_16	Other reason	Otra razón	Otra razón	Kept			
+Welcome, missions and feedback	FEEDBACK_THANKS	Thanks for your feedback	Gracias por tu votación!	Gracias por tu opinión	Fixed	FIX	"Feedback" is an opinion, not a vote; no stray "!".	
+Welcome, missions and feedback	MISSIONS	MISSIONS		MISIONES	New			
+Welcome, missions and feedback	MISSION_COMPLETE	Mission Complete		Misión completada	New			
+Welcome, missions and feedback	MISSION_INCOMPLETE	Mission Incomplete		Misión incompleta	New			
+Welcome, missions and feedback	MISSION_NEW_PLAYER_TITLE	New Recruit		Nuevo recluta	New			
+Welcome, missions and feedback	MISSION_NEW_PLAYER_COMPLETION_DESCRIPTION	Complete this mission to earn the 'Eat your Greens' shoulder patch!		¡Completa esta misión para ganar el parche de hombro 'Cómete las verduras'!	New	CHECK	The patch name follows the achievement "Eat Your Greens".	
+Welcome, missions and feedback	MISSION_NEW_PLAYER_TUTORIALS	Tutorials		Tutoriales	New			
+Welcome, missions and feedback	ROOKIE_CHAT	[Rookie]	[Principiante]	[Novato]	Fixed	FIX	Rookie is "novato" in the glossary.	
+Welcome, missions and feedback	ROOKIE_ONLY	(bootcamp)		(entrenamiento básico)	New	CHECK	Bootcamp per the glossary; long for a tag.	length: 22 chars vs 10 in English
+Welcome, missions and feedback	WELCOME_PROGRESS_HEAD	WELCOME!	BIENVENIDO!	¡BIENVENIDO!	Fixed	FIX	Opening "¡".	
+Welcome, missions and feedback	WELCOME_PROGRESS_TEXT	ADAPT QUICKLY\nBY COMPLETING THESE MISSIONS:		ADÁPTATE RÁPIDO\nCOMPLETANDO ESTAS MISIONES:	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_1_TITLE	Complete the basic Tutorials		Completa los tutoriales básicos	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_1_TEXT	Play the Marine & Alien field-player Tutorials		Juega los tutoriales de jugador de campo de Marine y Alien	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_2_TITLE	Use Quick Play		Usa la partida rápida	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_2_TEXT	Join a game using the Quick Play\nbutton in the Play menu		Únete a una partida con el botón Partida rápida\ndel menú Jugar	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_3_TITLE	Play as Marine	Juega como Marine	Juega como Marine	Kept			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_3_TEXT	Complete a round as Marine	Completa una ronda como Marine	Completa una ronda como Marine	Kept			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_4_TITLE	Play as Alien	Juega como Alien	Juega como Alien	Kept			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_4_TEXT	Complete a round as Alien	Completa una ronda como Alien	Completa una ronda como Alien	Kept			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_5_TITLE	Traveler		Viajero	New			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_5_TEXT	Play on 3 different maps	Juega en 3 mapas diferentes	Juega en 3 mapas diferentes	Kept			
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_6_TITLE	COMPLETION		FINAL	New	CHECK	"COMPLETION": the last step, the reward for finishing all missions.	
+Welcome, missions and feedback	WELCOME_PROGRESS_ENTRY_6_TEXT	Complete every mission and get the\n'Eat your Greens' shoulder patch		Completa todas las misiones y consigue el\nparche de hombro 'Cómete las verduras'	New			
+Welcome, missions and feedback	WELCOME_TO	Welcome to	Bienvenido a	Bienvenido a	Kept			
+Welcome, missions and feedback	WELCOME_TO_READY_ROOM	Welcome to the Ready Room	Bienvenido a la Ready Room	Bienvenido al Ready Room	Fixed	FIX	"el Ready Room", as you set in batch 1.	
+Welcome, missions and feedback	WELCOME_TO_READY_ROOM_HALLOWEEN	Welcome to the Ready Room. Press the BIND_Use key to throw candy!	Bienvenido a la Ready Room. ¡Pulsa BIND_Use para lanzar caramelos!	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar dulces!	Fixed	FIX	presiona, not pulsa; el Ready Room.	
+Welcome, missions and feedback	WELCOME_TO_READY_ROOM_HOLIDAY	Welcome to the Ready Room. Press the BIND_Use key to throw snowballs!	Bienvenido a la Ready Room. ¡Pulsa BIND_Use para lanzar bolas de nieve!	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar bolas de nieve!	Fixed	FIX	presiona, not pulsa; el Ready Room.	
+In-game text	ABYSS_BUNDLE_TITLE	Abyss Bundle available!		¡Paquete Abyss disponible!	New	CHECK	"Bundle" as "paquete", with the product name kept. Applies to all the bundle lines.	
+In-game text	ABYSS_BUNDLE_MSG	You have a Abyss Bundle in your Inventory. Would you like to open it now to receive the Abyss items?		Tienes un Paquete Abyss en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Abyss?	New			
+In-game text	OPEN_ABYSS_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	ADVANCED_MARINE_SUPPORT	Advanced Support	Advanced Assistance	Soporte avanzado	Fixed	FIX	Was left as "Advanced Assistance"; glossary: soporte avanzado.	
+In-game text	AF	ANISOTROPIC FILTERING	FILTRADO ANISOTRÓPICO	FILTRADO ANISOTRÓPICO	Kept			
+In-game text	AFK_WARNING	You have been AFK for %{timeAFK}d seconds. You will be auto-kicked after %{maxAFKTime}d seconds.	No te has movido en %{timeAFK}d segundos. Serás expulsado del servidor automáticamente tras %{maxAFKTime}d segundos.	No te has movido en %{timeAFK}d segundos. Serás expulsado del servidor automáticamente tras %{maxAFKTime}d segundos.	Kept			
+In-game text	AIR_PURIFIER	Air Purifier		Purificador de aire	New			
+In-game text	ALIEN	Alien		Alien	New			
+In-game text	ALIEN_DEFEAT	Aliens lose	Derrota Alien	Derrota Alien	Kept			
+In-game text	ALIEN_TEAM_DEFEND_THE_HIVE	Objective: Defend the Hive, and don't die!	Objetivo: Defiende la Hive, y no mueras!	Objetivo: ¡defiende la Hive y no mueras!	Fixed	FIX	Opening "¡".	
+In-game text	ALIEN_TEAM_GAME_STARTED	Objective: Kill the Command Station	Objetivo: Eliminar la Command Station	Objetivo: destruye la Command Station	Fixed	FIX	Imperative, and a structure is destroyed.	
+In-game text	ALIEN_VICTORY	Aliens Win!	¡Victoria Alien!	¡Victoria Alien!	Kept			
+In-game text	ARMOR	Armor	Armadura	Armadura	Kept			
+In-game text	ATTEMPTING_CONNECTION	ATTEMPTING CONNECTION	INTENTANDO CONECTAR	INTENTANDO CONECTAR	Kept			
+In-game text	AUTHENTICATING	AUTHENTICATING	AUTENTICANDO	AUTENTICANDO	Kept			
+In-game text	AUTO_CONCEDE_WARNING	Teams uneven. %{teamName}s will Auto-Concede in %{time}d seconds.	Equipos desequilibrados. Los %{teamName}s se rendirán automáticamente en %{time}d segundos.	Equipos desequilibrados. Los %{teamName}s se rendirán automáticamente en %{time}d segundos.	Kept			
+In-game text	AUTO_TEAM_BALANCE_TOOLTIP	Team Balance enabled. You will spawn when your teammates die.\nYou can switch teams to spawn faster. Press %s to switch teams.	Balance de equipos activado. Renacerás cuando mueran tus compañeros.\nPuedes cambiar de equipo para renacer más rápido. Pulsa %s para cambiar de equipo.	Balance de equipos activado. Renacerás cuando mueran tus compañeros.\nPuedes cambiar de equipo para renacer más rápido. Presiona %s para cambiar de equipo.	Fixed	FIX	presiona, not pulsa.	
+In-game text	AVERAGE_SPEED	Average Speed		Velocidad promedio	New			
+In-game text	AXE	Axe		Hacha	New			
+In-game text	BABBLERS	Babblers		Babblers	New			
+In-game text	BABBLER_EGG	Babbler Egg	Huevo de Babbler	Huevo de Babbler	Kept			
+In-game text	BABBLER_EGG_TOOLTIP	Hatches a Babbler which can be ordered to attack or defend.	Crea Babblers que puedes hacer que defiendan o ataquen.	Incuba un Babbler al que se le puede ordenar atacar o defender.	Fixed	FIX	One Babbler; "hatches".	
+In-game text	BEACONING	Commander issued Distress Beacon. Teleport imminent.	El Commander ha hecho un Distress Beacon. Teletransporte inminente.	El Commander activó el Beacon de emergencia. Teletransporte inminente.	Fixed	FIX	Distress Beacon is "Beacon de emergencia" in the glossary.	
+In-game text	BEACONING_COMMANDER	Distress Beacon triggered. Teleport imminent.	Activado Distress Beacon. Teletransporte inminente.	Beacon de emergencia activado. Teletransporte inminente.	Fixed	FIX	Same.	
+In-game text	BEACON_TO	Distress Beacon: Teleporting to %s	Distress Beacon: Transportándote a %s	Beacon de emergencia: teletransportándote a %s	Fixed	FIX	Same.	
+In-game text	BEACONS_TO	Beacon to %{location}s		Beacon a %{location}s	New			glossary: 'location' should be translated ('cuarto')
+In-game text	BEST_TIME	Best Time		Mejor tiempo	New			
+In-game text	BETA_MAINMENU	Build 	Compilación 	Compilación 	Kept			
+In-game text	BIOMASS_LEVEL	BIOMASS LEVEL	NIVEL DE BIOMASS	NIVEL DE BIOMASA	Fixed	FIX	biomasa per the glossary.	
+In-game text	BLOCKED	Blocked		Bloqueado	New			
+In-game text	OPEN_BMAC_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	BUY	BUY	COMPRA	COMPRAR	Fixed	FIX	Buttons are infinitives (style guide 3).	
+In-game text	CAMERA_ANIMATION	CAMERA ANIMATION	ANIMACIONES DE CÁMARA	ANIMACIONES DE CÁMARA	Kept			
+In-game text	CAMOUFLAGED	Camouflaged	Camuflado	Camuflado	Kept			
+In-game text	CAPS_LOCK_WARNING	Caps lock is enabled		Bloq Mayús está activado	New			
+In-game text	CARAPACE_SHELL	Carapace Shell	Shell con Carapace	Shell con caparazón	Fixed	FIX	Carapace is "caparazón" in the glossary.	
+In-game text	CARAPACE_SHELL_HINT	Improved Alien armor	Armadura Alien mejorada	Armadura Alien mejorada	Kept			
+In-game text	CARAPACE_SHELL_TOOLTIP	Gives Aliens extra armor	Da a los aliens armadura adicional	Da a los Aliens armadura adicional	Fixed	FIX	Aliens capitalized.	
+In-game text	CAT_PACKS	Catalyst packs	Catalysts	Paquetes catalizadores	Fixed	FIX	paquete catalizador per batch 3.	
+In-game text	CAT_PACK_TECH_TOOLTIP	Increases Marine movement, reload speed and welding.		Aumenta la velocidad de movimiento, de recarga y de soldadura de los Marines.	New			
+In-game text	CATALYST_BUNDLE_MSG	You have a Catalyst Bundle in your Inventory. Would you like to open it now to receive the Catalyst items?		Tienes un Paquete Catalyst en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Catalyst?	New			
+In-game text	CATALYST_BUNDLE_TITLE	Catalyst Bundle available!		¡Paquete Catalyst disponible!	New			
+In-game text	OPEN_CATALYST_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	CHANGE_EGG_HELP	Press %s to spawn or %s to change eggs	Pulsa %s para renacer o %s para cambiar de huevo	Presiona %s para renacer o %s para cambiar de huevo	Fixed	FIX	presiona, not pulsa.	
+In-game text	CHANGELOG_DISCORD	Chat with us	Chatea con nosotros	Chatea con nosotros	Kept			
+In-game text	CHANGELOG_FEEDBACK	Feedback:	Recomendaciones:	Comentarios:	Fixed	FIX	Feedback is comments, not recommendations.	
+In-game text	CHANGELOG_FEEDBACK_RESPONSE	Thanks for your feedback!	Gracias por tu recomendación!	¡Gracias por tus comentarios!	Fixed	FIX	Same; opening "¡".	
+In-game text	CHANGELOG_TITLE	CHANGELOG		REGISTRO DE CAMBIOS	New			length: 19 chars vs 9 in English
+In-game text	CHATBAR_MUTED	Muted		Silenciado	New			
+In-game text	CHECKING_CONSISTENCY	CHECKING CONSISTENCY	COMPROBANDO CONSISTENCIA	COMPROBANDO CONSISTENCIA	Kept			
+In-game text	CHOOSE_SPAWN	Open minimap to choose a spawn point	Abre el minimapa para elegir donde nacer	Abre el minimapa para elegir dónde renacer	Fixed	FIX	Accent on dónde; renacer.	
+In-game text	CLOAKED	Cloaked	Invisible	Oculto	Fixed	FIX	Matches "bruma de ocultamiento" (Cloaking Haze) in the glossary.	
+In-game text	COMING_SOON_1	 (coming soon)	 (próximamente)	 (próximamente)	Kept			
+In-game text	COMING_SOON_2	Coming soon	Próximamente	Próximamente	Kept			
+In-game text	COMMANDER	Commander: 		Commander: 	New			
+In-game text	COMMANDER_HELP	COMMANDER HELP	AYUDA COMMANDER	AYUDA DE COMMANDER	Fixed	FIX	Added "DE".	
+In-game text	COMM_EJECT	Commander has been ejected	El Commander ha sido expulsado	Echaron al Commander	Fixed	FIX	The glossary keeps "echar al Commander" for the eject vote; "expulsado" is a server kick.	
+In-game text	COMM_ENABLES	Enables:	Desbloquea:	Desbloquea:	Kept			
+In-game text	COMM_REQUIRES	Requires:	Requiere:	Requiere:	Kept			
+In-game text	COMM_SEL_BUILDING	BUILDING...	CONSTRUYENDO...	CONSTRUYENDO...	Kept			
+In-game text	COMM_SEL_CONSTRUCTING	CONSTRUCTING...	CONSTRUYENDO...	CONSTRUYENDO...	Kept			
+In-game text	COMM_SEL_HATCHING	HATCHING...	INCUBANDO...	INCUBANDO...	Kept			
+In-game text	COMM_SEL_LIFETIME	LIFETIME...	TIEMPO RESTANTE...	TIEMPO RESTANTE...	Kept			
+In-game text	COMM_SEL_RECYCLING	RECYCLING...	RECICLANDO...	RECICLANDO...	Kept			
+In-game text	COMM_SEL_RESEARCHING	RESEARCHING...	DESARROLLANDO...	INVESTIGANDO...	Fixed	FIX	investigar, never desarrollar.	
+In-game text	COMM_SEL_UPGRADING	UPGRADING...	MEJORANDO...	MEJORANDO...	Kept			
+In-game text	COMM_SEL_CONSUMING	CONSUMING...		CONSUMIENDO...	New			
+In-game text	COMM_STATION_UNDER_ATTACK	%s Command Station under attack	Command Station de %s bajo ataque	Command Station de %s bajo ataque	Kept			
+In-game text	CONSTRUCT_PRIMED	Primed 		Activada 	New	CHECK	Prefix placed before a structure name. "Primed": armed and ready? Gender cannot agree with every structure.	
+In-game text	CONSTRUCT_UNBUILT	Unbuilt 	Sin construir	Sin construir 	Fixed	FIX	Trailing space restored (docs/bugs.md): the game glues the structure name after it.	
+In-game text	CONSTRUCT_UNPOWERED	Unpowered 	Sin energia	Sin energía 	Fixed	FIX	Trailing space restored; accent.	
+In-game text	CONSTRUCT_UNROOTED	Unrooted 		Sin enraizar 	New	CHECK	Prefix before a structure name (an unrooted Whip).	
+In-game text	CONSUMED_STRUCTURE	%s (Consumed)		%s (Consumido)	New			
+In-game text	CURRENT	CURRENT	ACTUAL	ACTUAL	Kept			
+In-game text	CYST_UNCONNECTED_HINT	Unconnected	No conectado	No conectado	Kept			
+In-game text	DESTROY	Destroy	Destruir	Destruir	Kept			
+In-game text	DESTROYED_POWER_NODE	Power node has been destroyed!	¡El Power Node ha sido destruído!	¡El Nodo de energía fue destruido!	Fixed	FIX	Nodo de energía per batch 3; "destruido" has no accent.	
+In-game text	DETAILS	DETAILS	DETALLES	DETALLES	Kept			
+In-game text	DEVICE	DEVICE	DISPOSITIVO	DISPOSITIVO	Kept			
+In-game text	DIRECTX9	DIRECTX 9 (Deprecated)		DIRECTX 9 (obsoleto)	New			
+In-game text	DIRECTX11	DIRECTX 11		DIRECTX 11	New			
+In-game text	ENABLED	ENABLED		ACTIVADO	New			
+In-game text	DISCORD_BUTTON_TOOLTIP	Natural Selection 2 Official Discord Server		Servidor oficial de Discord de Natural Selection 2	New			
+In-game text	DISPLAY_MODE_WINDOWED	WINDOWED		VENTANA	New			
+In-game text	DISPLAY_MODE_FULLSCREEN	FULLSCREEN		PANTALLA COMPLETA	New			
+In-game text	DISPLAY_MODE_FULLSCREENWINDOWED	FULLSCREEN WINDOWED		PANTALLA COMPLETA EN VENTANA	New			
+In-game text	DLC_PURCHASE_GAME_RESTART_MSG	Game restart required for Steam to activate and install any purchased DLC.\nAny items from new DLC will not be available until then.		Hay que reiniciar el juego para que Steam active e instale el DLC comprado.\nLos objetos de un DLC nuevo no estarán disponibles hasta entonces.	New			
+In-game text	DOWNLOAD_COMPLETE	Download Complete!		¡Descarga completada!	New			
+In-game text	DOWNLOAD_FAILED	Download Failed!		¡Descarga fallida!	New			
+In-game text	DOWNLOADING_MODS	DOWNLOADING MODS	DESCARGANDO MODS	DESCARGANDO MODS	Kept			
+In-game text	DOWNLOADING_REPLAY	Downloading Replay...		Descargando repetición...	New			
+In-game text	DRAW_DAMAGE	DRAW DAMAGE	MOSTRAR DAÑO	MOSTRAR DAÑO	Kept			
+In-game text	DRAW_GAME	Draw Game!	¡Empate!	¡Empate!	Kept			
+In-game text	DUAL_MINIGUN_TECH_TOOLTIP	Allows the Exo to buy a second gun.	Permite a los Exo comprar una segunda arma.	Permite al Exo comprar una segunda arma.	Fixed	FIX	Singular, as in English.	
+In-game text	EJECT	EJECT	EYECTAR	EYECTAR	Kept			
+In-game text	EJECT_FROM_EXO	Eject	Eyectarse	Eyectarse	Kept			
+In-game text	EQUIPPED	EQUIPPED	EQUIPADO	EQUIPADO	Kept			
+In-game text	ESCAPE	Escape		Escape	New			
+In-game text	EVOLUTION_AVAILABLE	%s evolution available	Evolución %s disponible	Evolución %s disponible	Kept			
+In-game text	EVOLUTION_LOST	%s evolution lost	Perdida evolución %s	Evolución %s perdida	Fixed	FIX	Word order, to match "Evolución %s disponible".	
+In-game text	EVOLVE	Evolve	Evolucionar	Evolucionar	Kept			
+In-game text	EVOLVING_TO	Evolving to %s	Evolucionando a %s	Evolucionando a %s	Kept			
+In-game text	EXIT	EXIT	SALIR	SALIR	Kept			
+In-game text	EXPERIENCE_LEVEL	expecience level	nivel de experiencia	nivel de experiencia	Kept			
+In-game text	EXPLORE_MODE	Sandbox Mode (BIND_ReadyRoom for ready room)	Modo sandbox (BIND_ReadyRoom para volver a la ready room)	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room)	Fixed	FIX	Sandbox and Ready Room capitalized; el Ready Room.	
+In-game text	EXPLORE_MODE_ALIEN	Sandbox Mode (BIND_ReadyRoom for ready room, BIND_Buy to evolve)	Modo sandbox (BIND_ReadyRoom para volver a la ready room, BIND_Buy para evolucionar)	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room, BIND_Buy para evolucionar)	Fixed	FIX	Same.	
+In-game text	EXPLORE_MODE_INITIALIZED	Sandbox Mode enabled. Type %s in console to reset all help widgets. Type speed <number> to speed or slow world (speed 1 default).	Modo sandbox activado. Escribe %s en consola para restablecer todos los widgets de ayuda. Escribe speed <número> para acelerar o decelerar el mundo (por defecto, 1).	Modo Sandbox activado. Escribe %s en la consola para restablecer todos los widgets de ayuda. Escribe speed <número> para acelerar o frenar el mundo (por defecto, speed 1).	Fixed	FIX	Sandbox capitalized; "frenar" in place of "decelerar". "<number>" is shown to the player, so it is translated as "<número>", as the file already did; the checker reports it as a changed tag.	tokens differ: [%s <number>] vs [%s]
+In-game text	EXPLORE_MODE_READY_ROOM	Sandbox Mode	Modo sandbox	Modo Sandbox	Fixed	FIX	Sandbox capitalized.	
+In-game text	FIRSTPERSON_SPEC_DEATHS	Deaths	Muertes	Muertes	Kept			
+In-game text	FIRSTPERSON_SPEC_KILLS	Kills	Bajas	Bajas	Kept			
+In-game text	FIRSTPERSON_SPEC_SCORE	Score	Puntuación	Puntuación	Kept			
+In-game text	FOLLOWING_NAME	Spectating %{name}s	Siguiendo a %{name}s	Siguiendo a %{name}s	Kept			
+In-game text	FORGE_BUNDLE_MSG	You have a Forge Bundle in your Inventory. Would you like to open it now to receive the Forge items?		Tienes un Paquete Forge en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Forge?	New			
+In-game text	FORGE_BUNDLE_TITLE	Forge Bundle available!		¡Paquete Forge disponible!	New			
+In-game text	OPEN_FORGE_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	SHADOW_BUNDLE_MSG	You have a Shadow Bundle in your Inventory. Would you like to open it now to receive the Shadow items?		Tienes un Paquete Shadow en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Shadow?	New			
+In-game text	SHADOW_BUNDLE_TITLE	Shadow Bundle available!		¡Paquete Shadow disponible!	New			
+In-game text	OPEN_SHADOW_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	FRIEND_STATE_IN_GAME	In game		En partida	New	CHECK	Left open in batch 2: a friend who is playing.	
+In-game text	GAME_START_COMMANDERS	The game will start when both sides have a Commander.	La partida comenzará cuando ambos equipos tengan un Commander.	La partida comenzará cuando ambos equipos tengan un Commander.	Kept			
+In-game text	GB_HALF	0.5GB	0.5GB	0.5GB	Kept			
+In-game text	GB_ONE	1GB	1GB	1GB	Kept			
+In-game text	GB_ONE_POINT_FIVE	1.5GB	1.5GB	1.5GB	Kept			
+In-game text	GB_TWO_PLUS	2GB+	2GB+	2GB+	Kept			
+In-game text	GET_MODS	GET MODS	OBTENER MODS	OBTENER MODS	Kept			
+In-game text	GORGE_TUNNEL_TECH	Gorge tunnels	Túneles de Gorge	Túneles de Gorge	Kept			
+In-game text	GORGE_TUNNEL_TECH_TOOLTIP	Allows Gorges to build tunnels connecting two parts of the map.	Permite a los Gorges construir túneles que conectan dos partes del mapa.	Permite a los Gorges construir túneles que conectan dos partes del mapa.	Kept			
+In-game text	GORGE_TUNNEL_TOOLTIP	A tunnel entrance that allows players to travel to other parts of the map quickly. Marines can use them too.	Una entrada que permite a los jugadores viajar a otras partes del mapa rápidamente. Los marines también pueden usarlos.	Entrada de túnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.	Fixed	FIX	Marines capitalized; agreement (la entrada).	
+In-game text	GROWN	Grown		Madura	New	CHECK	State of an alien structure that finished growing; context unclear.	
+In-game text	HEALTH	Health	Salud	Salud	Kept			
+In-game text	HIGH_AO_OLD	HIGH (OLD VERSION)		ALTA (VERSIÓN ANTERIOR)	New	CHECK	Ambient occlusion quality; feminine to agree with "oclusión".	
+In-game text	HIVE_CONSTRUCTED	%s Hive grown	Hive de %s completada	Hive de %s completada	Kept			
+In-game text	HIVE_KILLED	%s Hive Killed	Hive de %s destruida	Hive de %s destruida	Kept			
+In-game text	HIVE_LOW_HEALTH	%s Hive Death Imminent	Muerte de Hive en %s inminente	Muerte inminente de la Hive de %s	Fixed	FIX	"de %s", as in the other Hive alerts.	
+In-game text	HIVE_OFFLINE	Hive is not available	Hive no está disponible	La Hive no está disponible	Fixed	FIX	Article.	
+In-game text	HIVE_UNDER_ATTACK	%s Hive under attack	Hive en %s bajo ataque	Hive de %s bajo ataque	Fixed	FIX	"de %s", as in the other Hive alerts.	
+In-game text	HOLD_KEY	Hold	Mantener	Mantener	Kept			
+In-game text	IGNORE	Ignore		Ignorar	New			
+In-game text	INCORRECT_PASSWORD	Incorrect password	Contraseña incorrecta	Contraseña incorrecta	Kept			
+In-game text	INDESTRUCTABLE	indestructable	(indestructible)	indestructible	Fixed	FIX	The English has no parentheses.	
+In-game text	INFANTRY_PORTAL_SPAWNING_HINT	RESPAWNING: %s	RENACIENDO: %s	RENACIENDO: %s	Kept			
+In-game text	INFANTRY_PORTAL_TOOMANYIPS	Too many Infantry Portals		Demasiados Infantry Portals	New			
+In-game text	INITIALIZING_GAME	CHECKING GAME DATA	Revisando datos del juego	COMPROBANDO DATOS DEL JUEGO	Fixed	FIX	ALL CAPS, as in English.	
+In-game text	INSIGHT_ALIENS_EGGS	Eggs: %s	Huevos: %s	Huevos: %s	Kept			
+In-game text	INSIGHT_MARINE_POWER	Power: %d%%		Energía: %d%%	New			
+In-game text	IP_UNDER_ATTACK	%s Infantry Portal under attack	Infantry Portal de %s bajo ataque	Infantry Portal de %s bajo ataque	Kept			
+In-game text	JUMP_COUNT	Jump Count		Cantidad de saltos	New			
+In-game text	JUST_THIS_TIME	Just this time		Solo esta vez	New			
+In-game text	KODIAK_BUNDLE_TITLE	Kodiak Bundle is available!		¡Paquete Kodiak disponible!	New			
+In-game text	KODIAK_BUNDLE_MESSAGE	You have a Kodiak Bundle in your Inventory. Would you like to open it now to receive the Kodiak items?		Tienes un Paquete Kodiak en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Kodiak?	New			
+In-game text	OPEN_KODIAK_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	LEAVE_SERVER	LEAVE SERVER		SALIR DEL SERVIDOR	New			
+In-game text	LEFT_MOUSE_BUTTON	Left mouse button	Botón izquierdo del ratón	Botón izquierdo del mouse	Fixed	FIX	mouse, never ratón.	
+In-game text	LEFT_SHIFT	Left shift	Mayús. izq.	Mayús. izq.	Kept			
+In-game text	LEVEL	LEVEL		NIVEL	New			
+In-game text	LIFEFORM_POPUP_EVOLUTION_AVAILABLE	EVOLUTION AVAILABLE		EVOLUCIÓN DISPONIBLE	New			
+In-game text	LIFEFORM_POPUP_ROLE_ASSASSIN	Assassin		Asesino	New			
+In-game text	LIFEFORM_POPUP_ROLE_BRUISER	Bruiser		Peleador	New	CHECK	"Bruiser": the front-line brawler role. Or "Tanque"?	
+In-game text	LIFEFORM_POPUP_ROLE_RANGED_SUPPORT	Ranged Support		Apoyo a distancia	New			
+In-game text	LIFEFORM_POPUP_ROLE_SUPPORT	Support		Apoyo	New			
+In-game text	LOBBY_MEMBER_LEFT_SUFFIX	Left		salió	New	CHECK	Placed after a player name.	
+In-game text	LOBBY_MEMBER_KICKED_SUFFIX	Kicked		fue expulsado	New	CHECK	Placed after a player name.	
+In-game text	LOBBY_MEMBER_JOIN_SUFFIX	Joined		se unió	New	CHECK	Placed after a player name.	
+In-game text	LOGIN_ERROR_ROOKIE	A Rookies just logged into the Command Structure! Please support him!	Un novato ha entrado en la Command Structure! Por favor ayudalo!	¡Un novato acaba de entrar como Commander! ¡Por favor, apóyalo!	Fixed	FIX	Punctuation and accents; "Command Structure" avoided.	
+In-game text	LOGOUT	Log out	Salir	Salir	Kept			
+In-game text	LOGOUT_TOOLTIP	Get back on the ground	Volver al campo de batalla	Volver al campo de batalla	Kept			
+In-game text	MARINES_RESPAWNING	MARINES RESPAWNING: %s	MARINES RENACIENDO: %s	MARINES RENACIENDO: %s	Kept			
+In-game text	MARINE_DEFEAT	Marines lose	Derrota Marine	Derrota Marine	Kept			
+In-game text	MARINE_TEAM_GAME_STARTED	Objective: Kill the Alien Hive	Objetivo: Eliminar la Hive Alien	Objetivo: destruye la Hive Alien	Fixed	FIX	Imperative, and a structure is destroyed.	
+In-game text	MARINE_VICTORY	Marines Win!	¡Victoria Marine!	¡Victoria Marine!	Kept			
+In-game text	MASTER_VOLUME	MASTER VOLUME		VOLUMEN GENERAL	New			
+In-game text	MATURITY	Maturity	Madurez	Madurez	Kept			
+In-game text	MEDIUM_AO_OLD	MEDIUM (OLD VERSION)		MEDIA (VERSIÓN ANTERIOR)	New	CHECK	Same as HIGH_AO_OLD.	
+In-game text	METERS	meters	metros	metros	Kept			
+In-game text	MINE	Mines	Minas	Minas	Kept			
+In-game text	MINIGUN_MINIGUN_TOOLTIP	BIND_PrimaryAttack to fire left minigun, BIND_SecondaryAttack for right (unlimited ammo but can overheat). BIND_Jump to activate jump jets.	BIND_PrimaryAttack para disparar la minigun izquierda, BIND_SecondaryAttack para la derecha (munición ilimitada pero se calienta). BIND_Jump para activar los reactores de salto.	BIND_PrimaryAttack para disparar la Minigun izquierda, BIND_SecondaryAttack para la derecha (munición ilimitada, pero se pueden sobrecalentar). BIND_Jump para activar los propulsores de salto.	Fixed	FIX	Minigun capitalized; wording matches the batch 3 exo tooltips.	
+In-game text	MODDED	ARCADE		ARCADE	New			
+In-game text	MOD_STATUS_AVAILABLE	100%	100%	100%	Kept			
+In-game text	MOD_STATUS_DOWNLOADING	Downloading...		Descargando...	New			
+In-game text	MOD_STATUS_GETTING_INFO	Getting Info...		Obteniendo información...	New			length: 25 chars vs 15 in English
+In-game text	MOD_STATUS_UNPACKING	Unpacking...		Descomprimiendo...	New			
+In-game text	MOD_STATUS_UNKNOWN	Unknown	Desconocido	Desconocido	Kept			
+In-game text	MUSCULAR_ADVANTAGE	Muscular advantage		Ventaja muscular	New	CHECK	No context found for this key.	
+In-game text	NAME_TEAM_0	Ready room		Ready Room	New			
+In-game text	NAME_TEAM_1	Frontiersmen		Frontiersmen	New			
+In-game text	NAME_TEAM_2	Kharaa		Kharaa	New			
+In-game text	NANO_SHIELD_ACTIVE	NANO SHIELD ACTIVE	NANO SHIELD ACTIVADO	NANO-ESCUDO ACTIVO	Fixed	FIX	nano-escudo per the glossary.	
+In-game text	NANO_SHIELD_TECH	Nano-shield Tech	Tecnología Nanoshield	Tecnología de nano-escudo	Fixed	FIX	nano-escudo per the glossary.	
+In-game text	NEW_INFORMATION	New Info!		¡Nueva información!	New			length: 19 chars vs 9 in English
+In-game text	NEW_ITEM	New Item: %s		Nuevo objeto: %s	New			
+In-game text	NEWS	NEWS		NOTICIAS	New			
+In-game text	NEXT	Next	Sig.	Sig.	Kept			
+In-game text	NEXT_MEDAL_TIME	Next Medal Time		Tiempo de la próxima medalla	New			length: 28 chars vs 15 in English
+In-game text	NEXT_SPAWN_IN	Next spawn in %d	Siguiente oleada de jugadores en %d	Próxima oleada en %d	Fixed	FIX	Shorter; it is a HUD line.	
+In-game text	NS2	NS2	NS2	NS2	Kept			
+In-game text	NS2PLUS_OPTIONS	NS2+ OPTIONS		OPCIONES DE NS2+	New			
+In-game text	NO	NO	NO	NO	Kept			
+In-game text	NO_COMM	Commander Needed	Se necesita Commander	Se necesita Commander	Kept			
+In-game text	NO_COMMANDER	No Commander	No hay Commander	No hay Commander	Kept			
+In-game text	NO_IPS	Infantry Portal Needed	Se necesita Infantry Portal	Se necesita Infantry Portal	Kept			
+In-game text	NO_MEDAL	No Medal		Sin medalla	New			
+In-game text	NOCTURNE_BUNDLE_MSG	You have a Nocturne Bundle in your Inventory. Would you like to open it now to receive the Nocturne items?		Tienes un Paquete Nocturne en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Nocturne?	New			
+In-game text	NOCTURNE_BUNDLE_TITLE	Nocturne Bundle available!		¡Paquete Nocturne disponible!	New			
+In-game text	OPEN_NOCTURNE_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	OBJECTIVE_PROGRESS	%{location}s %{name}s %{health}d%%	%{name}s de %{location}s %{health}d%%	%{name}s de %{location}s %{health}d%%	Kept			glossary: 'location' should be translated ('cuarto')
+In-game text	OBSERVATORY_BEACON_TO_HINT	Beacon to %s		Beacon a %s	New			
+In-game text	OK	Ok	Ok	Ok	Kept			
+In-game text	ON	ON	ACTIVADO	ACTIVADO	Kept			
+In-game text	OPTIMIZE_CONFIRM	OK	Aceptar	Aceptar	Kept			
+In-game text	PHASE_GATE_HINT_TO_LOCATION	Teleport to %s	Teletransporte a %s	Teletransporte a %s	Kept			
+In-game text	PHYSX_GPU_ACCELERATION	PHYSX GPU ACCELERATION	ACELERACIÓN POR GPU PHYSX	ACELERACIÓN POR GPU PHYSX	Kept			
+In-game text	PLAYER	PLAYER	JUGADOR	JUGADOR	Kept			
+In-game text	PLAYER_NAME	PLAYER NAME		NOMBRE DE JUGADOR	New			
+In-game text	PLAYER_PROFILE	PLAYER PROFILE		PERFIL DE JUGADOR	New			
+In-game text	PLAYERS	PLAYERS	JUGADORES	JUGADORES	Kept			
+In-game text	PLAYER_COUNT_WARNING	The server you are joining has more than 24 players. Natural Selection 2 was designed to have an optimal experience within a maximum of 24 players. On servers with player counts higher than 24, we can not guarantee acceptable performance, or balanced gameplay.	El servidor al que te vas a conectar tiene más de 24 jugadores. Natural Selection 2 ha sido diseñado para tener una experiencia óptima con un máximo de 24 jugadores. En servidores con límites de jugadores mayores de 24 no podemos garantizar un rendimiento aceptable o jugabilidad equilibrada.	El servidor al que te vas a conectar tiene más de 24 jugadores. Natural Selection 2 ha sido diseñado para tener una experiencia óptima con un máximo de 24 jugadores. En servidores con límites de jugadores mayores de 24 no podemos garantizar un rendimiento aceptable o jugabilidad equilibrada.	Kept			
+In-game text	POWERPOINT_NOSTRUCTURES_TOOLTIP	NO STRUCTURES REQUIRE POWER		NINGUNA ESTRUCTURA REQUIERE ENERGÍA	New			
+In-game text	POWERPOINT_FINISHBUILD_TOOLTIP	FINISH BUILDING STRUCTURES FIRST - FLASH TO OVERRIDE		PRIMERO TERMINA DE CONSTRUIR LAS ESTRUCTURAS - LINTERNA PARA FORZAR	New	CHECK	"FLASH TO OVERRIDE": I read it as "press the flashlight key to build anyway".	
+In-game text	POWER_BUILT	%{location}s (%{percentage}d%% Built)	%{location}s (%{percentage}d%% Construido)	%{location}s (%{percentage}d%% Construido)	Kept			glossary: 'location' should be translated ('cuarto')
+In-game text	POWER_HEALTH	%{location}s (%{percentage}d%% Health)	%{location}s (%{percentage}d%% Salud)	%{location}s (%{percentage}d%% Salud)	Kept			glossary: 'location' should be translated ('cuarto')
+In-game text	POWER_LOST	%s Power Lost	Power Node en %s destruido	Energía perdida en %s	Fixed	FIX	The English names the room's power, not the node; no "Power Node" left in English.	
+In-game text	POWER_POINT_UNDER_ATTACK	%s Power under attack	Power node de %s bajo ataque	Nodo de energía de %s bajo ataque	Fixed	FIX	Nodo de energía per batch 3.	
+In-game text	POWER_RESTORED	%s Power Restored	Power Node en %s reactivado	Energía restaurada en %s	Fixed	FIX	Same as POWER_LOST.	
+In-game text	PRECACHING	PRECACHING	PRECARGANDO	PRECARGANDO	Kept			
+In-game text	PREV	Prev	Ant.	Ant.	Kept			
+In-game text	PRODUCTION_COMPLETED	%s completed	Completado: %s	Completado: %s	Kept			
+In-game text	PRODUCTION_LOST	%s lost	Perdido: %s	Perdido: %s	Kept			
+In-game text	PRODUCTION_STARTED	%s started	Comenzado: %s	Comenzado: %s	Kept			
+In-game text	QUICK_JOIN	QUICK JOIN	PARTIDA RÁPIDA	PARTIDA RÁPIDA	Kept			
+In-game text	QUIT	Quit		Salir	New			
+In-game text	QUIT_CAPS	QUIT		SALIR	New			
+In-game text	QUIT_GAME	QUIT GAME		SALIR DEL JUEGO	New			
+In-game text	RACE_GHOST	Race Ghost		Competir contra un fantasma	New	CHECK	Skulk challenge: racing a recorded run.	length: 27 chars vs 10 in English
+In-game text	RACE_LAST_GHOST	Race Your Last Ghost		Competir contra tu último fantasma	New			length: 34 chars vs 20 in English
+In-game text	RANK	Rank		Rango	New			
+In-game text	RAW_INPUT	RAW INPUT		ENTRADA DIRECTA	New	CHECK	Mouse "raw input" option; could stay "RAW INPUT".	
+In-game text	REAPER_BUNDLE_TITLE	Reaper Bundle available!		¡Paquete Reaper disponible!	New			
+In-game text	REAPER_BUNDLE_MSG	You have a Reaper Bundle in your Inventory. Would you like to open it now to receive the Reaper items?		Tienes un Paquete Reaper en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Reaper?	New			
+In-game text	OPEN_REAPER_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	RECYCLED_STRUCTURE	%s (Recycled)		%s (Reciclado)	New			
+In-game text	REFRESH	Refresh	Actualizar	Actualizar	Kept			
+In-game text	RELATIVE_SKILL	relative skill	habilidad relativa	habilidad relativa	Kept			
+In-game text	RESEARCH_DUAL_EXOS	Research dual Exos	Desarrollar Exos duales	Investigar Exos dobles	Fixed	FIX	investigar, never desarrollar; "dobles", as in the batch 3 exo lines.	
+In-game text	RESOURCES	RESOURCES	RECURSOS (RES)	RECURSOS (RES)	Kept			
+In-game text	RESOURCES_ADDED	+%d resources	+%d recursos	+%d recursos	Kept			
+In-game text	RESOURCE_ADDED	+1 resource	+1 recurso	+1 recurso	Kept			
+In-game text	RESOURCE_TOWERS	Resource Towers	Extractores de recursos	Torres de recursos	Fixed	CHECK	Covers both Extractors and Harvesters, so "Extractores" was wrong for aliens.	
+In-game text	RETRY	Retry		Reintentar	New			
+In-game text	RETRY_SOLO	Retry Solo		Reintentar solo	New			
+In-game text	RETURN_TO_BASE	Exclusive Zone! Retreat immediately!	Zona exclusiva! Retirese inmediatamente!	¡Zona exclusiva! ¡Retírate de inmediato!	Fixed	FIX	Tú, not usted; opening "¡".	
+In-game text	REVERSE_MOUSE	REVERSE MOUSE	RATÓN INVERTIDO	MOUSE INVERTIDO	Fixed	FIX	mouse, never ratón.	
+In-game text	RIGHT_MOUSE_BUTTON	Right mouse button	Botón derecho del ratón	Botón derecho del mouse	Fixed	FIX	mouse, never ratón.	
+In-game text	RIGHT_SHIFT	Right shift	Mayús. der.	Mayús. der.	Kept			
+In-game text	SANDBOX	SANDBOX		SANDBOX	New			
+In-game text	SEARCHING	Searching	Buscando	Buscando	Kept			
+In-game text	SLOWDRIVE_WARNING_TITLE	Warning: Slow drive detected!		Advertencia: ¡disco lento detectado!	New			
+In-game text	SLOWDRIVE_WARNING_WINDOW	We've detected that you may be running on a slow hard drive. You may experience long loading times and connection timeouts!		Detectamos que quizá estás usando un disco duro lento. ¡Puedes tener tiempos de carga largos y desconexiones por tiempo de espera!	New			
+In-game text	SERVER_PERF_LOADED	Stressed		Exigido	New	CHECK	Left open in batch 2: server performance one step below good ("Stressed").	
+In-game text	SILENCE	Silence		Silencio	New			
+In-game text	SILENCE_TOOLTIP	Make no sound when moving or attacking.	No haces ruido al moverte o atacar.	No haces ruido al moverte o atacar.	Kept			
+In-game text	SKULK_CHALLENGE_1	Skulk Challenge (Tram)		Desafío de Skulk (Tram)	New			
+In-game text	SKULK_CHALLENGE_DEATH	YOU DIED!		¡MORISTE!	New			
+In-game text	SKULK_CHALLENGE_GO	GO!	GO!	¡YA!	Fixed	FIX	Was left as "GO!".	
+In-game text	SKULK_CHALLENGE_FINISH	FINISH!		¡META!	New			
+In-game text	SKULK_CHALLENGE_NEW_PERSONAL_BEST	NEW\nPERSONAL\nBEST!		¡NUEVO\nRÉCORD\nPERSONAL!	New			
+In-game text	SKULK_CHALLENGE_TIP_1	Jump along walls to dramatically increase your speed.		Salta por las paredes para aumentar muchísimo tu velocidad.	New			
+In-game text	SKULK_CHALLENGE_TIP_2	Try to stay off the ground as much as possible to not lose speed.		Trata de tocar el suelo lo menos posible para no perder velocidad.	New			
+In-game text	SKULK_CHALLENGE_TIP_3	Gain a lot of speed by chaining together multiple wall jumps.		Gana mucha velocidad encadenando varios saltos de pared.	New			
+In-game text	SKULK_CHALLENGE_TIP_4	You can hold %s to stop sticking to walls, which slows you down.		Puedes mantener presionado %s para dejar de pegarte a las paredes, lo cual te frena.	New			
+In-game text	SKULK_EGG	Skulk egg	Huevo de Skulk	Huevo de Skulk	Kept			
+In-game text	SPAWNING	You are now respawning	Estás renaciendo	Estás renaciendo	Kept			
+In-game text	STAB_TOOLTIP	The Fade uses both claws for a powerful strike.	El Fade usa ambas garras para un golpe más potente.	El Fade usa ambas garras para dar un golpe poderoso.	Fixed	FIX	"más potente" compared with nothing; English says "a powerful strike".	
+In-game text	STARTING_IN	Game is starting in %s seconds...	La partida comenzará en %s segundos...	La partida comenzará en %s segundos...	Kept			
+In-game text	STARTING_LOCAL_SERVER	STARTING LOCAL SERVER	INICIANDO SERVIDOR LOCAL	INICIANDO SERVIDOR LOCAL	Kept			
+In-game text	START_COMMANDING	Start Commanding	Entrar a modo Commander	Entrar a modo Commander	Kept			
+In-game text	START_GAME	Start the game with you as the Commander	Comenzar la partida contigo como Commander	Comenzar la partida contigo como Commander	Kept			
+In-game text	START_SERVER	START SERVER	CREAR SERVIDOR	CREAR SERVIDOR	Kept			
+In-game text	START_VOTE	START VOTE	COMENZAR VOTACIÓN	COMENZAR VOTACIÓN	Kept			
+In-game text	STATUS_COMMANDER	Commander		Commander	New			
+In-game text	STATUS_DEAD	Dead	Muerto	Muerto	Kept			
+In-game text	STATUS_EMBRYO	Embryo	Embrión	Embrión	Kept			
+In-game text	STATUS_EVOLVING	Evolving	Evolucionando	Evolucionando	Kept			
+In-game text	STATUS_EXO	Exo		Exo	New			
+In-game text	STATUS_FADE	Fade		Fade	New			
+In-game text	STATUS_FLAMETHROWER	FT	FT	FT	Kept			
+In-game text	STATUS_SMG	SMG		SMG	New			
+In-game text	STATUS_GORGE	Gorge		Gorge	New			
+In-game text	STATUS_GRENADE_LAUNCHER	GL	GL	GL	Kept			
+In-game text	STATUS_HMG	MG	MG	MG	Kept			
+In-game text	STATUS_JETPACK	JP	JP	JP	Kept			
+In-game text	STATUS_LERK	Lerk		Lerk	New			
+In-game text	STATUS_ONOS	Onos		Onos	New			
+In-game text	STATUS_RIFLE	Rifle		Rifle	New			
+In-game text	STATUS_SHOTGUN	Shotgun	Escopeta	Escopeta	Kept			
+In-game text	STATUS_SKULK	Skulk		Skulk	New			
+In-game text	STATUS_SPECTATOR	Spectator	Espectador	Espectador	Kept			
+In-game text	STATUS_VOID	 	 	 	Kept			
+In-game text	SWITCH_AX	Switch Ax	Hacha	Cambiar a hacha	Fixed	FIX	"Switch Ax" is an action; the file had only "Hacha".	
+In-game text	TARGET	Target	Objetivo	Objetivo	Kept			
+In-game text	TEAMS_BALANCED	Team Auto-Balance Mode Disabled	Autoequilibrado de equipos desactivado	Autoequilibrado de equipos desactivado	Kept			
+In-game text	TEAMS_UNBALANCED	Team Auto-Balance Mode Enabled	Autoequilibrado de equipos activado	Autoequilibrado de equipos activado	Kept			
+In-game text	TEAM_ALIENS_CONCEDED	Aliens have surrendered.	Los aliens se han rendido.	Los Aliens se han rendido.	Fixed	FIX	Aliens capitalized.	
+In-game text	TEAM_KILLS	Team Kills	Bajas del equipo	Bajas del equipo	Kept			
+In-game text	TEAM_MARINES_CONCEDED	Marines have surrendered.	Los marines se han rendido.	Los Marines se han rendido.	Fixed	FIX	Marines capitalized.	
+In-game text	TEAM_RES	TEAM RES: %d	RES DE EQUIPO: %d	RES DE EQUIPO: %d	Kept			
+In-game text	TEAM_RESOURCES	Team Resources	Recursos del equipo	Recursos del equipo	Kept			
+In-game text	TECHPOINT_BUILT	Built	Construído	Construido	Fixed	FIX	No accent on construido.	
+In-game text	TECHPOINT_DESTROYED	Destroyed	Destruído	Destruido	Fixed	FIX	No accent on destruido.	
+In-game text	TECHPOINT_FINISHED	Finished	Finalizado	Finalizado	Kept			
+In-game text	TECHPOINT_GROWN	Grown	Completado	Completado	Kept			
+In-game text	TECHPOINT_UNCLAIMED	Unclaimed	Sin dueño	Sin dueño	Kept			
+In-game text	TEMPORAL_AA_NAME	ON		ACTIVADO	New			
+In-game text	TIME	Time		Tiempo	New			
+In-game text	TIP	TIP	CONSEJO	CONSEJO	Kept			
+In-game text	TOP_SPEED	Top Speed		Velocidad máxima	New			
+In-game text	TRAINING	Training	Entrenamiento	Entrenamiento	Kept			
+In-game text	TRY_ANOTHER_SERVER	TRY ANOTHER SERVER		PROBAR OTRO SERVIDOR	New			
+In-game text	TUNDRA_BUNDLE_MSG	You have a Tundra Bundle in your Inventory. Would you like to open it now to receive the Tundra items?		Tienes un Paquete Tundra en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Tundra?	New			
+In-game text	TUNDRA_BUNDLE_TITLE	Tundra Bundle available!		¡Paquete Tundra disponible!	New			
+In-game text	OPEN_TUNDRA_BUNDLE	OPEN ONE BUNDLE		ABRIR UN PAQUETE	New			
+In-game text	TUNNEL_ENTRANCE_HINT_TO_LOCATION	Shortcut to %s	Atajo hacia %s	Atajo hacia %s	Kept			
+In-game text	TUNNEL_ENTRANCE_OWNER	%s's Gorge Tunnel	Túnel de Gorge de %s	Túnel de Gorge de %s	Kept			
+In-game text	TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	%s' Gorge Tunnel	Túnel de Gorge de %s	Túnel de Gorge de %s	Kept			
+In-game text	TUNNEL_LIMIT_ONE_PER_HIVE	Another Hive		Otra Hive	New			
+In-game text	TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	You need another hive to build more tunnels!		¡Necesitas otra Hive para construir más túneles!	New			
+In-game text	UNBOUND	UNBOUND!		¡SIN ASIGNAR!	New			
+In-game text	UNBUILT_POWER_NODE	Press %s to build and power nearby structures	Pulsa %s para construir y activar estructuras cercanas	Presiona %s para construir y dar energía a las estructuras cercanas	Fixed	FIX	presiona, not pulsa; "power" as energy.	
+In-game text	UNBUILT_STRUCTURE	Unbuilt %s	%s (Sin construir)	%s (Sin construir)	Kept			
+In-game text	UPDATE	UPDATE	ACTUALIZAR	ACTUALIZAR	Kept			
+In-game text	VENT_ENTRANCE	You can enter a ventilation shaft here. Ventilation shafts are used by Aliens to bypass Marines and quickly travel between two locations		Aquí puedes entrar a un conducto de ventilación. Los Aliens usan los conductos de ventilación para esquivar a los Marines y viajar rápido entre dos lugares	New			
+In-game text	VIEW_REPLAY	View Replay		Ver repetición	New			
+In-game text	VORTEX	Vortex		Vórtice	New	CHECK	Not in the glossary; translated under the new rule.	
+In-game text	VORTEX_TOOLTIP	Creates a gate to which the Fade teleports back on its first attack.	Crea un portal al que el Fade se teletransporta al atacar	Crea un portal al que el Fade se teletransporta de vuelta en su primer ataque.	Fixed	FIX	"back" and "first attack" restored.	
+In-game text	VS_BOTS	VS. BOTS	CONTRA BOTS	CONTRA BOTS	Kept			
+In-game text	WAITING_TO_SPAWN	Waiting to spawn...	Esperando a renacer...	Esperando a renacer...	Kept			
+In-game text	WARMUP_ACTIVE	Warmup Mode active until %s players join teams		Modo de calentamiento activo hasta que %s jugadores se unan a los equipos	New			
+In-game text	WHIP_BOMBARD_HINT	Bombarding defender	Defensa bombardera	Defensa bombardera	Kept			
+In-game text	WIKI_BUTTON_TOOLTIP	View the Natural Selection 2 wiki page		Ver la wiki de Natural Selection 2	New			
+In-game text	YES	YES	SÍ	SÍ	Kept			
+In-game text	PISTOL_BUYDESCRIPTION	An accurate semi-automatic weapon great for picking off things at range.		Arma semiautomática y precisa, excelente para eliminar objetivos a distancia.	New			
+In-game text	RIFLE_BUYDESCRIPTION	Standard issue automatic rifle, effective against structures and lifeforms alike.		Rifle automático estándar, efectivo tanto contra estructuras como contra formas de vida.	New			
+In-game text	SHOTGUN_BUYDESCRIPTION	A weapon with shorter range but deals powerful burst damage.		Arma de menor alcance que hace un potente daño de ráfaga.	New			
+In-game text	GRENADELAUNCHER_BUYDESCRIPTION	A long range siege weapon that demolishes enemy structures with ease but is vulnerable to counter attack from lifeforms.		Arma de asedio de largo alcance que demuele estructuras enemigas con facilidad, pero es vulnerable al contraataque de las formas de vida.	New			
+In-game text	FLAMETHROWER_BUYDESCRIPTION	A crippling support weapon that devastates and disables enemy structures while offering formidable close range deterrence.		Arma de apoyo demoledora que devasta y desactiva estructuras enemigas, y además disuade muy bien a corta distancia.	New			
+In-game text	HMG_BUYDESCRIPTION	A long range weapon with a large ammo drum that excels at shredding lifeforms.		Arma de largo alcance con un gran tambor de munición, ideal para destrozar formas de vida.	New			
+In-game text	AXE_BUYDESCRIPTION	A short range melee tool, ideal for hacking at enemy structures.		Herramienta cuerpo a cuerpo de corto alcance, ideal para golpear estructuras enemigas.	New			
+In-game text	WELDER_BUYDESCRIPTION	A replacement for the Axe that grants the ability to repair damaged structures and player armor.		Reemplaza al hacha y permite reparar estructuras dañadas y la armadura de los jugadores.	New			
+In-game text	GASGRENADE_BUYDESCRIPTION	Filled with Anti-Bacterial gaseous compounds that quickly strips away armor from enemy players and structures alike.		Contiene compuestos gaseosos antibacterianos que quitan rápidamente la armadura de jugadores y estructuras enemigas.	New			
+In-game text	CLUSTERGRENADE_BUYDESCRIPTION	Packed with anti-structural explosives that will quickly deal a moderate amount of damage to enemy structures.		Cargada con explosivos antiestructura que hacen rápidamente un daño moderado a las estructuras enemigas.	New			
+In-game text	PULSEGRENADE_BUYDESCRIPTION	Emits a large electrical pulse that will inflict Electrify on enemy players for a short time, greatly slowing their attack speed.		Emite un gran pulso eléctrico que electrifica a los jugadores enemigos por un momento y reduce mucho su velocidad de ataque.	New			
+In-game text	MINES_BUYDESCRIPTION	Deploys a trip-mine that will automatically explode when an enemy comes within proximity, dealing a moderate amount of damage. Can be destroyed from range, however.		Coloca una mina de proximidad que explota sola cuando un enemigo se acerca y hace un daño moderado. Eso sí, se puede destruir a distancia.	New			
+In-game text	JETPACK_BUYDESCRIPTION	Specialty equipment for the standard TSF Marine, enables short bursts of flight and boasts exceptional mobility.		Equipo especial para el Marine estándar de la TSF: permite vuelos cortos y da una movilidad excepcional.	New			
+In-game text	DUALRAILGUN_BUYDESCRIPTION	Offers a large armor pool but low mobility. The Railguns threaten massive burst damage and long range, however, it is vulnerable to swarms of enemies.		Ofrece mucha armadura pero poca movilidad. Las Railguns hacen un daño de ráfaga enorme a larga distancia, pero es vulnerable a los enjambres de enemigos.	New			
+In-game text	DUALMINIGUN_BUYDESCRIPTION	Offers a large armor pool but low mobility. Dual Miniguns boast impressive sustained damage that is especially effective against Armor.		Ofrece mucha armadura pero poca movilidad. Las dos Miniguns hacen un daño sostenido impresionante, especialmente efectivo contra la armadura.	New			
+In-game text	STEAMLOBBYCREATE_OK	Lobby created successfully.		Sala creada correctamente.	New			
+In-game text	STEAMLOBBYCREATE_FAIL	Server had unknown internal error.		El servidor tuvo un error interno desconocido.	New			
+In-game text	STEAMLOBBYCREATE_NOCONNECTION	Your steam client doesn't have a connection to the back-end.		Tu cliente de Steam no tiene conexión con los servidores.	New			
+In-game text	STEAMLOBBYCREATE_ACCESSDENIED	Your game isn't set to allow lobbies, or your client doesn't have the rights to play the game.		Tu juego no está configurado para permitir salas, o tu cliente no tiene permiso para jugar al juego.	New			
+In-game text	STEAMLOBBYCREATE_TIMEOUT	Steam servers did not respond in time.		Los servidores de Steam no respondieron a tiempo.	New			
+In-game text	STEAMLOBBYCREATE_LIMITEXCEEDED	Your client has created too many lobbies, and is being rate-limited.		Tu cliente creó demasiadas salas y está siendo limitado.	New			
+In-game text	UPDATING_MODS	Updating mods		Actualizando mods	New			
+In-game text	DEATHSCREEN_LEFTLABEL_TOP_PREFIX	YOU WERE		FUISTE	New	CHECK	Three stacked labels: YOU WERE / KILLED / BY:	
+In-game text	DEATHSCREEN_LEFTLABEL_TOP	KILLED		ELIMINADO	New	CHECK	Same.	
+In-game text	DEATHSCREEN_LEFTLABEL_BOTTOM	BY:		POR:	New			
+In-game text	DEATHSCREEN_RIGHTLABEL_TOP	WITH:		CON:	New			
+In-game text	DEATHSCREEN_SELFKILL_TITLE	Natural Selection		Selección natural	New			
+In-game text	DEATHSCREEN_SKIPTEXT_PREFIX	Click To Skip...		Click para omitir...	New			
+In-game text	WHIP_ABILITY	Bile Splash		Salpicadura de bilis	New	CHECK	CBM Whip ability, translated like Bomba de Bilis.	length: 20 chars vs 11 in English
+In-game text	WHIP_ABILITY_TOOLTIP	Splash nearby enemies with bile. Deals between 1.25-2 full bilebomb damage		Salpica de bilis a los enemigos cercanos. Hace entre 1.25 y 2 veces el daño completo de una bomba de bilis	New			
+In-game text	SMG	SMG		SMG	New			
+In-game text	SMG_BUYDESCRIPTION	A medium range light weight weapon with improved damage and melee than the standard assualt rifle.		Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.	New			
+In-game text	RESEARCH_SMG	Research submachineguns.		Investigar subfusiles.	New	CHECK	Submachine gun: "subfusil", with "SMG" kept as the short name.	
+In-game text	RESEARCH_SMG_TITLE	Submachinegun		Subfusil	New	CHECK	Same.	
+In-game text	SMG_TOOLTIP	Allows SMGs to be purchased at armories.		Permite comprar SMG en los Armories.	New			
+In-game text	SMG_DROP	Drop Sub Machine Gun		Soltar subfusil	New	CHECK	Same.	
+In-game text	SCAN_GRENADE	Scan Grenade		Granada de escaneo	New			
+In-game text	SCAN_GRENADE_TOOLTIP	Emits a scan that reveals cloaked units and highlights enemy units on the map		Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa	New			
+In-game text	SCANGRENADE_BUYDESCRIPTION	Emits a scan that reveals cloaked units and highlights enemy units on the map		Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa	New			
+In-game text	RESEARCH_SCAN_GRENADES	Scan Grenades		Granadas de escaneo	New			
+In-game text	SCAN_GRENADES_TOOLTIP	Allows scan grenades to be purchased at armories.		Permite comprar granadas de escaneo en los Armories.	New			
+In-game text	RESEARCH_SCAN_GRENADES_TITLE	Scan Grenades		Granadas de escaneo	New			
+In-game text	UPGRADE_OBSERVATORY	Upgrade to Advanced Observatory		Mejorar a Advanced Observatory	New			
+In-game text	UPGRADE_OBSERVATORY_TOOLTIP	Unlocks new research, buffs motion tracking, and increases health.		Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la salud.	New			
+In-game text	ADVANCED_OBSERVATORY_HINT	Detects Aliens		Detecta Aliens	New			
+In-game text	ADVANCED_OBSERVATORY_TOOLTIP	Detects enemies nearby.		Detecta enemigos cercanos.	New			
+In-game text	ADVANCED_OBSERVATORY	Advanced Observatory		Advanced Observatory	New			
+In-game text	RESEARCH_ADVANCED_OBSERVATORY_TITLE	Advanced Observatory		Advanced Observatory	New			
+In-game text	CARGO_GATE_HINT	Exosuit teleport		Teletransporte de Exotrajes	New			length: 27 chars vs 16 in English
+In-game text	CARGO_GATE	Cargo Gate		Cargo Gate	New	CHECK	CBM building, not in the glossary: kept in English like the other buildings.	
+In-game text	CARGO_GATE_TOOLTIP	Teleports Exosuits to other cargo gate.		Teletransporta Exotrajes a otra Cargo Gate.	New			
+In-game text	CARGO_GATE_HINT_TO_LOCATION	Teleport to %s		Teletransporte a %s	New			
+In-game text	CARGO_TECH	Cargo Gate Tech		Tecnología de Cargo Gate	New			
+In-game text	CARGO_TECH_TOOLTIP	Unlocks cargo gate tech.		Desbloquea la tecnología de Cargo Gate.	New			length: 39 chars vs 24 in English
+In-game text	RESEARCH_CARGO_TECH_TOOLTIP	Cargo Gate		Cargo Gate	New			

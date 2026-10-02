@@ -1,0 +1,200 @@
+ABYSS_BUNDLE_TITLE	¡Paquete Abyss disponible!	CHECK	"Bundle" as "paquete", with the product name kept. Applies to all the bundle lines.
+ABYSS_BUNDLE_MSG	Tienes un Paquete Abyss en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Abyss?		
+OPEN_ABYSS_BUNDLE	ABRIR UN PAQUETE		
+ADVANCED_MARINE_SUPPORT	Soporte avanzado	FIX	Was left as "Advanced Assistance"; glossary: soporte avanzado.
+AF	FILTRADO ANISOTRÓPICO		
+AFK_WARNING	No te has movido en %{timeAFK}d segundos. Serás expulsado del servidor automáticamente tras %{maxAFKTime}d segundos.		
+AIR_PURIFIER	Purificador de aire		
+ALIEN	Alien		
+ALIEN_DEFEAT	Derrota Alien		
+ALIEN_TEAM_DEFEND_THE_HIVE	Objetivo: ¡defiende la Hive y no mueras!	FIX	Opening "¡".
+ALIEN_TEAM_GAME_STARTED	Objetivo: destruye la Command Station	FIX	Imperative, and a structure is destroyed.
+ALIEN_VICTORY	¡Victoria Alien!		
+ARMOR	Armadura		
+ATTEMPTING_CONNECTION	INTENTANDO CONECTAR		
+AUTHENTICATING	AUTENTICANDO		
+AUTO_CONCEDE_WARNING	Equipos desequilibrados. Los %{teamName}s se rendirán automáticamente en %{time}d segundos.		
+AUTO_TEAM_BALANCE_TOOLTIP	Balance de equipos activado. Renacerás cuando mueran tus compañeros.\nPuedes cambiar de equipo para renacer más rápido. Presiona %s para cambiar de equipo.	FIX	presiona, not pulsa.
+AVERAGE_SPEED	Velocidad promedio		
+AXE	Hacha		
+BABBLERS	Babblers		
+BABBLER_EGG	Huevo de Babbler		
+BABBLER_EGG_TOOLTIP	Incuba un Babbler al que se le puede ordenar atacar o defender.	FIX	One Babbler; "hatches".
+BEACONING	El Commander activó el Beacon de emergencia. Teletransporte inminente.	FIX	Distress Beacon is "Beacon de emergencia" in the glossary.
+BEACONING_COMMANDER	Beacon de emergencia activado. Teletransporte inminente.	FIX	Same.
+BEACON_TO	Beacon de emergencia: teletransportándote a %s	FIX	Same.
+BEACONS_TO	Beacon a %{location}s		
+BEST_TIME	Mejor tiempo		
+BETA_MAINMENU	Compilación 		
+BIOMASS_LEVEL	NIVEL DE BIOMASA	FIX	biomasa per the glossary.
+BLOCKED	Bloqueado		
+OPEN_BMAC_BUNDLE	ABRIR UN PAQUETE		
+BUY	COMPRAR	FIX	Buttons are infinitives (style guide 3).
+CAMERA_ANIMATION	ANIMACIONES DE CÁMARA		
+CAMOUFLAGED	Camuflado		
+CAPS_LOCK_WARNING	Bloq Mayús está activado		
+CARAPACE_SHELL	Shell con caparazón	FIX	Carapace is "caparazón" in the glossary.
+CARAPACE_SHELL_HINT	Armadura Alien mejorada		
+CARAPACE_SHELL_TOOLTIP	Da a los Aliens armadura adicional	FIX	Aliens capitalized.
+CAT_PACKS	Paquetes catalizadores	FIX	paquete catalizador per batch 3.
+CAT_PACK_TECH_TOOLTIP	Aumenta la velocidad de movimiento, de recarga y de soldadura de los Marines.		
+CATALYST_BUNDLE_MSG	Tienes un Paquete Catalyst en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Catalyst?		
+CATALYST_BUNDLE_TITLE	¡Paquete Catalyst disponible!		
+OPEN_CATALYST_BUNDLE	ABRIR UN PAQUETE		
+CHANGE_EGG_HELP	Presiona %s para renacer o %s para cambiar de huevo	FIX	presiona, not pulsa.
+CHANGELOG_DISCORD	Chatea con nosotros		
+CHANGELOG_FEEDBACK	Comentarios:	FIX	Feedback is comments, not recommendations.
+CHANGELOG_FEEDBACK_RESPONSE	¡Gracias por tus comentarios!	FIX	Same; opening "¡".
+CHANGELOG_TITLE	REGISTRO DE CAMBIOS		
+CHATBAR_MUTED	Silenciado		
+CHECKING_CONSISTENCY	COMPROBANDO CONSISTENCIA		
+CHOOSE_SPAWN	Abre el minimapa para elegir dónde renacer	FIX	Accent on dónde; renacer.
+CLOAKED	Oculto	FIX	Matches "bruma de ocultamiento" (Cloaking Haze) in the glossary.
+COMING_SOON_1	 (próximamente)		
+COMING_SOON_2	Próximamente		
+COMMANDER	Commander: 		
+COMMANDER_HELP	AYUDA DE COMMANDER	FIX	Added "DE".
+COMM_EJECT	Echaron al Commander	FIX	The glossary keeps "echar al Commander" for the eject vote; "expulsado" is a server kick.
+COMM_ENABLES	Desbloquea:		
+COMM_REQUIRES	Requiere:		
+COMM_SEL_BUILDING	CONSTRUYENDO...		
+COMM_SEL_CONSTRUCTING	CONSTRUYENDO...		
+COMM_SEL_HATCHING	INCUBANDO...		
+COMM_SEL_LIFETIME	TIEMPO RESTANTE...		
+COMM_SEL_RECYCLING	RECICLANDO...		
+COMM_SEL_RESEARCHING	INVESTIGANDO...	FIX	investigar, never desarrollar.
+COMM_SEL_UPGRADING	MEJORANDO...		
+COMM_SEL_CONSUMING	CONSUMIENDO...		
+COMM_STATION_UNDER_ATTACK	Command Station de %s bajo ataque		
+CONSTRUCT_PRIMED	Activada 	CHECK	Prefix placed before a structure name. "Primed": armed and ready? Gender cannot agree with every structure.
+CONSTRUCT_UNBUILT	Sin construir 	FIX	Trailing space restored (docs/bugs.md): the game glues the structure name after it.
+CONSTRUCT_UNPOWERED	Sin energía 	FIX	Trailing space restored; accent.
+CONSTRUCT_UNROOTED	Sin enraizar 	CHECK	Prefix before a structure name (an unrooted Whip).
+CONSUMED_STRUCTURE	%s (Consumido)		
+CURRENT	ACTUAL		
+CYST_UNCONNECTED_HINT	No conectado		
+DESTROY	Destruir		
+DESTROYED_POWER_NODE	¡El Nodo de energía fue destruido!	FIX	Nodo de energía per batch 3; "destruido" has no accent.
+DETAILS	DETALLES		
+DEVICE	DISPOSITIVO		
+DIRECTX9	DIRECTX 9 (obsoleto)		
+DIRECTX11	DIRECTX 11		
+ENABLED	ACTIVADO		
+DISCORD_BUTTON_TOOLTIP	Servidor oficial de Discord de Natural Selection 2		
+DISPLAY_MODE_WINDOWED	VENTANA		
+DISPLAY_MODE_FULLSCREEN	PANTALLA COMPLETA		
+DISPLAY_MODE_FULLSCREENWINDOWED	PANTALLA COMPLETA EN VENTANA		
+DLC_PURCHASE_GAME_RESTART_MSG	Hay que reiniciar el juego para que Steam active e instale el DLC comprado.\nLos objetos de un DLC nuevo no estarán disponibles hasta entonces.		
+DOWNLOAD_COMPLETE	¡Descarga completada!		
+DOWNLOAD_FAILED	¡Descarga fallida!		
+DOWNLOADING_MODS	DESCARGANDO MODS		
+DOWNLOADING_REPLAY	Descargando repetición...		
+DRAW_DAMAGE	MOSTRAR DAÑO		
+DRAW_GAME	¡Empate!		
+DUAL_MINIGUN_TECH_TOOLTIP	Permite al Exo comprar una segunda arma.	FIX	Singular, as in English.
+EJECT	EYECTAR		
+EJECT_FROM_EXO	Eyectarse		
+EQUIPPED	EQUIPADO		
+ESCAPE	Escape		
+EVOLUTION_AVAILABLE	Evolución %s disponible		
+EVOLUTION_LOST	Evolución %s perdida	FIX	Word order, to match "Evolución %s disponible".
+EVOLVE	Evolucionar		
+EVOLVING_TO	Evolucionando a %s		
+EXIT	SALIR		
+EXPERIENCE_LEVEL	nivel de experiencia		
+EXPLORE_MODE	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room)	FIX	Sandbox and Ready Room capitalized; el Ready Room.
+EXPLORE_MODE_ALIEN	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room, BIND_Buy para evolucionar)	FIX	Same.
+EXPLORE_MODE_INITIALIZED	Modo Sandbox activado. Escribe %s en la consola para restablecer todos los widgets de ayuda. Escribe speed <número> para acelerar o frenar el mundo (por defecto, speed 1).	FIX	Sandbox capitalized; "frenar" in place of "decelerar". "<number>" is shown to the player, so it is translated as "<número>", as the file already did; the checker reports it as a changed tag.
+EXPLORE_MODE_READY_ROOM	Modo Sandbox	FIX	Sandbox capitalized.
+FIRSTPERSON_SPEC_DEATHS	Muertes		
+FIRSTPERSON_SPEC_KILLS	Bajas		
+FIRSTPERSON_SPEC_SCORE	Puntuación		
+FOLLOWING_NAME	Siguiendo a %{name}s		
+FORGE_BUNDLE_MSG	Tienes un Paquete Forge en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Forge?		
+FORGE_BUNDLE_TITLE	¡Paquete Forge disponible!		
+OPEN_FORGE_BUNDLE	ABRIR UN PAQUETE		
+SHADOW_BUNDLE_MSG	Tienes un Paquete Shadow en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Shadow?		
+SHADOW_BUNDLE_TITLE	¡Paquete Shadow disponible!		
+OPEN_SHADOW_BUNDLE	ABRIR UN PAQUETE		
+FRIEND_STATE_IN_GAME	En partida	CHECK	Left open in batch 2: a friend who is playing.
+GAME_START_COMMANDERS	La partida comenzará cuando ambos equipos tengan un Commander.		
+GB_HALF	0.5GB		
+GB_ONE	1GB		
+GB_ONE_POINT_FIVE	1.5GB		
+GB_TWO_PLUS	2GB+		
+GET_MODS	OBTENER MODS		
+GORGE_TUNNEL_TECH	Túneles de Gorge		
+GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir túneles que conectan dos partes del mapa.		
+GORGE_TUNNEL_TOOLTIP	Entrada de túnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.	FIX	Marines capitalized; agreement (la entrada).
+GROWN	Madura	CHECK	State of an alien structure that finished growing; context unclear.
+HEALTH	Salud		
+HIGH_AO_OLD	ALTA (VERSIÓN ANTERIOR)	CHECK	Ambient occlusion quality; feminine to agree with "oclusión".
+HIVE_CONSTRUCTED	Hive de %s completada		
+HIVE_KILLED	Hive de %s destruida		
+HIVE_LOW_HEALTH	Muerte inminente de la Hive de %s	FIX	"de %s", as in the other Hive alerts.
+HIVE_OFFLINE	La Hive no está disponible	FIX	Article.
+HIVE_UNDER_ATTACK	Hive de %s bajo ataque	FIX	"de %s", as in the other Hive alerts.
+HOLD_KEY	Mantener		
+IGNORE	Ignorar		
+INCORRECT_PASSWORD	Contraseña incorrecta		
+INDESTRUCTABLE	indestructible	FIX	The English has no parentheses.
+INFANTRY_PORTAL_SPAWNING_HINT	RENACIENDO: %s		
+INFANTRY_PORTAL_TOOMANYIPS	Demasiados Infantry Portals		
+INITIALIZING_GAME	COMPROBANDO DATOS DEL JUEGO	FIX	ALL CAPS, as in English.
+INSIGHT_ALIENS_EGGS	Huevos: %s		
+INSIGHT_MARINE_POWER	Energía: %d%%		
+IP_UNDER_ATTACK	Infantry Portal de %s bajo ataque		
+JUMP_COUNT	Cantidad de saltos		
+JUST_THIS_TIME	Solo esta vez		
+KODIAK_BUNDLE_TITLE	¡Paquete Kodiak disponible!		
+KODIAK_BUNDLE_MESSAGE	Tienes un Paquete Kodiak en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Kodiak?		
+OPEN_KODIAK_BUNDLE	ABRIR UN PAQUETE		
+LEAVE_SERVER	SALIR DEL SERVIDOR		
+LEFT_MOUSE_BUTTON	Botón izquierdo del mouse	FIX	mouse, never ratón.
+LEFT_SHIFT	Mayús. izq.		
+LEVEL	NIVEL		
+LIFEFORM_POPUP_EVOLUTION_AVAILABLE	EVOLUCIÓN DISPONIBLE		
+LIFEFORM_POPUP_ROLE_ASSASSIN	Asesino		
+LIFEFORM_POPUP_ROLE_BRUISER	Peleador	CHECK	"Bruiser": the front-line brawler role. Or "Tanque"?
+LIFEFORM_POPUP_ROLE_RANGED_SUPPORT	Apoyo a distancia		
+LIFEFORM_POPUP_ROLE_SUPPORT	Apoyo		
+LOBBY_MEMBER_LEFT_SUFFIX	salió	CHECK	Placed after a player name.
+LOBBY_MEMBER_KICKED_SUFFIX	fue expulsado	CHECK	Placed after a player name.
+LOBBY_MEMBER_JOIN_SUFFIX	se unió	CHECK	Placed after a player name.
+LOGIN_ERROR_ROOKIE	¡Un novato acaba de entrar como Commander! ¡Por favor, apóyalo!	FIX	Punctuation and accents; "Command Structure" avoided.
+LOGOUT	Salir		
+LOGOUT_TOOLTIP	Volver al campo de batalla		
+MARINES_RESPAWNING	MARINES RENACIENDO: %s		
+MARINE_DEFEAT	Derrota Marine		
+MARINE_TEAM_GAME_STARTED	Objetivo: destruye la Hive Alien	FIX	Imperative, and a structure is destroyed.
+MARINE_VICTORY	¡Victoria Marine!		
+MASTER_VOLUME	VOLUMEN GENERAL		
+MATURITY	Madurez		
+MEDIUM_AO_OLD	MEDIA (VERSIÓN ANTERIOR)	CHECK	Same as HIGH_AO_OLD.
+METERS	metros		
+MINE	Minas		
+MINIGUN_MINIGUN_TOOLTIP	BIND_PrimaryAttack para disparar la Minigun izquierda, BIND_SecondaryAttack para la derecha (munición ilimitada, pero se pueden sobrecalentar). BIND_Jump para activar los propulsores de salto.	FIX	Minigun capitalized; wording matches the batch 3 exo tooltips.
+MODDED	ARCADE		
+MOD_STATUS_AVAILABLE	100%		
+MOD_STATUS_DOWNLOADING	Descargando...		
+MOD_STATUS_GETTING_INFO	Obteniendo información...		
+MOD_STATUS_UNPACKING	Descomprimiendo...		
+MOD_STATUS_UNKNOWN	Desconocido		
+MUSCULAR_ADVANTAGE	Ventaja muscular	CHECK	No context found for this key.
+NAME_TEAM_0	Ready Room		
+NAME_TEAM_1	Frontiersmen		
+NAME_TEAM_2	Kharaa		
+NANO_SHIELD_ACTIVE	NANO-ESCUDO ACTIVO	FIX	nano-escudo per the glossary.
+NANO_SHIELD_TECH	Tecnología de nano-escudo	FIX	nano-escudo per the glossary.
+NEW_INFORMATION	¡Nueva información!		
+NEW_ITEM	Nuevo objeto: %s		
+NEWS	NOTICIAS		
+NEXT	Sig.		
+NEXT_MEDAL_TIME	Tiempo de la próxima medalla		
+NEXT_SPAWN_IN	Próxima oleada en %d	FIX	Shorter; it is a HUD line.
+NS2	NS2		
+NS2PLUS_OPTIONS	OPCIONES DE NS2+		
+NO	NO		
+NO_COMM	Se necesita Commander		
+NO_COMMANDER	No hay Commander		
+NO_IPS	Se necesita Infantry Portal		

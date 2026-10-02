@@ -1,0 +1,134 @@
+NEW_ACHIEVEMENT_1_1_NAME	Ingeniero de combate	FIX	Capitals per the style guide (no Title Case).
+NEW_ACHIEVEMENT_1_1_DESC	Construye 10 Extractors en 1 ronda	FIX	Extractor capitalized, as in the glossary.
+NEW_ACHIEVEMENT_1_2_NAME	El doctor está de turno	CHECK	Achievement name, free translation.
+NEW_ACHIEVEMENT_1_2_DESC	Repara a tus compañeros con el soldador 10 veces en 1 ronda	CHECK	"Weld" as a verb: reparar con el soldador.
+NEW_ACHIEVEMENT_1_3_NAME	Correo de primera clase	CHECK	Achievement name, free translation.
+NEW_ACHIEVEMENT_1_3_DESC	Usa un portal de fase	FIX	Phase Gate is "portal de fase" in the glossary.
+NEW_ACHIEVEMENT_1_4_NAME	Luz ambiental	CHECK	Achievement name, free translation.
+NEW_ACHIEVEMENT_1_4_DESC	Repara un Nodo de energía con el soldador		
+NEW_ACHIEVEMENT_1_5_NAME	Técnico de reparaciones		
+NEW_ACHIEVEMENT_1_5_DESC	Repara 5 Nodos de energía con el soldador en 1 ronda	FIX	Was "Weldea 5 Power Nodes".
+NEW_ACHIEVEMENT_1_6_NAME	No paran de venir	FIX	More natural than "Ellos siguen viniendo".
+NEW_ACHIEVEMENT_1_6_DESC	Mata a un Skulk		
+NEW_ACHIEVEMENT_1_7_NAME	Sabotaje económico		
+NEW_ACHIEVEMENT_1_7_DESC	Mata a un Gorge	FIX	Was "George".
+NEW_ACHIEVEMENT_1_8_NAME	Defensa aérea	FIX	Accent and capitals.
+NEW_ACHIEVEMENT_1_8_DESC	Mata a un Lerk		
+NEW_ACHIEVEMENT_1_9_NAME	Combate asimétrico		
+NEW_ACHIEVEMENT_1_9_DESC	Mata a un Fade		
+NEW_ACHIEVEMENT_1_10_NAME	Caza mayor		
+NEW_ACHIEVEMENT_1_10_DESC	Mata a un Onos		
+NEW_ACHIEVEMENT_1_11_NAME	Pensamiento estratégico		
+NEW_ACHIEVEMENT_1_11_DESC	Sigue 5 órdenes del Commander en 1 ronda	FIX	Accent on órdenes.
+NEW_ACHIEVEMENT_1_12_NAME	Escolta de seguridad	FIX	"Security detail" is a guard team, not a detail (detalle).
+NEW_ACHIEVEMENT_1_12_DESC	Mata a un Alien mientras defiendes un Extractor		
+NEW_ACHIEVEMENT_1_13_NAME	Inversiones a largo plazo		
+NEW_ACHIEVEMENT_1_13_DESC	Mata a un Alien mientras defiendes un Extractor 5 veces en una sola ronda	FIX	"una sola ronda", as in the other achievements.
+NEW_ACHIEVEMENT_1_14_NAME	Adam Smith		
+NEW_ACHIEVEMENT_1_14_DESC	Mata a un Alien mientras defiendes un Extractor 10 veces en una sola ronda	FIX	"una sola ronda", as in the other achievements.
+NEW_ACHIEVEMENT_1_15_NAME	Economía básica	CHECK	"Economics 101".
+NEW_ACHIEVEMENT_1_15_DESC	Destruye un Harvester	FIX	A structure is destroyed, not killed.
+NEW_ACHIEVEMENT_1_16_NAME	Rompepresas	CHECK	"Dambuster"; could stay in English.
+NEW_ACHIEVEMENT_1_16_DESC	Destruye 5 Harvesters en una sola ronda	FIX	Destroyed, not killed.
+NEW_ACHIEVEMENT_1_17_NAME	Sin tecnología para ti		
+NEW_ACHIEVEMENT_1_17_DESC	Destruye 10 Harvesters en una sola ronda	FIX	Destroyed, not killed.
+NEW_ACHIEVEMENT_1_18_NAME	¡Te toqué!	CHECK	"Tag!" as in the children's game.
+NEW_ACHIEVEMENT_1_18_DESC	Parasita a un Marine	CHECK	Verb for Parasite: parasitar.
+NEW_ACHIEVEMENT_1_19_NAME	Veo escoria humana	FIX	"Scum" is escoria.
+NEW_ACHIEVEMENT_1_19_DESC	Parasita a 10 Marines en una sola ronda		
+NEW_ACHIEVEMENT_1_20_NAME	¡Wallhack!	CHECK	Cheat name, kept as players say it.
+NEW_ACHIEVEMENT_1_20_DESC	Parasita a 20 Marines en una sola ronda		
+NEW_ACHIEVEMENT_1_21_NAME	Jugador de equipo		
+NEW_ACHIEVEMENT_1_21_DESC	Destruye un Extractor		
+NEW_ACHIEVEMENT_1_22_NAME	Perro que ladra	CHECK	"Barking Dog".
+NEW_ACHIEVEMENT_1_22_DESC	Destruye 5 Extractors en una sola ronda		
+NEW_ACHIEVEMENT_1_23_NAME	Solo Rifles		
+NEW_ACHIEVEMENT_1_23_DESC	Destruye 10 Extractors en una sola ronda		
+NEW_ACHIEVEMENT_1_24_NAME	Cultivo		
+NEW_ACHIEVEMENT_1_24_DESC	Construye una Hive como Gorge	FIX	Was "George".
+NEW_ACHIEVEMENT_1_25_NAME	Desarme		
+NEW_ACHIEVEMENT_1_25_DESC	Mata a un Marine que tenga una escopeta	FIX	Shotgun is "escopeta" in the glossary.
+NEW_ACHIEVEMENT_1_26_NAME	Bombero		
+NEW_ACHIEVEMENT_1_26_DESC	Mata a un Marine que tenga un lanzallamas	FIX	Flamethrower is "lanzallamas" in the glossary.
+NEW_ACHIEVEMENT_1_27_NAME	Desactivación de bombas		
+NEW_ACHIEVEMENT_1_27_DESC	Mata a un Marine que tenga un lanzagranadas	FIX	Grenade Launcher is "lanzagranadas" in the glossary.
+NEW_ACHIEVEMENT_1_28_NAME	Ahora vas a pie	FIX	The joke is that the pilot now has to walk.
+NEW_ACHIEVEMENT_1_28_DESC	Destruye un Exotraje	FIX	Exotraje, per the batch 3 decisions.
+NEW_ACHIEVEMENT_1_30_NAME	Baboso	CHECK	"Slimy".
+NEW_ACHIEVEMENT_1_30_DESC	Usa un túnel de Gorge	FIX	Was "George Tunnel".
+NEW_ACHIEVEMENT_1_31_NAME	Listo para la batalla		
+NEW_ACHIEVEMENT_1_31_DESC	Evoluciona una mejora Kharaa		
+NEW_ACHIEVEMENT_2_0_NAME	Ventaja injusta		
+NEW_ACHIEVEMENT_2_0_DESC	Evoluciona 3 mejoras Kharaa		
+NEW_ACHIEVEMENT_2_1_NAME	Llegaron por la espalda		
+NEW_ACHIEVEMENT_2_1_DESC	Mata a un Marine después de acercarte en sigilo como Skulk		
+NEW_ACHIEVEMENT_2_2_NAME	Xenomorfo más valioso	CHECK	Plays on "Most Valuable Player".
+NEW_ACHIEVEMENT_2_2_DESC	Mata a un Marine mientras defiendes un Harvester		
+NEW_ACHIEVEMENT_2_3_NAME	Inversiones seguras		
+NEW_ACHIEVEMENT_2_3_DESC	Mata a un Marine mientras defiendes un Harvester 5 veces en una sola ronda		
+NEW_ACHIEVEMENT_2_4_NAME	Santo patrono de los recursos		
+NEW_ACHIEVEMENT_2_4_DESC	Mata a un Marine mientras defiendes un Harvester 10 veces en una sola ronda		
+NEW_ACHIEVEMENT_2_5_NAME	Consejo de experto	CHECK	"Protip".
+NEW_ACHIEVEMENT_2_5_DESC	Mata a un Marine con 2 mordidas y un parásito		
+NEW_ACHIEVEMENT_2_6_NAME	Intocable		
+NEW_ACHIEVEMENT_2_6_DESC	Mata a un Marine teniendo la salud completa	FIX	Health is "salud" elsewhere in the file.
+NEW_ACHIEVEMENT_2_7_NAME	Demoliciones		
+NEW_ACHIEVEMENT_2_7_DESC	Causa 7500 de daño a estructuras en una sola ronda	FIX	Damage to structures in general, not to one structure.
+NEW_ACHIEVEMENT_2_8_NAME	Furia sangrienta		
+NEW_ACHIEVEMENT_2_8_DESC	Causa 4000 de daño a jugadores en una sola ronda		
+NEW_ACHIEVEMENT_2_9_NAME	Jaque mate		
+NEW_ACHIEVEMENT_2_9_DESC	Da el golpe final a una Hive o Command Station		
+NEW_ACHIEVEMENT_2_10_NAME	Es solo un rasguño	CHECK	The Monty Python line.
+NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de salud		
+NEW_ACHIEVEMENT_2_11_NAME	Control de calidad		
+NEW_ACHIEVEMENT_2_11_DESC	Mata a un desarrollador	FIX	Lowercase.
+NEW_ACHIEVEMENT_2_12_NAME	Conducta antideportiva		
+NEW_ACHIEVEMENT_2_12_DESC	Búrlate después de matar a un jugador	FIX	Was "Tauntea".
+NEW_ACHIEVEMENT_2_13_NAME	Regicidio		
+NEW_ACHIEVEMENT_2_13_DESC	Mata al Commander del equipo contrario	FIX	Was "Commandante".
+NEW_ACHIEVEMENT_2_14_NAME	Se acabaron los juguetes caros		
+NEW_ACHIEVEMENT_2_14_DESC	Destruye tecnología enemiga por valor de 100 recursos en una sola ronda		
+NEW_ACHIEVEMENT_2_15_NAME	Quemando dinero		
+NEW_ACHIEVEMENT_2_15_DESC	Destruye tecnología enemiga por valor de 200 recursos en una sola ronda		
+NEW_ACHIEVEMENT_2_16_NAME	Recesión		
+NEW_ACHIEVEMENT_2_16_DESC	Destruye tecnología enemiga por valor de 300 recursos en una sola ronda		
+NEW_ACHIEVEMENT_2_17_NAME	Primera aventura		
+NEW_ACHIEVEMENT_2_17_DESC	Completa ambos tutoriales.	FIX	Final period, as in English.
+NEW_ACHIEVEMENT_2_18_NAME	Explorador		
+NEW_ACHIEVEMENT_2_18_DESC	Usa la partida rápida	CHECK	"Play Now" is the old name of Quick Play.
+NEW_ACHIEVEMENT_2_19_NAME	TSF		
+NEW_ACHIEVEMENT_2_19_DESC	Juega una ronda como Marine		
+NEW_ACHIEVEMENT_2_20_NAME	Kharaa		
+NEW_ACHIEVEMENT_2_20_DESC	Juega una ronda como Alien	FIX	Without "un", to match the Marine line.
+NEW_ACHIEVEMENT_2_21_NAME	Viajero		
+NEW_ACHIEVEMENT_2_21_DESC	Juega en 3 mapas diferentes	FIX	Added "en".
+NEW_ACHIEVEMENT_2_22_NAME	Cómete las verduras	CHECK	"Eat Your Greens".
+NEW_ACHIEVEMENT_2_22_DESC	Completa todas las misiones de jugador nuevo	FIX	Tidier wording.
+NEW_ACHIEVEMENT_2_23_NAME	Premio Darwin		
+NEW_ACHIEVEMENT_2_23_DESC	Demasiado decidido para escuchar buenos consejos.		
+NEW_ACHIEVEMENT_2_24_NAME	Facepalm a velocidad terminal	CHECK	"Facepalm" kept; no good Spanish word.
+NEW_ACHIEVEMENT_2_24_DESC	Para cuando un facepalm común no alcanza...		
+NEW_ACHIEVEMENT_2_25_NAME	Nuevo recluta		
+NEW_ACHIEVEMENT_2_25_DESC	Completa el tutorial de Marine.		
+NEW_ACHIEVEMENT_2_26_NAME	Larva fresca		
+NEW_ACHIEVEMENT_2_26_DESC	Completa el tutorial de Alien.	FIX	Matches the Marine line; final period.
+NEW_ACHIEVEMENT_2_27_NAME	El tesoro de un Gorge		
+NEW_ACHIEVEMENT_2_27_DESC	Consigue los 15 objetos que se pueden obtener al jugar.	CHECK	"Drop-able items" are the cosmetic drops; was "items dropeables".
+NEW_ACHIEVEMENT_2_28_NAME	Desatado		
+NEW_ACHIEVEMENT_2_28_DESC	Sacudir la jaula tiene su propia recompensa		
+NEW_ACHIEVEMENT_2_29_NAME	Campeón del arcade		
+NEW_ACHIEVEMENT_2_29_DESC	Pasaste un rato jugando modos de juego arcade		
+NEW_ACHIEVEMENT_2_30_NAME	Recluta veterano	FIX	"Old Recruit" pairs with "New Recruit"; "viejo" reads as elderly.
+NEW_ACHIEVEMENT_2_30_DESC	Completa el tutorial de Commander Marine.	FIX	Final period.
+NEW_ACHIEVEMENT_2_31_NAME	El tesoro de Barbaclog	CHECK	"Clogbeard", a pirate pun on Clog.
+NEW_ACHIEVEMENT_2_31_DESC	Dicen que hay un tesoro de Gorge por ahí en alguna parte...		
+NEW_ACHIEVEMENT_3_0_NAME	No confíes en nadie		
+NEW_ACHIEVEMENT_3_0_DESC	No sé qué hay ahí dentro, pero es raro y está furioso, sea lo que sea.	CHECK	Quote from The Thing.
+NEW_ACHIEVEMENT_3_1_NAME	Llegó... por la espalda		
+NEW_ACHIEVEMENT_3_1_DESC	Infesta a todos y sigue con vida.		
+NEW_ACHIEVEMENT_3_2_NAME	Sgto. MacReady		
+NEW_ACHIEVEMENT_3_2_DESC	Sé el último y único sobreviviente contra la infestación		
+NEW_ACHIEVEMENT_3_3_NAME	Forma de vida superior		
+NEW_ACHIEVEMENT_3_3_DESC	Completa el tutorial de Commander Alien.		
+NEW_ACHIEVEMENT_3_4_NAME	La gota que colmó el vaso		
+NEW_ACHIEVEMENT_3_4_DESC	Los Gorges solo pueden aguantar hasta cierto punto...		

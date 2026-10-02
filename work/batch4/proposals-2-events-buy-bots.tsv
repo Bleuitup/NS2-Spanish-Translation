@@ -1,0 +1,246 @@
+ALIEN_ALERT_RESEARCH_CANCELLED	Investigación cancelada		
+COMMANDERERROR_BUILD_FAILED	Fallo de construcción.		
+COMMANDERERROR_CANT_BUILD_ON_TOP	No se puede construir sobre la entidad.		
+COMMANDERERROR_INFESTATION_REQUIRED	Se requiere infestación.		
+COMMANDERERROR_INVALID_PLACEMENT	Lugar no válido.		
+COMMANDERERROR_MUST_WAIT	Tienes que esperar.	FIX	Final period, as in English and the other errors.
+COMMANDERERROR_NOT_ALLOWED_ON_INFESTATION	No se permite sobre infestación.		
+COMMANDERERROR_NO_EXIT	Sin salida.		
+COMMANDERERROR_OUT_OF_RANGE	Fuera de rango.		
+COMMANDERERROR_TECH_NOT_AVAILABLE	Tecnología no disponible.		
+COMMANDERERROR_TOO_MANY_ENTITIES	No se puede construir: demasiadas entidades.	FIX	Colon and lowercase in place of " - Demasiadas".
+COMMANDERERROR_TOO_MANY_UPGRADED_EGGS	¡Máximo 2 huevos de forma de vida por Hive!		
+EVT_ADVANCED_WEAPONRY_RESEARCHED	ARMAMENTO AVANZADO INVESTIGADO	FIX	Research is "investigar", never "desarrollar" (style guide 4). Same for every line below.
+EVT_ARMOR_LEVEL_1_RESEARCHED	ARMADURA DE NIVEL 1 INVESTIGADA	FIX	investigar.
+EVT_ARMOR_LEVEL_2_RESEARCHED	ARMADURA DE NIVEL 2 INVESTIGADA	FIX	investigar.
+EVT_ARMOR_LEVEL_3_RESEARCHED	ARMADURA DE NIVEL 3 INVESTIGADA	FIX	investigar.
+EVT_BILE_BOMB_RESEARCHED	BOMBA DE BILIS INVESTIGADA	FIX	investigar; Bomba de Bilis per batch 3.
+EVT_BONESHIELD_RESEARCHED	ESCUDO DE HUESOS INVESTIGADO	FIX	investigar; Escudo de Huesos per batch 3.
+EVT_BUY_AT_ARMORY	COMPRAR EN EL ARMORY	FIX	The glossary has "el Armory".
+EVT_BUY_AT_PROTOTYPE_LAB	COMPRAR EN EL PROTOTYPE LAB		
+EVT_CHARGE_RESEARCHED	CARGA INVESTIGADA	FIX	investigar; Carga per batch 3.
+EVT_CLAWRAILGUN_RESEARCHED	EXOTRAJE CON GARRA Y RAILGUN INVESTIGADO	FIX	investigar; Exotraje. Claw is "garra" in the glossary, but you kept "puño" in CLAWRAILGUN_EXOSUIT: which one?
+EVT_DUALMINIGUN_RESEARCHED	EXOTRAJE CON DOS MINIGUNS INVESTIGADO	FIX	investigar; Exotraje (was "exoesqueleto").
+EVT_DUALRAILGUN_RESEARCHED	EXOTRAJE CON DOS RAILGUNS INVESTIGADO	FIX	investigar; Exotraje (was "exoesqueleto").
+EVT_EXOSUIT_RESEARCHED	EXOTRAJES INVESTIGADOS	FIX	investigar; Exotraje (was "exoesqueletos").
+EVT_FADE_UPGRADED	FADE MEJORADO		
+EVT_FLAMETHROWER_RESEARCHED	LANZALLAMAS INVESTIGADOS	FIX	investigar.
+EVT_GORGETUNNEL_RESEARCHED	TÚNELES DE GORGE INVESTIGADOS	FIX	investigar.
+EVT_GORGE_UPGRADED	GORGE MEJORADO		
+EVT_GRENADES_RESEARCHED	GRANADAS INVESTIGADAS	FIX	investigar.
+EVT_GRENADE_LAUNCHER_RESEARCHED	LANZAGRANADAS INVESTIGADOS	FIX	investigar.
+EVT_HMG_RESEARCHED	AMETRALLADORAS INVESTIGADAS	FIX	ALL CAPS, like the English and the other events.
+EVT_JETPACK_RESEARCHED	JETPACKS INVESTIGADOS	FIX	investigar.
+EVT_LEAP_RESEARCHED	IMPULSO INVESTIGADO	FIX	investigar; Impulso per batch 3.
+EVT_LERK_UPGRADED	LERK MEJORADO		
+EVT_METABOLIZE_ADV_RESEARCHED	METABOLIZACIÓN AVANZADA INVESTIGADA	FIX	investigar; Metabolización per batch 3.
+EVT_METABOLIZE_RESEARCHED	METABOLIZACIÓN INVESTIGADA	FIX	investigar; Metabolización per batch 3.
+EVT_MINES_RESEARCHED	MINAS INVESTIGADAS	FIX	investigar.
+EVT_ONOS_UPGRADED	ONOS MEJORADO		
+EVT_SHOTGUN_RESEARCHED	ESCOPETAS INVESTIGADAS	FIX	investigar.
+EVT_SKULK_UPGRADED	SKULK MEJORADO		
+EVT_SPORES_RESEARCHED	ESPORAS INVESTIGADAS	FIX	investigar; esporas per the glossary.
+EVT_STAB_RESEARCHED	PUÑALADA INVESTIGADA	FIX	investigar; Puñalada per batch 3.
+EVT_STOMP_RESEARCHED	PISOTÓN INVESTIGADO	FIX	investigar; Pisotón per the glossary.
+EVT_UMBRA_RESEARCHED	UMBRA INVESTIGADA	FIX	investigar; la Umbra.
+EVT_VORTEX_RESEARCHED	VÓRTICE INVESTIGADO	FIX	investigar. Vortex is not in the glossary: Vórtice, under the new rule?
+EVT_WEAPON_LEVEL_1_RESEARCHED	ARMAS DE NIVEL 1 INVESTIGADAS	FIX	investigar.
+EVT_WEAPON_LEVEL_2_RESEARCHED	ARMAS DE NIVEL 2 INVESTIGADAS	FIX	investigar.
+EVT_WEAPON_LEVEL_3_RESEARCHED	ARMAS DE NIVEL 3 INVESTIGADAS	FIX	investigar.
+EVT_WEBTECH_RESEARCHED	TELARAÑAS INVESTIGADAS	FIX	investigar; telaraña per the glossary.
+EVT_WELDER_RESEARCHED	SOLDADORES INVESTIGADOS	FIX	investigar; soldador per batch 3.
+EVT_XENOCIDE_RESEARCHED	XENOCIDIO INVESTIGADO	FIX	investigar; Xenocidio per batch 3.
+MARINE_ALERT_RESEARCH_CANCELLED	Investigación cancelada		
+COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Cargo Gates.	CHECK	Cargo Gate is not in the glossary; kept in English as a building.
+REQUEST_ALIEN_CHUCKLE	Risita	CHECK	The alien laugh voice line.
+REQUEST_ALIEN_DRIFTER	Pedir Drifter	FIX	"Pedir" for every request (the file mixed pedir and solicitar); Drifter capitalized.
+REQUEST_ALIEN_FOLLOWME	\"Sígueme\"	FIX	Quotes restored, as in English.
+REQUEST_ALIEN_HARVESTER	Pedir Harvester	FIX	Pedir; Harvester capitalized.
+REQUEST_ALIEN_HEAL	Pedir curación	FIX	"curación", as in spray de curación.
+REQUEST_ALIEN_MIST	Pedir neblina	FIX	Nutrient Mist is "neblina de nutrientes" in the glossary.
+REQUEST_ALIEN_STRUCTURE	Pedir estructura		
+REQUEST_ALIEN_TAUNT	Burla	FIX	"Vacilar" is Spain-only.
+REQUEST_MARINE_ACKNOWLEDGED	\"Entendido\"		
+REQUEST_MARINE_AMMO	Pedir munición		
+REQUEST_MARINE_COVERING	\"Te cubro\"	FIX	Quotes restored, as in English.
+REQUEST_MARINE_FOLLOWME	\"Sígueme\"	FIX	Quotes restored, as in English.
+REQUEST_MARINE_HOSTILES	\"Enemigos\"	FIX	Quotes restored, as in English.
+REQUEST_MARINE_LETSMOVE	\"¡Vamos!\"	FIX	Quotes restored, as in English.
+REQUEST_MARINE_MEDPACK	Pedir Med pack	FIX	"Med pack", as in the glossary.
+REQUEST_MARINE_ORDER	Pedir orden		
+REQUEST_MARINE_TAUNT	Burla	FIX	"Vacilar" is Spain-only.
+REQUEST_MARINE_WELD	\"Necesito soldador\"	FIX	Was "Necesito weld". Or "Necesito reparación"?
+REQUEST_PING	Marcar en el mapa	FIX	Was "Ping en mapa". Or keep "ping"?
+REQUEST_STRUCTURE	Pedir estructura		
+ABM_EVOLVE_FOR	Evolucionar por 		
+ABM_GAME_NOT_STARTED	La partida no ha comenzado		
+ABM_NEED	Se necesita 		
+ABM_SELECT_UPGRADES	Seleccionar mejoras		
+BMAC_SUPPORT_PACK	Pack de apoyo B.M.A.C.	CHECK	A paid supporter pack. Translate the name, or keep it in English?
+BMAC_SUPPORT_PACK_PLUS	Pack de apoyo B.M.A.C. Plus	CHECK	Same.
+BMAC_SUPPORT_PACK_ELITE	Pack de apoyo B.M.A.C. Élite	CHECK	Same.
+BMAC_SUPPORT_PACK_MSG	Tienes un Pack de apoyo B.M.A.C. en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?		
+BMAC_SUPPORT_PACK_PLUS_MSG	Tienes un Pack de apoyo B.M.A.C. Plus en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?		
+BMAC_SUPPORT_PACK_ELITE_MSG	Tienes un Pack de apoyo B.M.A.C. Élite en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?		
+WEAPON_DESC_AXE	Arma cuerpo a cuerpo, excelente contra estructuras.	FIX	Tighter wording.
+WEAPON_DESC_CLAWRAILGUN_EXO	Se recomienda entrenamiento adicional antes de usar la Railgun.	FIX	"usar" in place of "utilizar".
+WEAPON_DESC_CLUSTER_GRENADE	Libera ojivas adicionales que detonan después de la explosión inicial.	FIX	Closer to the English; final period.
+WEAPON_DESC_DUALMINIGUN_EXO	Ahhh. Sí.	CHECK	"Awww. Yeah."
+WEAPON_DESC_DUALRAILGUN_EXO	Por si el primer disparo falla...	FIX	More natural.
+WEAPON_DESC_EXO	Exotraje con dos Miniguns.	FIX	Exotraje.
+WEAPON_DESC_FLAMETHROWER	Esta nueva incorporación al arsenal de la TSF fue creada para combatir directamente la infestación alien. Además, su llama hace daño medio con el tiempo a jugadores y estructuras, y quema rápidamente las reservas de energía de un alien.	FIX	"desarrollado" avoided (reserved for nothing; research is investigar); "medium damage over time" restored.
+WEAPON_DESC_GAS_GRENADE	Libera un gas nervioso que daña la armadura de los Aliens.	FIX	"Libera", as in the cluster grenade.
+WEAPON_DESC_GRENADELAUNCHER	Pega duro contra objetivos lentos o inmóviles.	FIX	"Packs a punch".
+WEAPON_DESC_HMG	Ametralladora con cargador de gran capacidad que hace daño extra a los jugadores, pero no es muy precisa a larga distancia.		
+WEAPON_DESC_JETPACK	Este dispositivo experimental permite a su usuario volar distancias cortas. Úsalo para entrar en conductos de ventilación que de otro modo no alcanzarías o para esquivar con facilidad las mandíbulas enemigas.	FIX	Typo "pemite"; vents and jaws restored.
+WEAPON_DESC_MINE	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los portales de fase e incluso en las paredes.	FIX	Phase Gate is "portal de fase".
+WEAPON_DESC_PISTOL	Usa la pistola para rematar rápido a los enemigos en lugar de recargar.	FIX	"quickly" restored.
+WEAPON_DESC_PULSE_GRENADE	Daño de impacto moderado; reduce la velocidad de ataque de los objetivos.	FIX	"targets", not only aliens.
+WEAPON_DESC_REQUIREMENTS	¡El Commander todavía tiene que %s!\n\n%s	CHECK	The first %s is an action the game fills in (for example "research shotguns").
+WEAPON_DESC_RIFLE	Rifle estándar de la TSF. Es un arma versátil a casi cualquier distancia. Aunque es un poco más pesado que los modelos anteriores, sigue siendo útil cuando te queda poca munición: golpea con la culata.	FIX	Gender (el Rifle) and tighter wording.
+WEAPON_DESC_SHOTGUN	La escopeta es la perdición de los Skulks. Aunque su cargador es algo limitado, fue ajustada para ser aún más efectiva a corta distancia. Acércate en silencio a algo baboso y mira si alcanza a reaccionar. Respuesta: no. Disfrútala, soldado.	FIX	Skulks capitalized; closer to the English.
+WEAPON_DESC_WELDER	Usa el soldador para reparar estructuras, Nodos de energía y la armadura de tus compañeros.	FIX	soldador and Nodo de energía per batch 3.
+BUYMENU_TITLE_PREFIX	ESPECIAL:  		
+BUYMENU_CLICKTOPURCHASE	CLICK PARA COMPRAR		
+BUYMENU_CURRENTMONEY_PREFIX	ACTUAL: 		
+BUYMENU_RANGE	ALCANCE:		
+BUYMENU_GRENADES_RANGE_OVERRIDE	ALCANCE DE ÁREA:		
+BUYMENU_VSLIFEFORMS	vs FORMAS DE VIDA:	CHECK	"vs" kept; could be "contra".
+BUYMENU_VSSTRUCTURES	vs ESTRUCTURAS:	CHECK	Same.
+BUYMENU_GROUPLABEL_WEAPONS	ARMAS		
+BUYMENU_GROUPLABEL_UTILITY	UTILIDAD		
+BUYMENU_GROUPLABEL_SPECIAL	ESPECIAL		
+BUYMENU_COST	COSTO		
+BUYMENU_MASSIVE_TITLE	Masivo	CHECK	Exo trait name.
+BUYMENU_MASSIVE_SPECIAL1	- Puede destruir huevos al pisarlos.		
+BUYMENU_MASSIVE_SPECIAL2	- Inmune al derribo		
+BUYMENU_MASSIVE_SPECIAL3	- Inmune a las esporas del Lerk		
+BUYMENU_MASSIVE_SPECIAL4	- No puede usar portales de fase		
+BUYMENU_MASSIVE_SPECIAL5	- El Beacon de emergencia no lo trae de vuelta		
+BUYMENU_ELECTRIFY_TITLE	Electrificar		
+BUYMENU_ELECTRIFY_SPECIAL1	- Electrocuta a los jugadores enemigos y reduce mucho su velocidad de ataque		
+BUYMENU_BURN_TITLE	Quemar		
+BUYMENU_BURN_SPECIAL1	- Desactiva estructuras enemigas		
+BUYMENU_BURN_SPECIAL2	- Quema la bomba de bilis, las esporas y la Umbra		
+BUYMENU_ERROR_EQUIPPED	EQUIPADO		
+BUYMENU_ERROR_NOTRESEARCHED	SIN INVESTIGAR		
+BUYMENU_ERROR_INSUFFICIENTFUNDS	FONDOS INSUFICIENTES		
+BUYMENU_ERROR_OCCUPIED	OCUPADO		
+BUYMENU_ERROR_UNAVAILABLE	NO DISPONIBLE		
+BUYMENU_ERROR_ADVANCED_ARMORY_ONLY	SOLO EN ADVANCED ARMORY		
+BUYMENU_ERROR_DISABLED	DESACTIVADO		
+WEAPON_DESC_SMG	Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.		
+BMAC	A-MAC		
+BMAC_HINT	Dron de apoyo del Commander		
+BMAC_TOOLTIP	MAC más resistente que puede desplegar varios campos de apoyo para el equipo. ¡Límite de 1!		
+BMACNS_TOOLTIP	Despliega un campo de escudo que protege a los Marines cercanos (no a los Exos). ¡REQUIERE 85 DE ENERGÍA!		
+BMACCP_TOOLTIP	Despliega un campo de catalyst que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!	CHECK	"campo de catalyst" is the glossary term, but Catalyst pack is now "paquete catalizador": campo catalizador?
+BMACHW_TOOLTIP	Despliega un campo de curación que cura a los Marines cercanos (no a los Exos). ¡REQUIERE 20 DE ENERGÍA!		
+BMACSB_TOOLTIP	Da al A-MAC un aumento de velocidad limitado. ¡REQUIERE 30 DE ENERGÍA!		
+BOT_RESEARCH_START_ARMOR1	Iniciando investigación: Armadura 1		
+BOT_RESEARCH_START_PHASETECH	Iniciando investigación: Tecnología de fase		
+BOT_RESEARCH_START_WEAPONS1	Iniciando investigación: Armas 1		
+BOT_RESEARCH_START_GRENADETECH	Iniciando investigación: Granadas		
+BOT_RESEARCH_START_MINESTECH	Iniciando investigación: Minas		
+BOT_RESEARCH_START_DUALMINIGUNTECH	Iniciando investigación: Brazos dobles de Exotraje		
+BOT_RESEARCH_START_CORESEXOSUITTECH	Iniciando investigación: Núcleos de Exotraje		
+BOT_RESEARCH_START_SHOTGUNTECH	Iniciando investigación: Escopetas		
+BOT_RESEARCH_START_ARMOR2	Iniciando investigación: Armadura 2		
+BOT_RESEARCH_START_WEAPONS2	Iniciando investigación: Armas 2		
+BOT_RESEARCH_START_ADVANCEDARMORYUPGRADE	Iniciando investigación: Advanced Armory		
+BOT_RESEARCH_START_HEAVYMACHINEGUNTECH	Iniciando investigación: Ametralladoras pesadas		
+BOT_RESEARCH_START_ADVANCEDMARINESUPPORT	Iniciando investigación: Soporte avanzado de Marines		
+BOT_RESEARCH_START_JETPACKTECH	Iniciando investigación: Jetpacks		
+BOT_RESEARCH_START_WEAPONS3	Iniciando investigación: Armas 3		
+BOT_RESEARCH_START_EXOSUITTECH	Iniciando investigación: Exos		
+BOT_RESEARCH_START_ARMOR3	Iniciando investigación: Armadura 3		
+BOT_RESEARCH_START_BILEBOMB	Iniciando investigación: Bomba de Bilis		
+BOT_RESEARCH_START_LEAP	Iniciando investigación: Impulso		
+BOT_RESEARCH_START_METABOLIZEENERGY	Iniciando investigación: Metabolización		
+BOT_RESEARCH_START_UMBRA	Iniciando investigación: Umbra		
+BOT_RESEARCH_START_BONESHIELD	Iniciando investigación: Escudo de Huesos		
+BOT_RESEARCH_START_METABOLIZEHEALTH	Iniciando investigación: Metabolización Avanzada		
+BOT_RESEARCH_START_STOMP	Iniciando investigación: Pisotón		
+BOT_RESEARCH_START_XENOCIDE	Iniciando investigación: Xenocidio		
+BOT_RESEARCH_START_SPORES	Iniciando investigación: Esporas		
+BOT_RESEARCH_START_STAB	Iniciando investigación: Puñalada		
+BOT_RESEARCH_START_WEBTECH	Iniciando investigación: Telarañas		
+BOT_RESEARCH_START_UPGRADETOCRAGHIVE	Iniciando investigación: Mejora a Crag Hive		
+BOT_RESEARCH_START_UPGRADETOSHIFTHIVE	Iniciando investigación: Mejora a Shift Hive		
+BOT_RESEARCH_START_UPGRADETOSHADEHIVE	Iniciando investigación: Mejora a Shade Hive		
+BOT_RESEARCH_START_BIOMASS_1	Iniciando investigación: Biomasa 1		
+BOT_RESEARCH_START_BIOMASS_2	Iniciando investigación: Biomasa 2		
+BOT_RESEARCH_START_BIOMASS_3	Iniciando investigación: Biomasa 3		
+BOT_RESEARCH_START_BIOMASS_4	Iniciando investigación: Biomasa 4		
+BOT_RESEARCH_START_BIOMASS_5	Iniciando investigación: Biomasa 5		
+BOT_RESEARCH_START_BIOMASS_6	Iniciando investigación: Biomasa 6		
+BOT_RESEARCH_START_BIOMASS_7	Iniciando investigación: Biomasa 7		
+BOT_RESEARCH_START_BIOMASS_8	Iniciando investigación: Biomasa 8		
+BOT_RESEARCH_START_BIOMASS_9	Iniciando investigación: Biomasa 9		
+BOT_RESEARCH_START_BIOMASS_10	Iniciando investigación: Biomasa 10		
+BOT_RESEARCH_START_BIOMASS_11	Iniciando investigación: Biomasa 11		
+BOT_RESEARCH_START_BIOMASS_12	Iniciando investigación: Biomasa 12		
+BOT_RESEARCH_START_BIOMASS_EXTRA	Iniciando investigación: Biomasa extra		
+INFESTED_MARINES_AIR_QUALITY	CALIDAD DEL AIRE		
+INFESTED_MARINES_DO_NOT_KILL_CYSTS_MESSAGE	¡Estás ayudando al enemigo! No destruyas Cysts salvo para evitar sospechas.		
+INFESTED_MARINES_DO_NOT_WELD_PURIFIERS_MESSAGE	¡Estás ayudando al enemigo! No repares purificadores de aire salvo para evitar sospechas.		
+INFESTED_MARINES_FEED_DEATH_MESSAGE	¡Moriste de hambre! Infesta Marines para no morir de hambre.		
+INFESTED_MARINES_FEED_SOON_MESSAGE	¡Estás a punto de morir de hambre! ¡Infesta pronto a otro jugador!		
+INFESTED_MARINES_FRIENDLY_FIRE_ATTACKER_MESSAGE	¡Quemaste a un compañero inocente, sin infestar! Si se comportaba como un loco, mala suerte: seguramente se lo merecía. Pero si era razonable, la próxima vez dale el beneficio de la duda.		
+INFESTED_MARINES_FRIENDLY_FIRE_VICTIM_MESSAGE	¡Un compañero te quemó! Habrá pensado que estabas infestado. Mantén la distancia con los demás jugadores y trata de no parecer sospechoso.		
+INFESTED_MARINES_INFESTED_FRIENDLY_FIRE_MESSAGE	No puedes matar a otros infestados.		
+INFESTED_MARINES_INFESTED_LOSE	Los infestados pierden		
+INFESTED_MARINES_INFESTED_MESSAGE	¡Estás infestado!\nHaz click derecho (el disparo secundario por defecto) sobre los Marines cuando estés lo bastante cerca (el contorno se pone rojo) para infestarlos. Finge que no estás infestado para evitar sospechas, ¡pero pronto morirás de hambre si no infestas a más humanos!		
+INFESTED_MARINES_INFESTED_SUICIDE_BY_FLAMETHROWER_MESSAGE	¡Intentaste quemar a un huésped en perfecto estado! Violaste la directiva principal de los infestados: propagarse.		
+INFESTED_MARINES_INFESTED_WIN	Los infestados ganan		
+INFESTED_MARINES_KILL_CYSTS_MESSAGE	Esos Cysts emiten gas tóxico. ¡Quémalos!		
+INFESTED_MARINES_NOBODY_INFESTED_MESSAGE	La infestación se está apoderando de la instalación; ¡el aire se está volviendo tóxico! Repara los purificadores de aire antes de que el aire sea letal. ¡No podemos perder esta instalación!\n\n(Todavía no se eligió al infestado.)		
+INFESTED_MARINES_NOT_INFESTED_MESSAGE	¡Ya se eligió al infestado!\n¡No estás infestado! Pero uno o más de tus \"amigos\" sí lo están. Vigílense de cerca. ¡La infestación se propaga por la instalación y envenena el aire! ¡Limpia la infestación y repara los purificadores de aire antes de que el aire sea letal!		
+INFESTED_MARINES_RIGHT_CLICK_TIP_MESSAGE	Infestar (acércate)		
+INFESTED_MARINES_SUFFOCATED_DEATH_MESSAGE	¡Te asfixiaste con el aire tóxico! ¡Repara los purificadores de aire con el soldador y destruye Cysts para mantener el aire limpio!		
+INFESTED_MARINES_WELD_PURIFIERS_MESSAGE	Hay un purificador de aire dañado cerca. Los purificadores dañados filtran peor las toxinas del aire. ¡Repáralos con el soldador!		
+FEEDBACK_RATEROUND	Califica la última ronda:	FIX	Accent.
+FEEDBACK_REASSON	Elige la razón principal de tu calificación:	FIX	Was "Pickea la primera razón".
+FEEDBACK_REASSON_1	Equipos desbalanceados		
+FEEDBACK_REASSON_2	Comunicación tóxica	FIX	Accent.
+FEEDBACK_REASSON_3	Commander sin experiencia	FIX	Commander stays in English.
+FEEDBACK_REASSON_4	Mal rendimiento del servidor	FIX	"rendimiento", not "performance".
+FEEDBACK_REASSON_5	No me gustó el mapa	FIX	Tense.
+FEEDBACK_REASSON_6	Mal equipo para jugar	FIX	Tighter.
+FEEDBACK_REASSON_7	Juego desbalanceado		
+FEEDBACK_REASSON_8	El juego no es divertido	FIX	About the game, not the match ("Game is not fun").
+FEEDBACK_REASSON_9	Un jugador hacía trampa	FIX	"hacer trampa" in place of "usar cheats".
+FEEDBACK_REASSON_10	Otra razón		
+FEEDBACK_REASON_11	Poco trabajo en equipo		
+FEEDBACK_REASON_12	Commander sin experiencia	FIX	Commander stays in English.
+FEEDBACK_REASON_13	No jugué bien		
+FEEDBACK_REASON_14	Los equipos estaban desbalanceados		
+FEEDBACK_REASON_15	La ronda no fue divertida		
+FEEDBACK_REASON_16	Otra razón		
+FEEDBACK_THANKS	Gracias por tu opinión	FIX	"Feedback" is an opinion, not a vote; no stray "!".
+MISSIONS	MISIONES		
+MISSION_COMPLETE	Misión completada		
+MISSION_INCOMPLETE	Misión incompleta		
+MISSION_NEW_PLAYER_TITLE	Nuevo recluta		
+MISSION_NEW_PLAYER_COMPLETION_DESCRIPTION	¡Completa esta misión para ganar el parche de hombro 'Cómete las verduras'!	CHECK	The patch name follows the achievement "Eat Your Greens".
+MISSION_NEW_PLAYER_TUTORIALS	Tutoriales		
+ROOKIE_CHAT	[Novato]	FIX	Rookie is "novato" in the glossary.
+ROOKIE_ONLY	(entrenamiento básico)	CHECK	Bootcamp per the glossary; long for a tag.
+WELCOME_PROGRESS_HEAD	¡BIENVENIDO!	FIX	Opening "¡".
+WELCOME_PROGRESS_TEXT	ADÁPTATE RÁPIDO\nCOMPLETANDO ESTAS MISIONES:		
+WELCOME_PROGRESS_ENTRY_1_TITLE	Completa los tutoriales básicos		
+WELCOME_PROGRESS_ENTRY_1_TEXT	Juega los tutoriales de jugador de campo de Marine y Alien		
+WELCOME_PROGRESS_ENTRY_2_TITLE	Usa la partida rápida		
+WELCOME_PROGRESS_ENTRY_2_TEXT	Únete a una partida con el botón Partida rápida\ndel menú Jugar		
+WELCOME_PROGRESS_ENTRY_3_TITLE	Juega como Marine		
+WELCOME_PROGRESS_ENTRY_3_TEXT	Completa una ronda como Marine		
+WELCOME_PROGRESS_ENTRY_4_TITLE	Juega como Alien		
+WELCOME_PROGRESS_ENTRY_4_TEXT	Completa una ronda como Alien		
+WELCOME_PROGRESS_ENTRY_5_TITLE	Viajero		
+WELCOME_PROGRESS_ENTRY_5_TEXT	Juega en 3 mapas diferentes		
+WELCOME_PROGRESS_ENTRY_6_TITLE	FINAL	CHECK	"COMPLETION": the last step, the reward for finishing all missions.
+WELCOME_PROGRESS_ENTRY_6_TEXT	Completa todas las misiones y consigue el\nparche de hombro 'Cómete las verduras'		
+WELCOME_TO	Bienvenido a		
+WELCOME_TO_READY_ROOM	Bienvenido al Ready Room	FIX	"el Ready Room", as you set in batch 1.
+WELCOME_TO_READY_ROOM_HALLOWEEN	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar dulces!	FIX	presiona, not pulsa; el Ready Room.
+WELCOME_TO_READY_ROOM_HOLIDAY	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar bolas de nieve!	FIX	presiona, not pulsa; el Ready Room.
