@@ -62,6 +62,8 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | replay | translate | repetición | la | Batch 2. |
 | leaderboard | translate | tabla de clasificación | la | Batch 2. |
 | Skill Tier | translate | rango de habilidad | el | Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji. |
+| bundle | translate | paquete | el | Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C. |
+| respawn | translate | renacer |  | Batch 3 and 4: Bleu keeps renacer / renaciendo. |
 
 ## Marine structures
 
@@ -82,6 +84,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Sentry | keep | Sentry | la *(proposed)* |  |
 | Sentry Battery | translate | Batería de Energía | la | Batch 3: the game calls it Power Battery. |
 | Power Node | translate | Nodo de energía | el | Batch 3. |
+| Cargo Gate | translate | Puerta de Carga | la | Batch 4 (CBM): Bleu translated it. |
 
 ## Marine units
 
@@ -113,6 +116,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Cluster Grenade | translate | granada de racimo | la |  |
 | Pulse Grenade | translate | granada de pulso | la |  |
 | Nerve Gas Grenade | translate | granada de gas nervioso | la |  |
+| SMG | mixed | subfusil (SMG) | el | Batch 4 (CBM): subfusil as the long name, SMG as the short one. |
 
 ## Marine equipment
 
@@ -226,6 +230,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Rupture | translate | ruptura |  |  |
 | Echo | translate | eco |  |  |
 | Ink | translate | tinta |  |  |
+| Vortex | translate | Vórtice | el | Batch 4. |
 
 ## Alien upgrades
 

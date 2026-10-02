@@ -1,0 +1,774 @@
+NEW_ACHIEVEMENT_1_1_NAME	Ingeniero de combate	OK		
+NEW_ACHIEVEMENT_1_1_DESC	Construye 10 Extractors en 1 ronda	OK		
+NEW_ACHIEVEMENT_1_2_NAME	El doctor está de turno	OK		
+NEW_ACHIEVEMENT_1_2_DESC	Repara a tus compañeros con el soldador 10 veces en 1 ronda	OK		
+NEW_ACHIEVEMENT_1_3_NAME	Correo de primera clase	OK		
+NEW_ACHIEVEMENT_1_3_DESC	Usa un portal de fase	OK		
+NEW_ACHIEVEMENT_1_4_NAME	Luz ambiental	OK		
+NEW_ACHIEVEMENT_1_4_DESC	Repara un Nodo de energía con el soldador	OK		
+NEW_ACHIEVEMENT_1_5_NAME	Técnico de reparaciones	OK		
+NEW_ACHIEVEMENT_1_5_DESC	Repara 5 Nodos de energía con el soldador en 1 ronda	OK		
+NEW_ACHIEVEMENT_1_6_NAME	No paran de venir	OK		
+NEW_ACHIEVEMENT_1_6_DESC	Mata a un Skulk	OK		
+NEW_ACHIEVEMENT_1_7_NAME	Sabotaje económico	OK		
+NEW_ACHIEVEMENT_1_7_DESC	Mata a un Gorge	OK		
+NEW_ACHIEVEMENT_1_8_NAME	Defensa aérea	OK		
+NEW_ACHIEVEMENT_1_8_DESC	Mata a un Lerk	OK		
+NEW_ACHIEVEMENT_1_9_NAME	Combate asimétrico	OK		
+NEW_ACHIEVEMENT_1_9_DESC	Mata a un Fade	OK		
+NEW_ACHIEVEMENT_1_10_NAME	Caza mayor	OK		
+NEW_ACHIEVEMENT_1_10_DESC	Mata a un Onos	OK		
+NEW_ACHIEVEMENT_1_11_NAME	Pensamiento estratégico	OK		
+NEW_ACHIEVEMENT_1_11_DESC	Sigue 5 órdenes del Commander en 1 ronda	OK		
+NEW_ACHIEVEMENT_1_12_NAME	Escolta de seguridad	OK		
+NEW_ACHIEVEMENT_1_12_DESC	Mata a un Alien mientras defiendes un Extractor	OK		
+NEW_ACHIEVEMENT_1_13_NAME	Inversiones a largo plazo	OK		
+NEW_ACHIEVEMENT_1_13_DESC	Mata a un Alien mientras defiendes un Extractor 5 veces en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_14_NAME	Adam Smith	OK		
+NEW_ACHIEVEMENT_1_14_DESC	Mata a un Alien mientras defiendes un Extractor 10 veces en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_15_NAME	Economía básica	OK		
+NEW_ACHIEVEMENT_1_15_DESC	Destruye un Harvester	OK		
+NEW_ACHIEVEMENT_1_16_NAME	Rompepresas	OK		
+NEW_ACHIEVEMENT_1_16_DESC	Destruye 5 Harvesters en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_17_NAME	Sin tecnología para ti	OK		
+NEW_ACHIEVEMENT_1_17_DESC	Destruye 10 Harvesters en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_18_NAME	¡Te toqué!	OK		
+NEW_ACHIEVEMENT_1_18_DESC	Parasita a un Marine	OK		
+NEW_ACHIEVEMENT_1_19_NAME	Veo escoria humana	OK		
+NEW_ACHIEVEMENT_1_19_DESC	Parasita a 10 Marines en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_20_NAME	¡Wallhack!	OK		
+NEW_ACHIEVEMENT_1_20_DESC	Parasita a 20 Marines en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_21_NAME	Jugador de equipo	OK		
+NEW_ACHIEVEMENT_1_21_DESC	Destruye un Extractor	OK		
+NEW_ACHIEVEMENT_1_22_NAME	Perro que ladra	OK		
+NEW_ACHIEVEMENT_1_22_DESC	Destruye 5 Extractors en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_23_NAME	Solo Rifles	OK		
+NEW_ACHIEVEMENT_1_23_DESC	Destruye 10 Extractors en una sola ronda	OK		
+NEW_ACHIEVEMENT_1_24_NAME	Cultivo	OK		
+NEW_ACHIEVEMENT_1_24_DESC	Construye una Hive como Gorge	OK		
+NEW_ACHIEVEMENT_1_25_NAME	Desarme	OK		
+NEW_ACHIEVEMENT_1_25_DESC	Mata a un Marine que tenga una escopeta	OK		
+NEW_ACHIEVEMENT_1_26_NAME	Bombero	OK		
+NEW_ACHIEVEMENT_1_26_DESC	Mata a un Marine que tenga un lanzallamas	OK		
+NEW_ACHIEVEMENT_1_27_NAME	Desactivación de bombas	OK		
+NEW_ACHIEVEMENT_1_27_DESC	Mata a un Marine que tenga un lanzagranadas	OK		
+NEW_ACHIEVEMENT_1_28_NAME	Ahora vas a pie	OK		
+NEW_ACHIEVEMENT_1_28_DESC	Destruye un Exotraje	OK		
+NEW_ACHIEVEMENT_1_30_NAME	Baboso	OK		
+NEW_ACHIEVEMENT_1_30_DESC	Usa un túnel de Gorge	OK		
+NEW_ACHIEVEMENT_1_31_NAME	Listo para la batalla	OK		
+NEW_ACHIEVEMENT_1_31_DESC	Evoluciona una mejora Kharaa	OK		
+NEW_ACHIEVEMENT_2_0_NAME	Ventaja injusta	OK		
+NEW_ACHIEVEMENT_2_0_DESC	Evoluciona 3 mejoras Kharaa	OK		
+NEW_ACHIEVEMENT_2_1_NAME	Llegaron por la espalda	OK		
+NEW_ACHIEVEMENT_2_1_DESC	Mata a un Marine después de acercarte en sigilo como Skulk	OK		
+NEW_ACHIEVEMENT_2_2_NAME	Xenomorfo más valioso	OK		
+NEW_ACHIEVEMENT_2_2_DESC	Mata a un Marine mientras defiendes un Harvester	OK		
+NEW_ACHIEVEMENT_2_3_NAME	Inversiones seguras	OK		
+NEW_ACHIEVEMENT_2_3_DESC	Mata a un Marine mientras defiendes un Harvester 5 veces en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_4_NAME	Santo patrono de los recursos	OK		
+NEW_ACHIEVEMENT_2_4_DESC	Mata a un Marine mientras defiendes un Harvester 10 veces en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_5_NAME	Consejo de experto	OK		
+NEW_ACHIEVEMENT_2_5_DESC	Mata a un Marine con 2 mordidas y un parásito	OK		
+NEW_ACHIEVEMENT_2_6_NAME	Intocable	OK		
+NEW_ACHIEVEMENT_2_6_DESC	Mata a un Marine teniendo la salud completa	OK		
+NEW_ACHIEVEMENT_2_7_NAME	Demoliciones	OK		
+NEW_ACHIEVEMENT_2_7_DESC	Causa 7500 de daño a estructuras en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_8_NAME	Furia sangrienta	OK		
+NEW_ACHIEVEMENT_2_8_DESC	Causa 4000 de daño a jugadores en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_9_NAME	Jaque mate	OK		
+NEW_ACHIEVEMENT_2_9_DESC	Da el golpe final a una Hive o Command Station	OK		
+NEW_ACHIEVEMENT_2_10_NAME	Es solo un rasguño	OK		
+NEW_ACHIEVEMENT_2_10_DESC	Recibe curación con 1 punto de salud	OK		
+NEW_ACHIEVEMENT_2_11_NAME	Control de calidad	OK		
+NEW_ACHIEVEMENT_2_11_DESC	Mata a un desarrollador	OK		
+NEW_ACHIEVEMENT_2_12_NAME	Conducta antideportiva	OK		
+NEW_ACHIEVEMENT_2_12_DESC	Búrlate después de matar a un jugador	OK		
+NEW_ACHIEVEMENT_2_13_NAME	Regicidio	OK		
+NEW_ACHIEVEMENT_2_13_DESC	Mata al Commander del equipo contrario	OK		
+NEW_ACHIEVEMENT_2_14_NAME	Se acabaron los juguetes caros	OK		
+NEW_ACHIEVEMENT_2_14_DESC	Destruye tecnología enemiga por valor de 100 recursos en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_15_NAME	Quemando dinero	OK		
+NEW_ACHIEVEMENT_2_15_DESC	Destruye tecnología enemiga por valor de 200 recursos en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_16_NAME	Recesión	OK		
+NEW_ACHIEVEMENT_2_16_DESC	Destruye tecnología enemiga por valor de 300 recursos en una sola ronda	OK		
+NEW_ACHIEVEMENT_2_17_NAME	Primera aventura	OK		
+NEW_ACHIEVEMENT_2_17_DESC	Completa ambos tutoriales.	OK		
+NEW_ACHIEVEMENT_2_18_NAME	Explorador	OK		
+NEW_ACHIEVEMENT_2_18_DESC	Usa la partida rápida	OK		
+NEW_ACHIEVEMENT_2_19_NAME	TSF	OK		
+NEW_ACHIEVEMENT_2_19_DESC	Juega una ronda como Marine	OK		
+NEW_ACHIEVEMENT_2_20_NAME	Kharaa	OK		
+NEW_ACHIEVEMENT_2_20_DESC	Juega una ronda como Alien	OK		
+NEW_ACHIEVEMENT_2_21_NAME	Viajero	OK		
+NEW_ACHIEVEMENT_2_21_DESC	Juega en 3 mapas diferentes	OK		
+NEW_ACHIEVEMENT_2_22_NAME	Cómete las verduras	OK		
+NEW_ACHIEVEMENT_2_22_DESC	Completa todas las misiones de jugador nuevo	OK		
+NEW_ACHIEVEMENT_2_23_NAME	Premio Darwin	OK		
+NEW_ACHIEVEMENT_2_23_DESC	Demasiado decidido para escuchar buenos consejos.	OK		
+NEW_ACHIEVEMENT_2_24_NAME	Facepalm a velocidad terminal	OK		
+NEW_ACHIEVEMENT_2_24_DESC	Para cuando un facepalm común no alcanza...	OK		
+NEW_ACHIEVEMENT_2_25_NAME	Nuevo recluta	OK		
+NEW_ACHIEVEMENT_2_25_DESC	Completa el tutorial de Marine.	OK		
+NEW_ACHIEVEMENT_2_26_NAME	Larva fresca	OK		
+NEW_ACHIEVEMENT_2_26_DESC	Completa el tutorial de Alien.	OK		
+NEW_ACHIEVEMENT_2_27_NAME	El tesoro de un Gorge	OK		
+NEW_ACHIEVEMENT_2_27_DESC	Consigue los 15 objetos que se pueden obtener al jugar.	OK		
+NEW_ACHIEVEMENT_2_28_NAME	Desatado	OK		
+NEW_ACHIEVEMENT_2_28_DESC	Sacudir la jaula tiene su propia recompensa	OK		
+NEW_ACHIEVEMENT_2_29_NAME	Campeón del arcade	OK		
+NEW_ACHIEVEMENT_2_29_DESC	Pasaste un rato jugando modos de juego arcade	OK		
+NEW_ACHIEVEMENT_2_30_NAME	Recluta veterano	Use my Spanish	Recluta viejo	
+NEW_ACHIEVEMENT_2_30_DESC	Completa el tutorial de Commander Marine.	OK		
+NEW_ACHIEVEMENT_2_31_NAME	El tesoro de Barbaclog	OK		
+NEW_ACHIEVEMENT_2_31_DESC	Dicen que hay un tesoro de Gorge por ahí en alguna parte...	OK		
+NEW_ACHIEVEMENT_3_0_NAME	No confíes en nadie	OK		
+NEW_ACHIEVEMENT_3_0_DESC	No sé qué hay ahí dentro, pero es raro y está furioso, sea lo que sea.	OK		
+NEW_ACHIEVEMENT_3_1_NAME	Llegó... por la espalda	OK		
+NEW_ACHIEVEMENT_3_1_DESC	Infesta a todos y sigue con vida.	OK		
+NEW_ACHIEVEMENT_3_2_NAME	Sgto. MacReady	OK		
+NEW_ACHIEVEMENT_3_2_DESC	Sé el último y único sobreviviente contra la infestación	OK		
+NEW_ACHIEVEMENT_3_3_NAME	Forma de vida superior	OK		
+NEW_ACHIEVEMENT_3_3_DESC	Completa el tutorial de Commander Alien.	OK		
+NEW_ACHIEVEMENT_3_4_NAME	La gota que colmó el vaso	OK		
+NEW_ACHIEVEMENT_3_4_DESC	Los Gorges solo pueden aguantar hasta cierto punto...	OK		
+ALIEN_ALERT_RESEARCH_CANCELLED	Investigación cancelada	OK		
+COMMANDERERROR_BUILD_FAILED	Fallo de construcción.	OK		
+COMMANDERERROR_CANT_BUILD_ON_TOP	No se puede construir sobre la entidad.	OK		
+COMMANDERERROR_INFESTATION_REQUIRED	Se requiere infestación.	OK		
+COMMANDERERROR_INVALID_PLACEMENT	Lugar no válido.	OK		
+COMMANDERERROR_MUST_WAIT	Tienes que esperar.	OK		
+COMMANDERERROR_NOT_ALLOWED_ON_INFESTATION	No se permite sobre infestación.	OK		
+COMMANDERERROR_NO_EXIT	Sin salida.	OK		
+COMMANDERERROR_OUT_OF_RANGE	Fuera de rango.	OK		
+COMMANDERERROR_TECH_NOT_AVAILABLE	Tecnología no disponible.	OK		
+COMMANDERERROR_TOO_MANY_ENTITIES	No se puede construir: demasiadas entidades.	OK		
+COMMANDERERROR_TOO_MANY_UPGRADED_EGGS	¡Máximo 2 huevos de forma de vida por Hive!	OK		
+EVT_ADVANCED_WEAPONRY_RESEARCHED	ARMAMENTO AVANZADO INVESTIGADO	OK		
+EVT_ARMOR_LEVEL_1_RESEARCHED	ARMADURA DE NIVEL 1 INVESTIGADA	OK		
+EVT_ARMOR_LEVEL_2_RESEARCHED	ARMADURA DE NIVEL 2 INVESTIGADA	OK		
+EVT_ARMOR_LEVEL_3_RESEARCHED	ARMADURA DE NIVEL 3 INVESTIGADA	OK		
+EVT_BILE_BOMB_RESEARCHED	BOMBA DE BILIS INVESTIGADA	OK		
+EVT_BONESHIELD_RESEARCHED	ESCUDO DE HUESOS INVESTIGADO	OK		
+EVT_BUY_AT_ARMORY	COMPRAR EN EL ARMORY	OK		
+EVT_BUY_AT_PROTOTYPE_LAB	COMPRAR EN EL PROTOTYPE LAB	OK		
+EVT_CHARGE_RESEARCHED	CARGA INVESTIGADA	OK		
+EVT_CLAWRAILGUN_RESEARCHED	EXOTRAJE CON GARRA Y RAILGUN INVESTIGADO	OK		
+EVT_DUALMINIGUN_RESEARCHED	EXOTRAJE CON DOS MINIGUNS INVESTIGADO	OK		
+EVT_DUALRAILGUN_RESEARCHED	EXOTRAJE CON DOS RAILGUNS INVESTIGADO	OK		
+EVT_EXOSUIT_RESEARCHED	EXOTRAJES INVESTIGADOS	OK		
+EVT_FADE_UPGRADED	FADE MEJORADO	OK		
+EVT_FLAMETHROWER_RESEARCHED	LANZALLAMAS INVESTIGADOS	OK		
+EVT_GORGETUNNEL_RESEARCHED	TÚNELES DE GORGE INVESTIGADOS	OK		
+EVT_GORGE_UPGRADED	GORGE MEJORADO	OK		
+EVT_GRENADES_RESEARCHED	GRANADAS INVESTIGADAS	OK		
+EVT_GRENADE_LAUNCHER_RESEARCHED	LANZAGRANADAS INVESTIGADOS	OK		
+EVT_HMG_RESEARCHED	AMETRALLADORAS INVESTIGADAS	OK		
+EVT_JETPACK_RESEARCHED	JETPACKS INVESTIGADOS	OK		
+EVT_LEAP_RESEARCHED	IMPULSO INVESTIGADO	OK		
+EVT_LERK_UPGRADED	LERK MEJORADO	OK		
+EVT_METABOLIZE_ADV_RESEARCHED	METABOLIZACIÓN AVANZADA INVESTIGADA	OK		
+EVT_METABOLIZE_RESEARCHED	METABOLIZACIÓN INVESTIGADA	OK		
+EVT_MINES_RESEARCHED	MINAS INVESTIGADAS	OK		
+EVT_ONOS_UPGRADED	ONOS MEJORADO	OK		
+EVT_SHOTGUN_RESEARCHED	ESCOPETAS INVESTIGADAS	OK		
+EVT_SKULK_UPGRADED	SKULK MEJORADO	OK		
+EVT_SPORES_RESEARCHED	ESPORAS INVESTIGADAS	OK		
+EVT_STAB_RESEARCHED	PUÑALADA INVESTIGADA	OK		
+EVT_STOMP_RESEARCHED	PISOTÓN INVESTIGADO	OK		
+EVT_UMBRA_RESEARCHED	UMBRA INVESTIGADA	OK		
+EVT_VORTEX_RESEARCHED	VÓRTICE INVESTIGADO	OK		
+EVT_WEAPON_LEVEL_1_RESEARCHED	ARMAS DE NIVEL 1 INVESTIGADAS	OK		
+EVT_WEAPON_LEVEL_2_RESEARCHED	ARMAS DE NIVEL 2 INVESTIGADAS	OK		
+EVT_WEAPON_LEVEL_3_RESEARCHED	ARMAS DE NIVEL 3 INVESTIGADAS	OK		
+EVT_WEBTECH_RESEARCHED	TELARAÑAS INVESTIGADAS	OK		
+EVT_WELDER_RESEARCHED	SOLDADORES INVESTIGADOS	OK		
+EVT_XENOCIDE_RESEARCHED	XENOCIDIO INVESTIGADO	OK		
+MARINE_ALERT_RESEARCH_CANCELLED	Investigación cancelada	OK		
+COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Cargo Gates.	OK		
+REQUEST_ALIEN_CHUCKLE	Risita	OK		
+REQUEST_ALIEN_DRIFTER	Pedir Drifter	OK		
+REQUEST_ALIEN_FOLLOWME	"Sígueme"	OK		
+REQUEST_ALIEN_HARVESTER	Pedir Harvester	OK		
+REQUEST_ALIEN_HEAL	Pedir curación	OK		
+REQUEST_ALIEN_MIST	Pedir neblina	OK		
+REQUEST_ALIEN_STRUCTURE	Pedir estructura	OK		
+REQUEST_ALIEN_TAUNT	Burla	OK		
+REQUEST_MARINE_ACKNOWLEDGED	"Entendido"	OK		
+REQUEST_MARINE_AMMO	Pedir munición	OK		
+REQUEST_MARINE_COVERING	"Te cubro"	OK		
+REQUEST_MARINE_FOLLOWME	"Sígueme"	OK		
+REQUEST_MARINE_HOSTILES	"Enemigos"	OK		
+REQUEST_MARINE_LETSMOVE	"¡Vamos!"	OK		
+REQUEST_MARINE_MEDPACK	Pedir Med pack	OK		
+REQUEST_MARINE_ORDER	Pedir orden	OK		
+REQUEST_MARINE_TAUNT	Burla	OK		
+REQUEST_MARINE_WELD	"Necesito soldador"	OK		
+REQUEST_PING	Marcar en el mapa	OK		
+REQUEST_STRUCTURE	Pedir estructura	OK		
+ABM_EVOLVE_FOR	Evolucionar por	OK		
+ABM_GAME_NOT_STARTED	La partida no ha comenzado	OK		
+ABM_NEED	Se necesita	OK		
+ABM_SELECT_UPGRADES	Seleccionar mejoras	OK		
+BMAC_SUPPORT_PACK	Pack de apoyo B.M.A.C.	OK		
+BMAC_SUPPORT_PACK_PLUS	Pack de apoyo B.M.A.C. Plus	OK		
+BMAC_SUPPORT_PACK_ELITE	Pack de apoyo B.M.A.C. Élite	OK		
+BMAC_SUPPORT_PACK_MSG	Tienes un Pack de apoyo B.M.A.C. en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	OK		
+BMAC_SUPPORT_PACK_PLUS_MSG	Tienes un Pack de apoyo B.M.A.C. Plus en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	OK		
+BMAC_SUPPORT_PACK_ELITE_MSG	Tienes un Pack de apoyo B.M.A.C. Élite en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos B.M.A.C.?	OK		
+WEAPON_DESC_AXE	Arma cuerpo a cuerpo, excelente contra estructuras.	OK		
+WEAPON_DESC_CLAWRAILGUN_EXO	Se recomienda entrenamiento adicional antes de usar la Railgun.	OK		
+WEAPON_DESC_CLUSTER_GRENADE	Libera ojivas adicionales que detonan después de la explosión inicial.	OK		
+WEAPON_DESC_DUALMINIGUN_EXO	Ahhh. Sí.	OK		
+WEAPON_DESC_DUALRAILGUN_EXO	Por si el primer disparo falla...	OK		
+WEAPON_DESC_EXO	Exotraje con dos Miniguns.	OK		
+WEAPON_DESC_FLAMETHROWER	Esta nueva incorporación al arsenal de la TSF fue creada para combatir directamente la infestación alien. Además, su llama hace daño medio con el tiempo a jugadores y estructuras, y quema rápidamente las reservas de energía de un alien.	OK		
+WEAPON_DESC_GAS_GRENADE	Libera un gas nervioso que daña la armadura de los Aliens.	OK		
+WEAPON_DESC_GRENADELAUNCHER	Pega duro contra objetivos lentos o inmóviles.	OK		
+WEAPON_DESC_HMG	Ametralladora con cargador de gran capacidad que hace daño extra a los jugadores, pero no es muy precisa a larga distancia.	OK		
+WEAPON_DESC_JETPACK	Este dispositivo experimental permite a su usuario volar distancias cortas. Úsalo para entrar en conductos de ventilación que de otro modo no alcanzarías o para esquivar con facilidad las mandíbulas enemigas.	OK		
+WEAPON_DESC_MINE	Coloca minas alrededor de las estructuras, en pasillos estrechos, alrededor de los portales de fase e incluso en las paredes.	OK		
+WEAPON_DESC_PISTOL	Usa la pistola para rematar rápido a los enemigos en lugar de recargar.	OK		
+WEAPON_DESC_PULSE_GRENADE	Daño de impacto moderado; reduce la velocidad de ataque de los objetivos.	OK		
+WEAPON_DESC_REQUIREMENTS	¡El Commander todavía tiene que %s!\n\n%s	OK		
+WEAPON_DESC_RIFLE	Rifle estándar de la TSF. Es un arma versátil a casi cualquier distancia. Aunque es un poco más pesado que los modelos anteriores, sigue siendo útil cuando te queda poca munición: golpea con la culata.	OK		
+WEAPON_DESC_SHOTGUN	La escopeta es la perdición de los Skulks. Aunque su cargador es algo limitado, fue ajustada para ser aún más efectiva a corta distancia. Acércate en silencio a algo baboso y mira si alcanza a reaccionar. Respuesta: no. Disfrútala, soldado.	OK		
+WEAPON_DESC_WELDER	Usa el soldador para reparar estructuras, Nodos de energía y la armadura de tus compañeros.	OK		
+BUYMENU_TITLE_PREFIX	ESPECIAL:	OK		
+BUYMENU_CLICKTOPURCHASE	CLICK PARA COMPRAR	OK		
+BUYMENU_CURRENTMONEY_PREFIX	ACTUAL:	OK		
+BUYMENU_RANGE	ALCANCE:	OK		
+BUYMENU_GRENADES_RANGE_OVERRIDE	ALCANCE DE ÁREA:	OK		
+BUYMENU_VSLIFEFORMS	vs FORMAS DE VIDA:	OK		
+BUYMENU_VSSTRUCTURES	vs ESTRUCTURAS:	OK		
+BUYMENU_GROUPLABEL_WEAPONS	ARMAS	OK		
+BUYMENU_GROUPLABEL_UTILITY	UTILIDAD	OK		
+BUYMENU_GROUPLABEL_SPECIAL	ESPECIAL	OK		
+BUYMENU_COST	COSTO	OK		
+BUYMENU_MASSIVE_TITLE	Masivo	OK		
+BUYMENU_MASSIVE_SPECIAL1	- Puede destruir huevos al pisarlos.	OK		
+BUYMENU_MASSIVE_SPECIAL2	- Inmune al derribo	OK		
+BUYMENU_MASSIVE_SPECIAL3	- Inmune a las esporas del Lerk	OK		
+BUYMENU_MASSIVE_SPECIAL4	- No puede usar portales de fase	OK		
+BUYMENU_MASSIVE_SPECIAL5	- El Beacon de emergencia no lo trae de vuelta	OK		
+BUYMENU_ELECTRIFY_TITLE	Electrificar	OK		
+BUYMENU_ELECTRIFY_SPECIAL1	- Electrocuta a los jugadores enemigos y reduce mucho su velocidad de ataque	OK		
+BUYMENU_BURN_TITLE	Quemar	OK		
+BUYMENU_BURN_SPECIAL1	- Desactiva estructuras enemigas	OK		
+BUYMENU_BURN_SPECIAL2	- Quema la bomba de bilis, las esporas y la Umbra	OK		
+BUYMENU_ERROR_EQUIPPED	EQUIPADO	OK		
+BUYMENU_ERROR_NOTRESEARCHED	SIN INVESTIGAR	OK		
+BUYMENU_ERROR_INSUFFICIENTFUNDS	FONDOS INSUFICIENTES	OK		
+BUYMENU_ERROR_OCCUPIED	OCUPADO	OK		
+BUYMENU_ERROR_UNAVAILABLE	NO DISPONIBLE	OK		
+BUYMENU_ERROR_ADVANCED_ARMORY_ONLY	SOLO EN ADVANCED ARMORY	OK		
+BUYMENU_ERROR_DISABLED	DESACTIVADO	OK		
+WEAPON_DESC_SMG	Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.	OK		
+BMAC	A-MAC	OK		
+BMAC_HINT	Dron de apoyo del Commander	OK		
+BMAC_TOOLTIP	MAC más resistente que puede desplegar varios campos de apoyo para el equipo. ¡Límite de 1!	OK		
+BMACNS_TOOLTIP	Despliega un campo de escudo que protege a los Marines cercanos (no a los Exos). ¡REQUIERE 85 DE ENERGÍA!	OK		
+BMACCP_TOOLTIP	Despliega un campo de catalyst que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!	OK		
+BMACHW_TOOLTIP	Despliega un campo de curación que cura a los Marines cercanos (no a los Exos). ¡REQUIERE 20 DE ENERGÍA!	OK		
+BMACSB_TOOLTIP	Da al A-MAC un aumento de velocidad limitado. ¡REQUIERE 30 DE ENERGÍA!	OK		
+BOT_RESEARCH_START_ARMOR1	Iniciando investigación: Armadura 1	OK		
+BOT_RESEARCH_START_PHASETECH	Iniciando investigación: Tecnología de fase	OK		
+BOT_RESEARCH_START_WEAPONS1	Iniciando investigación: Armas 1	OK		
+BOT_RESEARCH_START_GRENADETECH	Iniciando investigación: Granadas	OK		
+BOT_RESEARCH_START_MINESTECH	Iniciando investigación: Minas	OK		
+BOT_RESEARCH_START_DUALMINIGUNTECH	Iniciando investigación: Brazos dobles de Exotraje	OK		
+BOT_RESEARCH_START_CORESEXOSUITTECH	Iniciando investigación: Núcleos de Exotraje	OK		
+BOT_RESEARCH_START_SHOTGUNTECH	Iniciando investigación: Escopetas	OK		
+BOT_RESEARCH_START_ARMOR2	Iniciando investigación: Armadura 2	OK		
+BOT_RESEARCH_START_WEAPONS2	Iniciando investigación: Armas 2	OK		
+BOT_RESEARCH_START_ADVANCEDARMORYUPGRADE	Iniciando investigación: Advanced Armory	OK		
+BOT_RESEARCH_START_HEAVYMACHINEGUNTECH	Iniciando investigación: Ametralladoras pesadas	OK		
+BOT_RESEARCH_START_ADVANCEDMARINESUPPORT	Iniciando investigación: Soporte avanzado de Marines	OK		
+BOT_RESEARCH_START_JETPACKTECH	Iniciando investigación: Jetpacks	OK		
+BOT_RESEARCH_START_WEAPONS3	Iniciando investigación: Armas 3	OK		
+BOT_RESEARCH_START_EXOSUITTECH	Iniciando investigación: Exos	OK		
+BOT_RESEARCH_START_ARMOR3	Iniciando investigación: Armadura 3	OK		
+BOT_RESEARCH_START_BILEBOMB	Iniciando investigación: Bomba de Bilis	OK		
+BOT_RESEARCH_START_LEAP	Iniciando investigación: Impulso	OK		
+BOT_RESEARCH_START_METABOLIZEENERGY	Iniciando investigación: Metabolización	OK		
+BOT_RESEARCH_START_UMBRA	Iniciando investigación: Umbra	OK		
+BOT_RESEARCH_START_BONESHIELD	Iniciando investigación: Escudo de Huesos	OK		
+BOT_RESEARCH_START_METABOLIZEHEALTH	Iniciando investigación: Metabolización Avanzada	OK		
+BOT_RESEARCH_START_STOMP	Iniciando investigación: Pisotón	OK		
+BOT_RESEARCH_START_XENOCIDE	Iniciando investigación: Xenocidio	OK		
+BOT_RESEARCH_START_SPORES	Iniciando investigación: Esporas	OK		
+BOT_RESEARCH_START_STAB	Iniciando investigación: Puñalada	OK		
+BOT_RESEARCH_START_WEBTECH	Iniciando investigación: Telarañas	OK		
+BOT_RESEARCH_START_UPGRADETOCRAGHIVE	Iniciando investigación: Mejora a Crag Hive	OK		
+BOT_RESEARCH_START_UPGRADETOSHIFTHIVE	Iniciando investigación: Mejora a Shift Hive	OK		
+BOT_RESEARCH_START_UPGRADETOSHADEHIVE	Iniciando investigación: Mejora a Shade Hive	OK		
+BOT_RESEARCH_START_BIOMASS_1	Iniciando investigación: Biomasa 1	OK		
+BOT_RESEARCH_START_BIOMASS_2	Iniciando investigación: Biomasa 2	OK		
+BOT_RESEARCH_START_BIOMASS_3	Iniciando investigación: Biomasa 3	OK		
+BOT_RESEARCH_START_BIOMASS_4	Iniciando investigación: Biomasa 4	OK		
+BOT_RESEARCH_START_BIOMASS_5	Iniciando investigación: Biomasa 5	OK		
+BOT_RESEARCH_START_BIOMASS_6	Iniciando investigación: Biomasa 6	OK		
+BOT_RESEARCH_START_BIOMASS_7	Iniciando investigación: Biomasa 7	OK		
+BOT_RESEARCH_START_BIOMASS_8	Iniciando investigación: Biomasa 8	OK		
+BOT_RESEARCH_START_BIOMASS_9	Iniciando investigación: Biomasa 9	OK		
+BOT_RESEARCH_START_BIOMASS_10	Iniciando investigación: Biomasa 10	OK		
+BOT_RESEARCH_START_BIOMASS_11	Iniciando investigación: Biomasa 11	OK		
+BOT_RESEARCH_START_BIOMASS_12	Iniciando investigación: Biomasa 12	OK		
+BOT_RESEARCH_START_BIOMASS_EXTRA	Iniciando investigación: Biomasa extra	OK		
+INFESTED_MARINES_AIR_QUALITY	CALIDAD DEL AIRE	OK		
+INFESTED_MARINES_DO_NOT_KILL_CYSTS_MESSAGE	¡Estás ayudando al enemigo! No destruyas Cysts salvo para evitar sospechas.	OK		
+INFESTED_MARINES_DO_NOT_WELD_PURIFIERS_MESSAGE	¡Estás ayudando al enemigo! No repares purificadores de aire salvo para evitar sospechas.	OK		
+INFESTED_MARINES_FEED_DEATH_MESSAGE	¡Moriste de hambre! Infesta Marines para no morir de hambre.	OK		
+INFESTED_MARINES_FEED_SOON_MESSAGE	¡Estás a punto de morir de hambre! ¡Infesta pronto a otro jugador!	OK		
+INFESTED_MARINES_FRIENDLY_FIRE_ATTACKER_MESSAGE	¡Quemaste a un compañero inocente, sin infestar! Si se comportaba como un loco, mala suerte: seguramente se lo merecía. Pero si era razonable, la próxima vez dale el beneficio de la duda.	OK		
+INFESTED_MARINES_FRIENDLY_FIRE_VICTIM_MESSAGE	¡Un compañero te quemó! Habrá pensado que estabas infestado. Mantén la distancia con los demás jugadores y trata de no parecer sospechoso.	OK		
+INFESTED_MARINES_INFESTED_FRIENDLY_FIRE_MESSAGE	No puedes matar a otros infestados.	OK		
+INFESTED_MARINES_INFESTED_LOSE	Los infestados pierden	OK		
+INFESTED_MARINES_INFESTED_MESSAGE	¡Estás infestado!\nHaz click derecho (el disparo secundario por defecto) sobre los Marines cuando estés lo bastante cerca (el contorno se pone rojo) para infestarlos. Finge que no estás infestado para evitar sospechas, ¡pero pronto morirás de hambre si no infestas a más humanos!	OK		
+INFESTED_MARINES_INFESTED_SUICIDE_BY_FLAMETHROWER_MESSAGE	¡Intentaste quemar a un huésped en perfecto estado! Violaste la directiva principal de los infestados: propagarse.	OK		
+INFESTED_MARINES_INFESTED_WIN	Los infestados ganan	OK		
+INFESTED_MARINES_KILL_CYSTS_MESSAGE	Esos Cysts emiten gas tóxico. ¡Quémalos!	OK		
+INFESTED_MARINES_NOBODY_INFESTED_MESSAGE	La infestación se está apoderando de la instalación; ¡el aire se está volviendo tóxico! Repara los purificadores de aire antes de que el aire sea letal. ¡No podemos perder esta instalación!\n\n(Todavía no se eligió al infestado.)	OK		
+INFESTED_MARINES_NOT_INFESTED_MESSAGE	¡Ya se eligió al infestado!\n¡No estás infestado! Pero uno o más de tus "amigos" sí lo están. Vigílense de cerca. ¡La infestación se propaga por la instalación y envenena el aire! ¡Limpia la infestación y repara los purificadores de aire antes de que el aire sea letal!	OK		
+INFESTED_MARINES_RIGHT_CLICK_TIP_MESSAGE	Infestar (acércate)	OK		
+INFESTED_MARINES_SUFFOCATED_DEATH_MESSAGE	¡Te asfixiaste con el aire tóxico! ¡Repara los purificadores de aire con el soldador y destruye Cysts para mantener el aire limpio!	OK		
+INFESTED_MARINES_WELD_PURIFIERS_MESSAGE	Hay un purificador de aire dañado cerca. Los purificadores dañados filtran peor las toxinas del aire. ¡Repáralos con el soldador!	OK		
+FEEDBACK_RATEROUND	Califica la última ronda:	OK		
+FEEDBACK_REASSON	Elige la razón principal de tu calificación:	OK		
+FEEDBACK_REASSON_1	Equipos desbalanceados	OK		
+FEEDBACK_REASSON_2	Comunicación tóxica	OK		
+FEEDBACK_REASSON_3	Commander sin experiencia	OK		
+FEEDBACK_REASSON_4	Mal rendimiento del servidor	OK		
+FEEDBACK_REASSON_5	No me gustó el mapa	OK		
+FEEDBACK_REASSON_6	Mal equipo para jugar	OK		
+FEEDBACK_REASSON_7	Juego desbalanceado	OK		
+FEEDBACK_REASSON_8	El juego no es divertido	OK		
+FEEDBACK_REASSON_9	Un jugador hacía trampa	OK		
+FEEDBACK_REASSON_10	Otra razón	OK		
+FEEDBACK_REASON_11	Poco trabajo en equipo	OK		
+FEEDBACK_REASON_12	Commander sin experiencia	OK		
+FEEDBACK_REASON_13	No jugué bien	OK		
+FEEDBACK_REASON_14	Los equipos estaban desbalanceados	OK		
+FEEDBACK_REASON_15	La ronda no fue divertida	OK		
+FEEDBACK_REASON_16	Otra razón	OK		
+FEEDBACK_THANKS	Gracias por tu opinión	OK		
+MISSIONS	MISIONES	OK		
+MISSION_COMPLETE	Misión completada	OK		
+MISSION_INCOMPLETE	Misión incompleta	OK		
+MISSION_NEW_PLAYER_TITLE	Nuevo recluta	OK		
+MISSION_NEW_PLAYER_COMPLETION_DESCRIPTION	¡Completa esta misión para ganar el parche de hombro 'Cómete las verduras'!	OK		
+MISSION_NEW_PLAYER_TUTORIALS	Tutoriales	OK		
+ROOKIE_CHAT	[Novato]	OK		
+ROOKIE_ONLY	(entrenamiento básico)	OK		
+WELCOME_PROGRESS_HEAD	¡BIENVENIDO!	OK		
+WELCOME_PROGRESS_TEXT	ADÁPTATE RÁPIDO\nCOMPLETANDO ESTAS MISIONES:	OK		
+WELCOME_PROGRESS_ENTRY_1_TITLE	Completa los tutoriales básicos	OK		
+WELCOME_PROGRESS_ENTRY_1_TEXT	Juega los tutoriales de jugador de campo de Marine y Alien	OK		
+WELCOME_PROGRESS_ENTRY_2_TITLE	Usa la partida rápida	OK		
+WELCOME_PROGRESS_ENTRY_2_TEXT	Únete a una partida con el botón Partida rápida\ndel menú Jugar	OK		
+WELCOME_PROGRESS_ENTRY_3_TITLE	Juega como Marine	OK		
+WELCOME_PROGRESS_ENTRY_3_TEXT	Completa una ronda como Marine	OK		
+WELCOME_PROGRESS_ENTRY_4_TITLE	Juega como Alien	OK		
+WELCOME_PROGRESS_ENTRY_4_TEXT	Completa una ronda como Alien	OK		
+WELCOME_PROGRESS_ENTRY_5_TITLE	Viajero	OK		
+WELCOME_PROGRESS_ENTRY_5_TEXT	Juega en 3 mapas diferentes	OK		
+WELCOME_PROGRESS_ENTRY_6_TITLE	FINAL	OK		
+WELCOME_PROGRESS_ENTRY_6_TEXT	Completa todas las misiones y consigue el\nparche de hombro 'Cómete las verduras'	OK		
+WELCOME_TO	Bienvenido a	OK		
+WELCOME_TO_READY_ROOM	Bienvenido al Ready Room	OK		
+WELCOME_TO_READY_ROOM_HALLOWEEN	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar dulces!	OK		
+WELCOME_TO_READY_ROOM_HOLIDAY	Bienvenido al Ready Room. ¡Presiona BIND_Use para lanzar bolas de nieve!	OK		
+ABYSS_BUNDLE_TITLE	¡Paquete Abyss disponible!	OK		
+ABYSS_BUNDLE_MSG	Tienes un Paquete Abyss en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Abyss?	OK		
+OPEN_ABYSS_BUNDLE	ABRIR UN PAQUETE	OK		
+ADVANCED_MARINE_SUPPORT	Soporte avanzado	OK		
+AF	FILTRADO ANISOTRÓPICO	OK		
+AFK_WARNING	No te has movido en %{timeAFK}d segundos. Serás expulsado del servidor automáticamente tras %{maxAFKTime}d segundos.	OK		
+AIR_PURIFIER	Purificador de aire	OK		
+ALIEN	Alien	OK		
+ALIEN_DEFEAT	Derrota Alien	OK		
+ALIEN_TEAM_DEFEND_THE_HIVE	Objetivo: ¡defiende la Hive y no mueras!	OK		
+ALIEN_TEAM_GAME_STARTED	Objetivo: destruye la Command Station	OK		
+ALIEN_VICTORY	¡Victoria Alien!	OK		
+ARMOR	Armadura	OK		
+ATTEMPTING_CONNECTION	INTENTANDO CONECTAR	OK		
+AUTHENTICATING	AUTENTICANDO	OK		
+AUTO_CONCEDE_WARNING	Equipos desequilibrados. Los %{teamName}s se rendirán automáticamente en %{time}d segundos.	OK		
+AUTO_TEAM_BALANCE_TOOLTIP	Balance de equipos activado. Renacerás cuando mueran tus compañeros.\nPuedes cambiar de equipo para renacer más rápido. Presiona %s para cambiar de equipo.	OK		
+AVERAGE_SPEED	Velocidad promedio	OK		
+AXE	Hacha	OK		
+BABBLERS	Babblers	OK		
+BABBLER_EGG	Huevo de Babbler	OK		
+BABBLER_EGG_TOOLTIP	Incuba un Babbler al que se le puede ordenar atacar o defender.	OK		
+BEACONING	El Commander activó el Beacon de emergencia. Teletransporte inminente.	OK		
+BEACONING_COMMANDER	Beacon de emergencia activado. Teletransporte inminente.	OK		
+BEACON_TO	Beacon de emergencia: teletransportándote a %s	OK		
+BEACONS_TO	Beacon a %{location}s	OK		
+BEST_TIME	Mejor tiempo	OK		
+BETA_MAINMENU	Compilación	OK		
+BIOMASS_LEVEL	NIVEL DE BIOMASA	OK		
+BLOCKED	Bloqueado	OK		
+OPEN_BMAC_BUNDLE	ABRIR UN PAQUETE	OK		
+BUY	COMPRAR	OK		
+CAMERA_ANIMATION	ANIMACIONES DE CÁMARA	OK		
+CAMOUFLAGED	Camuflado	OK		
+CAPS_LOCK_WARNING	Bloq Mayús está activado	OK		
+CARAPACE_SHELL	Shell con caparazón	OK		
+CARAPACE_SHELL_HINT	Armadura Alien mejorada	OK		
+CARAPACE_SHELL_TOOLTIP	Da a los Aliens armadura adicional	OK		
+CAT_PACKS	Paquetes catalizadores	OK		
+CAT_PACK_TECH_TOOLTIP	Aumenta la velocidad de movimiento, de recarga y de soldadura de los Marines.	OK		
+CATALYST_BUNDLE_MSG	Tienes un Paquete Catalyst en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Catalyst?	OK		
+CATALYST_BUNDLE_TITLE	¡Paquete Catalyst disponible!	OK		
+OPEN_CATALYST_BUNDLE	ABRIR UN PAQUETE	OK		
+CHANGE_EGG_HELP	Presiona %s para renacer o %s para cambiar de huevo	OK		
+CHANGELOG_DISCORD	Chatea con nosotros	OK		
+CHANGELOG_FEEDBACK	Comentarios:	OK		
+CHANGELOG_FEEDBACK_RESPONSE	¡Gracias por tus comentarios!	OK		
+CHANGELOG_TITLE	REGISTRO DE CAMBIOS	OK		
+CHATBAR_MUTED	Silenciado	OK		
+CHECKING_CONSISTENCY	COMPROBANDO CONSISTENCIA	OK		
+CHOOSE_SPAWN	Abre el minimapa para elegir dónde renacer	OK		
+CLOAKED	Oculto	OK		
+COMING_SOON_1	(próximamente)	OK		
+COMING_SOON_2	Próximamente	OK		
+COMMANDER	Commander:	OK		
+COMMANDER_HELP	AYUDA DE COMMANDER	OK		
+COMM_EJECT	Echaron al Commander	OK		
+COMM_ENABLES	Desbloquea:	OK		
+COMM_REQUIRES	Requiere:	OK		
+COMM_SEL_BUILDING	CONSTRUYENDO...	OK		
+COMM_SEL_CONSTRUCTING	CONSTRUYENDO...	OK		
+COMM_SEL_HATCHING	INCUBANDO...	OK		
+COMM_SEL_LIFETIME	TIEMPO RESTANTE...	OK		
+COMM_SEL_RECYCLING	RECICLANDO...	OK		
+COMM_SEL_RESEARCHING	INVESTIGANDO...	OK		
+COMM_SEL_UPGRADING	MEJORANDO...	OK		
+COMM_SEL_CONSUMING	CONSUMIENDO...	OK		
+COMM_STATION_UNDER_ATTACK	Command Station de %s bajo ataque	OK		
+CONSTRUCT_PRIMED	Activada	OK		
+CONSTRUCT_UNBUILT	Sin construir	OK		
+CONSTRUCT_UNPOWERED	Sin energía	OK		
+CONSTRUCT_UNROOTED	Sin enraizar	OK		
+CONSUMED_STRUCTURE	%s (Consumido)	OK		
+CURRENT	ACTUAL	OK		
+CYST_UNCONNECTED_HINT	No conectado	OK		
+DESTROY	Destruir	OK		
+DESTROYED_POWER_NODE	¡El Nodo de energía fue destruido!	OK		
+DETAILS	DETALLES	OK		
+DEVICE	DISPOSITIVO	OK		
+DIRECTX9	DIRECTX 9 (obsoleto)	OK		
+DIRECTX11	DIRECTX 11	OK		
+ENABLED	ACTIVADO	OK		
+DISCORD_BUTTON_TOOLTIP	Servidor oficial de Discord de Natural Selection 2	OK		
+DISPLAY_MODE_WINDOWED	VENTANA	OK		
+DISPLAY_MODE_FULLSCREEN	PANTALLA COMPLETA	OK		
+DISPLAY_MODE_FULLSCREENWINDOWED	PANTALLA COMPLETA EN VENTANA	OK		
+DLC_PURCHASE_GAME_RESTART_MSG	Hay que reiniciar el juego para que Steam active e instale el DLC comprado.\nLos objetos de un DLC nuevo no estarán disponibles hasta entonces.	OK		
+DOWNLOAD_COMPLETE	¡Descarga completada!	OK		
+DOWNLOAD_FAILED	¡Descarga fallida!	OK		
+DOWNLOADING_MODS	DESCARGANDO MODS	OK		
+DOWNLOADING_REPLAY	Descargando repetición...	OK		
+DRAW_DAMAGE	MOSTRAR DAÑO	OK		
+DRAW_GAME	¡Empate!	OK		
+DUAL_MINIGUN_TECH_TOOLTIP	Permite al Exo comprar una segunda arma.	OK		
+EJECT	EYECTAR	OK		
+EJECT_FROM_EXO	Eyectarse	OK		
+EQUIPPED	EQUIPADO	OK		
+ESCAPE	Escape	OK		
+EVOLUTION_AVAILABLE	Evolución %s disponible	OK		
+EVOLUTION_LOST	Evolución %s perdida	OK		
+EVOLVE	Evolucionar	OK		
+EVOLVING_TO	Evolucionando a %s	OK		
+EXIT	SALIR	OK		
+EXPERIENCE_LEVEL	nivel de experiencia	OK		
+EXPLORE_MODE	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room)	OK		
+EXPLORE_MODE_ALIEN	Modo Sandbox (BIND_ReadyRoom para ir al Ready Room, BIND_Buy para evolucionar)	OK		
+EXPLORE_MODE_INITIALIZED	Modo Sandbox activado. Escribe %s en la consola para restablecer todos los widgets de ayuda. Escribe speed <número> para acelerar o frenar el mundo (por defecto, speed 1).	OK		
+EXPLORE_MODE_READY_ROOM	Modo Sandbox	OK		
+FIRSTPERSON_SPEC_DEATHS	Muertes	OK		
+FIRSTPERSON_SPEC_KILLS	Bajas	OK		
+FIRSTPERSON_SPEC_SCORE	Puntuación	OK		
+FOLLOWING_NAME	Siguiendo a %{name}s	OK		
+FORGE_BUNDLE_MSG	Tienes un Paquete Forge en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Forge?	OK		
+FORGE_BUNDLE_TITLE	¡Paquete Forge disponible!	OK		
+OPEN_FORGE_BUNDLE	ABRIR UN PAQUETE	OK		
+SHADOW_BUNDLE_MSG	Tienes un Paquete Shadow en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Shadow?	OK		
+SHADOW_BUNDLE_TITLE	¡Paquete Shadow disponible!	OK		
+OPEN_SHADOW_BUNDLE	ABRIR UN PAQUETE	OK		
+FRIEND_STATE_IN_GAME	En partida	OK		
+GAME_START_COMMANDERS	La partida comenzará cuando ambos equipos tengan un Commander.	OK		
+GB_HALF	0.5GB	OK		
+GB_ONE	1GB	OK		
+GB_ONE_POINT_FIVE	1.5GB	OK		
+GB_TWO_PLUS	2GB+	OK		
+GET_MODS	OBTENER MODS	OK		
+GORGE_TUNNEL_TECH	Túneles de Gorge	OK		
+GORGE_TUNNEL_TECH_TOOLTIP	Permite a los Gorges construir túneles que conectan dos partes del mapa.	OK		
+GORGE_TUNNEL_TOOLTIP	Entrada de túnel que permite a los jugadores viajar rápido a otras partes del mapa. Los Marines también pueden usarla.	OK		
+GROWN	Madura	OK		
+HEALTH	Salud	OK		
+HIGH_AO_OLD	ALTA (VERSIÓN ANTERIOR)	OK		
+HIVE_CONSTRUCTED	Hive de %s completada	OK		
+HIVE_KILLED	Hive de %s destruida	OK		
+HIVE_LOW_HEALTH	Muerte inminente de la Hive de %s	OK		
+HIVE_OFFLINE	La Hive no está disponible	OK		
+HIVE_UNDER_ATTACK	Hive de %s bajo ataque	OK		
+HOLD_KEY	Mantener	OK		
+IGNORE	Ignorar	OK		
+INCORRECT_PASSWORD	Contraseña incorrecta	OK		
+INDESTRUCTABLE	indestructible	OK		
+INFANTRY_PORTAL_SPAWNING_HINT	RENACIENDO: %s	OK		
+INFANTRY_PORTAL_TOOMANYIPS	Demasiados Infantry Portals	OK		
+INITIALIZING_GAME	COMPROBANDO DATOS DEL JUEGO	OK		
+INSIGHT_ALIENS_EGGS	Huevos: %s	OK		
+INSIGHT_MARINE_POWER	Energía: %d%%	OK		
+IP_UNDER_ATTACK	Infantry Portal de %s bajo ataque	OK		
+JUMP_COUNT	Cantidad de saltos	OK		
+JUST_THIS_TIME	Solo esta vez	OK		
+KODIAK_BUNDLE_TITLE	¡Paquete Kodiak disponible!	OK		
+KODIAK_BUNDLE_MESSAGE	Tienes un Paquete Kodiak en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Kodiak?	OK		
+OPEN_KODIAK_BUNDLE	ABRIR UN PAQUETE	OK		
+LEAVE_SERVER	SALIR DEL SERVIDOR	OK		
+LEFT_MOUSE_BUTTON	Botón izquierdo del mouse	OK		
+LEFT_SHIFT	Mayús. izq.	OK		
+LEVEL	NIVEL	OK		
+LIFEFORM_POPUP_EVOLUTION_AVAILABLE	EVOLUCIÓN DISPONIBLE	OK		
+LIFEFORM_POPUP_ROLE_ASSASSIN	Asesino	OK		
+LIFEFORM_POPUP_ROLE_BRUISER	Peleador	OK		
+LIFEFORM_POPUP_ROLE_RANGED_SUPPORT	Apoyo a distancia	OK		
+LIFEFORM_POPUP_ROLE_SUPPORT	Apoyo	OK		
+LOBBY_MEMBER_LEFT_SUFFIX	salió	OK		
+LOBBY_MEMBER_KICKED_SUFFIX	fue expulsado	OK		
+LOBBY_MEMBER_JOIN_SUFFIX	se unió	OK		
+LOGIN_ERROR_ROOKIE	¡Un novato acaba de entrar como Commander! ¡Por favor, apóyalo!	OK		
+LOGOUT	Salir	OK		
+LOGOUT_TOOLTIP	Volver al campo de batalla	OK		
+MARINES_RESPAWNING	MARINES RENACIENDO: %s	OK		
+MARINE_DEFEAT	Derrota Marine	OK		
+MARINE_TEAM_GAME_STARTED	Objetivo: destruye la Hive Alien	OK		
+MARINE_VICTORY	¡Victoria Marine!	OK		
+MASTER_VOLUME	VOLUMEN GENERAL	OK		
+MATURITY	Madurez	OK		
+MEDIUM_AO_OLD	MEDIA (VERSIÓN ANTERIOR)	OK		
+METERS	metros	OK		
+MINE	Minas	OK		
+MINIGUN_MINIGUN_TOOLTIP	BIND_PrimaryAttack para disparar la Minigun izquierda, BIND_SecondaryAttack para la derecha (munición ilimitada, pero se pueden sobrecalentar). BIND_Jump para activar los propulsores de salto.	OK		
+MODDED	ARCADE	OK		
+MOD_STATUS_AVAILABLE	100%	OK		
+MOD_STATUS_DOWNLOADING	Descargando...	OK		
+MOD_STATUS_GETTING_INFO	Obteniendo información...	OK		
+MOD_STATUS_UNPACKING	Descomprimiendo...	OK		
+MOD_STATUS_UNKNOWN	Desconocido	OK		
+MUSCULAR_ADVANTAGE	Ventaja muscular	OK		
+NAME_TEAM_0	Ready Room	OK		
+NAME_TEAM_1	Frontiersmen	OK		
+NAME_TEAM_2	Kharaa	OK		
+NANO_SHIELD_ACTIVE	NANO-ESCUDO ACTIVO	OK		
+NANO_SHIELD_TECH	Tecnología de nano-escudo	OK		
+NEW_INFORMATION	¡Nueva información!	OK		
+NEW_ITEM	Nuevo objeto: %s	OK		
+NEWS	NOTICIAS	OK		
+NEXT	Sig.	OK		
+NEXT_MEDAL_TIME	Tiempo de la próxima medalla	OK		
+NEXT_SPAWN_IN	Próxima oleada en %d	OK		
+NS2	NS2	OK		
+NS2PLUS_OPTIONS	OPCIONES DE NS2+	OK		
+NO	NO	OK		
+NO_COMM	Se necesita Commander	OK		
+NO_COMMANDER	No hay Commander	OK		
+NO_IPS	Se necesita Infantry Portal	OK		
+NO_MEDAL	Sin medalla	OK		
+NOCTURNE_BUNDLE_MSG	Tienes un Paquete Nocturne en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Nocturne?	OK		
+NOCTURNE_BUNDLE_TITLE	¡Paquete Nocturne disponible!	OK		
+OPEN_NOCTURNE_BUNDLE	ABRIR UN PAQUETE	OK		
+OBJECTIVE_PROGRESS	%{name}s de %{location}s %{health}d%%	OK		
+OBSERVATORY_BEACON_TO_HINT	Beacon a %s	OK		
+OK	Ok	OK		
+ON	ACTIVADO	OK		
+OPTIMIZE_CONFIRM	Aceptar	OK		
+PHASE_GATE_HINT_TO_LOCATION	Teletransporte a %s	OK		
+PHYSX_GPU_ACCELERATION	ACELERACIÓN POR GPU PHYSX	OK		
+PLAYER	JUGADOR	OK		
+PLAYER_NAME	NOMBRE DE JUGADOR	OK		
+PLAYER_PROFILE	PERFIL DE JUGADOR	OK		
+PLAYERS	JUGADORES	OK		
+PLAYER_COUNT_WARNING	El servidor al que te vas a conectar tiene más de 24 jugadores. Natural Selection 2 ha sido diseñado para tener una experiencia óptima con un máximo de 24 jugadores. En servidores con límites de jugadores mayores de 24 no podemos garantizar un rendimiento aceptable o jugabilidad equilibrada.	OK		
+POWERPOINT_NOSTRUCTURES_TOOLTIP	NINGUNA ESTRUCTURA REQUIERE ENERGÍA	OK		
+POWERPOINT_FINISHBUILD_TOOLTIP	PRIMERO TERMINA DE CONSTRUIR LAS ESTRUCTURAS - LINTERNA PARA FORZAR	OK		
+POWER_BUILT	%{location}s (%{percentage}d%% Construido)	OK		
+POWER_HEALTH	%{location}s (%{percentage}d%% Salud)	OK		
+POWER_LOST	Energía perdida en %s	OK		
+POWER_POINT_UNDER_ATTACK	Nodo de energía de %s bajo ataque	OK		
+POWER_RESTORED	Energía restaurada en %s	OK		
+PRECACHING	PRECARGANDO	OK		
+PREV	Ant.	OK		
+PRODUCTION_COMPLETED	Completado: %s	OK		
+PRODUCTION_LOST	Perdido: %s	OK		
+PRODUCTION_STARTED	Comenzado: %s	OK		
+QUICK_JOIN	PARTIDA RÁPIDA	OK		
+QUIT	Salir	OK		
+QUIT_CAPS	SALIR	OK		
+QUIT_GAME	SALIR DEL JUEGO	OK		
+RACE_GHOST	Competir contra un fantasma	OK		
+RACE_LAST_GHOST	Competir contra tu último fantasma	OK		
+RANK	Rango	OK		
+RAW_INPUT	ENTRADA DIRECTA	OK		
+REAPER_BUNDLE_TITLE	¡Paquete Reaper disponible!	OK		
+REAPER_BUNDLE_MSG	Tienes un Paquete Reaper en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Reaper?	OK		
+OPEN_REAPER_BUNDLE	ABRIR UN PAQUETE	OK		
+RECYCLED_STRUCTURE	%s (Reciclado)	OK		
+REFRESH	Actualizar	OK		
+RELATIVE_SKILL	habilidad relativa	OK		
+RESEARCH_DUAL_EXOS	Investigar Exos dobles	OK		
+RESOURCES	RECURSOS (RES)	OK		
+RESOURCES_ADDED	+%d recursos	OK		
+RESOURCE_ADDED	+1 recurso	OK		
+RESOURCE_TOWERS	Torres de recursos	OK		
+RETRY	Reintentar	OK		
+RETRY_SOLO	Reintentar solo	OK		
+RETURN_TO_BASE	¡Zona exclusiva! ¡Retírate de inmediato!	OK		
+REVERSE_MOUSE	MOUSE INVERTIDO	OK		
+RIGHT_MOUSE_BUTTON	Botón derecho del mouse	OK		
+RIGHT_SHIFT	Mayús. der.	OK		
+SANDBOX	SANDBOX	OK		
+SEARCHING	Buscando	OK		
+SLOWDRIVE_WARNING_TITLE	Advertencia: ¡disco lento detectado!	OK		
+SLOWDRIVE_WARNING_WINDOW	Detectamos que quizá estás usando un disco duro lento. ¡Puedes tener tiempos de carga largos y desconexiones por tiempo de espera!	OK		
+SERVER_PERF_LOADED	Exigido	OK		
+SILENCE	Silencio	OK		
+SILENCE_TOOLTIP	No haces ruido al moverte o atacar.	OK		
+SKULK_CHALLENGE_1	Desafío de Skulk (Tram)	OK		
+SKULK_CHALLENGE_DEATH	¡MORISTE!	OK		
+SKULK_CHALLENGE_GO	¡YA!	OK		
+SKULK_CHALLENGE_FINISH	¡META!	OK		
+SKULK_CHALLENGE_NEW_PERSONAL_BEST	¡NUEVO\nRÉCORD\nPERSONAL!	OK		
+SKULK_CHALLENGE_TIP_1	Salta por las paredes para aumentar muchísimo tu velocidad.	OK		
+SKULK_CHALLENGE_TIP_2	Trata de tocar el suelo lo menos posible para no perder velocidad.	OK		
+SKULK_CHALLENGE_TIP_3	Gana mucha velocidad encadenando varios saltos de pared.	OK		
+SKULK_CHALLENGE_TIP_4	Puedes mantener presionado %s para dejar de pegarte a las paredes, lo cual te frena.	OK		
+SKULK_EGG	Huevo de Skulk	OK		
+SPAWNING	Estás renaciendo	OK		
+STAB_TOOLTIP	El Fade usa ambas garras para dar un golpe poderoso.	OK		
+STARTING_IN	La partida comenzará en %s segundos...	OK		
+STARTING_LOCAL_SERVER	INICIANDO SERVIDOR LOCAL	OK		
+START_COMMANDING	Entrar a modo Commander	OK		
+START_GAME	Comenzar la partida contigo como Commander	OK		
+START_SERVER	CREAR SERVIDOR	OK		
+START_VOTE	COMENZAR VOTACIÓN	OK		
+STATUS_COMMANDER	Commander	OK		
+STATUS_DEAD	Muerto	OK		
+STATUS_EMBRYO	Embrión	OK		
+STATUS_EVOLVING	Evolucionando	OK		
+STATUS_EXO	Exo	OK		
+STATUS_FADE	Fade	OK		
+STATUS_FLAMETHROWER	FT	OK		
+STATUS_SMG	SMG	OK		
+STATUS_GORGE	Gorge	OK		
+STATUS_GRENADE_LAUNCHER	GL	OK		
+STATUS_HMG	MG	OK		
+STATUS_JETPACK	JP	OK		
+STATUS_LERK	Lerk	OK		
+STATUS_ONOS	Onos	OK		
+STATUS_RIFLE	Rifle	OK		
+STATUS_SHOTGUN	Escopeta	OK		
+STATUS_SKULK	Skulk	OK		
+STATUS_SPECTATOR	Espectador	OK		
+STATUS_VOID		OK		
+SWITCH_AX	Cambiar a hacha	OK		
+TARGET	Objetivo	OK		
+TEAMS_BALANCED	Autoequilibrado de equipos desactivado	OK		
+TEAMS_UNBALANCED	Autoequilibrado de equipos activado	OK		
+TEAM_ALIENS_CONCEDED	Los Aliens se han rendido.	OK		
+TEAM_KILLS	Bajas del equipo	OK		
+TEAM_MARINES_CONCEDED	Los Marines se han rendido.	OK		
+TEAM_RES	RES DE EQUIPO: %d	OK		
+TEAM_RESOURCES	Recursos del equipo	OK		
+TECHPOINT_BUILT	Construido	OK		
+TECHPOINT_DESTROYED	Destruido	OK		
+TECHPOINT_FINISHED	Finalizado	OK		
+TECHPOINT_GROWN	Completado	OK		
+TECHPOINT_UNCLAIMED	Sin dueño	OK		
+TEMPORAL_AA_NAME	ACTIVADO	OK		
+TIME	Tiempo	OK		
+TIP	CONSEJO	OK		
+TOP_SPEED	Velocidad máxima	OK		
+TRAINING	Entrenamiento	OK		
+TRY_ANOTHER_SERVER	PROBAR OTRO SERVIDOR	OK		
+TUNDRA_BUNDLE_MSG	Tienes un Paquete Tundra en tu inventario. ¿Quieres abrirlo ahora para recibir los objetos Tundra?	OK		
+TUNDRA_BUNDLE_TITLE	¡Paquete Tundra disponible!	OK		
+OPEN_TUNDRA_BUNDLE	ABRIR UN PAQUETE	OK		
+TUNNEL_ENTRANCE_HINT_TO_LOCATION	Atajo hacia %s	OK		
+TUNNEL_ENTRANCE_OWNER	Túnel de Gorge de %s	OK		
+TUNNEL_ENTRANCE_OWNER_ENDS_WITH_S	Túnel de Gorge de %s	OK		
+TUNNEL_LIMIT_ONE_PER_HIVE	Otra Hive	OK		
+TUNNEL_LIMIT_ONE_PER_HIVE_CAPS	¡Necesitas otra Hive para construir más túneles!	OK		
+UNBOUND	¡SIN ASIGNAR!	OK		
+UNBUILT_POWER_NODE	Presiona %s para construir y dar energía a las estructuras cercanas	OK		
+UNBUILT_STRUCTURE	%s (Sin construir)	OK		
+UPDATE	ACTUALIZAR	OK		
+VENT_ENTRANCE	Aquí puedes entrar a un conducto de ventilación. Los Aliens usan los conductos de ventilación para esquivar a los Marines y viajar rápido entre dos lugares	OK		
+VIEW_REPLAY	Ver repetición	OK		
+VORTEX	Vórtice	OK		
+VORTEX_TOOLTIP	Crea un portal al que el Fade se teletransporta de vuelta en su primer ataque.	OK		
+VS_BOTS	CONTRA BOTS	OK		
+WAITING_TO_SPAWN	Esperando a renacer...	OK		
+WARMUP_ACTIVE	Modo de calentamiento activo hasta que %s jugadores se unan a los equipos	OK		
+WHIP_BOMBARD_HINT	Defensa bombardera	Use my Spanish	Bombardeador defensivo.	
+WIKI_BUTTON_TOOLTIP	Ver la wiki de Natural Selection 2	OK		
+YES	SÍ	OK		
+PISTOL_BUYDESCRIPTION	Arma semiautomática y precisa, excelente para eliminar objetivos a distancia.	OK		
+RIFLE_BUYDESCRIPTION	Rifle automático estándar, efectivo tanto contra estructuras como contra formas de vida.	OK		
+SHOTGUN_BUYDESCRIPTION	Arma de menor alcance que hace un potente daño de ráfaga.	OK		
+GRENADELAUNCHER_BUYDESCRIPTION	Arma de asedio de largo alcance que demuele estructuras enemigas con facilidad, pero es vulnerable al contraataque de las formas de vida.	OK		
+FLAMETHROWER_BUYDESCRIPTION	Arma de apoyo demoledora que devasta y desactiva estructuras enemigas, y además disuade muy bien a corta distancia.	OK		
+HMG_BUYDESCRIPTION	Arma de largo alcance con un gran tambor de munición, ideal para destrozar formas de vida.	OK		
+AXE_BUYDESCRIPTION	Herramienta cuerpo a cuerpo de corto alcance, ideal para golpear estructuras enemigas.	OK		
+WELDER_BUYDESCRIPTION	Reemplaza al hacha y permite reparar estructuras dañadas y la armadura de los jugadores.	OK		
+GASGRENADE_BUYDESCRIPTION	Contiene compuestos gaseosos antibacterianos que quitan rápidamente la armadura de jugadores y estructuras enemigas.	OK		
+CLUSTERGRENADE_BUYDESCRIPTION	Cargada con explosivos antiestructura que hacen rápidamente un daño moderado a las estructuras enemigas.	OK		
+PULSEGRENADE_BUYDESCRIPTION	Emite un gran pulso eléctrico que electrifica a los jugadores enemigos por un momento y reduce mucho su velocidad de ataque.	OK		
+MINES_BUYDESCRIPTION	Coloca una mina de proximidad que explota sola cuando un enemigo se acerca y hace un daño moderado. Eso sí, se puede destruir a distancia.	OK		
+JETPACK_BUYDESCRIPTION	Equipo especial para el Marine estándar de la TSF: permite vuelos cortos y da una movilidad excepcional.	OK		
+DUALRAILGUN_BUYDESCRIPTION	Ofrece mucha armadura pero poca movilidad. Las Railguns hacen un daño de ráfaga enorme a larga distancia, pero es vulnerable a los enjambres de enemigos.	OK		
+DUALMINIGUN_BUYDESCRIPTION	Ofrece mucha armadura pero poca movilidad. Las dos Miniguns hacen un daño sostenido impresionante, especialmente efectivo contra la armadura.	OK		
+STEAMLOBBYCREATE_OK	Sala creada correctamente.	OK		
+STEAMLOBBYCREATE_FAIL	El servidor tuvo un error interno desconocido.	OK		
+STEAMLOBBYCREATE_NOCONNECTION	Tu cliente de Steam no tiene conexión con los servidores.	OK		
+STEAMLOBBYCREATE_ACCESSDENIED	Tu juego no está configurado para permitir salas, o tu cliente no tiene permiso para jugar al juego.	OK		
+STEAMLOBBYCREATE_TIMEOUT	Los servidores de Steam no respondieron a tiempo.	OK		
+STEAMLOBBYCREATE_LIMITEXCEEDED	Tu cliente creó demasiadas salas y está siendo limitado.	OK		
+UPDATING_MODS	Actualizando mods	OK		
+DEATHSCREEN_LEFTLABEL_TOP_PREFIX	FUISTE	OK		
+DEATHSCREEN_LEFTLABEL_TOP	ELIMINADO	OK		
+DEATHSCREEN_LEFTLABEL_BOTTOM	POR:	OK		
+DEATHSCREEN_RIGHTLABEL_TOP	CON:	OK		
+DEATHSCREEN_SELFKILL_TITLE	Selección natural	OK		
+DEATHSCREEN_SKIPTEXT_PREFIX	Click para omitir...	OK		
+WHIP_ABILITY	Salpicadura de bilis	OK		
+WHIP_ABILITY_TOOLTIP	Salpica de bilis a los enemigos cercanos. Hace entre 1.25 y 2 veces el daño completo de una bomba de bilis	OK		
+SMG	SMG	OK		
+SMG_BUYDESCRIPTION	Arma ligera de medio alcance, con más daño y mejor golpe cuerpo a cuerpo que el rifle de asalto estándar.	OK		
+RESEARCH_SMG	Investigar subfusiles.	OK		
+RESEARCH_SMG_TITLE	Subfusil	OK		
+SMG_TOOLTIP	Permite comprar SMG en los Armories.	OK		
+SMG_DROP	Soltar subfusil	OK		
+SCAN_GRENADE	Granada de escaneo	OK		
+SCAN_GRENADE_TOOLTIP	Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa	OK		
+SCANGRENADE_BUYDESCRIPTION	Emite un escaneo que revela las unidades ocultas y resalta las unidades enemigas en el mapa	OK		
+RESEARCH_SCAN_GRENADES	Granadas de escaneo	OK		
+SCAN_GRENADES_TOOLTIP	Permite comprar granadas de escaneo en los Armories.	OK		
+RESEARCH_SCAN_GRENADES_TITLE	Granadas de escaneo	OK		
+UPGRADE_OBSERVATORY	Mejorar a Advanced Observatory	OK		
+UPGRADE_OBSERVATORY_TOOLTIP	Desbloquea nuevas investigaciones, mejora el rastreo de movimiento y aumenta la salud.	OK		
+ADVANCED_OBSERVATORY_HINT	Detecta Aliens	OK		
+ADVANCED_OBSERVATORY_TOOLTIP	Detecta enemigos cercanos.	OK		
+ADVANCED_OBSERVATORY	Advanced Observatory	OK		
+RESEARCH_ADVANCED_OBSERVATORY_TITLE	Advanced Observatory	OK		
+CARGO_GATE_HINT	Teletransporte de Exotrajes	OK		
+CARGO_GATE	Cargo Gate	Use my Spanish	Puerta de Carga	
+CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Cargo Gate.	Use my Spanish	Teletransporta Exotrajes a otra Puerta de Carga	
+CARGO_GATE_HINT_TO_LOCATION	Teletransporte a %s	OK		
+CARGO_TECH	Tecnología de Cargo Gate	Use my Spanish	Tecnología de Puerta de Carga	
+CARGO_TECH_TOOLTIP	Desbloquea la tecnología de Cargo Gate.	Use my Spanish	Desbloquea la tecnología de Puerta de Carga.	
+RESEARCH_CARGO_TECH_TOOLTIP	Cargo Gate	Use my Spanish	Puerta de Carga	

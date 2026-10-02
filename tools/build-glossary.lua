@@ -115,6 +115,11 @@ local additions = {
     { "General", "replay", "translate", "repetición", "la", "Batch 2." },
     { "General", "leaderboard", "translate", "tabla de clasificación", "la", "Batch 2." },
     { "General", "Skill Tier", "translate", "rango de habilidad", "el", "Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji." },
+    { "Marine structures", "Cargo Gate", "translate", "Puerta de Carga", "la", "Batch 4 (CBM): Bleu translated it." },
+    { "Alien abilities", "Vortex", "translate", "Vórtice", "el", "Batch 4." },
+    { "Marine weapons", "SMG", "mixed", "subfusil (SMG)", "el", "Batch 4 (CBM): subfusil as the long name, SMG as the short one." },
+    { "General", "bundle", "translate", "paquete", "el", "Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C." },
+    { "General", "respawn", "translate", "renacer", "", "Batch 3 and 4: Bleu keeps renacer / renaciendo." },
 }
 
 local handlingOf = {
