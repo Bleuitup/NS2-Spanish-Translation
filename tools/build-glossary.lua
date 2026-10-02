@@ -72,6 +72,8 @@ local overrides = {
     -- From the batch 5 review, 2026-10-02
     ["Catalyst Field"] = { handling = "translate", spanish = "campo catalizador", article = "el", notes = "Batch 5: follows paquete catalizador." },
     ["Regen Field"] = { handling = "translate", spanish = "campo de regeneración", article = "el", notes = "Batch 5." },
+    ["Competitive Play"] = { handling = "translate", spanish = "Partidas competitivas", article = "las",
+        notes = "The mode name, settled 2026-10-02: plural, capital P only. Menu button: PARTIDAS COMPETITIVAS." },
     ["resource node"] = { spanish = "nodo de recursos", article = "el", notes = "Also the resource nozzle (batch 3)." },
 }
 

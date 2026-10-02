@@ -22,7 +22,7 @@ CUSTOMIZE_MENU_WELDER_SKIN	SKIN DE SOLDADOR
 CUSTOMIZE_MENU_ALIEN_STRUCTURES_SKIN	SKIN DE ESTRUCTURAS
 CUSTOMIZE_MENU_MARINE_STRUCTURES_SKIN	SKIN DE ESTRUCTURAS
 CUSTOMIZE_MENU_ALIEN_TUNNELS_SKIN	SKIN DE TÚNELES
-BUY_THUNDERDOME_UNLOCK	Se desbloquea en Partidas Competitivas
+BUY_THUNDERDOME_UNLOCK	Se desbloquea en Partidas competitivas
 BADGE_COMMANDER	Commander
 BADGE_COMMUNITY_DEV	Desarrollador de la comunidad
 BADGE_CONSTELLATION	Constellation
@@ -87,18 +87,18 @@ BADGE_WC2013_GOLD	Campeonato Mundial 2013 Oro
 BADGE_WC2013_SHADOW	Campeonato Mundial 2013 Shadow
 BADGE_WC2013_SILVER	Campeonato Mundial 2013 Plata
 BADGE_WC2013_SUPPORTER	Colaborador del Campeonato Mundial 2013
-BADGE_TD_TIER1	Partida competitiva - Rango 1
-BADGE_TD_TIER2	Partida competitiva - Rango 2
-BADGE_TD_TIER3	Partida competitiva - Rango 3
-BADGE_TD_TIER4	Partida competitiva - Rango 4
-BADGE_TD_TIER5	Partida competitiva - Rango 5
-BADGE_TD_TIER6	Partida competitiva - Rango 6
-BADGE_TD_TIER7	Partida competitiva - Rango 7
-BADGE_TD_TIER8	Partida competitiva - Rango 8
+BADGE_TD_TIER1	Partidas competitivas - Rango 1
+BADGE_TD_TIER2	Partidas competitivas - Rango 2
+BADGE_TD_TIER3	Partidas competitivas - Rango 3
+BADGE_TD_TIER4	Partidas competitivas - Rango 4
+BADGE_TD_TIER5	Partidas competitivas - Rango 5
+BADGE_TD_TIER6	Partidas competitivas - Rango 6
+BADGE_TD_TIER7	Partidas competitivas - Rango 7
+BADGE_TD_TIER8	Partidas competitivas - Rango 8
 CALLINGCARD_CUSTOMIZER_TOOLTIP	Personalizar tarjeta de presentación
-CALLINGCARD_CUSTOMIZER_LOCKED	Desbloquea tarjetas de presentación con la partida competitiva
+CALLINGCARD_CUSTOMIZER_LOCKED	Desbloquea tarjetas de presentación en Partidas competitivas
 CALLINGCARD_CUSTOMIZER_UNLOCKED	Personalizar tarjeta de presentación
-CALLINGCARD_TOOLTIP_EXTRA	¡Desbloquéala compitiendo en la partida competitiva!
+CALLINGCARD_TOOLTIP_EXTRA	¡Desbloquéala compitiendo en Partidas competitivas!
 CALLINGCARD_TOOLTIP_EXTRASHOULDERPATCH	¡Compra el DLC para usar este parche de hombro como tarjeta de presentación!
 CALLINGCARD_REINFORCED_TOOLTIP	Reinforced
 CALLINGCARD_NONE_TOOLTIP	Ninguna

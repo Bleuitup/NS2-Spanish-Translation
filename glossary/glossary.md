@@ -38,7 +38,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | badge | translate | insignia |  |  |
 | skill | translate | nivel de habilidad | el | Player rating and bot difficulty. 'Skill Tier' = rango de habilidad; 'relative skill' = habilidad relativa. Not ELO. |
 | Quick Play | translate | partida rápida | la |  |
-| Competitive Play | translate | partida competitiva | la |  |
+| Competitive Play | translate | Partidas competitivas | las | The mode name, settled 2026-10-02: plural, capital P only. Menu button: PARTIDAS COMPETITIVAS. |
 | tutorial | translate | tutorial |  |  |
 | Sandbox | keep | Sandbox | el *(proposed)* |  |
 | mod | keep | mod | el *(proposed)* |  |

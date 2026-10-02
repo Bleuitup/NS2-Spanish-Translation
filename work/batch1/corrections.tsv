@@ -3,3 +3,4 @@ OPTION_DUAL_FLAMETHROWER_FIRING_SYNC	Disparar el brazo izquierdo también dispar
 OPTION_DUAL_MINIGUN_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exotraje.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
 OPTION_DUAL_PLASMA_LAUNCHER_FIRING_SYNC	Disparar el brazo izquierdo también dispara el derecho. Se aplica al entrar en un Exotraje.	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
 ADVANCED_OPTION_BANNERS_TOOLTIP	Activa o desactiva los avisos en el centro de la pantalla (\"Se necesita Commander\", \"Nodo de energía bajo ataque\", \"Evolución perdida\", etc.).	Batch 3 term decisions (2026-10-02): term swept to the new glossary.
+MENU_MATCHED_PLAY	PARTIDAS COMPETITIVAS	Mode name settled 2026-10-02: Partidas competitivas (plural; capital P as the mode's name, no Title Case).

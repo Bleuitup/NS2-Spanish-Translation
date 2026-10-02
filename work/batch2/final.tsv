@@ -120,7 +120,7 @@ SERVER_PERF_BAD	Malo
 SERVER_PERF_GOOD	Bueno
 SERVER_PERF_OK	Aceptable
 SERVER_PERF_UNKNOWN	Desconocido
-THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_MSG	No puedes unirte a través de Amigos de Steam mientras estás en una sala de Partida competitiva.
+THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_MSG	No puedes unirte a través de Amigos de Steam mientras estás en una sala de Partidas competitivas.
 THUNDERDOME_MATCHMAKING_DISALLOW_STEAMJOIN_TITLE	No se puede unir al servidor
 AUTOJOIN_SPEC	SER ESPECTADOR
 AUTOJOIN_SPEC_AND_RS	UNIRSE
