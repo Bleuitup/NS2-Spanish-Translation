@@ -58,6 +58,16 @@ local batches = {
     [7] = { -- Competitive Play (Thunderdome).
         { "Competitive Play", { "THUNDERDOME", "TD_", "GMTD" } },
     },
+    [8] = { -- Tutorials and challenges: everything left.
+        { "Tutorial menu and misc", { "TUTORIAL_MISC", "TUTNAG", "TUT_CAT", "TUT_MBOT", "TUT_ABOT", "TUT_ACOMM", "TUT_MCOMM", "TUT_COMING", "TUT_START", "TUT_MESSAGE", "TUTORIAL_DISABLED", "CHALLENGE", "BOOTCAMP", "HIVE_CHALLENGE" } },
+        { "Marine tutorial (old)", { "TUT_MARINE" } },
+        { "Alien tutorial (old)", { "TUT_ALIEN" } },
+        { "Commander tutorial (old)", { "COMMANDER_TUT" } },
+        { "Bronze tutorials", { "TUTORIAL_BRONZE" } },
+        { "Silver tutorials", { "TUTORIAL_SILVER" } },
+        { "Other", {} },
+        catchAll = "Other",
+    },
 }
 local def = assert(batches[n], "no definition for batch " .. n)
 

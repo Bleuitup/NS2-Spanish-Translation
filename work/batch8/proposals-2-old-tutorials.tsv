@@ -1,0 +1,89 @@
+TUT_MARINE_MSG_1	Bienvenido al Ready Room. NS2 es un juego de equipo contra equipo, así que camina hacia el punto de ruta azul para unirte al equipo Marine.	FIX	el Ready Room; "punto de ruta" for waypoint; caminar, not andar.
+TUT_MARINE_MSG_10	Usa tu soldador para reparar la Command Station: acércate y mantén presionado BIND_PrimaryAttack.	FIX	soldador; presionar.
+TUT_MARINE_MSG_11	¡Buen trabajo! Si los Aliens destruyen todas las Command Stations, los Marines pierden. Defiéndelas y repáralas.	FIX	Capitals and plural.
+TUT_MARINE_MSG_12	Ahora usa tu soldador para construir el Observatory que tu Commander acaba de colocar: acércate y mantén presionado BIND_PrimaryAttack. El soldador construye más rápido.	FIX	soldador; Observatory stays in English; presionar.
+TUT_MARINE_MSG_13	Presiona la tecla 1 para volver a tu arma principal.	FIX	presionar.
+TUT_MARINE_MSG_14	¡El Observatory detectó más enemigos! Aparecen como puntos rojos en tu minimapa, arriba a la izquierda de la pantalla. Encuéntralos y encárgate de ellos.	FIX	Observatory; minimapa.
+TUT_MARINE_MSG_15	Si te quedas sin munición, puedes cambiar a tus otras armas con las teclas 2 y 3.	FIX	No "pulsando".
+TUT_MARINE_MSG_16	Genial, vuelve otra vez al Armory para recargar tu munición y tu salud. 	FIX	el Armory; trailing space kept as in English.
+TUT_MARINE_MSG_17	Recuerda siempre dónde está el Armory más cercano por si necesitas retirarte.	FIX	el Armory; accent on dónde.
+TUT_MARINE_MSG_18	¡Tu Commander usó recursos de equipo para investigar escopetas! Pero necesitas 20 recursos personales para comprar una.	FIX	"recursos personales" in place of "res personales".
+TUT_MARINE_MSG_19	Para ganar recursos más rápido, ayuda a tu equipo a capturar y asegurar nodos de recursos por el mapa. Mantén presionado BIND_ShowMap para abrir el mapa detallado y úsalo para ir a Cafeteria.	FIX	nodo de recursos; presionar; room name kept as on the map.
+TUT_MARINE_MSG_2	Cada equipo tiene un Commander y todos los demás son tropas de campo. Por ahora, serás una tropa de campo	FIX	Commander capitalized.
+TUT_MARINE_MSG_20	¡Aquí hay enemigos! Elimínalos a todos para asegurar la zona.	FIX	"all of them".
+TUT_MARINE_MSG_21	Buen trabajo. Los nodos de recursos son boquillas en el suelo que emiten gas. Encuentra el de Cafeteria y párate sobre él.	FIX	nodo de recursos; "stand on it".
+TUT_MARINE_MSG_22	Encontraste el nodo de recursos. Tu Commander colocará un Extractor para recolectar sus recursos. Constrúyelo.	FIX	nodo de recursos; Extractor capitalized.
+TUT_MARINE_MSG_23	Sin embargo, todas las estructuras de los Marines necesitan energía para funcionar. Construye el Nodo de energía cercano.	FIX	Nodo de energía.
+TUT_MARINE_MSG_24	Ahora el Extractor producirá recursos. Pronto tendrás suficientes para comprar la escopeta en el Armory. Ve a comprarla. [Mantén presionado SHIFT para correr]	FIX	presionar; "correr" in place of "esprintar".
+TUT_MARINE_MSG_25	¡Genial! Se pueden desbloquear otras armas si tu Commander las investiga.	FIX	Small wording change.
+TUT_MARINE_MSG_26	¡Llegaron más enemigos! ¡Ya sabes qué hacer!	FIX	"lo que hacer" is Spain usage.
+TUT_MARINE_MSG_27	Buen trabajo, novato. Eso es lo básico de jugar como Marine, ¡pero hay muchas más armas, estructuras y mejoras por descubrir!	FIX	novato per the glossary.
+TUT_MARINE_MSG_28	Ahora presiona BIND_ReadyRoom para volver al Ready Room y aprender sobre el lado Alien.	FIX	presionar; el Ready Room.
+TUT_MARINE_MSG_3	Tu Commander colocó un Armory, una estructura muy importante. Acércate al fantasma azul y mantén presionado E para construirlo.	FIX	el Armory; presionar.
+TUT_MARINE_MSG_4	Buen trabajo. Pero hay enemigos cerca. Ve al otro lado del cuarto, encuéntralos y elimínalos. [No puedes morir en el tutorial]	FIX	"cuarto" for room, as in batch 1.
+TUT_MARINE_MSG_5	¡Buena puntería! Vuelve al Armory para recargar tu munición y tu salud.	FIX	"Good shooting"; salud.
+TUT_MARINE_MSG_6	Solo párate cerca del Armory y míralo para reabastecerte.	FIX	el Armory.
+TUT_MARINE_MSG_7	Otro enemigo se coló y está atacando tu Command Station, la estructura grande detrás del Armory. ¡Defiéndela!	FIX	Accent on Defiéndela; el Armory.
+TUT_MARINE_MSG_8	La Command Station está dañada. Vuelve al Armory, presiona E y usa el mouse para comprar el soldador.	FIX	presionar; mouse; soldador.
+TUT_MARINE_MSG_9	Comprar equipo cuesta recursos personales, que se muestran abajo a la derecha de la pantalla.	FIX	Tighter.
+TUT_ALIEN_MSG_1	Bienvenido de nuevo al Ready Room. Ahora camina hacia el punto de ruta amarillo para unirte al equipo Alien.	FIX	el Ready Room; punto de ruta; "hacia" has no accent.
+TUT_ALIEN_MSG_10	Puedes mantener presionado SHIFT para silenciar tus pasos y que los enemigos no te oigan.	FIX	Hold; presionar.
+TUT_ALIEN_MSG_11	¡Atrapa a ese Marine de ahí abajo!	FIX	"down there".
+TUT_ALIEN_MSG_12	Los Skulks son útiles, pero también puedes evolucionar a otras formas de vida. Presiona BIND_Buy para abrir el menú de evolución y evoluciona a Gorge.	FIX	forma de vida, not "clase"; presionar.
+TUT_ALIEN_MSG_13	El Gorge es una forma de vida defensiva de apoyo que puede curar y construir estructuras pequeñas	FIX	forma de vida; "defensive" restored.
+TUT_ALIEN_MSG_14	Prueba construir unos Clogs. Presiona el número 2, luego 2 otra vez, apunta a algo y usa BIND_PrimaryAttack. Construye 3.	FIX	Clogs capitalized; presionar.
+TUT_ALIEN_MSG_15	Los Clogs pueden bloquear pasillos y frenar a los Marines.	FIX	Marines capitalized.
+TUT_ALIEN_MSG_16	Tienes que curarlas para que crezcan. Apúntales y mantén presionado BIND_SecondaryAttack.	FIX	Refers to the Hidras just built; presionar.
+TUT_ALIEN_MSG_17	¡Viene un Marine! Pero no te preocupes. Quédate cerca de tus Hidras y deja que ellas se encarguen de él.	FIX	Hidra; "ti" has no accent.
+TUT_ALIEN_MSG_18	Por último, probemos el Lerk volador. Presiona BIND_Buy y evoluciona a Lerk ahora.	FIX	presionar; "flying" restored.
+TUT_ALIEN_MSG_19	Los Lerks se mueven volando. Mantén presionado W y toca la barra espaciadora varias veces para volar hacia delante, y mantén presionada la barra espaciadora para planear. Pruébalo ahora.	FIX	presionar; "Try this now" restored.
+TUT_ALIEN_MSG_2	Espera mientras renaces.	FIX	Tighter.
+TUT_ALIEN_MSG_20	¡Vuela y elimina al Marine en Courtyard! BIND_SecondaryAttack para disparar proyectiles, BIND_PrimaryAttack para morder.	FIX	Marine capitalized.
+TUT_ALIEN_MSG_21	Por último, los Aliens pueden evolucionar mejoras. Presiona BIND_Buy, haz click en el ícono amarillo llamado Regeneración, abajo a la derecha del círculo, y luego haz click en 'Evolucionar'.	FIX	presionar; haz click; Regeneración; ícono.
+TUT_ALIEN_MSG_22	Eso es lo básico de jugar como Alien. Hay más formas de vida y habilidades por aprender, y puedes probarlas en el modo Sandbox del menú Entrenamiento.	FIX	forma de vida.
+TUT_ALIEN_MSG_23	También puedes practicar contra bots desde el menú Entrenamiento si todavía no te sientes listo para jugar partidas reales. ¡Buena suerte y diviértete!	FIX	Small wording change.
+TUT_ALIEN_MSG_24	También puedes construir Hidras, que funcionan como torretas defensivas. Presiona el número 2 y luego el número 1 para seleccionarlas. Construye 3.	FIX	Hidra; presionar.
+TUT_ALIEN_MSG_25	Ahora tu salud se regenerará con el tiempo. Tu Commander decide qué mejoras están disponibles, y cada una da un beneficio específico a cualquier forma de vida.	FIX	Commander capitalized; accent on qué.
+TUT_ALIEN_MSG_26	Usa tu mapa y vuela hasta Courtyard.	FIX	Small wording change.
+TUT_ALIEN_MSG_3	Los Aliens empiezan como Skulks. Puedes subir por las paredes: acércate a una, mira hacia arriba y presiona W. Sube ahora hacia el ventilador del techo.	FIX	Capitals; presionar.
+TUT_ALIEN_MSG_4	Bien. Mientras te mantengas cerca de una pared o del techo, no te caerás.	FIX	Small wording change.
+TUT_ALIEN_MSG_5	¡Hay un Marine debajo de ti! Baja manteniéndote detrás de él, acércate con sigilo y luego usa BIND_PrimaryAttack para morder.	FIX	Marine capitalized; order of the steps.
+TUT_ALIEN_MSG_6	Buen trabajo. Quédate cerca de la Hive, el gran organismo naranja bajo el ventilador del techo, para curarte.		
+TUT_ALIEN_MSG_7	Si los Marines destruyen todas las Hives, ganan. Defiéndelas.	FIX	Capitals; destroyed.
+TUT_ALIEN_MSG_8	Ahora mantén presionado BIND_ShowMap para usar tu mapa e ir a Pressure Control. Encuentra al Marine que está allí y elimínalo.	FIX	presionar; Marine capitalized.
+TUT_ALIEN_MSG_9	¡Buena caza! Abre tu mapa otra vez y fíjate en la línea naranja gruesa al este de ti. Es un conducto de ventilación. Encuentra la entrada y atraviésalo.	FIX	"East", not "right"; conducto de ventilación.
+COMMANDER_TUT_BUILD_ARMORY	Una de las tareas más importantes del Commander Marine es apoyar a sus tropas. Selecciona el menú de construcción [1:BuildMenu] y construye un Armory [2:Armory] en tu base. En esta estructura tus Marines podrán conseguir munición y curarse.	FIX	el Armory; Commander capitalized.
+COMMANDER_TUT_BUILD_ARMS_LAB	Tu equipo necesita mejoras. Selecciona el menú de construcción [1:BuildMenu] y crea un Arms Lab [2:ArmsLab] en tu base.	FIX	"menú de construcción", one name for the menu.
+COMMANDER_TUT_BUILD_CYST	Todas las estructuras necesitan infestación. Para expandirla, primero selecciona el menú de construcción [1:BuildMenu], luego selecciona el ícono del Cyst [2:Cyst] y colócalo.	FIX	ícono; menú de construcción.
+COMMANDER_TUT_BUILD_EXTRACTOR	Necesitas un mayor ingreso de recursos [CollectResources]. Selecciona el menú de construcción [1:BuildMenu] y construye un Extractor [2:Extractor] en el nodo de recursos más cercano.	FIX	nodo de recursos.
+COMMANDER_TUT_BUILD_HIVE	Las habilidades más fuertes requieren un nivel de biomasa más alto. El nivel actual se muestra arriba a la izquierda de tu pantalla. Para aumentar el nivel de biomasa, selecciona el menú de construcción [1:BuildMenu] y construye otra Hive [2:Hive] en un tech point libre [TechPoint]	FIX	biomasa; grammar.
+COMMANDER_TUT_BUILD_OBS	Las tecnologías avanzadas permiten a los Marines viajar al instante entre dos puntos. Para desbloquear esta tecnología, selecciona el menú de construcción avanzada [1:AdvancedMenu] y crea un Observatory [2:Observatory] en tu base. Los Observatories tienen una habilidad pasiva y escanean el área a su alrededor.	FIX	Observatory stays in English.
+COMMANDER_TUT_BUILD_PHASE_GATE	La tecnología de fase ya está desbloqueada. Selecciona el menú de construcción avanzada [1:AdvancedMenu]. Todos los portales de fase que construyas estarán conectados entre sí (la conexión se indica con una línea en el minimapa) y permitirán a los Marines viajar al instante entre esos puntos. Construye el primer portal de fase [2:PhaseGate] en tu base.	FIX	portal de fase and tecnología de fase per the glossary; no "desarrollada".
+COMMANDER_TUT_BUILD_PROTO	Ahora que tienes un Arms Lab, es hora de desbloquear los Exotrajes para tus Marines. Construye un [2:PrototypeLab] desde el menú de construcción avanzada [1:AdvancedMenu].	FIX	The old line translated an older English text (Advanced Armory).
+COMMANDER_TUT_BUILD_SECOND_PHASE_GATE	Ahora elige un punto de destino, idealmente junto a un tech point libre [TechPoint]. Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye el portal de fase [2:PhaseGate]	FIX	portal de fase.
+COMMANDER_TUT_BUILD_SECOND_SHELL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una segunda Shell [2:SecondShell] 	FIX	Trailing space restored, as in English.
+COMMANDER_TUT_BUILD_SECOND_SPUR	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Spur [2:SecondSpur] 	FIX	Trailing space restored.
+COMMANDER_TUT_BUILD_SECOND_VEIL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un segundo Veil [2:SecondVeil] 	FIX	el Veil per the glossary; trailing space restored.
+COMMANDER_TUT_BUILD_SHELL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye una Shell [2:Shell] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	FIX	Small wording change.
+COMMANDER_TUT_BUILD_SPUR	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un Spur [2:Spur] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	FIX	Same.
+COMMANDER_TUT_BUILD_VEIL	Selecciona el menú de construcción avanzada [1:AdvancedMenu] y construye un Veil [2:Veil] junto a tu Hive. Esto desbloquea nuevas mejoras para tu equipo; construye hasta tres para aumentar la fuerza de las mejoras.	FIX	el Veil per the glossary.
+COMMANDER_TUT_CONSTRUCT_DRIFTER	Puedes aumentar la velocidad de crecimiento de cualquier estructura con Drifters [1:DrifterEgg], que se construyen sobre infestación. Los Drifters buscan automáticamente estructuras sin crecer a su alcance, pero también puedes darles órdenes a mano.	FIX	"automatically" restored.
+COMMANDER_TUT_DROP_AMMOPACK	Abasteces directamente a tus Marines soltando paquetes que pueden recoger. Selecciona el menú de asistencia [1:AssistMenu] y suelta un paquete de munición [2:AmmoPack] para darles munición.	FIX	paquete de munición.
+COMMANDER_TUT_DROP_MEDPACK	Abasteces directamente a tus Marines soltando paquetes que pueden recoger. Selecciona el menú de asistencia [1:AssistMenu] y suelta un Med pack [2:MedPack] para curar a los Marines heridos.	FIX	Med pack.
+COMMANDER_TUT_INFEST_NODE	Necesitas un mayor ingreso de recursos [CollectResources]. Construye un Cyst [1:Cyst] junto al nodo de recursos más cercano y, cuando la infestación se haya extendido sobre el nodo, selecciona el Harvester [2:Harvester] del menú de construcción y colócalo sobre el nodo de recursos.	FIX	Capitals.
+COMMANDER_TUT_ORDER_DRIFTER	Con click derecho puedes darle al Drifter una orden de movimiento [1:Move] El Drifter también tiene un conjunto de habilidades para apoyar a tus compañeros, que se desbloquean según los tipos de Hive que hayas mejorado. Haz click en una habilidad [2:EnzymeCloud] [2:Hallucinate] [2:MucousMembrane] y luego selecciona una posición objetivo.	FIX	Typo "order"; capitals.
+COMMANDER_TUT_ORDER_DRIFTER_TO_HIVE	Para aumentar la velocidad de crecimiento de tu Hive, selecciona un Drifter [1:Drifter] y haz click derecho en la Hive sin construir [2:Grow] 	FIX	Trailing space restored.
+COMMANDER_TUT_ORDER_TROOPS	Ordena a tus Marines construir las estructuras que acabas de colocar. Para seleccionar a todos los Marines, haz click en el elemento de arriba a la izquierda [1:Marine]. Luego haz click derecho en una estructura sin construir para darles una orden de construcción [2:Construct] 	FIX	Accent on órdenes avoided; haz click; trailing space restored.
+COMMANDER_TUT_RESEARCH_PHASE_TECH	Selecciona tu Observatory [1:Observatory] y haz click en Tecnología de fase [2:PhaseTech]	FIX	tecnología de fase per the glossary.
+COMMANDER_TUT_RESEARCH_WEAPON_ONE	Ya es hora de darles a tus Marines juguetes nuevos. Selecciona tu Armory [1:Armory] y elige un arma para investigar [2:ShotgunTech] [2:MinesTech] [2:GrenadeTech] 	FIX	investigar; trailing space restored.
+COMMANDER_TUT_SELECT_DRIFTER	Puedes usar tu Drifter no solo para acelerar la construcción, sino también por sus habilidades. Selecciona el menú de asistencia [1:AssistMenu] y haz click en seleccionar Drifter [2:SelectDrifter]	FIX	Drifter capitalized.
+COMMANDER_TUT_UPGRADE_ARMORY	Para desbloquear armas más poderosas, selecciona tu Armory [1:Armory] y mejóralo [2:AdvancedArmoryUpgrade]. Esto permitirá a tus Marines comprar lanzagranadas [GrenadeLauncher] y lanzallamas [Flamethrower]	FIX	"unlock", not "mejorar"; el Armory.
+COMMANDER_TUT_UPGRADE_ARMOR_TWO	No olvides que tu Arms Lab ofrece varios niveles de mejoras de armadura. Selecciona el Arms Lab [1:ArmsLab] e investiga la armadura de nivel 2 [2:Armor2]	FIX	Accent (multiples).
+COMMANDER_TUT_UPGRADE_AT_ARMS_LAB	Selecciona el Arms Lab [1:ArmsLab] y elige la mejora de armas [2:Weapons1] o la de armadura [2:Armor1]. Cada categoría se puede mejorar tres veces.	FIX	Small wording change.
+COMMANDER_TUT_UPGRADE_BIOMASS	Cada Hive puede dar un máximo de 3 de biomasa. Para aumentar en uno la biomasa desbloqueada por una Hive, selecciónala [1:Hive] y haz click en investigar biomasa [2:ResearchBioMassOne]	FIX	biomasa; investigar.
+COMMANDER_TUT_UPGRADE_BIOMASS_TWO	Cada Hive puede dar un máximo de 3 de biomasa. Para aumentar en uno la biomasa desbloqueada por una Hive, selecciónala [1:Hive] y haz click en investigar biomasa [2:ResearchBioMassTwo]	FIX	Same.
+COMMANDER_TUT_UPGRADE_GORGE	Cada forma de vida Alien tiene su propio conjunto de habilidades. No todas están desbloqueadas desde el principio. Para mejorar al Gorge [Gorge], selecciona tu Hive [1:Hive], haz click en el menú de evoluciones de formas de vida [2:LifeFormMenu] y luego en el menú del Gorge [3:GorgeMenu] . Por último, haz click en Bomba de Bilis [4:BileBomb] para desbloquear esa habilidad.	FIX	forma de vida; Bomba de Bilis.
+COMMANDER_TUT_UPGRADE_HIVE	Tu equipo necesita mejoras. Primero selecciona la Hive [1:Hive] , luego elige uno de los tres tipos de Hive [2:CragHive] [2:ShadeHive] [2:ShiftHive].	FIX	Small wording change.
+COMMANDER_TUT_UPGRADE_JETPACK	Selecciona el Advanced Armory [1:AdvancedArmory] e investiga Jetpacks [2:JetpackTech]	FIX	The English now says Advanced Armory; the old line named the Prototype Lab with a different marker.
+COMMANDER_TUT_UPGRADE_WEAPON_TWO	No olvides que tu Arms Lab ofrece varios niveles de mejoras de armas. Selecciona el Arms Lab [1:ArmsLab] e investiga las armas de nivel 2 [2:Weapons2]	FIX	Small wording change.
+COMMANDER_TUT_VIEW_TECH	Para ver un resumen de todas las tecnologías, haz click en el ícono del árbol de tecnologías [1:Research] junto al minimapa, abajo a la izquierda de tu pantalla.	FIX	"árbol de tecnologías" per the glossary; haz click; ícono.

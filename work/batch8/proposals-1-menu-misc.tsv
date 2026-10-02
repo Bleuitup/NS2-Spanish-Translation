@@ -1,0 +1,72 @@
+CHALLENGE_MEDAL_BRONZE	Medalla de bronce		
+CHALLENGE_MEDAL_SILVER	Medalla de plata		
+CHALLENGE_MEDAL_GOLD	Medalla de oro		
+CHALLENGE_MEDAL_SHADOW	Medalla Shadow		
+CHALLENGE_REPLAY_LINE_1	Repetición	CHECK	Two stacked lines: Replay / & Ghost.
+CHALLENGE_REPLAY_LINE_2	y fantasma		
+TUT_COMING_SOON	PRÓXIMAMENTE	FIX	Accent.
+TUT_START	INICIAR		
+TUTNAG_CLOSE	Cerrar		
+TUTNAG_MSG	El Reglamento 1.01 de la TSF recomienda a los nuevos reclutas hacer el curso de entrenamiento galáctico estándar antes del despliegue.		
+TUTNAG_PLAY	¡Empezar el entrenamiento!		
+TUTNAG_PLAYNOW	¡Unirse a un entrenamiento básico!	CHECK	Boot Camp is "entrenamiento básico" in the glossary.
+TUTNAG_TITLE	¡Reglamento 1.01 de la TSF!		
+TUTORIAL_DISABLED_BY_TUTORIAL_ERROR	ERROR: desactivado por el tutorial.		
+TUTORIAL_MISC_ALIEN_VISION	Visión Alien		
+TUTORIAL_MISC_BUILD_STRUCTURE	Construir estructura		
+TUTORIAL_MISC_BUY_EXOSUIT	Comprar Exotraje		
+TUTORIAL_MISC_BUY_EXOSUIT2	Comprar segunda arma		
+TUTORIAL_MISC_BUY_SHOTGUN	Comprar escopeta		
+TUTORIAL_MISC_BUY_WELDER	Comprar soldador		
+TUTORIAL_MISC_CARAPACE_DISABLED	Caparazón desactivado		
+TUTORIAL_MISC_CHARGE	Carga (mantener)		
+TUTORIAL_MISC_CROUCH	Agacharse (mantener)		
+TUTORIAL_MISC_CRUSH_DISABLED	Aplastamiento desactivado		
+TUTORIAL_MISC_DEAD_ONOS	El único Onos bueno es un Onos muerto.		
+TUTORIAL_MISC_DETACH	Soltarse	CHECK	"Detach": I read it as a Skulk letting go of a wall.
+TUTORIAL_MISC_DISPLAY_MAP	Mostrar mapa (mantener)		
+TUTORIAL_MISC_DONT_FORGET_ONOS_UPGRADES	¡No olvides las mejoras!		
+TUTORIAL_MISC_EQUIP_AXE	Equipar hacha		
+TUTORIAL_MISC_EQUIP_BITE	Equipar Mordida		
+TUTORIAL_MISC_EQUIP_PARASITE	Equipar Parásito		
+TUTORIAL_MISC_EQUIP_PISTOL	Equipar pistola		
+TUTORIAL_MISC_EQUIP_RIFLE	Equipar Rifle		
+TUTORIAL_MISC_EQUIP_WELDER	Equipar soldador		
+TUTORIAL_MISC_EVOLVE_MENU	Menú de evolución		
+TUTORIAL_MISC_FADE_DISABLED	Fade desactivado		
+TUTORIAL_MISC_GORGE_DISABLED	Gorge desactivado		
+TUTORIAL_MISC_GUN_LEFT	Disparar arma izquierda		
+TUTORIAL_MISC_GUN_RIGHT	Disparar arma derecha		
+TUTORIAL_MISC_LERK_DISABLED	Lerk desactivado		
+TUTORIAL_MISC_PICKUP_AMMOPACK	Recoge el paquete de munición		
+TUTORIAL_MISC_PICKUP_BOTH_MEDPACKS	Recoge los dos Med packs		
+TUTORIAL_MISC_PICKUP_MEDPACK	Recoge el Med pack		
+TUTORIAL_MISC_PICKUP_SHOTGUN	Recoge la escopeta		
+TUTORIAL_MISC_REQUEST_NUTRIENT_MIST	Pedir neblina de nutrientes		
+TUTORIAL_MISC_SHOOT_PARASITE	Disparar Parásito		
+TUTORIAL_MISC_SKULK_DISABLED	Skulk desactivado		
+TUTORIAL_MISC_SKULK_FALL	Bueno, supongo que esa es UNA forma de matar a un Skulk.		
+TUTORIAL_MISC_SNEAK	Sigilo		
+TUTORIAL_MISC_SPRINT	Correr		
+TUTORIAL_MISC_VAMPIRISM_DISABLED	Vampirismo desactivado		
+TUTORIAL_MISC_WELD_STRUCTURE	Reparar estructura		
+TUT_ABOTNUMBER	NÚMERO DE BOTS ALIEN		
+TUT_ACOMMBOT	BOT COMMANDER ALIEN		
+TUT_CAT_1	General		
+TUT_CAT_10	Fade y Onos		
+TUT_CAT_11	Mejoras evolutivas		
+TUT_CAT_2	Marine básico		
+TUT_CAT_3	Marine avanzado		
+TUT_CAT_4	Armas de Marine	FIX	Marine capitalized, with "de".
+TUT_CAT_5	Objetos de Marine	FIX	Same.
+TUT_CAT_6	Alien básico		
+TUT_CAT_7	Alien avanzado		
+TUT_CAT_8	Skulk y Lerk		
+TUT_CAT_9	Gorge		
+TUT_MBOTNUMBER	NÚMERO DE BOTS MARINE		
+TUT_MBOTSKILL	NIVEL DE HABILIDAD DE LOS MARINES	FIX	"nivel de habilidad" per the glossary.
+TUT_MCOMMBOT	BOT COMMANDER MARINE		
+TUT_MESSAGE_1	¡Aprende lo básico de Natural Selection 2! Cada tutorial lleva unos\n5-8 minutos. ¡También puedes poner a prueba tus habilidades de Lerk y Fade\nen el Hive Challenge!	CHECK	"Hive Challenge" kept as the mode's name.
+TUT_MESSAGE_2	El modo Sandbox te permite practicar libremente y probar distintas partes del juego.\nPuedes unirte a los Marines y comprar cualquier arma en el Armory y el Prototype Lab.\nPuedes unirte a los Aliens y evolucionar a cualquier forma de vida con cualquier mejora.	FIX	Accents (prácticar, líbremente); el Armory; forma de vida.
+TUT_MESSAGE_3	NOTA: Los bots están pensados para aprender el juego, así que quizá no sean un reto para\njugadores experimentados. Tus amigos pueden unirse a tu partida, pero asegúrate de que tus puertos\nestén abiertos. ¡Que lo disfrutes!	FIX	Accent on asegúrate; line breaks kept in the same places.
+TUTORIAL	TUTORIAL		

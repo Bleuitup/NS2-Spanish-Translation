@@ -1,0 +1,120 @@
+TUTORIAL_SILVER_ASSIST_MENU_TAB	Pestaña de asistencia		
+TUTORIAL_SILVER_BUILD_ADVANCED_MENU_TAB	Pestaña del menú avanzado		
+TUTORIAL_SILVER_BUILD_ARMORY	Construir Armory		
+TUTORIAL_SILVER_BUILD_ARC	Construir ARC		
+TUTORIAL_SILVER_BUILD_ARMS_LAB	Construir Arms Lab		
+TUTORIAL_SILVER_BUILD_EXTRACTOR	Construir Extractor		
+TUTORIAL_SILVER_BUILD_MENU_TAB	Pestaña del menú de construcción		
+TUTORIAL_SILVER_BUILD_OBSERVATORY	Construir Observatory		
+TUTORIAL_SILVER_BUILD_PHASE_GATE	Construir portal de fase		
+TUTORIAL_SILVER_BUILD_ROBOTICS_FACTORY	Construir Robotics Factory		
+TUTORIAL_SILVER_COMMANDER_ALERT_JUMP	Ir a la alerta		
+TUTORIAL_SILVER_COMMANDER_ALIEN_1	Bienvenido de nuevo al equipo Alien, Commander.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_2	Como Commander, una de tus prioridades es asegurar un flujo constante de recursos. Hay dos nodos de recursos bastante cerca de nuestra Hive inicial. A veces se los llama \"expansiones naturales\" o \"naturales\".		
+TUTORIAL_SILVER_COMMANDER_ALIEN_3	Antes de poder colocar un Harvester en esos nodos de recursos, hay que cubrirlos de infestación. La infestación se crea colocando Cysts. Prueba colocar un Cyst cerca del nodo de recursos de Gravity Control ahora.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_4	Fíjate que al colocar el Cyst cerca del nodo de recursos también se crearon otros Cysts entre este punto y la Hive, completando la conexión.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_5	Pasarán unos momentos antes de que esta \"cadena de Cysts\" esté construida y extendiendo infestación. Mientras esperamos, construye otra cadena de Cysts hasta la otra expansión natural, en Plaza.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_6	Mientras esperamos a que se extienda la infestación, hay que elegir un camino de mejora para nuestra Hive. Hay 3 caminos: Crag, Shade y Shift. Crag favorece la resistencia y la supervivencia; Shade, el sigilo y el engaño; y Shift, la velocidad y la evasión. Selecciona la Hive y mejórala a Shift Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_7	Los Cysts de Gravity Control terminaron de construirse y ya extienden su infestación. Crea un Harvester en Gravity Control.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_8	El Harvester se construye muy lento, pero un Drifter puede acelerarlo. Crea un Drifter en Gravity Control.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_9	El Gorge del este colocó un túnel de Gorge que lo conecta con la base principal.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_10	Igual que los Cysts, los túneles de Gorge crean infestación cuando están terminados. Como el túnel se colocó cerca de un nodo de recursos, podemos poner un Harvester ahí.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_11	Fíjate cuánto más rápido se construye este Harvester. Los Gorges construyen mucho más rápido que los Drifters.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_12	Este túnel de Gorge está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel de Gorge.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_13	Los Crags son estructuras de apoyo que curan a los Aliens y estructuras cercanos. Y que el nombre no te confunda: aunque mejoramos nuestra Hive a Shift Hive, igual podemos construir los otros dos tipos de estructuras de apoyo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_14	Este cuarto está seguro por ahora. El Harvester de Gravity Control también terminó de construirse. Deberíamos llevar nuestro Drifter de vuelta a la base, porque los Drifters son objetivos valiosos para los Marines.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_15	Ordena al Drifter moverse al círculo brillante en Launch Control.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_16	Nuestra Hive terminó de mejorarse y ahora es una Shift Hive. Ahora podemos hacer más efectivos a nuestros compañeros colocando estructuras de mejora llamadas \"Spurs\".		
+TUTORIAL_SILVER_COMMANDER_ALIEN_17	Las estructuras de mejora son valiosas, así que deben colocarse en un lugar seguro. Coloca un Spur en Launch Control ahora.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_18	Se necesitan tres de cada tipo de mejora para el efecto máximo. Por ejemplo, con un solo Spur nuestras fuerzas reciben apenas un tercio del aumento de velocidad posible.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_19	¡Están atacando Hydroanalysis!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_20	Menos mal que construimos un Crag aquí. Permite a nuestras fuerzas curarse en el frente en lugar de volver a la Hive. Ahora deberíamos tomar el nodo de recursos de Plaza, pero hagamos las cosas un poco más interesantes.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_21	Como elegimos el camino de mejora Shift, podemos usar el \"eco\" sobre las estructuras. Lo hace la estructura de apoyo \"Shift\". Construye un Shift en la base principal, cerca del nodo de recursos.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_22	La habilidad \"eco\" permite mover estructuras Alien de un lugar infestado a otro, con un costo. Podemos usarla para mover el Harvester resistente y ya construido de nuestra base principal a Plaza.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_23	Selecciona el Shift y usa el eco para mover el Harvester a Plaza.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_24	Bien. Ahora podemos colocar un nuevo Harvester en la base principal, donde puede crecer y madurar con mucho menos riesgo que si lo hubiéramos colocado más lejos.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_25	¡Están atacando Gravity Control!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_26	¡Hay Marines atacando nuestro Harvester! No podemos verlos porque no tenemos nada en el cuarto que pueda verlos. Los Harvesters, como todas las estructuras Alien, son ciegos.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_27	Los Marines en Gravity Control destruyeron los Cysts que daban infestación al Harvester. Si no los reconstruimos a tiempo, el Harvester morirá de hambre. Coloca un nuevo Cyst cerca del Harvester ahora.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_28	Pasará un momento antes de que la infestación vuelva a nutrir esta estructura. Mientras tanto, para que no muera de hambre, podemos colocar una \"neblina de nutrientes\" en este lugar. Pruébalo ahora.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_29	Bien. Pero ten en cuenta que este Harvester sigue dañado y será un blanco fácil si los Marines vuelven. Coloca un Whip para protegerlo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_30	Los Whips son estructuras defensivas de corto alcance. No suelen matar a muchos Marines, pero al menos los debilitan o los obligan a ponerse en una posición vulnerable, para que tus compañeros los rematen con más facilidad.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_31	Deberíamos poner este Whip fuera de la vista para que los Marines no puedan dispararle tan fácil. Selecciona el Whip y ordénale moverse fuera de la vista de la entrada.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_32	Ahora entran muchos recursos: deberíamos construir nuestro segundo Spur.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_33	Es hora de construir nuestra segunda Hive en Hydroanalysis.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_34	Bien. Deberíamos traer nuestro Drifter para ayudar a construir la Hive. Las Hives tardan muchísimo en construirse comparadas con otras estructuras. Cada ayuda cuenta.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_35	Ordena al Drifter hacer crecer la Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_36	Como siempre, los Gorges construyen mucho más rápido que los Drifters, pero también necesitan mucha energía para mantener el ritmo. Usa el eco para llevar el Shift a Hydroanalysis y evitar que este Gorge se quede sin energía mientras construye la Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_37	Bien. Mientras esperamos a que la nueva Hive se construya, deberíamos mejorar la biomasa de la primera Hive. Selecciona la Shift Hive en Launch Control y mejora la biomasa.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_38	Cada Hive vale por sí sola 1 punto de biomasa y se puede mejorar tres veces, para un total de 4 de biomasa por Hive. Cada nivel adicional de biomasa hace más resistentes a los Aliens y permite al Commander investigar habilidades avanzadas para cada forma de vida.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_39	Mientras esperamos, deberíamos crear un tercer Spur para completar las mejoras de la Shift Hive. Coloca el último Spur en Launch Control.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_40	Construye un segundo Drifter, ya que el primero está ocupado.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_41	Bien. En cuanto termine de construirse, nuestros Aliens podrán disfrutar del beneficio máximo de las mejoras.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_42	Ahora tenemos biomasa de nivel 2. Nuestros Aliens son un poco más resistentes que hace un momento.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_43	Cerca hay un Alien evolucionando a una forma de vida superior. Coloca una neblina de nutrientes cerca de ese huevo para acelerar la evolución.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_44	Genial. ¡Ese jugador saldrá de su huevo a patear traseros en un momento!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_45	La nueva Hive acaba de terminarse. La Hive completa nos da un nivel adicional de biomasa, para un total de 3. La biomasa de nivel 3 desbloquea muchas habilidades nuevas, pero aún hay que investigarlas para que los jugadores puedan usarlas. Selecciona una Hive y empieza a investigar la habilidad \"Metabolización\" para nuestro Fade.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_46	Bien. Como tenemos dos Hives, podemos investigar dos habilidades a la vez. Selecciona la otra Hive y empieza a investigar \"Bomba de Bilis\", una habilidad del Gorge.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_47	Mientras esperamos a que terminen de investigarse esas habilidades, podemos trabajar en nuestro segundo grupo de mejoras. Selecciona la nueva Hive y mejórala a Shade Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_48	Ahora deberíamos ocultar un poco mejor nuestra presencia en este cuarto. Construye una Shade.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_49	La Shade oculta a todos los Aliens y estructuras en un radio amplio, así que el cuarto parece vacío para los Marines cercanos.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_50	¡Los Marines están usando ARCs contra nuestra nueva Hive! Selecciona la Shade y usa la habilidad tinta.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_51	La tinta no solo nubla la visión de los Marines: también altera los sistemas de puntería de los ARCs y nos da un tiempo valioso, ¡pero no podemos mantenerla para siempre! ¡Hay que destruir los ARCs, rápido!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_52	¡Nos quedamos sin huevos! Las Hives crean huevos por sí solas, pero muy lento. ¡Necesitamos crear huevos más rápido para defender esta Hive! Selecciona la Hive de Hydroanalysis e incuba algunos huevos.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_53	Nuestro Gorge puede usar su nueva Bomba de Bilis para disolver fácilmente esos ARCs, pero primero hay que eliminar a esos Marines. Selecciona tu Drifter.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_54	Cada Hive mejorada activa una habilidad única para el Drifter. Como tenemos una Shade Hive, nuestros Drifters pueden crear alucinaciones. Crea una nube de alucinación sobre el grupo de Aliens.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_55	Bien. ¡Ahora esos Marines no sabrán a qué Aliens dispararles!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_56	Nuestro Gorge acabará rápido con estas viles máquinas.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_57	¡Un Marine está destruyendo mejoras en la base principal! ¡Sal de la Hive y encárgate de él!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_58	Qué raro. Ese Marine entró por el lado norte del cuarto. ¿Cómo llegó ahí? Vuelve a la Hive para que mandemos a nuestro Drifter a investigar.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_59	Usa el Drifter de Launch Control para explorar hacia el norte.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_60	¡Los Marines tienen un portal de fase en Plaza! Esto es malo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_61	¡Y las cosas acaban de ponerse mucho peor! Parece que los Marines nos están tirando con todo lo que tienen en el norte. Es solo cuestión de tiempo para que ataquen nuestra base principal, y es poco probable que podamos defendernos de un ataque tan fuerte.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_62	En cambio, tendremos que destruir algo de ellos. Tus compañeros están formando un grupo para contraatacar la base de los Marines. Aleja a tu Drifter de los Marines y úsalo para ayudar en el contraataque.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_63	Los Marines no tienen otra base, pero nosotros sí. Si logramos destruirlos lo bastante rápido, ¡ganamos! ¡Ataca ahora! Usa la habilidad nube de enzima del Drifter para que tus compañeros ataquen más rápido.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_64	Aunque perdiste la Hive, los Marines perdieron su única Command Station del mapa, ¡así que ganan los Aliens!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_65	Con esto termina todo el entrenamiento formal disponible en Natural Selection 2. Sin embargo, todavía te queda mucho por aprender en el campo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_66	¡Lo más importante que puedes hacer como Commander es comunicarte! Si no estás seguro de cómo funciona algo o no sabes qué hacer, pregúntales a tus compañeros. La forma más rápida de que te echen de la Command Station es quedarte callado y no hacer nada.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_67	Lo segundo más importante es usar un micrófono. Buena suerte, Commander. Puede retirarse.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_68	Mientras esperamos a que se construya el Harvester, hay que elegir un camino de mejora para nuestra Hive. Hay 3 caminos: Crag, Shade y Shift. Crag favorece la resistencia y la supervivencia; Shade, el sigilo y el engaño; y Shift, la velocidad y la evasión. Selecciona la Hive y mejórala a Shift Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_69	Bien. Ahora deberíamos tomar más territorio. Extiende la cadena de Cysts hasta Hydroanalysis.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_70	Las estructuras Alien se construyen muy lento sin ayuda. Crea un Drifter para construir este Spur más rápido.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_71	Bien. Ese Spur estará listo en un momento.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_72	Necesitamos asegurar nuestro territorio al este. Crea una entrada de túnel en Hydroanalysis.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_73	Los túneles funcionan como un atajo que conecta dos puntos distantes del mapa y permite reforzar una zona mucho más rápido.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_74	Selecciona el túnel y construye el otro extremo en la base.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_75	¡Están dañando parte de la cadena de Cysts!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_76	¡Hay un Marine destruyendo nuestra cadena de Cysts! No podemos verlo porque no tenemos línea de visión, pero ESTÁ ahí.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_77	Nuestro Cyst de Hydroanalysis quedó completamente desconectado de la Hive. Fíjate que recibe daño poco a poco. Acabará muriendo si no se reconecta.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_78	Prueba reconectar la cadena de Cysts ahora.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_79	Fíjate que el Cyst de Hydroanalysis ahora brilla, porque está otra vez conectado a una Hive.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_80	Rayos. Ese Marine está decidido a mantener este territorio aislado.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_81	Necesitamos otra fuente de infestación para esta zona. Selecciona el túnel y mejóralo a \"Túnel infestado\".		
+TUTORIAL_SILVER_COMMANDER_ALIEN_82	Esta mejora crea infestación en ambos extremos del túnel.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_83	Ahora podemos usar este nodo de recursos sin necesidad de una cadena de Cysts. Construye un Harvester junto al túnel.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_84	Este túnel está en un lugar crítico del mapa, así que debemos hacer todo lo posible para ayudar a nuestro equipo a mantener este territorio. Construye un Crag sobre la infestación cerca del túnel.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_85	Coloca la neblina de nutrientes cerca del embrión.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_1	Mira el nodo de recursos del cuarto llamado \"Gravity Control\".		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_2	No te preocupes por lo que hace el Gorge. Tú tienes tus propias tareas.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_3	¡Deja de mirar al maldito Gorge! Estoy tratando de enseñarte cosas.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_4	Está claro que el Gorge está muy ocupado y no necesita que lo mires fijo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_5	¿No ves que estás molestando al Gorge?		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_6	¡El Gorge te pide amablemente que te vayas!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_7	El Gorge quiere que hagas tu trabajo, ¡que es para ALLÁ!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_8	Bueno, ¿sabes qué? Voy a usar mi autoridad de narrador del tutorial para darle al Gorge poderes especiales de ocultamiento. ¡Intenta seguirlo AHORA!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_9	Grr, está bien. Tus sentidos para vigilar Gorges son bastante agudos, eso te lo reconozco. ¿Ahora podemos seguir con el tutorial, por favor?		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_10	Creo que no le caes muy bien al Gorge. Aunque aquí dentro no puede hacernos daño.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_11	¿A dónde va ahora?		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_12	¿Qué está haciendo?		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_13	Oh no, ¡NO! ¡DETENLO!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_14	¡¿Te das cuenta de lo que hiciste?! ¡¿POR QUÉ no pudiste simplemente hacer el tutorial, como una persona NORMAL?! ¡Nos condenaste a todos!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_1	Bien. Ahora vuelve al trabajo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_2	Por fin. ¿En qué estábamos?		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_3	Ay, ¿tan difícil era? ¿No pudiste seguir al Gorgecito? Qué lástima, vuelve al trabajo.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_EASTER_EGG_FAIL_4	¡GRACIAS! Mejor no provocarlo más. ¡Creo que ese Gorge estaba a punto de estallar!		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_1	Coloca la neblina de nutrientes cerca del Harvester.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_2	Colócala dentro del bonito círculo que me tomé el trabajo de hacerte.		
+TUTORIAL_SILVER_COMMANDER_ALIEN_NOT_EGG_3	COLÓCALA... Bueno, te lo digo de una vez: este NO es el easter egg de este tutorial; ese tren ya pasó. Si eso es lo único que buscas aquí, tienes que reiniciar.		
+TUTORIAL_SILVER_COMMANDER_DROP_AMMOPACK	Soltar paquete de munición		
+TUTORIAL_SILVER_COMMANDER_DROP_MEDPACK	Soltar Med pack		
+TUTORIAL_SILVER_COMMANDER_ISSUE_ORDER	Dar orden		
