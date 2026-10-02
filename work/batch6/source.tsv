@@ -1,0 +1,342 @@
+Customize screen	CUSTOMIZE_MENU_SEX_MALE	Female	Male	translated
+Customize screen	CUSTOMIZE_MENU_SKIN_NORMAL	Normal	Normal	english
+Customize screen	CUSTOMIZE_MENU_BADGES	Manage Badges	Administrar medallas	translated
+Customize screen	CUSTOMIZE_MENU_EXO_ARMOR	EXO ARMOR	ARMADURA EXO	translated
+Customize screen	CUSTOMIZE_MENU_FADE_TYPE	FADE TYPE	TIPO DE FADE	translated
+Customize screen	CUSTOMIZE_MENU_FLAMETHROWER_SKIN	FLAMETHROWER SKIN	FLAMETHROWER SKIN	english
+Customize screen	CUSTOMIZE_MENU_GORGE_TYPE	GORGE TYPE	TIPO DE GORGE	translated
+Customize screen	CUSTOMIZE_MENU_GRENADE_LAUNCHER_SKIN	GRENADE LAUNCHER SKIN	GRENADE LAUNCHER SKIN	english
+Customize screen	CUSTOMIZE_MENU_HMG_SKIN	HMG SKIN	HMG SKIN	english
+Customize screen	CUSTOMIZE_MENU_LERK_TYPE	LERK TYPE	TIPO DE LERK	translated
+Customize screen	CUSTOMIZE_MENU_MARINE_ARMOR	MARINE ARMOR	ARMADURA MARINE	translated
+Customize screen	CUSTOMIZE_MENU_MARINE_GENDER	MARINE GENDER	SEXO MARINE	translated
+Customize screen	CUSTOMIZE_MENU_ONOS_TYPE	ONOS TYPE	TIPO DE ONOS	translated
+Customize screen	CUSTOMIZE_MENU_RIFLE_SKIN	RIFLE SKIN	VARIANTE DE RIFLE	translated
+Customize screen	CUSTOMIZE_MENU_PISTOL_SKIN	PISTOL SKIN	PISTOL SKIN	english
+Customize screen	CUSTOMIZE_MENU_AXE_SKIN	AXE SKIN	AXE SKIN	english
+Customize screen	CUSTOMIZE_MENU_SHOTGUN_SKIN	SHOTGUN SKIN	SHOTGUN SKIN	english
+Customize screen	CUSTOMIZE_MENU_ROTATE	Drag to rotate	Arrastra para rotar	translated
+Customize screen	CUSTOMIZE_MENU_SHOULDER_PAD	SHOULDER PAD	PARCHE EN EL HOMBRO	translated
+Customize screen	CUSTOMIZE_MENU_SKULK_TYPE	SKULK TYPE	TIPO DE SKULK	translated
+Customize screen	CUSTOMIZE_MENU_WELDER_SKIN	WELDER SKIN	WELDER SKIN	english
+Customize screen	CUSTOMIZE_MENU_ALIEN_STRUCTURES_SKIN	STRUCTURES SKIN	STRUCTURES SKIN	english
+Customize screen	CUSTOMIZE_MENU_MARINE_STRUCTURES_SKIN	STRUCTURES SKIN	STRUCTURES SKIN	english
+Customize screen	CUSTOMIZE_MENU_ALIEN_TUNNELS_SKIN	TUNNELS SKIN	TUNNELS SKIN	english
+Store	BUY_THUNDERDOME_UNLOCK	Unlocked with Competitive Play		missing
+Badges	BADGE_COMMANDER	Commander	Commander	english
+Badges	BADGE_COMMUNITY_DEV	Community Developer	Desarrollador de la comunidad	translated
+Badges	BADGE_CONSTELLATION	Constellation	Constellation	english
+Badges	BADGE_DEV	Developer	Desarrollador	translated
+Badges	BADGE_DEV_RETIRED	Retired Developer	Desarrollador Retirado	translated
+Badges	BADGE_EMPTY_SLOT	Empty badge slot	Empty badge slot	english
+Badges	BADGE_ENSL_2017	ENSL Season 10 Champion	ENSL Season 10 Champion	english
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_BRONZE	ENSL Community Challenge2019 Second Runner-Up	ENSL Community Challenge2019 Second Runner-Up	english
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_GOLD	ENSL Community Challenge 2019 Champion	ENSL Community Challenge 2019 Champion	english
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_SILVER	ENSL Community Challenge 2019 First Runner-Up	ENSL Community Challenge 2019 First Runner-Up	english
+Badges	BADGE_ENSL_NC_2017_BLUE	ENSL Newcomer Tournament 2017 Participant	ENSL Newcomer Tournament 2017 Participant	english
+Badges	BADGE_ENSL_NC_2017_SILVER	ENSL Newcomer Tournament 2017 Finalist	ENSL Newcomer Tournament 2017 Finalist	english
+Badges	BADGE_ENSL_NC_2017_GOLD	ENSL Newcomer Tournament 2017 Winner	ENSL Newcomer Tournament 2017 Winner	english
+Badges	BADGE_ENSL_NC_2017_LATE_BLUE	ENSL Newcomer Tournament Late 2017 Participant	ENSL Newcomer Tournament Late 2017 Participant	english
+Badges	BADGE_ENSL_NC_2017_LATE_GOLD	ENSL Newcomer Tournament Late 2017 Winner	ENSL Newcomer Tournament Late 2017 Winner	english
+Badges	BADGE_ENSL_NC_2017_LATE_SILVER	ENSL Newcomer Tournament Late 2017 Finalist	ENSL Newcomer Tournament Late 2017 Finalist	english
+Badges	BADGE_ENSL_NC_2019_BLUE	ENSL Newcomer Tournament Summer 2019 Participant	ENSL Newcomer Tournament Summer 2019 Participant	english
+Badges	BADGE_ENSL_NC_2019_SILVER	ENSL Newcomer Tournament Summer 2019 Runner-Up	ENSL Newcomer Tournament Summer 2019 Runner-Up	english
+Badges	BADGE_ENSL_NC_2019_GOLD	ENSL Newcomer Tournament Summer 2019 Winner	ENSL Newcomer Tournament Summer 2019 Winner	english
+Badges	BADGE_ENSL_S11_GOLD	ENSL Season 11 Division 1 Winner	ENSL Season 11 Division 1 Winner	english
+Badges	BADGE_ENSL_S11_SILVER	ENSL Season 11 Division 2 Winner	ENSL Season 11 Division 2 Winner	english
+Badges	BADGE_ENSL_S12_D1_GOLD	The ENSL Season 12 Division 1 Winner	The ENSL Season 12 Division 1 Winner	english
+Badges	BADGE_ENSL_S12_D1_SILVER	The ENSL Season 12 Division 1 First Runner-Up	The ENSL Season 12 Division 1 First Runner-Up	english
+Badges	BADGE_ENSL_S12_D1_BRONZE	The ENSL Season 12 Division 1 Second Runner-Up	The ENSL Season 12 Division 1 Second Runner-Up	english
+Badges	BADGE_ENSL_S12_D2_GOLD	The ENSL Season 12 Division 2 Winner	The ENSL Season 12 Division 2 Winner	english
+Badges	BADGE_ENSL_S12_D2_SILVER	The ENSL Season 12 Division 2 First Runner-Up	The ENSL Season 12 Division 2 First Runner-Up	english
+Badges	BADGE_ENSL_S12_D2_BRONZE	The ENSL Season 12 Division 2 Second Runner-Up	The ENSL Season 12 Division 2 Second Runner-Up	english
+Badges	BADGE_ENSL_S12_D3_GOLD	The ENSL Season 12 Division 3 Winner	The ENSL Season 12 Division 3 Winner	english
+Badges	BADGE_ENSL_S12_D3_SILVER	The ENSL Season 12 Division 3 First Runner-Up	The ENSL Season 12 Division 3 First Runner-Up	english
+Badges	BADGE_ENSL_S12_D3_BRONZE	The ENSL Season 12 Division 3 Second Runner-Up	The ENSL Season 12 Division 3 Second Runner-Up	english
+Badges	BADGE_ENSL_S16_GOLD	ENSL Season 16 Winner	ENSL Season 16 Winner	english
+Badges	BADGE_ENSL_S16_SILVER	ENSL Season 16 First Runner-Up	ENSL Season 16 First Runner-Up	english
+Badges	BADGE_ENSL_S16_BRONZE	ENSL Season 16 Second Runner-Up	ENSL Season 16 Second Runner-Up	english
+Badges	BADGE_ENSL_WC_GOLD	World Championship 2014 Winner	World Championship 2014 Winner	english
+Badges	BADGE_ENSL_WC_SILVER	World Championship 2014 Finalist	World Championship 2014 Finalist	english
+Badges	BADGE_ENSL_WC_BRONZE	World Championship 2014 Semifinalist	World Championship 2014 Semifinalist	english
+Badges	BADGE_HUGHNICORN	Hughnicorn	Hughnicorn	english
+Badges	BADGE_MAPTESTER	Maptester	Maptester	english
+Badges	BADGE_NS1_PLAYTESTER	NS1 Playtester	Playtester de NS1	translated
+Badges	BADGE_PAX2012	PAX 2012	PAX 2012	english
+Badges	BADGE_PLAYTESTER	Playtester	Playtester	english
+Badges	BADGE_REINFORCED1	Reinforced Blue	Reinforced Blue	english
+Badges	BADGE_REINFORCED2	Reinforced Silver	Reinforced Silver	english
+Badges	BADGE_REINFORCED3	Reinforced Gold	Reinforced Gold	english
+Badges	BADGE_REINFORCED4	Reinforced Diamond	Reinforced Diamond	english
+Badges	BADGE_REINFORCED5	Reinforced Shadow	Reinforced Shadow	english
+Badges	BADGE_REINFORCED6	Reinforced Onos	Reinforced Onos	english
+Badges	BADGE_REINFORCED7	Reinforced Insider	Reinforced Insider	english
+Badges	BADGE_REINFORCED8	Reinforced Game Director	Reinforced Game Director	english
+Badges	BADGE_SELECTION_HELP	Drag and drop to select, click to remove	Drag and drop to select, click to remove	english
+Badges	BADGE_SKULK_CHALLENGE_1_BRONZE	Skulk Challenge (Tram) Bronze	Skulk Challenge (Tram) Bronze	english
+Badges	BADGE_SKULK_CHALLENGE_1_SILVER	Skulk Challenge (Tram) Silver	Skulk Challenge (Tram) Silver	english
+Badges	BADGE_SKULK_CHALLENGE_1_GOLD	Skulk Challenge (Tram) Gold	Skulk Challenge (Tram) Gold	english
+Badges	BADGE_SKULK_CHALLENGE_1_SHADOW	Skulk Challenge (Tram) Shadow	Skulk Challenge (Tram) Shadow	english
+Badges	BADGE_SQUAD5_BLUE	Squad 5 Blue	Squad 5 Blue	english
+Badges	BADGE_SQUAD5_GOLD	Squad 5 Gold	Squad 5 Gold	english
+Badges	BADGE_SQUAD5_SILVER	Squad 5 Silver	Squad 5 Silver	english
+Badges	BADGE_TOURNAMENT_MM_BLUE	Mod Madness 2017 Participant	Mod Madness 2017 Participant	english
+Badges	BADGE_TOURNAMENT_MM_SILVER	Mod Madness 2017 Finalist	Mod Madness 2017 Finalist	english
+Badges	BADGE_TOURNAMENT_MM_GOLD	Mod Madness 2017 Winner	Mod Madness 2017 Winner	english
+Badges	BADGE_WC2013_GOLD	World Championship 2013 Gold	World Championship 2013 Gold	english
+Badges	BADGE_WC2013_SHADOW	World Championship 2013 Shadow	World Championship 2013 Shadow	english
+Badges	BADGE_WC2013_SILVER	World Championship 2013 Silver	World Championship 2013 Silver	english
+Badges	BADGE_WC2013_SUPPORTER	World Championship 2013 Supporter	World Championship 2013 Supporter	english
+Badges	BADGE_TD_TIER1	Competitive Play - Tier 1		missing
+Badges	BADGE_TD_TIER2	Competitive Play - Tier 2		missing
+Badges	BADGE_TD_TIER3	Competitive Play - Tier 3		missing
+Badges	BADGE_TD_TIER4	Competitive Play - Tier 4		missing
+Badges	BADGE_TD_TIER5	Competitive Play - Tier 5		missing
+Badges	BADGE_TD_TIER6	Competitive Play - Tier 6		missing
+Badges	BADGE_TD_TIER7	Competitive Play - Tier 7		missing
+Badges	BADGE_TD_TIER8	Competitive Play - Tier 8		missing
+Calling cards	CALLINGCARD_CUSTOMIZER_TOOLTIP	Customize Calling Card		missing
+Calling cards	CALLINGCARD_CUSTOMIZER_LOCKED	Unlock Calling Cards with Competitive Play		missing
+Calling cards	CALLINGCARD_CUSTOMIZER_UNLOCKED	Customize Calling Card		missing
+Calling cards	CALLINGCARD_TOOLTIP_EXTRA	Unlock this by competing in Competitive Play!		missing
+Calling cards	CALLINGCARD_TOOLTIP_EXTRASHOULDERPATCH	Purchase the DLC to use this shoulder patch as a calling card!		missing
+Calling cards	CALLINGCARD_REINFORCED_TOOLTIP	Reinforced		missing
+Calling cards	CALLINGCARD_NONE_TOOLTIP	None		missing
+Calling cards	CALLINGCARD_SHADOW_TOOLTIP	Shadow		missing
+Calling cards	CALLINGCARD_WC14_TOOLTIP	World Championship 2014		missing
+Calling cards	CALLINGCARD_GODAR_TOOLTIP	Godar		missing
+Calling cards	CALLINGCARD_SAUNAMEN_TOOLTIP	Saunamen		missing
+Calling cards	CALLINGCARD_SNAILS_TOOLTIP	Snails		missing
+Calling cards	CALLINGCARD_TITUS_TOOLTIP	Titus		missing
+Calling cards	CALLINGCARD_KODIAK_TOOLTIP	Kodiak		missing
+Calling cards	CALLINGCARD_REAPER_TOOLTIP	Reaper		missing
+Calling cards	CALLINGCARD_TUNDRA_TOOLTIP	Tundra		missing
+Calling cards	CALLINGCARD_ROOKIE_TOOLTIP	Eat Your Greens		missing
+Calling cards	CALLINGCARD_ROOKIE_LOCKED_TOOLTIP	Earn this calling card and shoulder patch by completing the mission in the Ranked Play rewards screen!		missing
+Calling cards	CALLINGCARD_HAUNTEDBABBLER_TOOLTIP	Haunted Babbler		missing
+Calling cards	CALLINGCARD_HALLOWEEN2016_TOOLTIP	Halloween 2016		missing
+Calling cards	CALLINGCARD_LEVIATHAN_TOOLTIP	Reaper Leviathan		missing
+Calling cards	CALLINGCARD_PEEPER_TOOLTIP	Peeper		missing
+Calling cards	CALLINGCARD_SUMMERGORGE_TOOLTIP	Summer Gorge		missing
+Calling cards	CALLINGCARD_SKULKHUGGIES_TOOLTIP	Skulk Huggies		missing
+Calling cards	CALLINGCARD_URPABOOTY_TOOLTIP	Urpa Booty		missing
+Calling cards	CALLINGCARD_NEDRAGE_TOOLTIP	Ned Rage		missing
+Calling cards	CALLINGCARD_WELDDONE_TOOLTIP	A Job WELD Done!		missing
+Calling cards	CALLINGCARD_BABYMARINE_TOOLTIP	Baby Marine		missing
+Calling cards	CALLINGCARD_BALANCEGORGE_TOOLTIP	Balance Gorge		missing
+Calling cards	CALLINGCARD_BABBLERSURPRISE_TOOLTIP	Babbler Surprise		missing
+Calling cards	CALLINGCARD_OHNOES_TOOLTIP	Oh Noes		missing
+Calling cards	CALLINGCARD_GORGETABLEFLIP_TOOLTIP	Gorge Table Flip		missing
+Calling cards	CALLINGCARD_SHADOWFADE_TOOLTIP	Shadow Fade		missing
+Calling cards	CALLINGCARD_BURNOUTFADE_TOOLTIP	Burnout Fade		missing
+Calling cards	CALLINGCARD_LORK_TOOLTIP	L0rk		missing
+Calling cards	CALLINGCARD_CHROMAONOS_TOOLTIP	Chroma Onos		missing
+Calling cards	CALLINGCARD_MADAXEGORGE_TOOLTIP	Mad Axe Gorge		missing
+Calling cards	CALLINGCARD_URPA_TOOLTIP	Urpa		missing
+Calling cards	CALLINGCARD_SADBABBLER_TOOLTIP	Sad Babbler		missing
+Calling cards	CALLINGCARD_PUDGY_TOOLTIP	Pudgy		missing
+Calling cards	CALLINGCARD_FORSCIENCE_TOOLTIP	For Science		missing
+Calling cards	CALLINGCARD_BATTLEGORGE_TOOLTIP	Battle Gorge		missing
+Calling cards	CALLINGCARD_TURBODRIFTER_TOOLTIP	Turbo Drifter		missing
+Calling cards	CALLINGCARD_SKULKSLIPPERS_TOOLTIP	Skulk Slippers		missing
+Calling cards	CALLINGCARD_LAZYGORGE_TOOLTIP	Lazy Gorge		missing
+Calling cards	CALLINGCARD_ANGRYONOS_TOOLTIP	Angry Onos		missing
+Calling cards	CALLINGCARD_LERKED_TOOLTIP	Lerked		missing
+Calling cards	CALLINGCARD_OVER9000DEGREES_TOOLTIP	Over 9000 Degrees		missing
+Calling cards	CALLINGCARD_DONTBLINK_TOOLTIP	Don't Blink!		missing
+Calling cards	CALLINGCARD_LOCKEDANDLOADED_TOOLTIP	Locked and Loaded		missing
+Skins and patches	STICKY_SHOE_701_TITLE	Sticky Shoe	Sticky Shoe	english
+Skins and patches	STICKY_SHOE_702_TITLE	Skulk Tooth Necklace	Skulk Tooth Necklace	english
+Skins and patches	STICKY_SHOE_703_TITLE	1 Ticket for the Aurora	1 Ticket for the Aurora	english
+Skins and patches	STICKY_SHOE_704_TITLE	Callus Clog	Callus Clog	english
+Skins and patches	STICKY_SHOE_705_TITLE	Urpa's Lucky Skulk Foot	Urpa's Lucky Skulk Foot	english
+Skins and patches	STICKY_SHOE_706_TITLE	Hovars without Flapping	Hovars without Flapping	english
+Skins and patches	STICKY_SHOE_707_TITLE	Flayra's Fiber	Flayra's Fiber	english
+Skins and patches	STICKY_SHOE_708_TITLE	Hank's Mounted Head	Hank's Mounted Head	english
+Skins and patches	STICKY_SHOE_709_TITLE	Phil's Mounted Head	Phil's Mounted Head	english
+Skins and patches	STICKY_SHOE_710_TITLE	Dave's Mounted Head	Dave's Mounted Head	english
+Skins and patches	STICKY_SHOE_711_TITLE	Sally's Mounted Head	Sally's Mounted Head	english
+Skins and patches	STICKY_SHOE_712_TITLE	Jen's Mounted Head	Jen's Mounted Head	english
+Skins and patches	STICKY_SHOE_713_TITLE	TSF Promotional Pen	TSF Promotional Pen	english
+Skins and patches	STICKY_SHOE_714_TITLE	Calcified Babbler Egg	Calcified Babbler Egg	english
+Skins and patches	STICKY_SHOE_715_TITLE	Vial of Kharaa Bacteria	Vial of Kharaa Bacteria	english
+Skins and patches	STICKY_SHOE_701_DESC	Take a little bit of the battle with you, regardless of if you wanted it or not.	Take a little bit of the battle with you, regardless of if you wanted it or not.	english
+Skins and patches	STICKY_SHOE_702_DESC	Taken from combat, perfected in the barracks. The sign of a true warrior is in the trophies they forge from warfare. Carry into battle to inspire victory.	Taken from combat, perfected in the barracks. The sign of a true warrior is in the trophies they forge from warfare. Carry into battle to inspire victory.	english
+Skins and patches	STICKY_SHOE_703_DESC	Need shore-leave? This ticket will give passage on the next Alterra mining mission to exotic worlds. Don't forget to pack your bathing suit!	Need shore-leave? This ticket will give passage on the next Alterra mining mission to exotic worlds. Don't forget to pack your bathing suit!	english
+Skins and patches	STICKY_SHOE_704_DESC	For when you just need to rest your limbs, this hardened Clog is perfect to put the claws or feet upon.	For when you just need to rest your limbs, this hardened Clog is perfect to put the claws or feet upon.	english
+Skins and patches	STICKY_SHOE_705_DESC	When you need extra inspiration during the fight, clasp the Lucky Skulk Foot tight.	When you need extra inspiration during the fight, clasp the Lucky Skulk Foot tight.	english
+Skins and patches	STICKY_SHOE_706_DESC	The Battle of Sanji as told by those who made it back in pieces.	The Battle of Sanji as told by those who made it back in pieces.	english
+Skins and patches	STICKY_SHOE_707_DESC	Start your day with the original TSF Commander's best. Great for mind and body.	Start your day with the original TSF Commander's best. Great for mind and body.	english
+Skins and patches	STICKY_SHOE_708_DESC	He clawed, he chewed, he bit the bullet. The rest of him is in our gullet.	He clawed, he chewed, he bit the bullet. The rest of him is in our gullet.	english
+Skins and patches	STICKY_SHOE_709_DESC	Building up was always fun, until Phil tried to fight and run.	Building up was always fun, until Phil tried to fight and run.	english
+Skins and patches	STICKY_SHOE_710_DESC	Flapping all day kept the TSF at bay. Until jetpacks and shotguns cleared and made way.	Flapping all day kept the TSF at bay. Until jetpacks and shotguns cleared and made way.	english
+Skins and patches	STICKY_SHOE_711_DESC	She blinked and the marines did scatter, the mines they left caused her to splatter	She blinked and the marines did scatter, the mines they left caused her to splatter	english
+Skins and patches	STICKY_SHOE_712_DESC	Goring all day, Goring all night, Jen succumbed to the marine flashlight.	Goring all day, Goring all night, Jen succumbed to the marine flashlight.	english
+Skins and patches	STICKY_SHOE_713_DESC	They say the pen is mightier than the sword. WARNING: DO NOT USE AS SWORD.	They say the pen is mightier than the sword. WARNING: DO NOT USE AS SWORD.	english
+Skins and patches	STICKY_SHOE_714_DESC	For use on TSF Priority Paper-related missions.	For use on TSF Priority Paper-related missions.	english
+Skins and patches	STICKY_SHOE_715_DESC	For use against your worst enemy. Or simply as a fancy desk ornament.	For use against your worst enemy. Or simply as a fancy desk ornament.	english
+Items	ITEM_ABYSS_GORGE_TITLE	The Abyss Gorge	The Abyss Gorge	english
+Items	ITEM_ABYSS_GORGE_DESC	Mankind's greatest minds have come together to engineer a Gorge specimen with the freshest breath in the galaxy.	Mankind's greatest minds have come together to engineer a Gorge specimen with the freshest breath in the galaxy.	english
+Items	ITEM_ABYSS_SKULK_TITLE	The Abyss Skulk	The Abyss Skulk	english
+Items	ITEM_ABYSS_SKULK_DESC	Caged in the coldest corners of the facility, the Abyss Skulk stalks its prey. Be afraid, as you might be its next dessert.	Caged in the coldest corners of the facility, the Abyss Skulk stalks its prey. Be afraid, as you might be its next dessert.	english
+Items	ITEM_ABYSS_LERK_TITLE	The Abyss Lerk	The Abyss Lerk	english
+Items	ITEM_ABYSS_LERK_DESC	First appearing in the streets of Metro, the Abyss Lerk can strike from anywhere.	First appearing in the streets of Metro, the Abyss Lerk can strike from anywhere.	english
+Items	ITEM_EAT_YOUR_GREENS_TITLE	Eat your Greens Shoulder Patch	Eat your Greens Shoulder Patch	english
+Items	ITEM_EAT_YOUR_GREENS_DESC	Getting your toes wet, a shoulder decal is what you get!	Getting your toes wet, a shoulder decal is what you get!	english
+Items	ITEM_HAUNTED_BABBLER_TITLE	Haunted Babbler Patch	Haunted Babbler Patch	english
+Items	ITEM_HAUNTED_BABBLER_DESC	When the wind is chilled and the moon is bright, the Haunted Babbler will stir up a fright.	When the wind is chilled and the moon is bright, the Haunted Babbler will stir up a fright.	english
+Items	ITEM_PUMPKIN_PATCH_TITLE	The Pumpkin Patch	The Pumpkin Patch	english
+Items	ITEM_PUMPKIN_PATCH_DESC	When the wind is chilled and the moon is bright, the Pumpkin Patch will stir up a fright.	When the wind is chilled and the moon is bright, the Pumpkin Patch will stir up a fright.	english
+Items	ITEM_SUMMER_GORGE_TITLE	Summer Gorge Patch	Summer Gorge Patch	english
+Items	ITEM_SUMMER_GORGE_DESC	Taking a break from the hot sun.	Taking a break from the hot sun.	english
+Items	ITEM_UNEARTHED_STRUCTURE_SKINS_TITLE	Unearthed Structure Skins	Unearthed Structure Skins	english
+Items	ITEM_UNEARTHED_STRUCTURE_SKINS_DESC	A new form of Kharaa has revealed itself in the crystal mines of Unearthed. Mesmerize both friend and foe with these alien structure skins.	A new form of Kharaa has revealed itself in the crystal mines of Unearthed. Mesmerize both friend and foe with these alien structure skins.	english
+Items	ITEM_TITLE_TANITH_SKULK	Bloodstone Skulk		missing
+Items	ITEM_TANITH_SKULK	Deep in the heart of Tanith facility has crept a particularly deadly new strain of Kharaa...		missing
+Items	ITEM_TITLE_SLEUTH_SKULK	Sleuth Skulk		missing
+Items	ITEM_SLEUTH_SKULK	With a keen nose for disruptive nanites, this skulk find all the problems with technology.		missing
+Items	ITEM_TITLE_TIER1_BADGE	Tier 1 badge		missing
+Items	ITEM_BADGE_TDTIER1			missing
+Items	ITEM_TITLE_TIER2_BADGE	Tier 2 badge		missing
+Items	ITEM_BADGE_TDTIER2			missing
+Items	ITEM_TITLE_TIER3_BADGE	Tier 3 badge		missing
+Items	ITEM_BADGE_TDTIER3			missing
+Items	ITEM_TITLE_TIER4_BADGE	Tier 4 badge		missing
+Items	ITEM_BADGE_TDTIER4			missing
+Items	ITEM_TITLE_TIER5_BADGE	Tier 5 badge		missing
+Items	ITEM_BADGE_TDTIER5			missing
+Items	ITEM_TITLE_TIER6_BADGE	Tier 6 badge		missing
+Items	ITEM_BADGE_TDTIER6			missing
+Items	ITEM_TITLE_TIER7_BADGE	Tier 7 badge		missing
+Items	ITEM_BADGE_TDTIER7			missing
+Items	ITEM_TITLE_TIER8_BADGE	Tier 8 badge		missing
+Items	ITEM_BADGE_TDTIER8			missing
+Items	ITEM_TITLE_CHROMA_ARMOR	Chroma Elite Assault Armor		missing
+Items	ITEM_CHROMA_ARMOR	The most elite of the elite. If you see one of these marines walking toward you, just go ahead and run the other way.		missing
+Items	ITEM_TITLE_CHROMA_BMAC	Chroma B.M.A.C.		missing
+Items	ITEM_CHROMA_BMAC	Why someone would trick out a B.M.A.C. in plated carbon fiber is unknown, but what is known is that it is quite efficient at exterminating Kharaa.		missing
+Items	ITEM_TITLE_CHROMA_MILBMAC	Chroma Military B.M.A.C.		missing
+Items	ITEM_CHROMA_MILBMAC	When all else fails, send in this elite unit of B.M.A.C. and it'll get the job done.		missing
+Items	ITEM_TITLE_CHROMA_EXO	Chroma Exosuit		missing
+Items	ITEM_CHROMA_EXO	Plated in carbon fiber alloy, this thing will send the Kharaa running for the hills.		missing
+Items	ITEM_TITLE_CHROMA_AXE	Chroma Axe		missing
+Items	ITEM_CHROMA_AXE	This axe has seen better days.		missing
+Items	ITEM_TITLE_CHROMA_WELDER	Chroma Welder		missing
+Items	ITEM_CHROMA_WELDER	Old trusty, this well loved welder is sure to keep your structures and teammates well repaired.		missing
+Items	ITEM_TITLE_CHROMA_SHOTGUN	Chroma Shotgun		missing
+Items	ITEM_CHROMA_SHOTGUN	Shreds through Kharaa just as easily as it shredded the last few hundred.		missing
+Items	ITEM_TITLE_CHROMA_FLAMETHROWER	Chroma Flamethrower		missing
+Items	ITEM_CHROMA_FLAMETHROWER	This thing only has one setting: Extra Crispy		missing
+Items	ITEM_TITLE_CHROMA_GL	Chroma Grenade Launcher		missing
+Items	ITEM_CHROMA_GL	Sleek and shiny, this thing will explode things and look extra cool doing it.		missing
+Items	ITEM_TITLE_CHROMA_HMG	Chroma Machine Gun		missing
+Items	ITEM_CHROMA_HMG	This thing fires rounds packed not with gunpowder but pure spite.		missing
+Items	ITEM_TITLE_CHROMA_MAC	Chroma MAC		missing
+Items	ITEM_CHROMA_MAC	Yes, this MAC has seen a thing or two. I'd watch your back if I were you.		missing
+Items	ITEM_TITLE_CHROMA_ARC	Chroma ARC		missing
+Items	ITEM_CHROMA_ARC	That hive won't stand a chance against this puppy.		missing
+Items	ITEM_TITLE_CHROMA_EXTRACTOR	Chroma Extractor		missing
+Items	ITEM_CHROMA_EXTRACTOR	As scuffed as it may be, it still pulls resources out of the ground like nobody's business! 		missing
+Items	ITEM_TITLE_CHROMA_CS	Chroma Command Station		missing
+Items	ITEM_CHROMA_CS	Fear for the marine who dares disobey a commander in the seat of the elite Chroma unit Command Chair.		missing
+Items	ITEM_TITLE_AURIC_SKULK	Auric Skulk		missing
+Items	ITEM_AURIC_SKULK	In the heart of the infestation where the battle rages hottest, sightings of a deadly new strain of Kharaa have been reported...		missing
+Items	ITEM_TITLE_AURIC_GORGE	Auric Gorge		missing
+Items	ITEM_AURIC_GORGE	Ultimate gorge royalty. Make way, peasants!		missing
+Items	ITEM_TITLE_AURIC_LERK	Auric Lerk		missing
+Items	ITEM_AURIC_LERK	As deadly as it is elegant.		missing
+Items	ITEM_TITLE_AURIC_FADE	Auric Fade		missing
+Items	ITEM_AURIC_FADE	This stygian terror will have marines checking behind them at every turn.		missing
+Items	ITEM_TITLE_AURIC_ONOS	Auric Onos		missing
+Items	ITEM_AURIC_ONOS	Gilded bone and gleaming spines, tears through flesh and steel just the same! 		missing
+Items	ITEM_TITLE_AURIC_CLOG	Auric Clog		missing
+Items	ITEM_AURIC_CLOG	Dark and spectacularly spiny, this shiny is sure to dissuade marines from entering an area!		missing
+Items	ITEM_TITLE_AURIC_HYDRA	Auric Hydra		missing
+Items	ITEM_AURIC_HYDRA	A gleaming sentry sure to spot any who enter its territory.		missing
+Items	ITEM_TITLE_AURIC_BABBLER	Auric Babbler		missing
+Items	ITEM_AURIC_BABBLER	Add some bling to your Gorge.		missing
+Items	ITEM_TITLE_AURIC_BABBLEREGG	Auric Bile Mine		missing
+Items	ITEM_AURIC_BABBLEREGG	This gleaming little treasure has a rude surprise for those who want to crack it open to find out what's inside.		missing
+Items	ITEM_TITLE_AURIC_HIVE	Auric Hive		missing
+Items	ITEM_AURIC_HIVE	The ultimate status symbol - this exotic hive will strike fear into the hearts of your enemy and inspire your team.		missing
+Items	ITEM_TITLE_AURIC_HARVESTER	Auric Harvester		missing
+Items	ITEM_AURIC_HARVESTER	Flecked with such sparkling beauty, you'd think it was mining gold! ...wait it's not, is it?		missing
+Items	ITEM_TITLE_AURIC_EGG	Auric Egg		missing
+Items	ITEM_AURIC_EGG	You may regret cracking this open to find out what's inside. hint: it's not gold		missing
+Items	ITEM_TITLE_AURIC_CYST	Auric Cyst		missing
+Items	ITEM_AURIC_CYST	Just follow the yellow brick road! ...wait.		missing
+Items	ITEM_TITLE_AURIC_DRIFTER	Auric Drifter		missing
+Items	ITEM_AURIC_DRIFTER	Build your structures and support your team in the upmost of style.		missing
+Items	ITEM_TITLE_AURIC_TUNNEL	Auric Tunnel		missing
+Items	ITEM_AURIC_TUNNEL	Shepherd  your team in style though this ferociously fabulous tunnel.		missing
+Items	ITEM_TITLE_WIDOW_SKULK	Widow Skulk		missing
+Items	ITEM_WIDOW_SKULK	This unique abberation of Kharaa genetics is particularly nasty and patient.		missing
+Items	ITEM_TITLE_WOOD_AXE	Wood Axe		missing
+Items	ITEM_WOOD_AXE	Get at it, lumberjack!		missing
+Items	ITEM_TITLE_WOOD_RIFLE	Wood Rifle		missing
+Items	ITEM_WOOD_RIFLE	It will look just as good mowing down Kharaa as it will hanging above your fireplace.		missing
+Items	ITEM_TITLE_WOOD_PISTOL	Wood Pistol		missing
+Items	ITEM_WOOD_PISTOL	Classy as it is deadly.		missing
+Items	ITEM_TITLE_DAMAS_GREEN_AXE	Damascus Green Axe		missing
+Items	ITEM_DAMAS_AXE	Damascus Axe		missing
+Items	ITEM_TITLE_DAMAS_RIFLE	Damascus Rifle		missing
+Items	ITEM_DAMAS_RIFLE	The most prized of the damascus line - this onyx rifle will make anyone envious.		missing
+Items	ITEM_TITLE_DAMAS_PISTOL	Damascus Pistol		missing
+Items	ITEM_DAMAS_PISTOL	Collectors will envy any who cary this ebony edition of the damascus steel line.		missing
+Items	ITEM_DAMAS_GREEN_AXE	Specialy anodized damascus steel with a minty twist - The choppy version.		missing
+Items	ITEM_TITLE_DAMAS_GREEN_RIFLE	Damascus Green Rifle		missing
+Items	ITEM_DAMAS_GREEN_RIFLE	Specialy anodized damascus steel with a minty twist - The shooty version.		missing
+Items	ITEM_TITLE_DAMAS_GREEN_PISTOL	Damascus Green Pistol		missing
+Items	ITEM_DAMAS_GREEN_PISTOL	Specialy anodized damascus steel with a minty twist.		missing
+Items	ITEM_TITLE_DAMAS_PURPLE_AXE	Damascus Purple Axe		missing
+Items	ITEM_DAMAS_PURPLE_AXE	You can't leave the barracks without a matching axe!		missing
+Items	ITEM_TITLE_DAMAS_PURPLE_RIFLE	Damascus Purple Rifle		missing
+Items	ITEM_DAMAS_PURPLE_RIFLE	Specialy anodized damascus steel with violent flare. I mean violet...violet flare.		missing
+Items	ITEM_TITLE_DAMAS_PURPLE_PISTOL	Damascus Purple Pistol		missing
+Items	ITEM_DAMAS_PURPLE_PISTOL	Round out the set with this murderously mauve piece.		missing
+Items	ITEM_TITLE_CC_SKULK_HUG	Calling Card: Skulk Hug		missing
+Items	ITEM_CC_SKULK_HUG	Calling cards unlocked. Free Hugs, with teeth.		missing
+Items	ITEM_TITLE_CC_DONTBLINK	Don't Blink		missing
+Items	ITEM_CC_DONTBLINK	Calling Card. If you hear it, it's too late!		missing
+Items	ITEM_TITLE_CC_BABY_MARINE	Baby Marine		missing
+Items	ITEM_CC_BABY_MARINE	Calling Card. Fresh out of the Infantry Printer! .... er, Portal. Infantry Portal.		missing
+Items	ITEM_TITLE_CC_LOCKNLOAD	Locked and Loaded		missing
+Items	ITEM_CC_LOCKNLOAD	Calling Card. Spawned in and ready to kick some alien booty.		missing
+Items	ITEM_TITLE_CC_NEDRAGE	Ned Rage		missing
+Items	ITEM_CC_NEDRAGE	Calling Card. For when there are too many words and not enough at the same time.		missing
+Items	ITEM_TITLE_CC_URPA_BOOTY	Urpa Booty		missing
+Items	ITEM_CC_URPA_BOOTY	Calling Card. Ever get the feeling you're being watched? or... parts of you are?		missing
+Items	ITEM_TITLE_CC_SADBAB	Sad Babbler		missing
+Items	ITEM_CC_SADBAB	Calling Card. All this babbler ever wanted was a hug and everyone keeps running away.		missing
+Items	ITEM_TITLE_CC_JOBWELD	Job Weld Done		missing
+Items	ITEM_CC_JOBWELD	Calling Card. Sometimes, you just gotta whip it out.		missing
+Items	ITEM_TITLE_CC_BALANCEGORGE	Balance Gorge		missing
+Items	ITEM_CC_BALANCEGORGE	Calling Card. Perfectly calculated.		missing
+Items	ITEM_TITLE_CC_LORK	L0rk		missing
+Items	ITEM_CC_LORK	Calling Card. Fresh off the cl0rf, and hunting shirts...Aww! She likes you! ...wait, stop running!		missing
+Items	ITEM_TITLE_CC_LAZYGORGE	Lazy Gorge		missing
+Items	ITEM_CC_LAZYGORGE	Calling Card. Mood.		missing
+Items	ITEM_TITLE_CC_URPA	Urpa		missing
+Items	ITEM_CC_URPA	Calling Card. Part Man. Part Legend. All danger. He is Urpa.		missing
+Items	ITEM_TITLE_CC_SLIPPERS	Slippers Skulk		missing
+Items	ITEM_CC_SLIPPERS	Calling Card. For when your little clawsies get chilly in those cold facility maintinence corridors.		missing
+Items	ITEM_TITLE_CC_SHADOWFADE	Shadow Fade		missing
+Items	ITEM_CC_SHADOWFADE	Calling Card. Style on 'em like the prey they are.		missing
+Items	ITEM_TITLE_CC_BURNTFADE	Burnout Fade		missing
+Items	ITEM_CC_BURNTFADE	Calling Card. Sometimes, your backpack just isn't big enough.		missing
+Items	ITEM_TITLE_CC_OVER9K	Over 9000 Degrees		missing
+Items	ITEM_CC_OVER9K	Calling Card. Their kill count is ...is what?! You've got to be kidding me.		missing
+Items	ITEM_TITLE_CC_LERKED	Lerked		missing
+Items	ITEM_CC_LERKED	Calling Card. Seldom are any more feared nor hated than the Apex Lerk.		missing
+Items	ITEM_TITLE_CC_TABLEFLIP	Table Flipping Gorge		missing
+Items	ITEM_CC_TABLEFLIP	Calling Card. For when peaceful dialogue has been taken off the table.		missing
+Items	ITEM_TITLE_CC_ANGRYONOS	Angry Onos		missing
+Items	ITEM_CC_ANGRYONOS	Calling Card. Put em' in their place at the bottom of the food chain.		missing
+Items	ITEM_TITLE_CC_OHNOES	Oh Noes		missing
+Items	ITEM_CC_OHNOES	Calling Card. Oh... no, you've come to the wrong neighborhood friend.		missing
+Items	ITEM_TITLE_CC_FORSCI	For Science!		missing
+Items	ITEM_CC_FORSCI	Calling Card. Some say Jetpack Gorge is still out there to this day, looking down upon you from the stars.		missing
+Items	ITEM_TITLE_CC_TURBODRIFT	Turbo Drifter		missing
+Items	ITEM_CC_TURBODRIFT	Calling Card. 'Aint no one ever caught the TURBO DRIFTER.		missing
+Items	ITEM_TITLE_CC_BATTLEGORGE	Battle Gorge		missing
+Items	ITEM_CC_BATTLEGORGE	Calling Card. They laughed at my clogs. I laughed at their corpses.		missing

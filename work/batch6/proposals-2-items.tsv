@@ -1,0 +1,167 @@
+STICKY_SHOE_714_DESC	Para misiones prioritarias de la TSF relacionadas con papel.		
+STICKY_SHOE_715_DESC	Para usar contra tu peor enemigo. O simplemente como un elegante adorno de escritorio.		
+ITEM_ABYSS_GORGE_TITLE	El Gorge Abyss	CHECK	Item names: the collection name (Abyss, Chroma, Auric, Damascus...) is kept and the object is translated. Applies to all the item titles.
+ITEM_ABYSS_GORGE_DESC	Las mentes más brillantes de la humanidad se unieron para diseñar un espécimen de Gorge con el aliento más fresco de la galaxia.		
+ITEM_ABYSS_SKULK_TITLE	El Skulk Abyss		
+ITEM_ABYSS_SKULK_DESC	Enjaulado en los rincones más fríos de la instalación, el Skulk Abyss acecha a su presa. Ten miedo: podrías ser su próximo postre.		
+ITEM_ABYSS_LERK_TITLE	El Lerk Abyss		
+ITEM_ABYSS_LERK_DESC	Visto por primera vez en las calles de Metro, el Lerk Abyss puede atacar desde cualquier parte.		
+ITEM_EAT_YOUR_GREENS_TITLE	Parche de hombro Cómete las verduras		
+ITEM_EAT_YOUR_GREENS_DESC	Por mojarte los pies, ¡un parche de hombro es lo que obtienes!		
+ITEM_HAUNTED_BABBLER_TITLE	Parche Haunted Babbler		
+ITEM_HAUNTED_BABBLER_DESC	Cuando el viento es helado y la luna brilla, el Haunted Babbler te dará un buen susto.		
+ITEM_PUMPKIN_PATCH_TITLE	El parche de calabaza		
+ITEM_PUMPKIN_PATCH_DESC	Cuando el viento es helado y la luna brilla, el parche de calabaza te dará un buen susto.		
+ITEM_SUMMER_GORGE_TITLE	Parche Summer Gorge		
+ITEM_SUMMER_GORGE_DESC	Tomándose un descanso del sol ardiente.		
+ITEM_UNEARTHED_STRUCTURE_SKINS_TITLE	Skins de estructuras Unearthed		
+ITEM_UNEARTHED_STRUCTURE_SKINS_DESC	Una nueva forma de Kharaa se reveló en las minas de cristal de Unearthed. Hipnotiza a amigos y enemigos con estas skins de estructuras alien.		
+ITEM_TITLE_TANITH_SKULK	Skulk Bloodstone		
+ITEM_TANITH_SKULK	En lo profundo de la instalación Tanith se ha colado una nueva cepa de Kharaa particularmente letal...		
+ITEM_TITLE_SLEUTH_SKULK	Skulk Sleuth		
+ITEM_SLEUTH_SKULK	Con buen olfato para los nanitos problemáticos, este Skulk encuentra todos los problemas de la tecnología.		
+ITEM_TITLE_TIER1_BADGE	Insignia de rango 1		
+ITEM_BADGE_TDTIER1			
+ITEM_TITLE_TIER2_BADGE	Insignia de rango 2		
+ITEM_BADGE_TDTIER2			
+ITEM_TITLE_TIER3_BADGE	Insignia de rango 3		
+ITEM_BADGE_TDTIER3			
+ITEM_TITLE_TIER4_BADGE	Insignia de rango 4		
+ITEM_BADGE_TDTIER4			
+ITEM_TITLE_TIER5_BADGE	Insignia de rango 5		
+ITEM_BADGE_TDTIER5			
+ITEM_TITLE_TIER6_BADGE	Insignia de rango 6		
+ITEM_BADGE_TDTIER6			
+ITEM_TITLE_TIER7_BADGE	Insignia de rango 7		
+ITEM_BADGE_TDTIER7			
+ITEM_TITLE_TIER8_BADGE	Insignia de rango 8		
+ITEM_BADGE_TDTIER8			
+ITEM_TITLE_CHROMA_ARMOR	Armadura de asalto de élite Chroma		
+ITEM_CHROMA_ARMOR	Lo más élite de la élite. Si ves a uno de estos Marines caminar hacia ti, mejor corre para el otro lado.		
+ITEM_TITLE_CHROMA_BMAC	B.M.A.C. Chroma		
+ITEM_CHROMA_BMAC	No se sabe por qué alguien tunearía un B.M.A.C. con fibra de carbono, pero sí se sabe que es bastante eficiente exterminando Kharaa.		
+ITEM_TITLE_CHROMA_MILBMAC	B.M.A.C. militar Chroma		
+ITEM_CHROMA_MILBMAC	Cuando todo lo demás falle, manda a esta unidad de élite de B.M.A.C. y hará el trabajo.		
+ITEM_TITLE_CHROMA_EXO	Exotraje Chroma		
+ITEM_CHROMA_EXO	Recubierto de aleación de fibra de carbono, esto hará que los Kharaa salgan corriendo.		
+ITEM_TITLE_CHROMA_AXE	Hacha Chroma		
+ITEM_CHROMA_AXE	Esta hacha ha visto días mejores.		
+ITEM_TITLE_CHROMA_WELDER	Soldador Chroma		
+ITEM_CHROMA_WELDER	Viejo y confiable, este querido soldador mantendrá bien reparados tus estructuras y compañeros.		
+ITEM_TITLE_CHROMA_SHOTGUN	Escopeta Chroma		
+ITEM_CHROMA_SHOTGUN	Despedaza Kharaa con la misma facilidad con la que despedazó a los últimos cientos.		
+ITEM_TITLE_CHROMA_FLAMETHROWER	Lanzallamas Chroma		
+ITEM_CHROMA_FLAMETHROWER	Esto tiene un solo ajuste: Extra Crujiente		
+ITEM_TITLE_CHROMA_GL	Lanzagranadas Chroma		
+ITEM_CHROMA_GL	Elegante y brillante: hace explotar cosas y se ve genial haciéndolo.		
+ITEM_TITLE_CHROMA_HMG	Ametralladora Chroma		
+ITEM_CHROMA_HMG	Dispara balas cargadas no con pólvora, sino con puro rencor.		
+ITEM_TITLE_CHROMA_MAC	MAC Chroma		
+ITEM_CHROMA_MAC	Sí, este MAC ha visto un par de cosas. Yo que tú me cuidaría la espalda.		
+ITEM_TITLE_CHROMA_ARC	ARC Chroma		
+ITEM_CHROMA_ARC	Esa Hive no tiene ninguna oportunidad contra esta belleza.		
+ITEM_TITLE_CHROMA_EXTRACTOR	Extractor Chroma		
+ITEM_CHROMA_EXTRACTOR	Por más raspado que esté, ¡sigue sacando recursos del suelo como nadie! 		
+ITEM_TITLE_CHROMA_CS	Command Station Chroma		
+ITEM_CHROMA_CS	Pobre del Marine que se atreva a desobedecer a un Commander sentado en la Command Station de la unidad de élite Chroma.		
+ITEM_TITLE_AURIC_SKULK	Skulk Auric		
+ITEM_AURIC_SKULK	En el corazón de la infestación, donde la batalla es más intensa, se han reportado avistamientos de una nueva cepa letal de Kharaa...		
+ITEM_TITLE_AURIC_GORGE	Gorge Auric		
+ITEM_AURIC_GORGE	La máxima realeza Gorge. ¡Abran paso, plebeyos!		
+ITEM_TITLE_AURIC_LERK	Lerk Auric		
+ITEM_AURIC_LERK	Tan letal como elegante.		
+ITEM_TITLE_AURIC_FADE	Fade Auric		
+ITEM_AURIC_FADE	Este terror estigio hará que los Marines miren hacia atrás a cada paso.		
+ITEM_TITLE_AURIC_ONOS	Onos Auric		
+ITEM_AURIC_ONOS	Hueso dorado y espinas relucientes, ¡desgarra carne y acero por igual! 		
+ITEM_TITLE_AURIC_CLOG	Clog Auric		
+ITEM_AURIC_CLOG	Oscuro y espectacularmente espinoso, ¡este brillante disuadirá a los Marines de entrar a una zona!		
+ITEM_TITLE_AURIC_HYDRA	Hidra Auric		
+ITEM_AURIC_HYDRA	Una centinela reluciente que detectará a cualquiera que entre en su territorio.		
+ITEM_TITLE_AURIC_BABBLER	Babbler Auric		
+ITEM_AURIC_BABBLER	Ponle algo de brillo a tu Gorge.		
+ITEM_TITLE_AURIC_BABBLEREGG	Mina de Bilis Auric		
+ITEM_AURIC_BABBLEREGG	Este pequeño tesoro reluciente tiene una sorpresa desagradable para quien quiera abrirlo y ver qué hay dentro.		
+ITEM_TITLE_AURIC_HIVE	Hive Auric		
+ITEM_AURIC_HIVE	El símbolo de estatus definitivo: esta exótica Hive infundirá miedo en tus enemigos e inspirará a tu equipo.		
+ITEM_TITLE_AURIC_HARVESTER	Harvester Auric		
+ITEM_AURIC_HARVESTER	Salpicado de una belleza tan brillante que pensarías que extrae oro... Un momento, no es eso, ¿verdad?		
+ITEM_TITLE_AURIC_EGG	Huevo Auric		
+ITEM_AURIC_EGG	Quizá te arrepientas de romperlo para ver qué hay dentro. Pista: no es oro		
+ITEM_TITLE_AURIC_CYST	Cyst Auric		
+ITEM_AURIC_CYST	¡Solo sigue el camino de ladrillos amarillos! ...Un momento.		
+ITEM_TITLE_AURIC_DRIFTER	Drifter Auric		
+ITEM_AURIC_DRIFTER	Construye tus estructuras y apoya a tu equipo con el máximo estilo.		
+ITEM_TITLE_AURIC_TUNNEL	Túnel Auric		
+ITEM_AURIC_TUNNEL	Guía a tu equipo con estilo por este túnel ferozmente fabuloso.		
+ITEM_TITLE_WIDOW_SKULK	Skulk Widow		
+ITEM_WIDOW_SKULK	Esta aberración única de la genética Kharaa es particularmente desagradable y paciente.		
+ITEM_TITLE_WOOD_AXE	Hacha de madera		
+ITEM_WOOD_AXE	¡A trabajar, leñador!		
+ITEM_TITLE_WOOD_RIFLE	Rifle de madera		
+ITEM_WOOD_RIFLE	Se verá igual de bien segando Kharaa que colgado sobre tu chimenea.		
+ITEM_TITLE_WOOD_PISTOL	Pistola de madera		
+ITEM_WOOD_PISTOL	Tan elegante como letal.		
+ITEM_TITLE_DAMAS_GREEN_AXE	Hacha de Damasco verde		
+ITEM_DAMAS_AXE	Hacha de Damasco		
+ITEM_TITLE_DAMAS_RIFLE	Rifle de Damasco		
+ITEM_DAMAS_RIFLE	El más preciado de la línea de Damasco: este rifle color ónix le dará envidia a cualquiera.		
+ITEM_TITLE_DAMAS_PISTOL	Pistola de Damasco		
+ITEM_DAMAS_PISTOL	Los coleccionistas envidiarán a quien lleve esta edición ébano de la línea de acero de Damasco.		
+ITEM_DAMAS_GREEN_AXE	Acero de Damasco con anodizado especial y un toque de menta. La versión que corta.		
+ITEM_TITLE_DAMAS_GREEN_RIFLE	Rifle de Damasco verde		
+ITEM_DAMAS_GREEN_RIFLE	Acero de Damasco con anodizado especial y un toque de menta. La versión que dispara.		
+ITEM_TITLE_DAMAS_GREEN_PISTOL	Pistola de Damasco verde		
+ITEM_DAMAS_GREEN_PISTOL	Acero de Damasco con anodizado especial y un toque de menta.		
+ITEM_TITLE_DAMAS_PURPLE_AXE	Hacha de Damasco púrpura		
+ITEM_DAMAS_PURPLE_AXE	¡No puedes salir del cuartel sin un hacha que combine!		
+ITEM_TITLE_DAMAS_PURPLE_RIFLE	Rifle de Damasco púrpura		
+ITEM_DAMAS_PURPLE_RIFLE	Acero de Damasco con anodizado especial y un destello violento. Digo, violeta... un destello violeta.		
+ITEM_TITLE_DAMAS_PURPLE_PISTOL	Pistola de Damasco púrpura		
+ITEM_DAMAS_PURPLE_PISTOL	Completa el juego con esta pieza de un malva asesino.		
+ITEM_TITLE_CC_SKULK_HUG	Tarjeta de presentación: Skulk Hug		
+ITEM_CC_SKULK_HUG	Tarjetas de presentación desbloqueadas. Abrazos gratis, con dientes.		
+ITEM_TITLE_CC_DONTBLINK	Don't Blink		
+ITEM_CC_DONTBLINK	Tarjeta de presentación. Si lo oyes, ¡ya es tarde!		
+ITEM_TITLE_CC_BABY_MARINE	Baby Marine		
+ITEM_CC_BABY_MARINE	Tarjeta de presentación. ¡Recién salido de la impresora de infantería! ... eh, Portal. Infantry Portal.		
+ITEM_TITLE_CC_LOCKNLOAD	Locked and Loaded		
+ITEM_CC_LOCKNLOAD	Tarjeta de presentación. Recién aparecido y listo para patear traseros alien.		
+ITEM_TITLE_CC_NEDRAGE	Ned Rage		
+ITEM_CC_NEDRAGE	Tarjeta de presentación. Para cuando hay demasiadas palabras y a la vez no alcanzan.		
+ITEM_TITLE_CC_URPA_BOOTY	Urpa Booty		
+ITEM_CC_URPA_BOOTY	Tarjeta de presentación. ¿Alguna vez sentiste que te observan? O... ¿que observan partes de ti?		
+ITEM_TITLE_CC_SADBAB	Sad Babbler		
+ITEM_CC_SADBAB	Tarjeta de presentación. Este Babbler solo quería un abrazo y todos salen corriendo.		
+ITEM_TITLE_CC_JOBWELD	Job Weld Done		
+ITEM_CC_JOBWELD	Tarjeta de presentación. A veces simplemente hay que sacarlo.		
+ITEM_TITLE_CC_BALANCEGORGE	Balance Gorge		
+ITEM_CC_BALANCEGORGE	Tarjeta de presentación. Perfectamente calculado.		
+ITEM_TITLE_CC_LORK	L0rk		
+ITEM_CC_LORK	Tarjeta de presentación. Recién salida del cl0rf y cazando camisetas... ¡Aww! ¡Le caes bien! ...Espera, ¡deja de correr!	CHECK	Community in-jokes (l0rk, cl0rf); translated literally.
+ITEM_TITLE_CC_LAZYGORGE	Lazy Gorge		
+ITEM_CC_LAZYGORGE	Tarjeta de presentación. Así me siento.	CHECK	"Mood."
+ITEM_TITLE_CC_URPA	Urpa		
+ITEM_CC_URPA	Tarjeta de presentación. Parte hombre. Parte leyenda. Todo peligro. Él es Urpa.		
+ITEM_TITLE_CC_SLIPPERS	Slippers Skulk		
+ITEM_CC_SLIPPERS	Tarjeta de presentación. Para cuando tus garritas se enfrían en esos helados pasillos de mantenimiento de la instalación.		
+ITEM_TITLE_CC_SHADOWFADE	Shadow Fade		
+ITEM_CC_SHADOWFADE	Tarjeta de presentación. Luce tu estilo frente a la presa que son.		
+ITEM_TITLE_CC_BURNTFADE	Burnout Fade		
+ITEM_CC_BURNTFADE	Tarjeta de presentación. A veces tu mochila simplemente no es lo bastante grande.		
+ITEM_TITLE_CC_OVER9K	Over 9000 Degrees		
+ITEM_CC_OVER9K	Tarjeta de presentación. Su cuenta de bajas es de... ¡¿de cuánto?! Tienes que estar bromeando.		
+ITEM_TITLE_CC_LERKED	Lerked		
+ITEM_CC_LERKED	Tarjeta de presentación. Pocos son más temidos y odiados que el Lerk Apex.		
+ITEM_TITLE_CC_TABLEFLIP	Table Flipping Gorge		
+ITEM_CC_TABLEFLIP	Tarjeta de presentación. Para cuando el diálogo pacífico ya no está sobre la mesa.		
+ITEM_TITLE_CC_ANGRYONOS	Angry Onos		
+ITEM_CC_ANGRYONOS	Tarjeta de presentación. Ponlos en su lugar, al fondo de la cadena alimenticia.		
+ITEM_TITLE_CC_OHNOES	Oh Noes		
+ITEM_CC_OHNOES	Tarjeta de presentación. Oh... no, viniste al barrio equivocado, amigo.		
+ITEM_TITLE_CC_FORSCI	For Science!		
+ITEM_CC_FORSCI	Tarjeta de presentación. Algunos dicen que el Gorge con Jetpack sigue ahí afuera hasta el día de hoy, mirándote desde las estrellas.		
+ITEM_TITLE_CC_TURBODRIFT	Turbo Drifter		
+ITEM_CC_TURBODRIFT	Tarjeta de presentación. Nadie atrapó jamás al TURBO DRIFTER.		
+ITEM_TITLE_CC_BATTLEGORGE	Battle Gorge		
+ITEM_CC_BATTLEGORGE	Tarjeta de presentación. Se rieron de mis Clogs. Yo me reí de sus cadáveres.		

@@ -1,0 +1,342 @@
+Customize screen	CUSTOMIZE_MENU_SEX_MALE	Female	Male	Femenino	Fixed	CHECK	Upstream oddity: the key says MALE but the English text is "Female" (the old Spanish said "Male"). Translated what the English shows.	
+Customize screen	CUSTOMIZE_MENU_SKIN_NORMAL	Normal		Normal	New			
+Customize screen	CUSTOMIZE_MENU_BADGES	Manage Badges	Administrar medallas	Administrar insignias	Fixed	FIX	Badge is "insignia" in the glossary, not "medalla".	
+Customize screen	CUSTOMIZE_MENU_EXO_ARMOR	EXO ARMOR	ARMADURA EXO	ARMADURA DE EXO	Fixed	FIX	Added "DE".	
+Customize screen	CUSTOMIZE_MENU_FADE_TYPE	FADE TYPE	TIPO DE FADE	TIPO DE FADE	Kept			
+Customize screen	CUSTOMIZE_MENU_FLAMETHROWER_SKIN	FLAMETHROWER SKIN		SKIN DE LANZALLAMAS	New	CHECK	"Skin" kept, as players say it. The file had "VARIANTE" for the rifle; "aspecto" is the other option. Applies to all the skin lines.	
+Customize screen	CUSTOMIZE_MENU_GORGE_TYPE	GORGE TYPE	TIPO DE GORGE	TIPO DE GORGE	Kept			
+Customize screen	CUSTOMIZE_MENU_GRENADE_LAUNCHER_SKIN	GRENADE LAUNCHER SKIN		SKIN DE LANZAGRANADAS	New			
+Customize screen	CUSTOMIZE_MENU_HMG_SKIN	HMG SKIN		SKIN DE HMG	New			
+Customize screen	CUSTOMIZE_MENU_LERK_TYPE	LERK TYPE	TIPO DE LERK	TIPO DE LERK	Kept			
+Customize screen	CUSTOMIZE_MENU_MARINE_ARMOR	MARINE ARMOR	ARMADURA MARINE	ARMADURA DE MARINE	Fixed	FIX	Added "DE".	
+Customize screen	CUSTOMIZE_MENU_MARINE_GENDER	MARINE GENDER	SEXO MARINE	GÉNERO DEL MARINE	Fixed	FIX	"Gender".	
+Customize screen	CUSTOMIZE_MENU_ONOS_TYPE	ONOS TYPE	TIPO DE ONOS	TIPO DE ONOS	Kept			
+Customize screen	CUSTOMIZE_MENU_RIFLE_SKIN	RIFLE SKIN	VARIANTE DE RIFLE	SKIN DE RIFLE	Fixed	FIX	"Skin", to match the other weapon lines (was "VARIANTE").	
+Customize screen	CUSTOMIZE_MENU_PISTOL_SKIN	PISTOL SKIN		SKIN DE PISTOLA	New			
+Customize screen	CUSTOMIZE_MENU_AXE_SKIN	AXE SKIN		SKIN DE HACHA	New			
+Customize screen	CUSTOMIZE_MENU_SHOTGUN_SKIN	SHOTGUN SKIN		SKIN DE ESCOPETA	New			
+Customize screen	CUSTOMIZE_MENU_ROTATE	Drag to rotate	Arrastra para rotar	Arrastra para rotar	Kept			
+Customize screen	CUSTOMIZE_MENU_SHOULDER_PAD	SHOULDER PAD	PARCHE EN EL HOMBRO	PARCHE DE HOMBRO	Fixed	FIX	"parche de hombro", as approved in batch 4.	
+Customize screen	CUSTOMIZE_MENU_SKULK_TYPE	SKULK TYPE	TIPO DE SKULK	TIPO DE SKULK	Kept			
+Customize screen	CUSTOMIZE_MENU_WELDER_SKIN	WELDER SKIN		SKIN DE SOLDADOR	New			
+Customize screen	CUSTOMIZE_MENU_ALIEN_STRUCTURES_SKIN	STRUCTURES SKIN		SKIN DE ESTRUCTURAS	New			
+Customize screen	CUSTOMIZE_MENU_MARINE_STRUCTURES_SKIN	STRUCTURES SKIN		SKIN DE ESTRUCTURAS	New			
+Customize screen	CUSTOMIZE_MENU_ALIEN_TUNNELS_SKIN	TUNNELS SKIN		SKIN DE TÚNELES	New			
+Store	BUY_THUNDERDOME_UNLOCK	Unlocked with Competitive Play		Se desbloquea con la partida competitiva	New			
+Badges	BADGE_COMMANDER	Commander		Commander	New			
+Badges	BADGE_COMMUNITY_DEV	Community Developer	Desarrollador de la comunidad	Desarrollador de la comunidad	Kept			
+Badges	BADGE_CONSTELLATION	Constellation		Constellation	New			
+Badges	BADGE_DEV	Developer	Desarrollador	Desarrollador	Kept			
+Badges	BADGE_DEV_RETIRED	Retired Developer	Desarrollador Retirado	Desarrollador retirado	Fixed	FIX	No Title Case.	
+Badges	BADGE_EMPTY_SLOT	Empty badge slot		Espacio de insignia vacío	New			
+Badges	BADGE_ENSL_2017	ENSL Season 10 Champion		Campeón de la Temporada 10 de la ENSL	New			length: 37 chars vs 23 in English
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_BRONZE	ENSL Community Challenge2019 Second Runner-Up		Tercer puesto del Community Challenge 2019 de la ENSL	New	CHECK	Tournament names kept in English; "Second Runner-Up" is third place.	
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_GOLD	ENSL Community Challenge 2019 Champion		Campeón del Community Challenge 2019 de la ENSL	New			
+Badges	BADGE_ENSL_COMMUNITY_CHAMPION_2019_SILVER	ENSL Community Challenge 2019 First Runner-Up		Subcampeón del Community Challenge 2019 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_BLUE	ENSL Newcomer Tournament 2017 Participant		Participante del Newcomer Tournament 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_SILVER	ENSL Newcomer Tournament 2017 Finalist		Finalista del Newcomer Tournament 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_GOLD	ENSL Newcomer Tournament 2017 Winner		Ganador del Newcomer Tournament 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_LATE_BLUE	ENSL Newcomer Tournament Late 2017 Participant		Participante del Newcomer Tournament de fines de 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_LATE_GOLD	ENSL Newcomer Tournament Late 2017 Winner		Ganador del Newcomer Tournament de fines de 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2017_LATE_SILVER	ENSL Newcomer Tournament Late 2017 Finalist		Finalista del Newcomer Tournament de fines de 2017 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2019_BLUE	ENSL Newcomer Tournament Summer 2019 Participant		Participante del Newcomer Tournament del verano de 2019 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2019_SILVER	ENSL Newcomer Tournament Summer 2019 Runner-Up		Subcampeón del Newcomer Tournament del verano de 2019 de la ENSL	New			
+Badges	BADGE_ENSL_NC_2019_GOLD	ENSL Newcomer Tournament Summer 2019 Winner		Ganador del Newcomer Tournament del verano de 2019 de la ENSL	New			
+Badges	BADGE_ENSL_S11_GOLD	ENSL Season 11 Division 1 Winner		Ganador de la División 1 de la Temporada 11 de la ENSL	New			
+Badges	BADGE_ENSL_S11_SILVER	ENSL Season 11 Division 2 Winner		Ganador de la División 2 de la Temporada 11 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D1_GOLD	The ENSL Season 12 Division 1 Winner		Ganador de la División 1 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D1_SILVER	The ENSL Season 12 Division 1 First Runner-Up		Subcampeón de la División 1 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D1_BRONZE	The ENSL Season 12 Division 1 Second Runner-Up		Tercer puesto de la División 1 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D2_GOLD	The ENSL Season 12 Division 2 Winner		Ganador de la División 2 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D2_SILVER	The ENSL Season 12 Division 2 First Runner-Up		Subcampeón de la División 2 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D2_BRONZE	The ENSL Season 12 Division 2 Second Runner-Up		Tercer puesto de la División 2 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D3_GOLD	The ENSL Season 12 Division 3 Winner		Ganador de la División 3 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D3_SILVER	The ENSL Season 12 Division 3 First Runner-Up		Subcampeón de la División 3 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S12_D3_BRONZE	The ENSL Season 12 Division 3 Second Runner-Up		Tercer puesto de la División 3 de la Temporada 12 de la ENSL	New			
+Badges	BADGE_ENSL_S16_GOLD	ENSL Season 16 Winner		Ganador de la Temporada 16 de la ENSL	New			length: 37 chars vs 21 in English
+Badges	BADGE_ENSL_S16_SILVER	ENSL Season 16 First Runner-Up		Subcampeón de la Temporada 16 de la ENSL	New			
+Badges	BADGE_ENSL_S16_BRONZE	ENSL Season 16 Second Runner-Up		Tercer puesto de la Temporada 16 de la ENSL	New			
+Badges	BADGE_ENSL_WC_GOLD	World Championship 2014 Winner		Ganador del Campeonato Mundial 2014	New			
+Badges	BADGE_ENSL_WC_SILVER	World Championship 2014 Finalist		Finalista del Campeonato Mundial 2014	New			
+Badges	BADGE_ENSL_WC_BRONZE	World Championship 2014 Semifinalist		Semifinalista del Campeonato Mundial 2014	New			
+Badges	BADGE_HUGHNICORN	Hughnicorn		Hughnicorn	New			
+Badges	BADGE_MAPTESTER	Maptester		Probador de mapas	New	CHECK	The file keeps "Playtester" in English for the NS1 badge; I translated Maptester and kept Playtester.	
+Badges	BADGE_NS1_PLAYTESTER	NS1 Playtester	Playtester de NS1	Playtester de NS1	Kept			
+Badges	BADGE_PAX2012	PAX 2012		PAX 2012	New			
+Badges	BADGE_PLAYTESTER	Playtester		Playtester	New			
+Badges	BADGE_REINFORCED1	Reinforced Blue		Reinforced Azul	New	CHECK	Reinforced is the supporter program; tier names translated where they are colors or metals.	
+Badges	BADGE_REINFORCED2	Reinforced Silver		Reinforced Plata	New			
+Badges	BADGE_REINFORCED3	Reinforced Gold		Reinforced Oro	New			
+Badges	BADGE_REINFORCED4	Reinforced Diamond		Reinforced Diamante	New			
+Badges	BADGE_REINFORCED5	Reinforced Shadow		Reinforced Shadow	New			
+Badges	BADGE_REINFORCED6	Reinforced Onos		Reinforced Onos	New			
+Badges	BADGE_REINFORCED7	Reinforced Insider		Reinforced Insider	New			
+Badges	BADGE_REINFORCED8	Reinforced Game Director		Reinforced Game Director	New			glossary: 'game' should be translated ('partida')
+Badges	BADGE_SELECTION_HELP	Drag and drop to select, click to remove		Arrastra y suelta para seleccionar, haz click para quitar	New			
+Badges	BADGE_SKULK_CHALLENGE_1_BRONZE	Skulk Challenge (Tram) Bronze		Desafío de Skulk (Tram) Bronce	New			
+Badges	BADGE_SKULK_CHALLENGE_1_SILVER	Skulk Challenge (Tram) Silver		Desafío de Skulk (Tram) Plata	New			
+Badges	BADGE_SKULK_CHALLENGE_1_GOLD	Skulk Challenge (Tram) Gold		Desafío de Skulk (Tram) Oro	New			
+Badges	BADGE_SKULK_CHALLENGE_1_SHADOW	Skulk Challenge (Tram) Shadow		Desafío de Skulk (Tram) Shadow	New			
+Badges	BADGE_SQUAD5_BLUE	Squad 5 Blue		Squad 5 Azul	New			
+Badges	BADGE_SQUAD5_GOLD	Squad 5 Gold		Squad 5 Oro	New			
+Badges	BADGE_SQUAD5_SILVER	Squad 5 Silver		Squad 5 Plata	New			
+Badges	BADGE_TOURNAMENT_MM_BLUE	Mod Madness 2017 Participant		Participante de Mod Madness 2017	New			
+Badges	BADGE_TOURNAMENT_MM_SILVER	Mod Madness 2017 Finalist		Finalista de Mod Madness 2017	New			
+Badges	BADGE_TOURNAMENT_MM_GOLD	Mod Madness 2017 Winner		Ganador de Mod Madness 2017	New			
+Badges	BADGE_WC2013_GOLD	World Championship 2013 Gold		Campeonato Mundial 2013 Oro	New			
+Badges	BADGE_WC2013_SHADOW	World Championship 2013 Shadow		Campeonato Mundial 2013 Shadow	New			
+Badges	BADGE_WC2013_SILVER	World Championship 2013 Silver		Campeonato Mundial 2013 Plata	New			
+Badges	BADGE_WC2013_SUPPORTER	World Championship 2013 Supporter		Colaborador del Campeonato Mundial 2013	New			
+Badges	BADGE_TD_TIER1	Competitive Play - Tier 1		Partida competitiva - Rango 1	New	CHECK	"Tier" as "rango", following "rango de habilidad" (Skill Tier).	
+Badges	BADGE_TD_TIER2	Competitive Play - Tier 2		Partida competitiva - Rango 2	New			
+Badges	BADGE_TD_TIER3	Competitive Play - Tier 3		Partida competitiva - Rango 3	New			
+Badges	BADGE_TD_TIER4	Competitive Play - Tier 4		Partida competitiva - Rango 4	New			
+Badges	BADGE_TD_TIER5	Competitive Play - Tier 5		Partida competitiva - Rango 5	New			
+Badges	BADGE_TD_TIER6	Competitive Play - Tier 6		Partida competitiva - Rango 6	New			
+Badges	BADGE_TD_TIER7	Competitive Play - Tier 7		Partida competitiva - Rango 7	New			
+Badges	BADGE_TD_TIER8	Competitive Play - Tier 8		Partida competitiva - Rango 8	New			
+Calling cards	CALLINGCARD_CUSTOMIZER_TOOLTIP	Customize Calling Card		Personalizar tarjeta de presentación	New	CHECK	"Calling card": tarjeta de presentación.	length: 36 chars vs 22 in English
+Calling cards	CALLINGCARD_CUSTOMIZER_LOCKED	Unlock Calling Cards with Competitive Play		Desbloquea tarjetas de presentación con la partida competitiva	New			
+Calling cards	CALLINGCARD_CUSTOMIZER_UNLOCKED	Customize Calling Card		Personalizar tarjeta de presentación	New			length: 36 chars vs 22 in English
+Calling cards	CALLINGCARD_TOOLTIP_EXTRA	Unlock this by competing in Competitive Play!		¡Desbloquéala compitiendo en la partida competitiva!	New			
+Calling cards	CALLINGCARD_TOOLTIP_EXTRASHOULDERPATCH	Purchase the DLC to use this shoulder patch as a calling card!		¡Compra el DLC para usar este parche de hombro como tarjeta de presentación!	New			
+Calling cards	CALLINGCARD_REINFORCED_TOOLTIP	Reinforced		Reinforced	New			
+Calling cards	CALLINGCARD_NONE_TOOLTIP	None		Ninguna	New			
+Calling cards	CALLINGCARD_SHADOW_TOOLTIP	Shadow		Shadow	New			
+Calling cards	CALLINGCARD_WC14_TOOLTIP	World Championship 2014		Campeonato Mundial 2014	New			
+Calling cards	CALLINGCARD_GODAR_TOOLTIP	Godar		Godar	New			
+Calling cards	CALLINGCARD_SAUNAMEN_TOOLTIP	Saunamen		Saunamen	New			
+Calling cards	CALLINGCARD_SNAILS_TOOLTIP	Snails		Snails	New			
+Calling cards	CALLINGCARD_TITUS_TOOLTIP	Titus		Titus	New			
+Calling cards	CALLINGCARD_KODIAK_TOOLTIP	Kodiak		Kodiak	New			
+Calling cards	CALLINGCARD_REAPER_TOOLTIP	Reaper		Reaper	New			
+Calling cards	CALLINGCARD_TUNDRA_TOOLTIP	Tundra		Tundra	New			
+Calling cards	CALLINGCARD_ROOKIE_TOOLTIP	Eat Your Greens		Cómete las verduras	New			
+Calling cards	CALLINGCARD_ROOKIE_LOCKED_TOOLTIP	Earn this calling card and shoulder patch by completing the mission in the Ranked Play rewards screen!		¡Gana esta tarjeta de presentación y el parche de hombro completando la misión en la pantalla de recompensas de las partidas rankeadas!	New			
+Calling cards	CALLINGCARD_HAUNTEDBABBLER_TOOLTIP	Haunted Babbler		Haunted Babbler	New	CHECK	Card names kept in English, like other cosmetic product names (here through "Locked and Loaded"). Say if you want them translated.	
+Calling cards	CALLINGCARD_HALLOWEEN2016_TOOLTIP	Halloween 2016		Halloween 2016	New			
+Calling cards	CALLINGCARD_LEVIATHAN_TOOLTIP	Reaper Leviathan		Reaper Leviathan	New			
+Calling cards	CALLINGCARD_PEEPER_TOOLTIP	Peeper		Peeper	New			
+Calling cards	CALLINGCARD_SUMMERGORGE_TOOLTIP	Summer Gorge		Summer Gorge	New			
+Calling cards	CALLINGCARD_SKULKHUGGIES_TOOLTIP	Skulk Huggies		Skulk Huggies	New			
+Calling cards	CALLINGCARD_URPABOOTY_TOOLTIP	Urpa Booty		Urpa Booty	New			
+Calling cards	CALLINGCARD_NEDRAGE_TOOLTIP	Ned Rage		Ned Rage	New			
+Calling cards	CALLINGCARD_WELDDONE_TOOLTIP	A Job WELD Done!		A Job WELD Done!	New			
+Calling cards	CALLINGCARD_BABYMARINE_TOOLTIP	Baby Marine		Baby Marine	New			
+Calling cards	CALLINGCARD_BALANCEGORGE_TOOLTIP	Balance Gorge		Balance Gorge	New			
+Calling cards	CALLINGCARD_BABBLERSURPRISE_TOOLTIP	Babbler Surprise		Babbler Surprise	New			
+Calling cards	CALLINGCARD_OHNOES_TOOLTIP	Oh Noes		Oh Noes	New			
+Calling cards	CALLINGCARD_GORGETABLEFLIP_TOOLTIP	Gorge Table Flip		Gorge Table Flip	New			
+Calling cards	CALLINGCARD_SHADOWFADE_TOOLTIP	Shadow Fade		Shadow Fade	New			
+Calling cards	CALLINGCARD_BURNOUTFADE_TOOLTIP	Burnout Fade		Burnout Fade	New			
+Calling cards	CALLINGCARD_LORK_TOOLTIP	L0rk		L0rk	New			
+Calling cards	CALLINGCARD_CHROMAONOS_TOOLTIP	Chroma Onos		Chroma Onos	New			
+Calling cards	CALLINGCARD_MADAXEGORGE_TOOLTIP	Mad Axe Gorge		Mad Axe Gorge	New			glossary: 'Axe' should be translated ('hacha')
+Calling cards	CALLINGCARD_URPA_TOOLTIP	Urpa		Urpa	New			
+Calling cards	CALLINGCARD_SADBABBLER_TOOLTIP	Sad Babbler		Sad Babbler	New			
+Calling cards	CALLINGCARD_PUDGY_TOOLTIP	Pudgy		Pudgy	New			
+Calling cards	CALLINGCARD_FORSCIENCE_TOOLTIP	For Science		For Science	New			
+Calling cards	CALLINGCARD_BATTLEGORGE_TOOLTIP	Battle Gorge		Battle Gorge	New			
+Calling cards	CALLINGCARD_TURBODRIFTER_TOOLTIP	Turbo Drifter		Turbo Drifter	New			
+Calling cards	CALLINGCARD_SKULKSLIPPERS_TOOLTIP	Skulk Slippers		Skulk Slippers	New			
+Calling cards	CALLINGCARD_LAZYGORGE_TOOLTIP	Lazy Gorge		Lazy Gorge	New			
+Calling cards	CALLINGCARD_ANGRYONOS_TOOLTIP	Angry Onos		Angry Onos	New			
+Calling cards	CALLINGCARD_LERKED_TOOLTIP	Lerked		Lerked	New			
+Calling cards	CALLINGCARD_OVER9000DEGREES_TOOLTIP	Over 9000 Degrees		Over 9000 Degrees	New			
+Calling cards	CALLINGCARD_DONTBLINK_TOOLTIP	Don't Blink!		Don't Blink!	New			glossary: 'Blink' should be translated ('Destello')
+Calling cards	CALLINGCARD_LOCKEDANDLOADED_TOOLTIP	Locked and Loaded		Locked and Loaded	New			
+Skins and patches	STICKY_SHOE_701_TITLE	Sticky Shoe		Zapato pegajoso	New	CHECK	Joke collectibles: names and descriptions translated.	
+Skins and patches	STICKY_SHOE_702_TITLE	Skulk Tooth Necklace		Collar de dientes de Skulk	New			
+Skins and patches	STICKY_SHOE_703_TITLE	1 Ticket for the Aurora		1 boleto para el Aurora	New			
+Skins and patches	STICKY_SHOE_704_TITLE	Callus Clog		Clog calloso	New			
+Skins and patches	STICKY_SHOE_705_TITLE	Urpa's Lucky Skulk Foot		Pata de Skulk de la suerte de Urpa	New			
+Skins and patches	STICKY_SHOE_706_TITLE	Hovars without Flapping		Hovars without Flapping	New	CHECK	Reads like a book title in broken English; kept.	
+Skins and patches	STICKY_SHOE_707_TITLE	Flayra's Fiber		Fibra de Flayra	New			
+Skins and patches	STICKY_SHOE_708_TITLE	Hank's Mounted Head		Cabeza disecada de Hank	New			
+Skins and patches	STICKY_SHOE_709_TITLE	Phil's Mounted Head		Cabeza disecada de Phil	New			
+Skins and patches	STICKY_SHOE_710_TITLE	Dave's Mounted Head		Cabeza disecada de Dave	New			
+Skins and patches	STICKY_SHOE_711_TITLE	Sally's Mounted Head		Cabeza disecada de Sally	New			
+Skins and patches	STICKY_SHOE_712_TITLE	Jen's Mounted Head		Cabeza disecada de Jen	New			
+Skins and patches	STICKY_SHOE_713_TITLE	TSF Promotional Pen		Bolígrafo promocional de la TSF	New			length: 31 chars vs 19 in English
+Skins and patches	STICKY_SHOE_714_TITLE	Calcified Babbler Egg		Huevo de Babbler calcificado	New			
+Skins and patches	STICKY_SHOE_715_TITLE	Vial of Kharaa Bacteria		Vial de bacterias Kharaa	New			
+Skins and patches	STICKY_SHOE_701_DESC	Take a little bit of the battle with you, regardless of if you wanted it or not.		Llévate un pedacito de la batalla contigo, lo quieras o no.	New			
+Skins and patches	STICKY_SHOE_702_DESC	Taken from combat, perfected in the barracks. The sign of a true warrior is in the trophies they forge from warfare. Carry into battle to inspire victory.		Tomado en combate, perfeccionado en el cuartel. La marca de un verdadero guerrero está en los trofeos que forja en la guerra. Llévalo a la batalla para inspirar la victoria.	New			
+Skins and patches	STICKY_SHOE_703_DESC	Need shore-leave? This ticket will give passage on the next Alterra mining mission to exotic worlds. Don't forget to pack your bathing suit!		¿Necesitas un permiso? Este boleto te da pasaje en la próxima misión minera de Alterra a mundos exóticos. ¡No olvides empacar tu traje de baño!	New			
+Skins and patches	STICKY_SHOE_704_DESC	For when you just need to rest your limbs, this hardened Clog is perfect to put the claws or feet upon.		Para cuando solo necesitas descansar las extremidades, este Clog endurecido es perfecto para apoyar las garras o los pies.	New			
+Skins and patches	STICKY_SHOE_705_DESC	When you need extra inspiration during the fight, clasp the Lucky Skulk Foot tight.		Cuando necesites inspiración extra en la pelea, aprieta fuerte la pata de Skulk de la suerte.	New			
+Skins and patches	STICKY_SHOE_706_DESC	The Battle of Sanji as told by those who made it back in pieces.		La batalla de Sanji contada por quienes volvieron en pedazos.	New			
+Skins and patches	STICKY_SHOE_707_DESC	Start your day with the original TSF Commander's best. Great for mind and body.		Empieza tu día con lo mejor del Commander original de la TSF. Excelente para la mente y el cuerpo.	New			
+Skins and patches	STICKY_SHOE_708_DESC	He clawed, he chewed, he bit the bullet. The rest of him is in our gullet.		Arañó, masticó y mordió la bala. El resto de él está en nuestra panza.	New	CHECK	A rhyme in English; meaning kept, rhyme lost. Same for the next four.	
+Skins and patches	STICKY_SHOE_709_DESC	Building up was always fun, until Phil tried to fight and run.		Construir siempre fue divertido, hasta que Phil quiso pelear y salir corriendo.	New			
+Skins and patches	STICKY_SHOE_710_DESC	Flapping all day kept the TSF at bay. Until jetpacks and shotguns cleared and made way.		Aleteando todo el día mantenía a raya a la TSF. Hasta que los Jetpacks y las escopetas despejaron el camino.	New			
+Skins and patches	STICKY_SHOE_711_DESC	She blinked and the marines did scatter, the mines they left caused her to splatter		Usó el destello y los Marines se dispersaron; las minas que dejaron la hicieron salpicar	New			
+Skins and patches	STICKY_SHOE_712_DESC	Goring all day, Goring all night, Jen succumbed to the marine flashlight.		Corneando todo el día, corneando toda la noche, Jen sucumbió a la linterna de un Marine.	New			
+Skins and patches	STICKY_SHOE_713_DESC	They say the pen is mightier than the sword. WARNING: DO NOT USE AS SWORD.		Dicen que la pluma es más poderosa que la espada. ADVERTENCIA: NO USAR COMO ESPADA.	New			
+Skins and patches	STICKY_SHOE_714_DESC	For use on TSF Priority Paper-related missions.		Para misiones prioritarias de la TSF relacionadas con papel.	New			
+Skins and patches	STICKY_SHOE_715_DESC	For use against your worst enemy. Or simply as a fancy desk ornament.		Para usar contra tu peor enemigo. O simplemente como un elegante adorno de escritorio.	New			
+Items	ITEM_ABYSS_GORGE_TITLE	The Abyss Gorge		El Gorge Abyss	New	CHECK	Item names: the collection name (Abyss, Chroma, Auric, Damascus...) is kept and the object is translated. Applies to all the item titles.	
+Items	ITEM_ABYSS_GORGE_DESC	Mankind's greatest minds have come together to engineer a Gorge specimen with the freshest breath in the galaxy.		Las mentes más brillantes de la humanidad se unieron para diseñar un espécimen de Gorge con el aliento más fresco de la galaxia.	New			
+Items	ITEM_ABYSS_SKULK_TITLE	The Abyss Skulk		El Skulk Abyss	New			
+Items	ITEM_ABYSS_SKULK_DESC	Caged in the coldest corners of the facility, the Abyss Skulk stalks its prey. Be afraid, as you might be its next dessert.		Enjaulado en los rincones más fríos de la instalación, el Skulk Abyss acecha a su presa. Ten miedo: podrías ser su próximo postre.	New			
+Items	ITEM_ABYSS_LERK_TITLE	The Abyss Lerk		El Lerk Abyss	New			
+Items	ITEM_ABYSS_LERK_DESC	First appearing in the streets of Metro, the Abyss Lerk can strike from anywhere.		Visto por primera vez en las calles de Metro, el Lerk Abyss puede atacar desde cualquier parte.	New			
+Items	ITEM_EAT_YOUR_GREENS_TITLE	Eat your Greens Shoulder Patch		Parche de hombro Cómete las verduras	New			
+Items	ITEM_EAT_YOUR_GREENS_DESC	Getting your toes wet, a shoulder decal is what you get!		Por mojarte los pies, ¡un parche de hombro es lo que obtienes!	New			
+Items	ITEM_HAUNTED_BABBLER_TITLE	Haunted Babbler Patch		Parche Haunted Babbler	New			
+Items	ITEM_HAUNTED_BABBLER_DESC	When the wind is chilled and the moon is bright, the Haunted Babbler will stir up a fright.		Cuando el viento es helado y la luna brilla, el Haunted Babbler te dará un buen susto.	New			
+Items	ITEM_PUMPKIN_PATCH_TITLE	The Pumpkin Patch		El parche de calabaza	New			
+Items	ITEM_PUMPKIN_PATCH_DESC	When the wind is chilled and the moon is bright, the Pumpkin Patch will stir up a fright.		Cuando el viento es helado y la luna brilla, el parche de calabaza te dará un buen susto.	New			
+Items	ITEM_SUMMER_GORGE_TITLE	Summer Gorge Patch		Parche Summer Gorge	New			
+Items	ITEM_SUMMER_GORGE_DESC	Taking a break from the hot sun.		Tomándose un descanso del sol ardiente.	New			
+Items	ITEM_UNEARTHED_STRUCTURE_SKINS_TITLE	Unearthed Structure Skins		Skins de estructuras Unearthed	New			
+Items	ITEM_UNEARTHED_STRUCTURE_SKINS_DESC	A new form of Kharaa has revealed itself in the crystal mines of Unearthed. Mesmerize both friend and foe with these alien structure skins.		Una nueva forma de Kharaa se reveló en las minas de cristal de Unearthed. Hipnotiza a amigos y enemigos con estas skins de estructuras alien.	New			
+Items	ITEM_TITLE_TANITH_SKULK	Bloodstone Skulk		Skulk Bloodstone	New			
+Items	ITEM_TANITH_SKULK	Deep in the heart of Tanith facility has crept a particularly deadly new strain of Kharaa...		En lo profundo de la instalación Tanith se ha colado una nueva cepa de Kharaa particularmente letal...	New			
+Items	ITEM_TITLE_SLEUTH_SKULK	Sleuth Skulk		Skulk Sleuth	New			
+Items	ITEM_SLEUTH_SKULK	With a keen nose for disruptive nanites, this skulk find all the problems with technology.		Con buen olfato para los nanitos problemáticos, este Skulk encuentra todos los problemas de la tecnología.	New			
+Items	ITEM_TITLE_TIER1_BADGE	Tier 1 badge		Insignia de rango 1	New			
+Items	ITEM_BADGE_TDTIER1				New			empty proposal
+Items	ITEM_TITLE_TIER2_BADGE	Tier 2 badge		Insignia de rango 2	New			
+Items	ITEM_BADGE_TDTIER2				New			empty proposal
+Items	ITEM_TITLE_TIER3_BADGE	Tier 3 badge		Insignia de rango 3	New			
+Items	ITEM_BADGE_TDTIER3				New			empty proposal
+Items	ITEM_TITLE_TIER4_BADGE	Tier 4 badge		Insignia de rango 4	New			
+Items	ITEM_BADGE_TDTIER4				New			empty proposal
+Items	ITEM_TITLE_TIER5_BADGE	Tier 5 badge		Insignia de rango 5	New			
+Items	ITEM_BADGE_TDTIER5				New			empty proposal
+Items	ITEM_TITLE_TIER6_BADGE	Tier 6 badge		Insignia de rango 6	New			
+Items	ITEM_BADGE_TDTIER6				New			empty proposal
+Items	ITEM_TITLE_TIER7_BADGE	Tier 7 badge		Insignia de rango 7	New			
+Items	ITEM_BADGE_TDTIER7				New			empty proposal
+Items	ITEM_TITLE_TIER8_BADGE	Tier 8 badge		Insignia de rango 8	New			
+Items	ITEM_BADGE_TDTIER8				New			empty proposal
+Items	ITEM_TITLE_CHROMA_ARMOR	Chroma Elite Assault Armor		Armadura de asalto de élite Chroma	New			
+Items	ITEM_CHROMA_ARMOR	The most elite of the elite. If you see one of these marines walking toward you, just go ahead and run the other way.		Lo más élite de la élite. Si ves a uno de estos Marines caminar hacia ti, mejor corre para el otro lado.	New			
+Items	ITEM_TITLE_CHROMA_BMAC	Chroma B.M.A.C.		B.M.A.C. Chroma	New			
+Items	ITEM_CHROMA_BMAC	Why someone would trick out a B.M.A.C. in plated carbon fiber is unknown, but what is known is that it is quite efficient at exterminating Kharaa.		No se sabe por qué alguien tunearía un B.M.A.C. con fibra de carbono, pero sí se sabe que es bastante eficiente exterminando Kharaa.	New			
+Items	ITEM_TITLE_CHROMA_MILBMAC	Chroma Military B.M.A.C.		B.M.A.C. militar Chroma	New			
+Items	ITEM_CHROMA_MILBMAC	When all else fails, send in this elite unit of B.M.A.C. and it'll get the job done.		Cuando todo lo demás falle, manda a esta unidad de élite de B.M.A.C. y hará el trabajo.	New			
+Items	ITEM_TITLE_CHROMA_EXO	Chroma Exosuit		Exotraje Chroma	New			
+Items	ITEM_CHROMA_EXO	Plated in carbon fiber alloy, this thing will send the Kharaa running for the hills.		Recubierto de aleación de fibra de carbono, esto hará que los Kharaa salgan corriendo.	New			
+Items	ITEM_TITLE_CHROMA_AXE	Chroma Axe		Hacha Chroma	New			
+Items	ITEM_CHROMA_AXE	This axe has seen better days.		Esta hacha ha visto días mejores.	New			
+Items	ITEM_TITLE_CHROMA_WELDER	Chroma Welder		Soldador Chroma	New			
+Items	ITEM_CHROMA_WELDER	Old trusty, this well loved welder is sure to keep your structures and teammates well repaired.		Viejo y confiable, este querido soldador mantendrá bien reparados tus estructuras y compañeros.	New			
+Items	ITEM_TITLE_CHROMA_SHOTGUN	Chroma Shotgun		Escopeta Chroma	New			
+Items	ITEM_CHROMA_SHOTGUN	Shreds through Kharaa just as easily as it shredded the last few hundred.		Despedaza Kharaa con la misma facilidad con la que despedazó a los últimos cientos.	New			
+Items	ITEM_TITLE_CHROMA_FLAMETHROWER	Chroma Flamethrower		Lanzallamas Chroma	New			
+Items	ITEM_CHROMA_FLAMETHROWER	This thing only has one setting: Extra Crispy		Esto tiene un solo ajuste: Extra Crujiente	New			
+Items	ITEM_TITLE_CHROMA_GL	Chroma Grenade Launcher		Lanzagranadas Chroma	New			
+Items	ITEM_CHROMA_GL	Sleek and shiny, this thing will explode things and look extra cool doing it.		Elegante y brillante: hace explotar cosas y se ve genial haciéndolo.	New			
+Items	ITEM_TITLE_CHROMA_HMG	Chroma Machine Gun		Ametralladora Chroma	New			
+Items	ITEM_CHROMA_HMG	This thing fires rounds packed not with gunpowder but pure spite.		Dispara balas cargadas no con pólvora, sino con puro rencor.	New			
+Items	ITEM_TITLE_CHROMA_MAC	Chroma MAC		MAC Chroma	New			
+Items	ITEM_CHROMA_MAC	Yes, this MAC has seen a thing or two. I'd watch your back if I were you.		Sí, este MAC ha visto un par de cosas. Yo que tú me cuidaría la espalda.	New			
+Items	ITEM_TITLE_CHROMA_ARC	Chroma ARC		ARC Chroma	New			
+Items	ITEM_CHROMA_ARC	That hive won't stand a chance against this puppy.		Esa Hive no tiene ninguna oportunidad contra esta belleza.	New			
+Items	ITEM_TITLE_CHROMA_EXTRACTOR	Chroma Extractor		Extractor Chroma	New			
+Items	ITEM_CHROMA_EXTRACTOR	As scuffed as it may be, it still pulls resources out of the ground like nobody's business! 		Por más raspado que esté, ¡sigue sacando recursos del suelo como nadie! 	New			
+Items	ITEM_TITLE_CHROMA_CS	Chroma Command Station		Command Station Chroma	New			
+Items	ITEM_CHROMA_CS	Fear for the marine who dares disobey a commander in the seat of the elite Chroma unit Command Chair.		Pobre del Marine que se atreva a desobedecer a un Commander sentado en la Command Station de la unidad de élite Chroma.	New			
+Items	ITEM_TITLE_AURIC_SKULK	Auric Skulk		Skulk Auric	New			
+Items	ITEM_AURIC_SKULK	In the heart of the infestation where the battle rages hottest, sightings of a deadly new strain of Kharaa have been reported...		En el corazón de la infestación, donde la batalla es más intensa, se han reportado avistamientos de una nueva cepa letal de Kharaa...	New			
+Items	ITEM_TITLE_AURIC_GORGE	Auric Gorge		Gorge Auric	New			
+Items	ITEM_AURIC_GORGE	Ultimate gorge royalty. Make way, peasants!		La máxima realeza Gorge. ¡Abran paso, plebeyos!	New			
+Items	ITEM_TITLE_AURIC_LERK	Auric Lerk		Lerk Auric	New			
+Items	ITEM_AURIC_LERK	As deadly as it is elegant.		Tan letal como elegante.	New			
+Items	ITEM_TITLE_AURIC_FADE	Auric Fade		Fade Auric	New			
+Items	ITEM_AURIC_FADE	This stygian terror will have marines checking behind them at every turn.		Este terror estigio hará que los Marines miren hacia atrás a cada paso.	New			
+Items	ITEM_TITLE_AURIC_ONOS	Auric Onos		Onos Auric	New			
+Items	ITEM_AURIC_ONOS	Gilded bone and gleaming spines, tears through flesh and steel just the same! 		Hueso dorado y espinas relucientes, ¡desgarra carne y acero por igual! 	New			
+Items	ITEM_TITLE_AURIC_CLOG	Auric Clog		Clog Auric	New			
+Items	ITEM_AURIC_CLOG	Dark and spectacularly spiny, this shiny is sure to dissuade marines from entering an area!		Oscuro y espectacularmente espinoso, ¡este brillante disuadirá a los Marines de entrar a una zona!	New			
+Items	ITEM_TITLE_AURIC_HYDRA	Auric Hydra		Hidra Auric	New			
+Items	ITEM_AURIC_HYDRA	A gleaming sentry sure to spot any who enter its territory.		Una centinela reluciente que detectará a cualquiera que entre en su territorio.	New			
+Items	ITEM_TITLE_AURIC_BABBLER	Auric Babbler		Babbler Auric	New			
+Items	ITEM_AURIC_BABBLER	Add some bling to your Gorge.		Ponle algo de brillo a tu Gorge.	New			
+Items	ITEM_TITLE_AURIC_BABBLEREGG	Auric Bile Mine		Mina de Bilis Auric	New			
+Items	ITEM_AURIC_BABBLEREGG	This gleaming little treasure has a rude surprise for those who want to crack it open to find out what's inside.		Este pequeño tesoro reluciente tiene una sorpresa desagradable para quien quiera abrirlo y ver qué hay dentro.	New			
+Items	ITEM_TITLE_AURIC_HIVE	Auric Hive		Hive Auric	New			
+Items	ITEM_AURIC_HIVE	The ultimate status symbol - this exotic hive will strike fear into the hearts of your enemy and inspire your team.		El símbolo de estatus definitivo: esta exótica Hive infundirá miedo en tus enemigos e inspirará a tu equipo.	New			
+Items	ITEM_TITLE_AURIC_HARVESTER	Auric Harvester		Harvester Auric	New			
+Items	ITEM_AURIC_HARVESTER	Flecked with such sparkling beauty, you'd think it was mining gold! ...wait it's not, is it?		Salpicado de una belleza tan brillante que pensarías que extrae oro... Un momento, no es eso, ¿verdad?	New			
+Items	ITEM_TITLE_AURIC_EGG	Auric Egg		Huevo Auric	New			
+Items	ITEM_AURIC_EGG	You may regret cracking this open to find out what's inside. hint: it's not gold		Quizá te arrepientas de romperlo para ver qué hay dentro. Pista: no es oro	New			
+Items	ITEM_TITLE_AURIC_CYST	Auric Cyst		Cyst Auric	New			
+Items	ITEM_AURIC_CYST	Just follow the yellow brick road! ...wait.		¡Solo sigue el camino de ladrillos amarillos! ...Un momento.	New			
+Items	ITEM_TITLE_AURIC_DRIFTER	Auric Drifter		Drifter Auric	New			
+Items	ITEM_AURIC_DRIFTER	Build your structures and support your team in the upmost of style.		Construye tus estructuras y apoya a tu equipo con el máximo estilo.	New			
+Items	ITEM_TITLE_AURIC_TUNNEL	Auric Tunnel		Túnel Auric	New			
+Items	ITEM_AURIC_TUNNEL	Shepherd  your team in style though this ferociously fabulous tunnel.		Guía a tu equipo con estilo por este túnel ferozmente fabuloso.	New			
+Items	ITEM_TITLE_WIDOW_SKULK	Widow Skulk		Skulk Widow	New			
+Items	ITEM_WIDOW_SKULK	This unique abberation of Kharaa genetics is particularly nasty and patient.		Esta aberración única de la genética Kharaa es particularmente desagradable y paciente.	New			
+Items	ITEM_TITLE_WOOD_AXE	Wood Axe		Hacha de madera	New			
+Items	ITEM_WOOD_AXE	Get at it, lumberjack!		¡A trabajar, leñador!	New			
+Items	ITEM_TITLE_WOOD_RIFLE	Wood Rifle		Rifle de madera	New			
+Items	ITEM_WOOD_RIFLE	It will look just as good mowing down Kharaa as it will hanging above your fireplace.		Se verá igual de bien segando Kharaa que colgado sobre tu chimenea.	New			
+Items	ITEM_TITLE_WOOD_PISTOL	Wood Pistol		Pistola de madera	New			
+Items	ITEM_WOOD_PISTOL	Classy as it is deadly.		Tan elegante como letal.	New			
+Items	ITEM_TITLE_DAMAS_GREEN_AXE	Damascus Green Axe		Hacha de Damasco verde	New			
+Items	ITEM_DAMAS_AXE	Damascus Axe		Hacha de Damasco	New			
+Items	ITEM_TITLE_DAMAS_RIFLE	Damascus Rifle		Rifle de Damasco	New			
+Items	ITEM_DAMAS_RIFLE	The most prized of the damascus line - this onyx rifle will make anyone envious.		El más preciado de la línea de Damasco: este rifle color ónix le dará envidia a cualquiera.	New			
+Items	ITEM_TITLE_DAMAS_PISTOL	Damascus Pistol		Pistola de Damasco	New			
+Items	ITEM_DAMAS_PISTOL	Collectors will envy any who cary this ebony edition of the damascus steel line.		Los coleccionistas envidiarán a quien lleve esta edición ébano de la línea de acero de Damasco.	New			
+Items	ITEM_DAMAS_GREEN_AXE	Specialy anodized damascus steel with a minty twist - The choppy version.		Acero de Damasco con anodizado especial y un toque de menta. La versión que corta.	New			
+Items	ITEM_TITLE_DAMAS_GREEN_RIFLE	Damascus Green Rifle		Rifle de Damasco verde	New			
+Items	ITEM_DAMAS_GREEN_RIFLE	Specialy anodized damascus steel with a minty twist - The shooty version.		Acero de Damasco con anodizado especial y un toque de menta. La versión que dispara.	New			
+Items	ITEM_TITLE_DAMAS_GREEN_PISTOL	Damascus Green Pistol		Pistola de Damasco verde	New			
+Items	ITEM_DAMAS_GREEN_PISTOL	Specialy anodized damascus steel with a minty twist.		Acero de Damasco con anodizado especial y un toque de menta.	New			
+Items	ITEM_TITLE_DAMAS_PURPLE_AXE	Damascus Purple Axe		Hacha de Damasco púrpura	New			
+Items	ITEM_DAMAS_PURPLE_AXE	You can't leave the barracks without a matching axe!		¡No puedes salir del cuartel sin un hacha que combine!	New			
+Items	ITEM_TITLE_DAMAS_PURPLE_RIFLE	Damascus Purple Rifle		Rifle de Damasco púrpura	New			
+Items	ITEM_DAMAS_PURPLE_RIFLE	Specialy anodized damascus steel with violent flare. I mean violet...violet flare.		Acero de Damasco con anodizado especial y un destello violento. Digo, violeta... un destello violeta.	New			
+Items	ITEM_TITLE_DAMAS_PURPLE_PISTOL	Damascus Purple Pistol		Pistola de Damasco púrpura	New			
+Items	ITEM_DAMAS_PURPLE_PISTOL	Round out the set with this murderously mauve piece.		Completa el juego con esta pieza de un malva asesino.	New			
+Items	ITEM_TITLE_CC_SKULK_HUG	Calling Card: Skulk Hug		Tarjeta de presentación: Skulk Hug	New			
+Items	ITEM_CC_SKULK_HUG	Calling cards unlocked. Free Hugs, with teeth.		Tarjetas de presentación desbloqueadas. Abrazos gratis, con dientes.	New			
+Items	ITEM_TITLE_CC_DONTBLINK	Don't Blink		Don't Blink	New			glossary: 'Blink' should be translated ('Destello')
+Items	ITEM_CC_DONTBLINK	Calling Card. If you hear it, it's too late!		Tarjeta de presentación. Si lo oyes, ¡ya es tarde!	New			
+Items	ITEM_TITLE_CC_BABY_MARINE	Baby Marine		Baby Marine	New			
+Items	ITEM_CC_BABY_MARINE	Calling Card. Fresh out of the Infantry Printer! .... er, Portal. Infantry Portal.		Tarjeta de presentación. ¡Recién salido de la impresora de infantería! ... eh, Portal. Infantry Portal.	New			
+Items	ITEM_TITLE_CC_LOCKNLOAD	Locked and Loaded		Locked and Loaded	New			
+Items	ITEM_CC_LOCKNLOAD	Calling Card. Spawned in and ready to kick some alien booty.		Tarjeta de presentación. Recién aparecido y listo para patear traseros alien.	New			
+Items	ITEM_TITLE_CC_NEDRAGE	Ned Rage		Ned Rage	New			
+Items	ITEM_CC_NEDRAGE	Calling Card. For when there are too many words and not enough at the same time.		Tarjeta de presentación. Para cuando hay demasiadas palabras y a la vez no alcanzan.	New			
+Items	ITEM_TITLE_CC_URPA_BOOTY	Urpa Booty		Urpa Booty	New			
+Items	ITEM_CC_URPA_BOOTY	Calling Card. Ever get the feeling you're being watched? or... parts of you are?		Tarjeta de presentación. ¿Alguna vez sentiste que te observan? O... ¿que observan partes de ti?	New			
+Items	ITEM_TITLE_CC_SADBAB	Sad Babbler		Sad Babbler	New			
+Items	ITEM_CC_SADBAB	Calling Card. All this babbler ever wanted was a hug and everyone keeps running away.		Tarjeta de presentación. Este Babbler solo quería un abrazo y todos salen corriendo.	New			
+Items	ITEM_TITLE_CC_JOBWELD	Job Weld Done		Job Weld Done	New			
+Items	ITEM_CC_JOBWELD	Calling Card. Sometimes, you just gotta whip it out.		Tarjeta de presentación. A veces simplemente hay que sacarlo.	New			
+Items	ITEM_TITLE_CC_BALANCEGORGE	Balance Gorge		Balance Gorge	New			
+Items	ITEM_CC_BALANCEGORGE	Calling Card. Perfectly calculated.		Tarjeta de presentación. Perfectamente calculado.	New			
+Items	ITEM_TITLE_CC_LORK	L0rk		L0rk	New			
+Items	ITEM_CC_LORK	Calling Card. Fresh off the cl0rf, and hunting shirts...Aww! She likes you! ...wait, stop running!		Tarjeta de presentación. Recién salida del cl0rf y cazando camisetas... ¡Aww! ¡Le caes bien! ...Espera, ¡deja de correr!	New	CHECK	Community in-jokes (l0rk, cl0rf); translated literally.	
+Items	ITEM_TITLE_CC_LAZYGORGE	Lazy Gorge		Lazy Gorge	New			
+Items	ITEM_CC_LAZYGORGE	Calling Card. Mood.		Tarjeta de presentación. Así me siento.	New	CHECK	"Mood."	length: 39 chars vs 19 in English
+Items	ITEM_TITLE_CC_URPA	Urpa		Urpa	New			
+Items	ITEM_CC_URPA	Calling Card. Part Man. Part Legend. All danger. He is Urpa.		Tarjeta de presentación. Parte hombre. Parte leyenda. Todo peligro. Él es Urpa.	New			
+Items	ITEM_TITLE_CC_SLIPPERS	Slippers Skulk		Slippers Skulk	New			
+Items	ITEM_CC_SLIPPERS	Calling Card. For when your little clawsies get chilly in those cold facility maintinence corridors.		Tarjeta de presentación. Para cuando tus garritas se enfrían en esos helados pasillos de mantenimiento de la instalación.	New			
+Items	ITEM_TITLE_CC_SHADOWFADE	Shadow Fade		Shadow Fade	New			
+Items	ITEM_CC_SHADOWFADE	Calling Card. Style on 'em like the prey they are.		Tarjeta de presentación. Luce tu estilo frente a la presa que son.	New			
+Items	ITEM_TITLE_CC_BURNTFADE	Burnout Fade		Burnout Fade	New			
+Items	ITEM_CC_BURNTFADE	Calling Card. Sometimes, your backpack just isn't big enough.		Tarjeta de presentación. A veces tu mochila simplemente no es lo bastante grande.	New			
+Items	ITEM_TITLE_CC_OVER9K	Over 9000 Degrees		Over 9000 Degrees	New			
+Items	ITEM_CC_OVER9K	Calling Card. Their kill count is ...is what?! You've got to be kidding me.		Tarjeta de presentación. Su cuenta de bajas es de... ¡¿de cuánto?! Tienes que estar bromeando.	New			
+Items	ITEM_TITLE_CC_LERKED	Lerked		Lerked	New			
+Items	ITEM_CC_LERKED	Calling Card. Seldom are any more feared nor hated than the Apex Lerk.		Tarjeta de presentación. Pocos son más temidos y odiados que el Lerk Apex.	New			
+Items	ITEM_TITLE_CC_TABLEFLIP	Table Flipping Gorge		Table Flipping Gorge	New			
+Items	ITEM_CC_TABLEFLIP	Calling Card. For when peaceful dialogue has been taken off the table.		Tarjeta de presentación. Para cuando el diálogo pacífico ya no está sobre la mesa.	New			
+Items	ITEM_TITLE_CC_ANGRYONOS	Angry Onos		Angry Onos	New			
+Items	ITEM_CC_ANGRYONOS	Calling Card. Put em' in their place at the bottom of the food chain.		Tarjeta de presentación. Ponlos en su lugar, al fondo de la cadena alimenticia.	New			
+Items	ITEM_TITLE_CC_OHNOES	Oh Noes		Oh Noes	New			
+Items	ITEM_CC_OHNOES	Calling Card. Oh... no, you've come to the wrong neighborhood friend.		Tarjeta de presentación. Oh... no, viniste al barrio equivocado, amigo.	New			
+Items	ITEM_TITLE_CC_FORSCI	For Science!		For Science!	New			
+Items	ITEM_CC_FORSCI	Calling Card. Some say Jetpack Gorge is still out there to this day, looking down upon you from the stars.		Tarjeta de presentación. Algunos dicen que el Gorge con Jetpack sigue ahí afuera hasta el día de hoy, mirándote desde las estrellas.	New			
+Items	ITEM_TITLE_CC_TURBODRIFT	Turbo Drifter		Turbo Drifter	New			
+Items	ITEM_CC_TURBODRIFT	Calling Card. 'Aint no one ever caught the TURBO DRIFTER.		Tarjeta de presentación. Nadie atrapó jamás al TURBO DRIFTER.	New			
+Items	ITEM_TITLE_CC_BATTLEGORGE	Battle Gorge		Battle Gorge	New			
+Items	ITEM_CC_BATTLEGORGE	Calling Card. They laughed at my clogs. I laughed at their corpses.		Tarjeta de presentación. Se rieron de mis Clogs. Yo me reí de sus cadáveres.	New			
