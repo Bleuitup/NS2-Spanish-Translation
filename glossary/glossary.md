@@ -64,6 +64,7 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Skill Tier | translate | rango de habilidad | el | Batch 2. Tier names: Novato, Recluta, Frontiersman, Líder de escuadrón, Veterano, Comandante, Operaciones Especiales, Superviviente de Sanji. |
 | bundle | translate | paquete | el | Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C. |
 | respawn | translate | renacer |  | Batch 3 and 4: Bleu keeps renacer / renaciendo. |
+| trait | translate | mejora | la | Batch 5: the alien upgrades (Adrenalina, Aura, Caparazón...). |
 
 ## Marine structures
 
@@ -148,8 +149,9 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Ejection Seat | translate | asiento eyectable | el |  |
 | Armor Plating | translate | placas de armadura | las |  |
 | Nano Shield Field | translate | campo de nano-escudo | el |  |
-| Catalyst Field | mixed | campo de catalyst | el |  |
-| Regen Field | mixed | campo de regen | el |  |
+| Catalyst Field | translate | campo catalizador | el | Batch 5: follows paquete catalizador. |
+| Regen Field | translate | campo de regeneración | el | Batch 5. |
+| refit | translate | reequipar |  | Batch 5: change the modules of an Exotraje. |
 
 ## Alien lifeforms
 
@@ -231,6 +233,8 @@ Articles marked *(proposed)* are suggestions awaiting confirmation.
 | Echo | translate | eco |  |  |
 | Ink | translate | tinta |  |  |
 | Vortex | translate | Vórtice | el | Batch 4. |
+| Bait Ball | translate | bola cebo | la | Batch 5. |
+| Shadow Step | translate | paso de sombra | el | Batch 5. |
 
 ## Alien upgrades
 

@@ -268,7 +268,7 @@ BMAC	A-MAC
 BMAC_HINT	Dron de apoyo del Commander
 BMAC_TOOLTIP	MAC más resistente que puede desplegar varios campos de apoyo para el equipo. ¡Límite de 1!
 BMACNS_TOOLTIP	Despliega un campo de escudo que protege a los Marines cercanos (no a los Exos). ¡REQUIERE 85 DE ENERGÍA!
-BMACCP_TOOLTIP	Despliega un campo de catalyst que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!
+BMACCP_TOOLTIP	Despliega un campo catalizador que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!
 BMACHW_TOOLTIP	Despliega un campo de curación que cura a los Marines cercanos (no a los Exos). ¡REQUIERE 20 DE ENERGÍA!
 BMACSB_TOOLTIP	Da al A-MAC un aumento de velocidad limitado. ¡REQUIERE 30 DE ENERGÍA!
 BOT_RESEARCH_START_ARMOR1	Iniciando investigación: Armadura 1

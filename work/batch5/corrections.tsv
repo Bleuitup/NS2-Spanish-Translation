@@ -1,0 +1,4 @@
+HELP_SCREEN_EXO_REGEN_FIELD	CAMPO DE REGENERACIÓN	Batch 5 review: Catalyst Field is campo catalizador, Regen Field is campo de regeneración.
+EXO_ABILITY_ADRENALINE_FIELD	Campo catalizador	A name carries no final period.
+EXO_MODULE_CATPACK_DESC	Habilidad de apoyo en la tecla de recarga: da a cada Marine a menos de 8 metros un impulso catalizador durante 5 segundos, para que se muevan y recarguen más rápido. Se omite a los Marines potenciados en los últimos 4 segundos. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si ningún Marine al alcance puede recibir el impulso, la activación se rechaza y la carga se conserva.	Batch 5 review: Catalyst Field is campo catalizador, Regen Field is campo de regeneración.
+TIPVIDEO_2_GORGE_GORGE_CLOGS	Arma tu muro de Clogs para limitar el movimiento de los Marines o forzarlos a reposicionarse. 	The review export trims the trailing space the English line has.

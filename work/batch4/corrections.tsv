@@ -13,3 +13,4 @@ STATUS_VOID	 	The review export trims the leading or trailing space the English 
 COMMANDERERROR_TOO_MANY_CARGO_GATES	No se puede construir, o hay demasiadas Puertas de Carga.	Batch 4 review: Cargo Gate is Puerta de Carga.
 CARGO_GATE_TOOLTIP	Teletransporta Exotrajes a otra Puerta de Carga.	Final period restored, as in English.
 WHIP_BOMBARD_HINT	Bombardeador defensivo	Hints carry no final period, as in English.
+BMACCP_TOOLTIP	Despliega un campo catalizador que acelera a los Marines cercanos (no a los Exos). ¡REQUIERE 50 DE ENERGÍA!	Batch 5 review: Catalyst Field is campo catalizador, Regen Field is campo de regeneración.

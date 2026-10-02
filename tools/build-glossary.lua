@@ -69,6 +69,9 @@ local overrides = {
     ["Welder"] = { handling = "translate", spanish = "soldador", article = "el", notes = "Batch 3." },
     ["Hydra"] = { handling = "translate", spanish = "Hidra", article = "la", notes = "Batch 3: nearly the same word, like Túnel." },
     ["Med pack"] = { notes = "Batch 3: Bleu keeps 'Med pack'." },
+    -- From the batch 5 review, 2026-10-02
+    ["Catalyst Field"] = { handling = "translate", spanish = "campo catalizador", article = "el", notes = "Batch 5: follows paquete catalizador." },
+    ["Regen Field"] = { handling = "translate", spanish = "campo de regeneración", article = "el", notes = "Batch 5." },
     ["resource node"] = { spanish = "nodo de recursos", article = "el", notes = "Also the resource nozzle (batch 3)." },
 }
 
@@ -120,6 +123,10 @@ local additions = {
     { "Marine weapons", "SMG", "mixed", "subfusil (SMG)", "el", "Batch 4 (CBM): subfusil as the long name, SMG as the short one." },
     { "General", "bundle", "translate", "paquete", "el", "Batch 4: Paquete Abyss, Paquete Kodiak; supporter packs are Pack de apoyo B.M.A.C." },
     { "General", "respawn", "translate", "renacer", "", "Batch 3 and 4: Bleu keeps renacer / renaciendo." },
+    { "Alien abilities", "Bait Ball", "translate", "bola cebo", "la", "Batch 5." },
+    { "Alien abilities", "Shadow Step", "translate", "paso de sombra", "el", "Batch 5." },
+    { "General", "trait", "translate", "mejora", "la", "Batch 5: the alien upgrades (Adrenalina, Aura, Caparazón...)." },
+    { "Exo modules", "refit", "translate", "reequipar", "", "Batch 5: change the modules of an Exotraje." },
 }
 
 local handlingOf = {

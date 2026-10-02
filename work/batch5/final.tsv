@@ -1,0 +1,391 @@
+HELP_SCREEN_AXE	HACHA
+HELP_SCREEN_AXE_DESCRIPTION	Usa tu fiel hacha para abrirte paso entre la competencia. Buena contra estructuras.
+HELP_SCREEN_BAIT_BALL	BOLA CEBO
+HELP_SCREEN_BAIT_BALL_DESCRIPTION	A los Babblers les encanta seguir el cebo. Lanza una bola cebo sobre tus amigos para darles armadura extra, o úsala para mandarlos a atacar al enemigo.
+HELP_SCREEN_BILE_BOMB	BOMBA DE BILIS
+HELP_SCREEN_BILE_BOMB_DESCRIPTION	Lanza un pegote de flema corrosiva. Excelente contra estructuras y objetivos con armadura. Un lanzallamas puede destruirlo en el aire.
+HELP_SCREEN_BILE_BOMB_REQUIREMENT	Requiere investigar bomba de bilis
+HELP_SCREEN_BIOMASS_REQUIREMENT_2	Requiere biomasa 2
+HELP_SCREEN_BIOMASS_REQUIREMENT_3	Requiere biomasa 3
+HELP_SCREEN_BIOMASS_REQUIREMENT_4	Requiere biomasa 4
+HELP_SCREEN_BIOMASS_REQUIREMENT_5	Requiere biomasa 5
+HELP_SCREEN_BIOMASS_REQUIREMENT_6	Requiere biomasa 6
+HELP_SCREEN_BIOMASS_REQUIREMENT_7	Requiere biomasa 7
+HELP_SCREEN_BIOMASS_REQUIREMENT_8	Requiere biomasa 8
+HELP_SCREEN_BIOMASS_REQUIREMENT_9	Requiere biomasa 9
+HELP_SCREEN_BIOMASS_REQUIREMENT_10	Requiere biomasa 10
+HELP_SCREEN_BITE	MORDIDA
+HELP_SCREEN_BLINK	DESTELLO
+HELP_SCREEN_BLINK_DESCRIPTION	Hace que el Fade pase parcialmente a otra dimensión y vuele por el aire a muy alta velocidad. ¡Requiere mucha energía!
+HELP_SCREEN_BONE_SHIELD	ESCUDO DE HUESOS
+HELP_SCREEN_BONE_SHIELD_DESCRIPTION	Usa tu enorme cabeza para bloquear la mayoría de los ataques frontales y absorber todo el daño. No te preocupes por tu cabeza: ¡no está cerca de ningún órgano vital! No detiene el daño de Railgun ni de fuego.
+HELP_SCREEN_BONE_SHIELD_REQUIREMENT	Requiere investigar escudo de huesos
+HELP_SCREEN_CHARGE	CARGA
+HELP_SCREEN_CHARGE_DESCRIPTION	Quema llanta, o lo que sea de lo que estén hechas las patas del Onos. Mantén presionado para un impulso de velocidad. Requiere mucha energía. Los Marines salen despedidos si vas rápido.
+HELP_SCREEN_CHARGE_REQUIREMENT	Requiere investigar carga
+HELP_SCREEN_CLUSTER_GRENADE	GRANADA DE RACIMO
+HELP_SCREEN_CLUSTER_GRENADE_DESCRIPTION	Granada de mano que explota en fragmentos más pequeños... que luego también explotan. Buena para sacar a esos molestos Gorges de los conductos de ventilación.
+HELP_SCREEN_EXO_EGG_STOMP	PISAR HUEVOS
+HELP_SCREEN_EXO_EGG_STOMP_DESCRIPTION	Aplasta los huevos alien sin nacer con tus poderosas piernas robóticas. ¡Piensa que son plástico de burbujas gigante! Pop pop pop.
+HELP_SCREEN_EXO_EJECT	EYECTAR
+HELP_SCREEN_EXO_EJECT_DESCRIPTION	¡Cuando hay que irse, hay que irse! Mantén presionado para eyectarte. Puede salvarte la vida o simplemente dejarte hacer reparaciones. ¡Cuidado con los Marines roba-Exos! ¡El Exotraje se desbloquea después de %{unlockTime}d segundos si no vuelves a entrar!
+HELP_SCREEN_EXO_MINIGUN	MINIGUN
+HELP_SCREEN_EXO_MINIGUN_DESCRIPTION	¡El milagro de la nanotecnología permitió crear un arma que nunca se queda sin munición! Eso sí, se calienta bastante rápido: no la pierdas de vista.
+HELP_SCREEN_EXO_PLASMA_LAUNCHER	LANZAPLASMA
+HELP_SCREEN_EXO_PLASMA_LAUNCHER_DESCRIPTION	Carga y lanza una bola de plasma sobrecalentado que detona al impactar, salpica todo lo cercano y deja ardiendo a los sobrevivientes. Cada disparo consume la celda de energía, así que mira el medidor antes de buscar pelea.
+HELP_SCREEN_EXO_RAILGUN	RAILGUN
+HELP_SCREEN_EXO_RAILGUN_DESCRIPTION	Después de cargar, dispara una ráfaga concentrada de energía que te convertirá en el alma de la fiesta. Aviso: en realidad no dispara rieles.
+HELP_SCREEN_EXO_THRUSTERS	PROPULSORES
+HELP_SCREEN_EXO_ARMOR	PLACAS DE ARMADURA
+HELP_SCREEN_EXO_NANOSHIELD_FIELD	CAMPO DE NANO-ESCUDO
+HELP_SCREEN_EXO_CATALYST_FIELD	CAMPO CATALIZADOR
+HELP_SCREEN_EXO_REGEN_FIELD	CAMPO DE REGENERACIÓN
+HELP_SCREEN_EXO_THRUSTERS_DESCRIPTION	¡Como si las gigantescas máquinas de muerte de metal no fueran ya bastante para los aliens! Esquiva en la dirección en la que te mueves, o elévate a nuevas alturas con estos elegantes propulsores.
+HELP_SCREEN_GAS_GRENADE	GRANADA DE GAS NERVIOSO
+HELP_SCREEN_GAS_GRENADE_DESCRIPTION	Granada de mano que les crispa los nervios a los aliens. Daña rápidamente la armadura de los jugadores y las estructuras alien.
+HELP_SCREEN_GORE	CORNADA
+HELP_SCREEN_GORE_DESCRIPTION	Cornea al enemigo con tu poderoso cuerno. El Onos también usa las pezuñas delanteras para destrozar estructuras enemigas.
+HELP_SCREEN_HEAL_SPRAY	SPRAY DE CURACIÓN
+HELP_SCREEN_HEAL_SPRAY_DESCRIPTION	¡Cura a tus compañeros, construye cosas y apaga incendios con tu propia saliva! También puede dañar a los enemigos, pero no mucho.
+HELP_SCREEN_JETPACK	JETPACK
+HELP_SCREEN_JETPACK_DESCRIPTION	Conquista los cielos (mientras dure el combustible).
+HELP_SCREEN_PULSE_GRENADE	GRANADA DE PULSO
+HELP_SCREEN_PULSE_GRENADE_DESCRIPTION	Granada de mano que hace una explosión muy vistosa. Como efecto secundario, además drena la energía de los aliens y reduce su velocidad de ataque por un momento.
+HELP_SCREEN_FLAMETHROWER	LANZALLAMAS
+HELP_SCREEN_FLAMETHROWER_DESCRIPTION	Desactiva temporalmente estructuras enemigas, destruye esporas y bilis, y reduce la regeneración de energía del enemigo. Que te prendan fuego es agotador.
+HELP_SCREEN_GORGE_STRUCTURES	ESTRUCTURAS DE GORGE
+HELP_SCREEN_GORGE_STRUCTURES_DESCRIPTION	Fortifica un lugar tosiendo algunas estructuras.
+HELP_SCREEN_GRENADE_LAUNCHER	LANZAGRANADAS
+HELP_SCREEN_GRENADE_LAUNCHER_DESCRIPTION	Dispara granadas de alto poder explosivo que rebotan en las superficies y estallan en la cara de tu enemigo, o en la tuya, porque no tienen honor.
+HELP_SCREEN_LEAP	IMPULSO
+HELP_SCREEN_LEAP_DESCRIPTION	Patea con tus patitas de Skulk con todas tus fuerzas para salir volando en la dirección en la que miras.
+HELP_SCREEN_LEAP_REQUIREMENT	Requiere investigar impulso
+HELP_SCREEN_LERK_BITE	MORDIDA
+HELP_SCREEN_LERK_BITE_DESCRIPTION	Da una mordida rápida y venenosa que daña a los Marines durante un corto tiempo.
+HELP_SCREEN_MACHINE_GUN	AMETRALLADORA
+HELP_SCREEN_MACHINE_GUN_DESCRIPTION	El rifle no tenía ni de cerca suficientes balas... así que aquí metimos algunas más. Buena contra formas de vida alien.
+HELP_SCREEN_METABOLIZE	METABOLIZACIÓN
+HELP_SCREEN_METABOLIZE_DESCRIPTION	Regenera parte de la energía del Fade.
+HELP_SCREEN_METABOLIZE_REQUIREMENT	Requiere investigar metabolización
+HELP_SCREEN_METABOLIZE_ADV	METABOLIZACIÓN AVANZADA
+HELP_SCREEN_METABOLIZE_ADV_DESCRIPTION	Versión más avanzada de la metabolización. Regenera salud y energía.
+HELP_SCREEN_METABOLIZE_ADV_REQUIREMENT	Requiere investigar metabolización avanzada
+HELP_SCREEN_MINES	MINAS
+HELP_SCREEN_MINES_DESCRIPTION	Haz volar en pedazos a los aliens desde el suelo, la pared o el techo. De verdad, ninguna superficie es segura para quien no quiera volar en pedazos.
+HELP_SCREEN_PARASITE	PARÁSITO
+HELP_SCREEN_PARASITE_DESCRIPTION	Ten vigilado al enemigo disparándole este dardo del tamaño de una aguja. Te permite a ti y a tus compañeros ver a los enemigos en cualquier parte del mapa y a través de las paredes.
+HELP_SCREEN_PISTOL	PISTOLA
+HELP_SCREEN_PISTOL_DESCRIPTION	Sorprendentemente precisa a larga distancia, pero no es totalmente automática como el rifle.
+HELP_SCREEN_RIFLE	RIFLE
+HELP_SCREEN_RIFLE_BUTT	CULATAZO
+HELP_SCREEN_RIFLE_BUTT_DESCRIPTION	Aplasta a un enemigo con la culata del rifle. (Aquí va un chiste con la palabra 'culo')
+HELP_SCREEN_RIFLE_DESCRIPTION	Dispara una lluvia de balas más o menos hacia donde miras. Buena arma para todo.
+HELP_SCREEN_SHOTGUN	ESCOPETA
+HELP_SCREEN_SHOTGUN_DESCRIPTION	Vuela a cualquier alien lo bastante tonto como para ponerse a distancia de ser acariciado.
+HELP_SCREEN_SKULK_BITE_DESCRIPTION	Arráncale un buen pedazo a un Marine sabroso.
+HELP_SCREEN_SPIT	ESCUPITAJO
+HELP_SCREEN_SPIT_DESCRIPTION	Hazles saber a los Marines exactamente lo que piensas de ellos. Excelente contra jugadores, no tanto contra estructuras.
+HELP_SCREEN_SPIKES	ESPINAS
+HELP_SCREEN_SPIKES_DESCRIPTION	Dispara rápidamente espinas afiladas como navajas al enemigo. Sirven para rematar objetivos sin armadura o para desgastar rivales desde lejos.
+HELP_SCREEN_SPORES	ESPORAS
+HELP_SCREEN_SPORES_DESCRIPTION	Crea una densa nube de esporas tóxicas que asfixia a cualquier Marine que se quede dentro el tiempo suficiente. Útil para controlar los movimientos de los Marines.
+HELP_SCREEN_SPORES_REQUIREMENT	Requiere investigar esporas
+HELP_SCREEN_STAB	PUÑALADA
+HELP_SCREEN_STAB_DESCRIPTION	Da un golpe poderoso a cualquiera o cualquier cosa lo bastante tonta como para seguir ahí cuando caiga. ¡Ah, y es excelente contra estructuras!
+HELP_SCREEN_STAB_REQUIREMENT	Requiere investigar puñalada
+HELP_SCREEN_STOMP	PISOTÓN
+HELP_SCREEN_STOMP_DESCRIPTION	Golpea el suelo con tanta fuerza que derriba a los Marines cercanos. Así aprenderán a no burlarse de tu peso. ¡Es puro músculo, nene!
+HELP_SCREEN_STOMP_REQUIREMENT	Requiere investigar pisotón
+HELP_SCREEN_SWIPE	ZARPAZO
+HELP_SCREEN_SWIPE_DESCRIPTION	Exactamente lo que esperarías de dos guadañas gigantes. No muy efectivo contra estructuras.
+HELP_SCREEN_UMBRA	UMBRA
+HELP_SCREEN_UMBRA_DESCRIPTION	Rocía una nube que detiene una pequeña parte de las balas que la atraviesan. La nube además se adhiere a los aliens que pasan por ella y les da también algo de protección temporal.
+HELP_SCREEN_UMBRA_REQUIREMENT	Requiere investigar Umbra
+HELP_SCREEN_WELDER	SOLDADOR
+HELP_SCREEN_WELDER_DESCRIPTION	Repara estructuras dañadas y la armadura de tus compañeros. Te lo agradecerán... cuando deje de arder, claro.
+HELP_SCREEN_XENOCIDE	XENOCIDIO
+HELP_SCREEN_XENOCIDE_DESCRIPTION	La evolución transformó la ira reprimida de los Skulks en un arma poderosa. Hace un daño enorme a todos los enemigos cercanos.
+HELP_SCREEN_XENOCIDE_REQUIREMENT	Requiere investigar xenocidio
+HELP_SCREEN_STAB_EXO_DESCRIPTION	Un golpe lento y pesado. Golpea a un Exotraje por la espalda para hacer más del doble de daño, salvo que tenga nano-escudo. También es fuerte contra estructuras.
+EXOSUIT	Exotraje
+EXOSUIT_LOCKDOWN_TECH	Investigar tecnología de anclaje de Exotrajes
+EXOSUIT_LOCKDOWN_TOOLTIP	Los Exotrajes pueden anclarse para ganar precisión y daño
+EXOSUIT_TECH_TOOLTIP	Desbloquea los Exotrajes modulares.
+EXOSUIT_TOOLTIP	Armadura pesada modular. Los Exotrajes no pueden construir, ser Commander ni ser traídos por el Beacon.
+EXOSUIT_UPGRADE_TECH	Investigar tecnología de mejora de Exotrajes
+EXO_REFIT	Reequipar Exotraje
+EXO_PROTOTYPE_LAB_HINT	Exotrajes
+EXO_PROTOTYPE_LAB_TOOLTIP	Vende Exotrajes modulares e investiga sus brazos, núcleos y habilidades.
+EXO_PROTOTYPE_LAB	Prototype Lab de Exotrajes
+EXO_ABILITIES_TECH	Habilidades de Exotraje
+EXO_ABILITIES_TECH_TOOLTIP	Desbloquea las habilidades de apoyo del Exotraje: campo de nano-escudo, campo catalizador y campo de regeneración.
+EXO_MODULESLOT_ABILITY	Habilidad de apoyo
+EXO_ABILITY_NANOSHIELD_FIELD	Campo de nano-escudo
+EXO_ABILITY_NANOSHIELD_FIELD_TOOLTIP	Emite un nano-escudo ligero sobre cada Marine a menos de 8 metros. Solo Marines; no afecta a los Exotrajes. El escudo dura 1.5 segundos y reduce el daño en una quinta parte. Enfriamiento de 90 segundos.
+EXO_ABILITY_ADRENALINE_FIELD	Campo catalizador
+EXO_ABILITY_ADRENALINE_FIELD_TOOLTIP	Emite un impulso catalizador sobre cada Marine a menos de 8 metros que no haya sido potenciado en los últimos 4 segundos. Solo Marines; no afecta a los Exotrajes. El efecto dura 5 segundos. Enfriamiento de 90 segundos.
+EXO_ABILITY_REGEN_FIELD	Campo de regeneración
+EXO_ABILITY_REGEN_FIELD_TOOLTIP	Cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos (60 de salud, nada de armadura). Solo cuentan los Marines heridos. Solo Marines; no afecta a los Exotrajes. Enfriamiento de 90 segundos.
+EXO_MODULE_ARMOR	Placas de armadura
+EXO_MODULE_ARMOR_TOOLTIP	Placas atornilladas: 80 de armadura extra a cambio de velocidad.
+EXO_MODULE_NONE_DESC	Deja esta ranura vacía. No cuesta nada y no añade peso, pero el Exotraje renuncia a lo que la ranura podría haber llevado.
+EXO_MODULE_CLAW_DESC	Solo brazo izquierdo: un golpe cuerpo a cuerpo de 50 de daño estructural que nunca se agota, y la mayor armadura por el menor peso de todos los brazos. No puede disparar, así que el brazo derecho tiene que encargarse de matar.
+EXO_MODULE_MINIGUN_DESC	Manguera de balas de medio alcance, sin munición que recargar: 6 de daño pesado por bala, la mejor opción contra formas de vida grandes y con armadura. Se sobrecalienta tras 3.5 segundos de fuego sostenido y es, por mucho, el brazo más pesado: con dos, el traje es un tanque lento.
+EXO_MODULE_RAILGUN_DESC	Disparo de largo alcance: carga un segundo para llevarlo de 20 a 120 de daño estructural, y el proyectil atraviesa todos los objetivos en su línea hasta 30 metros. Poca armadura, así que conviene pelear desde atrás.
+EXO_MODULE_PLASMALAUNCHER_DESC	Carga de plasma lanzada en arco: 40 de daño en una explosión de 4 metros más daño persistente. Un impacto directo electrifica al alien alcanzado durante 3.5 segundos: le quita la membrana mucosa y la enzima, y frena sus ataques. Control de enjambres, no un arma de asedio. Una bomba con la celda llena, y luego una cada 2 segundos.
+EXO_MODULE_FLAMETHROWER_DESC	Tiene un cono más ancho que el lanzallamas de los Marines, 9 de daño por pulso hasta 9 metros; prende fuego a aliens y estructuras y quema esporas y Umbra; las bombas de bilis lo atraviesan. No puede soldar y se sobrecalienta tras 10 segundos.
+EXO_MODULE_THRUSTERS_DESC	Módulo de núcleo: una embestida en el suelo que da 2.5 de velocidad extra cuando la pidas, gastando 4 de energía por segundo de la celda de combustible. Buena para alcanzar un objetivo o cortar una persecución; no da elevación.
+EXO_MODULE_EJECTIONSEAT_DESC	Módulo de núcleo: cuando al traje se le acaba la armadura, sales despedido en lugar de morir dentro, pero el Exotraje se destruye. Eyectarse a mano tarda medio segundo en lugar de uno. Salva al Marine, no al traje.
+EXO_MODULE_ARMOR_DESC	Módulo de núcleo: 80 de armadura extra atornillada, que se paga con velocidad.
+EXO_MODULE_NANOSHIELD_DESC	Habilidad de apoyo en la tecla de recarga: un nano-escudo ligero sobre cada Marine a menos de 8 metros durante 1.5 segundos, que reduce el daño que reciben en una quinta parte. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si no hay ningún Marine al alcance, la activación se rechaza y la carga se conserva.
+EXO_MODULE_CATPACK_DESC	Habilidad de apoyo en la tecla de recarga: da a cada Marine a menos de 8 metros un impulso catalizador durante 5 segundos, para que se muevan y recarguen más rápido. Se omite a los Marines potenciados en los últimos 4 segundos. Solo Marines, nunca Exotrajes, y 90 segundos de enfriamiento. Si ningún Marine al alcance puede recibir el impulso, la activación se rechaza y la carga se conserva.
+EXO_MODULE_NANOREPAIR_DESC	Habilidad de apoyo en la tecla de recarga: cura a cada Marine a menos de 8 metros 12 de salud por segundo durante 5 segundos, 60 de salud en total. Solo salud, nada de armadura; solo Marines, y 90 segundos de enfriamiento. Solo cuentan los Marines heridos: si no hay ninguno al alcance, la activación se rechaza y la carga se conserva.
+EXO_EJECT_HOLD_HINT	Mantén presionado para eyectarte
+EXO_EJECT_HOLD_PROGRESS	Eyectando %d%%
+EXO_EJECT_BLOCKED_FORMAT	No puedes eyectarte: %s
+EXO_EJECT_REASON_COMBAT	en combate
+EXO_EJECT_REASON_AIRBORNE	en el aire
+EXO_EJECT_REASON_DEPLOYING	desplegando
+EXO_EJECT_REASON_BASE	en la base
+EXO_ABILITY_COOLDOWN_FORMAT	%s  %d s
+EXO_ABILITY_TARGETS_FORMAT	%s  %d al alcance
+EXO_ABILITY_TARGETS_FORMAT_CATALYST	%s  %d por potenciar
+EXO_ABILITY_TARGETS_FORMAT_REGEN	%s  %d heridos
+EXO_FIELD_BUFFED_BY	%s de %s
+EXO_ABILITY_NO_TARGETS	No hay Marines al alcance
+EXO_ABILITY_NO_TARGETS_CATALYST	No hay Marines por potenciar
+EXO_ABILITY_NO_TARGETS_REGEN	No hay Marines heridos al alcance
+EXO_MODULESLOT_LEFT_ARM	Arma del brazo izquierdo
+EXO_MODULESLOT_RIGHT_ARM	Arma del brazo derecho
+EXO_MODULESLOT_UTILITY	Módulo de núcleo
+EXO_MODULE_CLAW	Garra
+EXO_MODULE_PLASMALAUNCHER	Lanzaplasma
+EXO_MODULE_THRUSTERS	Propulsores
+EXO_MODULE_EJECTIONSEAT	Asiento eyectable
+EXO_MODULE_NONE	Ninguno
+EXO_MODULE_NONE_TOOLTIP	Parece ser un montón de nada.
+EXO_MODULE_INCOMPATIBLE	No se puede montar junto al otro brazo
+EXO_BUY_ARMOR_SPEED_FORMAT	%d de armadura   %d%% de velocidad
+EXO_BUY_SPEED_BASELINE	Marine caminando = 100% de velocidad
+EXO_MODULE_CLAW_TAGS	CUERPO A CUERPO | ESTRUCTURAL | 50 DAÑO
+EXO_MODULE_MINIGUN_TAGS	MEDIO ALCANCE | PESADO | 6 DAÑO POR BALA
+EXO_MODULE_RAILGUN_TAGS	LARGO ALCANCE | ESTRUCTURAL | 20-120 | ATRAVIESA
+EXO_MODULE_PLASMALAUNCHER_TAGS	MEDIO ALCANCE | NORMAL | 40 + PERSISTENTE | ÁREA | DESCARGA
+EXO_MODULE_FLAMETHROWER_TAGS	CORTO ALCANCE | FUEGO | 9 POR PULSO | CONO | QUEMA
+EXO_MODULE_THRUSTERS_TAGS	MOVILIDAD | EMBESTIDA | COMBUSTIBLE
+EXO_MODULE_EJECTIONSEAT_TAGS	SUPERVIVENCIA | EYECCIÓN AUTOMÁTICA | EYECCIÓN RÁPIDA
+EXO_MODULE_ARMOR_TAGS	DEFENSA | +80 ARMADURA
+EXO_MODULE_NANOSHIELD_TAGS	APOYO | CAMPO DE 8 M | ESCUDO | 90 S
+EXO_MODULE_CATPACK_TAGS	APOYO | CAMPO DE 8 M | VELOCIDAD | 90 S
+EXO_MODULE_NANOREPAIR_TAGS	APOYO | CAMPO DE 8 M | CURACIÓN | 90 S
+EXOSUIT_MODULAR_TOOLTIP	Armadura pesada configurable. Los brazos, el módulo de núcleo y la habilidad de apoyo se eligen en el Prototype Lab de Exotrajes, y un Exotraje ya equipado se puede reequipar en cualquier Armory.
+EXOSUIT_MODULAR_BUYDESCRIPTION	Armadura pesada motorizada: mucha armadura a cambio de movilidad. No puede construir ni ser Commander; los soldadores y los MACs lo reparan. Se reequipa en cualquier Armory.
+EXO_DETAILS_ARMOR_BAR	ARMADURA:
+EXO_DETAILS_SPEED_BAR	VELOCIDAD:
+EXO_MODULE_LOCKED_FORMAT	Requiere %s
+EXO_DETAILS_TOTAL	Total
+EXO_DETAILS_REFIT	Reequipar
+EXO_DETAILS_MODULE_COST_FORMAT	Costo del módulo: %d
+EXO_MODULE_LOCKED_BOTH_FORMAT	Requiere %s y %s
+EXO_BUY_REFUSED_HOST	Se necesita un Prototype Lab de Exotrajes construido
+EXO_BUY_REFUSED_UNCHANGED	Este es el traje que llevas puesto
+EXO_BUY_REFUSED_FUNDS	No hay suficientes recursos
+TIPVIDEO_1_EXO_EXOSUIT_BOOSTERS	Con el módulo de núcleo Propulsores, mantén presionado Shift para impulsarte hacia delante, o mantén presionado Espacio para flotar.
+TIPVIDEO_1_EXO_EXOSUIT_BOOSTERS_TITEL	Exotraje: Propulsores
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS	Los Exotrajes pueden aplastar huevos alien al caminar sobre ellos.
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_EGGS_TITEL	Exotraje: Aplastar huevos
+TIPVIDEO_1_EXO_EXOSUIT_CRUSH_TITEL	Exotraje: Aplastar huevos
+TIPVIDEO_1_EXO_EXOSUIT_EJECT	Puedes eyectarte de tu Exotraje manteniendo presionado G.
+TIPVIDEO_1_EXO_EXOSUIT_EJECT_TITEL	Exotraje: Eyectar
+TIPVIDEO_1_EXO_EXOSUIT_MINI_GUN_OVERHEAT	Las Miniguns se sobrecalientan si disparas sin parar.
+TIPVIDEO_1_EXO_EXOSUIT_MINI_GUN_OVERHEAT_TITEL	Exotraje: Sobrecalentamiento de Miniguns
+TIPVIDEO_1_EXO_EXOSUIT_RAIL_GUNS	Mantén presionado el click derecho para cargar la Railgun. El disparo puede atravesar objetivos.
+TIPVIDEO_1_EXO_EXOSUIT_RAIL_GUNS_TITEL	Exotraje: Railguns
+TIPVIDEO_1_MARINE_BURN_EFFECTS	Los lanzallamas pueden quemar el gas que dejan los Lerks y las bombas de bilis que lanzan los Gorges.
+TIPVIDEO_1_MARINE_BURN_EFFECTS_TITEL	Efectos de las llamas
+TIPVIDEO_1_MARINE_CLUSTER	Las granadas de racimo hacen un daño de área devastador, perfectas para despejar conductos de ventilación.
+TIPVIDEO_1_MARINE_CLUSTER_GRENADE	Las granadas de racimo hacen un daño de área devastador, perfectas para despejar conductos de ventilación.
+TIPVIDEO_1_MARINE_CLUSTER_GRENADE_TITEL	Granada de racimo
+TIPVIDEO_1_MARINE_DISABLE_STRUCTURES	Los lanzallamas pueden impedir que las estructuras Alien usen sus habilidades.
+TIPVIDEO_1_MARINE_DISABLE_STRUCTURES_TITEL	Desactivar estructuras
+TIPVIDEO_1_MARINE_FLAMETHROWERS	Los lanzallamas hacen daño con el tiempo, drenan la energía de los Aliens y son excelentes para limpiar la infestación.
+TIPVIDEO_1_MARINE_FLAMETHROWERS_TITEL	Lanzallamas
+TIPVIDEO_1_MARINE_FLASHLIGHT	Presiona F para usar tu linterna e iluminar cuartos oscuros.
+TIPVIDEO_1_MARINE_FLASHLIGHT_TITEL	Linterna
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHER	Los lanzagranadas acaban rápido con las posiciones Alien atrincheradas; cuidado con el daño de tus propias explosiones.
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHERS	Los lanzagranadas acaban rápido con las posiciones Alien atrincheradas. Cuidado con el daño de tus propias explosiones.
+TIPVIDEO_1_MARINE_GRENADE_LAUNCHERS_TITEL	Lanzagranadas
+TIPVIDEO_1_MARINE_MINES	Los Marines pueden usar minas para proteger estructuras valiosas y poner trampas en conductos de ventilación.
+TIPVIDEO_1_MARINE_MINES_TITEL	Minas
+TIPVIDEO_1_MARINE_NERVE_GAS	Las granadas de gas nervioso dañan la armadura de los jugadores Alien y son muy efectivas contra las defensas de los Gorges.
+TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE	Las granadas de gas nervioso dañan la armadura de los Aliens que estén a su alcance.
+TIPVIDEO_1_MARINE_NERVE_GAS_GRENADE_TITEL	Granada de gas nervioso
+TIPVIDEO_1_MARINE_PHASE_GATES	Atraviesa los portales de fase para viajar rápido entre ellos.
+TIPVIDEO_1_MARINE_PHASE_GATES_TITEL	Portales de fase
+TIPVIDEO_1_MARINE_PULSE	Las granadas de pulso hacen daño moderado y drenan la energía de los jugadores Alien.
+TIPVIDEO_1_MARINE_PULSE_GRENADE	Las granadas de pulso pueden explotar al impactar y reducen la velocidad de ataque de los jugadores Alien.
+TIPVIDEO_1_MARINE_PULSE_GRENADE_TITEL	Granada de pulso
+TIPVIDEO_1_MARINE_SHOTGUNS	Las escopetas son mortales contra los Skulks a corta distancia. Apunta con cuidado.
+TIPVIDEO_1_MARINE_SHOTGUNS_TITEL	Escopetas
+TIPVIDEO_1_MARINE_STRAFE_IS_FASTER	En combate, muévete de lado. Es más rápido que caminar hacia atrás.
+TIPVIDEO_1_MARINE_STRAFE_IS_FASTER_TITEL	De lado es más rápido
+TIPVIDEO_1_MARINE_SWITCH_AXE	Usa el hacha contra estructuras enemigas para ahorrar munición.
+TIPVIDEO_1_MARINE_SWITCH_AXE_TITEL	Hacha
+TIPVIDEO_1_MARINE_TEAMMATE_BUILD	Cubre a tus compañeros mientras construyen.
+TIPVIDEO_1_MARINE_TEAMMATE_BUILD_TITEL	Cubrir al que construye
+TIPVIDEO_1_MARINE_WEB_REMOVAL	Las telarañas se pueden eliminar con soldadores, explosivos y fuego.
+TIPVIDEO_1_MARINE_WEB_REMOVAL_TITEL	Eliminar telarañas
+TIPVIDEO_1_MARINE_WELD_EXOSUITS	Los Exotrajes dañados se pueden reparar con el soldador.
+TIPVIDEO_1_MARINE_WELD_EXOSUITS_TITEL	Reparar Exotrajes
+TIPVIDEO_1_MARINE_WELD_FRIENDS	Usa un soldador para reparar la armadura dañada de tus compañeros. Tu armadura también se repara en el proceso.
+TIPVIDEO_1_MARINE_WELD_FRIENDS_TITEL	Reparar compañeros
+TIPVIDEO_1_PLAYER_ALIEN_UPGRADE_STRUCTURES	Los Spurs, Veils y Shells son estructuras sumamente valiosas. Destrúyelas.
+TIPVIDEO_1_PLAYER_ALIEN_UPGRADE_STRUCTURES_TITEL	Estructuras de mejoras Alien
+TIPVIDEO_1_PLAYER_DEFEND_ARCS	Los ARCs asedian estructuras enemigas a través de las paredes. Protégelos de la resistencia Alien.
+TIPVIDEO_1_PLAYER_DEFEND_ARCS_TITEL	Defender ARCs
+TIPVIDEO_1_PLAYER_DESTROY_HARVESTERS	Destruye los Harvesters. Recolectan recursos para el enemigo.
+TIPVIDEO_1_PLAYER_DESTROY_HARVESTERS_TITEL	Destruir Harvesters
+TIPVIDEO_1_PLAYER_EXTRACTOR_COUNT	Los puntos en la esquina inferior derecha de tu HUD cuentan los Extractors de tu equipo. Cuantos más, mejor.
+TIPVIDEO_1_PLAYER_EXTRACTOR_COUNT_TITEL	Cantidad de Extractors
+TIPVIDEO_1_PLAYER_MOVE_TOGETHER	Moverte en grupos de dos o más aumenta tus posibilidades de sobrevivir.
+TIPVIDEO_1_PLAYER_MOVE_TOGETHER_TITEL	Moverse en grupo
+TIPVIDEO_1_PLAYER_POWER_NODES	Cuando las luces del cuarto estén apagadas, reconstruye el Nodo de energía para restaurarlas.
+TIPVIDEO_1_PLAYER_POWER_NODES_TITEL	Nodos de energía
+TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS	Protege los Extractors. Recolectan recursos para que tu equipo los gaste en armas y equipo.
+TIPVIDEO_1_PLAYER_PROTECT_EXTRACTORS_TITEL	Proteger Extractors
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES	Las Sentries necesitan una Batería de Energía cerca para funcionar.
+TIPVIDEO_1_PLAYER_SENTRY_BATTERIES_TITEL	Baterías de Energía
+TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK	Con un Jetpack, toca Espacio y una dirección para esquivar a los enemigos que te atacan.
+TIPVIDEO_1_JETPACKMARINE__JETPACK_BACK_TITEL	Jetpack: Hacia atrás
+TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL	Con un Jetpack, puedes mantener presionado Espacio para llegar a lugares altos. El medidor de combustible se recarga despacio.
+TIPVIDEO_1_JETPACKMARINE__JETPACK_CLIMB_FUEL_TITEL	Jetpack: Subir y combustible
+TIPVIDEO_2_ALIEN__ADRENALINE	La mejora Adrenalina te da más energía y la regenera más rápido.
+TIPVIDEO_2_ALIEN__ADRENALINE_TITEL	Adrenalina
+TIPVIDEO_2_ALIEN__AURA	La mejora Aura muestra el estado de salud de los enemigos a través de las paredes.
+TIPVIDEO_2_ALIEN__AURA_TITEL	Aura
+TIPVIDEO_2_ALIEN__CARAPACE	La mejora Caparazón aumenta tu armadura.
+TIPVIDEO_2_ALIEN__CARAPACE_TITEL	Caparazón
+TIPVIDEO_2_ALIEN__CELERITY	La mejora Celeridad aumenta tu velocidad de movimiento y tu aceleración.
+TIPVIDEO_2_ALIEN__CELERITY_TITEL	Celeridad
+TIPVIDEO_2_ALIEN__REGENERATION	La mejora Regeneración te cura lentamente, incluso en combate.
+TIPVIDEO_2_ALIEN__REGENERATION_TITEL	Regeneración
+TIPVIDEO_2_FADE_FADE_ASSASSINATE	El Fade es más efectivo contra Marines solos. Evita pelear contra grupos grandes.
+TIPVIDEO_2_FADE_FADE_ASSASSINATE_TITEL	Fade: Asesinar
+TIPVIDEO_2_FADE_FADE_BLINK	Presiona o mantén presionado el click derecho para usar el destello y viajar increíblemente rápido.
+TIPVIDEO_2_FADE_FADE_BLINK_TITEL	Fade: Destello
+TIPVIDEO_2_FADE_FADE_METABOLIZE	La metabolización restaura algo de energía y, si tu Commander la mejora, también algo de salud
+TIPVIDEO_2_FADE_FADE_METABOLIZE_TITEL	Fade: Metabolización
+TIPVIDEO_2_FADE_FADE_STAB	Usa el paso de sombra después de la puñalada para llegar más lejos.
+TIPVIDEO_2_FADE_FADE_STAB_TITEL	Fade: Puñalada
+TIPVIDEO_2_GORGE_GORGE_BABBLERS	Los Gorges pueden colocar huevos de Babbler que crean hasta 9 esbirros controlables.
+TIPVIDEO_2_GORGE_GORGE_BABBLERS_TITEL	Gorge: Babblers
+TIPVIDEO_2_GORGE_GORGE_BABBLER_ATTACH	Un Gorge puede escupir una bola cebo a un compañero. Eso ordena a sus Babblers proteger al aliado.
+TIPVIDEO_2_GORGE_GORGE_BABBLER_ATTACH_TITEL	Gorge: Escudo de Babblers
+TIPVIDEO_2_GORGE_GORGE_BABBLER_SELF	Los Gorges pueden hacer rebotar una bola cebo en una pared para que los Babblers se les peguen.
+TIPVIDEO_2_GORGE_GORGE_BABBLER_SELF_TITEL	Gorge: Escudo propio de Babblers
+TIPVIDEO_2_GORGE_GORGE_BAIT_BALL	Los Gorges pueden escupir una bola cebo para ordenar a los Babblers atacar esa zona.
+TIPVIDEO_2_GORGE_GORGE_BAIT_BALL_TITEL	Gorge: Bola cebo
+TIPVIDEO_2_GORGE_GORGE_BELLY_SLIDE	Los Gorges pueden presionar Shift para deslizarse sobre la panza y escapar del peligro.
+TIPVIDEO_2_GORGE_GORGE_BELLY_SLIDE_TITEL	Gorge: Deslizarse de panza
+TIPVIDEO_2_GORGE_GORGE_BILE_BOMB	Los Gorges pueden lanzar bombas de bilis, excelentes para destruir armadura y estructuras.
+TIPVIDEO_2_GORGE_GORGE_BILE_BOMB_TITEL	Gorge: Bomba de Bilis
+TIPVIDEO_2_GORGE_GORGE_CLOGS	Arma tu muro de Clogs para limitar el movimiento de los Marines o forzarlos a reposicionarse. 
+TIPVIDEO_2_GORGE_GORGE_CLOGS_TITEL	Gorge: Clogs
+TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS_	Un Gorge curando a un Onos es excelente para atacar posiciones fortificadas de los Marines.
+TIPVIDEO_2_GORGE_GORGE_HEAL_ONOS__TITEL	Gorge: Curar Onos
+TIPVIDEO_2_GORGE_GORGE_TUNNELS	Los Gorges pueden construir dos entradas de túnel de Gorge que crean un atajo de ida y vuelta.
+TIPVIDEO_2_GORGE_GORGE_TUNNELS_TITEL	Gorge: Túneles
+TIPVIDEO_2_GORGE_GORGE_WEBS	Los Gorges pueden crear telarañas que atrapan a los enemigos.
+TIPVIDEO_2_GORGE_GORGE_WEBS_TITEL	Gorge: Telarañas
+TIPVIDEO_2_LERK_LERK_HIT_AND_RUN	Como Lerk, ataca y retírate para evitar el fuego enemigo.
+TIPVIDEO_2_LERK_LERK_HIT_AND_RUN_TITEL	Lerk: Atacar y retirarse
+TIPVIDEO_2_LERK_LERK_UMBRA	Los Lerks pueden usar la Umbra para proteger a sus aliados del fuego enemigo.
+TIPVIDEO_2_LERK_LERK_UMBRA_TITEL	Lerk: Umbra
+TIPVIDEO_2_ONOS_ONOS_BONE_SHIELD	El escudo de huesos del Onos bloquea todo el daño frontal mientras se usa.
+TIPVIDEO_2_ONOS_ONOS_BONE_SHIELD_TITEL	Onos: Escudo de Huesos
+TIPVIDEO_2_ONOS_ONOS_CHARGE	Como Onos, mantén presionado Shift para cargar rápido hacia delante.
+TIPVIDEO_2_ONOS_ONOS_CHARGE_TITEL	Onos: Carga
+TIPVIDEO_2_ONOS_ONOS_DON_T_OVER_COMMIT	Al Onos lo pueden superar fácilmente. No te comprometas de más en peleas donde te superan en número.
+TIPVIDEO_2_ONOS_ONOS_DON_T_OVER_COMMIT_TITEL	Onos: No te comprometas de más
+TIPVIDEO_2_ONOS_ONOS_STOMP	Presiona el click derecho para dar un pisotón que lanza una onda de choque, daña y derriba a los jugadores.
+TIPVIDEO_2_ONOS_ONOS_STOMP_TITEL	Onos: Pisotón
+TIPVIDEO_2_PLAYER_ABILITIES	Usar habilidades cuesta energía. Cuando tienes poca energía, no puedes usarlas.
+TIPVIDEO_2_PLAYER_ABILITIES_TITEL	Habilidades
+TIPVIDEO_2_PLAYER_CYSTS	Los Cysts se enlazan en cadenas para hacer crecer la infestación.
+TIPVIDEO_2_PLAYER_CYSTS_TITEL	Cysts
+TIPVIDEO_2_PLAYER_DESTROY_ARCS	Destruye los ARCs. Son un gran peligro para tu base. Cuidado con los Marines que los protegen.
+TIPVIDEO_2_PLAYER_DESTROY_ARCS_TITEL	Destruir ARCs
+TIPVIDEO_2_PLAYER_DESTROY_ARMS_LAB	Destruye los Arms Labs de los Marines para debilitar su potencia de fuego y su armadura.
+TIPVIDEO_2_PLAYER_DESTROY_ARMS_LAB_TITEL	Destruir Arms Lab
+TIPVIDEO_2_PLAYER_DESTROY_EXTRACTORS	Destruye los Extractors. Recolectan recursos para el enemigo.
+TIPVIDEO_2_PLAYER_DESTROY_EXTRACTORS_TITEL	Destruir Extractors
+TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS	Destruye los Infantry Portals de los Marines. Reducirá mucho su ritmo de reaparición.
+TIPVIDEO_2_PLAYER_DESTROY_INFANTRY_PORTALS_TITEL	Destruir Infantry Portals
+TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES	Destruye los Observatories de los Marines para impedir que su Commander traiga de vuelta a su equipo.
+TIPVIDEO_2_PLAYER_DESTROY_OBSERVATORIES_TITEL	Destruir Observatories
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES	Destruye los portales de fase de los Marines para impedir que lleguen refuerzos.
+TIPVIDEO_2_PLAYER_DESTROY_PHASE_GATES_TITEL	Destruir portales de fase
+TIPVIDEO_2_PLAYER_INFESTATION	La mayoría de las estructuras Alien necesitan infestación debajo para construirse. Sin ella reciben daño y mueren.
+TIPVIDEO_2_PLAYER_INFESTATION_TITEL	Infestación
+TIPVIDEO_2_PLAYER_POWER_NODES	Destruir los Nodos de energía apaga las luces y desactiva las estructuras de los Marines.
+TIPVIDEO_2_PLAYER_POWER_NODES_TITEL	Nodos de energía
+TIPVIDEO_2_PLAYER_PROTECT_HARVESTERS	Protege los Harvesters. Recolectan recursos para que tu equipo los gaste en formas de vida y mejoras.
+TIPVIDEO_2_PLAYER_PROTECT_HARVESTERS_TITEL	Proteger Harvesters
+TIPVIDEO_2_PLAYER_RESOURCE_COLLECTOR_COUNT	Los puntos en la esquina inferior derecha de tu HUD cuentan los Harvesters de tu equipo. Cuantos más, mejor.
+TIPVIDEO_2_PLAYER_RESOURCE_COLLECTOR_COUNT_TITEL	Cantidad de Harvesters
+TIPVIDEO_2_PLAYER_SENTRY_ARCS	Las Sentries tienen ángulos de disparo limitados. Atácalas por detrás.
+TIPVIDEO_2_PLAYER_SENTRY_ARCS_TITEL	Ángulos de las Sentries
+TIPVIDEO_2_PLAYER_STRUCTURES_GROW	Las estructuras Alien crecen lentamente por sí solas, pero un Gorge o un Drifter las construye más rápido.
+TIPVIDEO_2_PLAYER_STRUCTURES_GROW_TITEL	Crecimiento de estructuras
+TIPVIDEO_2_SKULK_SKULK_LEAP	Los Skulks pueden usar el impulso con el click derecho para cubrir distancias rápidamente.
+TIPVIDEO_2_SKULK_SKULK_LEAP_TITEL	Skulk: Impulso
+TIPVIDEO_2_SKULK_SKULK_PARASITE	Los Skulks pueden usar el parásito sobre los Marines para seguirlos a través de las paredes.
+TIPVIDEO_2_SKULK_SKULK_PARASITE_TITEL	Skulk: Parásito
+TIPVIDEO_2_SKULK_SKULK_WALL_JUMP	Como Skulk, encadena saltos por las paredes para alcanzar velocidades increíbles.
+TIPVIDEO_2_SKULK_SKULK_WALL_JUMP_TITEL	Skulk: Salto de pared
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT	Las Hidras se pueden colocar en suelos, paredes y techos.
+TIPVIDEO_3_GORGE_GORGE_HYDRA_PLACEMENT_TITEL	Gorge: Colocación de Hidras
+TIPVIDEO_3_PLAYER_PING_MAP	Presiona el botón central del mouse para colocar un marcador y llamar la atención de tu equipo.
+TIPVIDEO_3_PLAYER_PING_MAP_TITEL	Marcar Mapa
+TIPVIDEO_3_PLAYER_USING_THE_MICROPHONE	Presiona ALT para usar tu micrófono. Es un medio de comunicación efectivo
+TIPVIDEO_3_PLAYER_USING_THE_MICROPHONE_TITEL	Usar el micrófono
+TIPVIDEO_3_PLAYER_X_MENU	Mantén presionado X para abrir tu menú de comunicación.
+TIPVIDEO_3_PLAYER_X_MENU_TITEL	Menú X
+LOADING	Cargando...
+LOADING_2	CARGANDO
+LOADING_ASSETS	CARGANDO RECURSOS
+LOADING_INVENTORY	Cargando tu inventario de Steam
+LOADING_MAP	CARGANDO MAPA
+LOADING_MODLIST	MODS ACTIVOS:\n
+LOADING_SHADERS	CARGANDO SHADERS
+LOADING_TIP	Consejo:
+LOADING_TIP_ABILITIES	Algunas estructuras, como el Observatory de la TSF o el Shift de los Kharaa, tienen habilidades pasivas que no cuestan recursos.
+LOADING_TIP_BEARARMS	Los Marines pueden recoger las armas de sus compañeros caídos presionando BIND_Drop. Hazlo rápido: desaparecen enseguida.
+LOADING_TIP_COMMANDER_SPEAKING	La voz y los mensajes de chat de tu Commander aparecen en amarillo.
+LOADING_TIP_EVOLVE	Como Alien, presiona BIND_Buy para evolucionar a una nueva forma de vida o conseguir nuevas mejoras.
+LOADING_TIP_EXPLORE	Inicia un servidor en modo Sandbox para aprender más sobre el juego y los mapas.
+LOADING_TIP_F4	Presiona BIND_ReadyRoom para volver al Ready Room.
+LOADING_TIP_FF	No hay fuego amigo. Sin embargo, puedes hacerte daño con tus propias granadas y minas.
+LOADING_TIP_GOODCOMM	El Commander puede usar los recursos de equipo para darles a sus jugadores cosas útiles, como armas y formas de vida superiores.
+LOADING_TIP_GOTOALERT	Como Commander, presiona BIND_Jump para ir a una alerta.
+LOADING_TIP_INFESTATION	La infestación crece desde una Hive a través de una cadena de Cysts. Si se corta, retrocede y las estructuras reciben daño.
+LOADING_TIP_MAP	Presiona BIND_ShowMap para abrir tu mapa.
+LOADING_TIP_MODS	NS2 es sumamente modificable. Prueba alguno de los mods de la comunidad en el Workshop de Steam.
+LOADING_TIP_MUTE	Para silenciar a un jugador, mantén presionado BIND_Scoreboard y haz click izquierdo en el ícono del altavoz.
+LOADING_TIP_NEXT	Presiona ESPACIO para el siguiente consejo
+LOADING_TIP_NOIINTEAM	Habla con tus compañeros con el botón BIND_VoiceChat. ¡El trabajo en equipo muchas veces es la diferencia entre la vida y la muerte!
+LOADING_TIP_POWER	Las estructuras de los Marines necesitan energía. Si el Nodo de energía es destruido, las estructuras se apagan.
+LOADING_TIP_PRIORITY	Prioriza tus objetivos. Los Nodos de energía y los Cysts son estructuras cruciales, pero destruir una torre de recursos o un Shift puede hacer más daño a largo plazo.
+LOADING_TIP_RAMBO	La unión hace la fuerza: ¡no pelees solo!
+LOADING_TIP_REQ_MENU	Como Marine, presiona BIND_RequestMenu para pedirle al Commander munición, salud u órdenes.
+LOADING_TIP_RESOURCES	Los nodos de recursos construidos dan recursos de equipo para el Commander y recursos personales para cada miembro del equipo.
+LOADING_TIP_ROOKIES	Los jugadores novatos de tu equipo aparecen en verde. Les vendría bien tu ayuda.
+LOADING_TIP_SAYINGS_MENU	Presiona BIND_ToggleSayings para burlarte o decir algo.
+LOADING_TIP_SCOREBOARD	Presiona BIND_Scoreboard para ver a los jugadores de la partida y sus puntuaciones.
+LOADING_TIP_SPAWN	Los Marines renacen en el Infantry Portal. Los Aliens salen de huevos.
+LOADING_TIP_SPEEDYGONZALES	Correr te lleva rápido a todas partes, pero recuerda: hace mucho más ruido que agacharse o caminar.
+LOADING_TIP_SUPPORT	¡Las clases de apoyo son invaluables! Un Gorge con algunas Hidras o un Marine con un soldador pueden tener un impacto enorme.
+LOADING_TIP_VENTS	Los Aliens pueden usar los conductos de ventilación para moverse más rápido y flanquear.
+LOADING_TIP_WALLRUN	Como Skulk, no corras de frente hacia los Marines: usa las paredes y los techos para emboscarlos.
+LOADING_VAC	NOTA: ESTE SERVIDOR ESTÁ PROTEGIDO POR VAC\nHACER TRAMPA RESULTARÁ EN UN BANEO PERMANENTE
+TIP_CLIPS	VIDEOS DE CONSEJOS
