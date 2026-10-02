@@ -32,6 +32,44 @@ Nothing is in the final file without that review. Existing Spanish lines were on
 they broke the glossary or were technically broken, and each such change was shown to him with
 the reason.
 
+## Glossary criteria
+
+The full list is in [`glossary/glossary.md`](glossary/glossary.md). These are the criteria behind it, as of
+version 1.0.
+
+| Handling | What falls under it | Why | Examples |
+|---|---|---|---|
+| **Translated** | Abilities | Players read them as actions, and Spanish has a natural word for each | Blink → Destello, Stab → Puñalada, Leap → Impulso, Xenocide → Xenocidio, Bile Bomb → Bomba de Bilis, Stomp → Pisotón |
+| | Weapons and equipment | Generic objects, not names | Shotgun → escopeta, Welder → soldador, Flamethrower → lanzallamas, Ammo pack → paquete de munición |
+| | Alien upgrades | Ordinary words in both languages | Carapace → caparazón, Celerity → celeridad, Regeneration → regeneración |
+| | Research and tech names | Technologies are translated like any other description | Phase Tech → tecnología de fase, Advanced Weaponry → armamento avanzado |
+| | Game concepts and interface | Everyday vocabulary | health → vida, respawn → renacer, lifeform → forma de vida, research → investigar, lobby → sala, badge → insignia |
+| | Exosuit and its modules | Descriptive compound words | Exosuit → Exotraje, Thrusters → propulsores, Ejection Seat → asiento eyectable |
+| **Kept in English** | Lifeforms | Proper names of the species | Skulk, Gorge, Lerk, Fade, Onos |
+| | Most structures | Names players use as-is in voice chat, and they match the map and the wiki | Hive, Armory, Command Station, Infantry Portal, Observatory, Crag, Shift, Shade, Whip |
+| | Acronyms and unit names | Nothing to translate | MAC, ARC, Exo, Drifter, Babbler, Clog |
+| | Factions and roles | Proper names | Marine, Alien, Kharaa, Frontiersmen, Commander |
+| | Words Spanish-speaking players already use in English | Community usage wins over a formal term | mod, bot, mouse, tooltip, killfeed, Sandbox, Ready Room, Jetpack |
+| | Cosmetic and product names | Collection and calling card names | Abyss, Chroma, Auric, Reinforced, "Lazy Gorge" |
+| **Case by case** | Structures whose Spanish is nearly the same word | Translated, since nothing is lost | Tunnel → túnel, Hydra → Hidra |
+| | Structures named with plain descriptive words | Translated, since the name is a description | Power Node → Nodo de energía, Sentry Battery → Batería de Energía, Phase Gate → portal de fase, Cargo Gate → Puerta de Carga |
+| | Individual exceptions decided by Bleu | Kept or translated against the general rule | Med pack stays (but Ammo pack is translated); Umbra and Aura stay, being the same word in Spanish; tech point stays |
+| | Words that are both a name and a verb | Name and verb handled separately | Charge: the ability is "Carga", the verb is "cargar" or "embestir" |
+| | Jokes and wordplay | Rewritten by Bleu when the joke does not survive, otherwise translated for sense | The Blink help text, the rifle-butt joke, the tutorial narrator |
+| **Mixed** | An English name with a Spanish noun | The English part is the recognizable name; the Spanish part says what it is | Distress Beacon → Beacon de emergencia, Heal Spray → spray de curación, Steam Workshop → Workshop de Steam |
+| | A Spanish long name with the English abbreviation | Players say the abbreviation | Heavy Machine Gun → ametralladora pesada (HMG), Submachine gun → subfusil (SMG) |
+| | Item names | Collection name kept, object translated | Chroma Axe → Hacha Chroma, Damascus Green Rifle → Rifle de Damasco verde |
+
+### Planned change after 1.0: structure names
+
+Reviewing the table, Bleu found the structure rows inconsistent: Phase Gate became "portal de
+fase" while almost every other structure kept its English name. The next version will keep
+**every faction structure name in English**, Phase Gate and the Sentry Battery (Power Battery)
+included. Two things stay translated:
+
+- **Power Node → Nodo de energía**, because power nodes belong to the map, not to a faction.
+- **Phase Tech → tecnología de fase**, because tech and research names are translated.
+
 ## Snapshot
 
 Work is done against a fixed snapshot, so upstream changes do not move the target mid-batch:
